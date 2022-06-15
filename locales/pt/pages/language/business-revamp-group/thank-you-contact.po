@@ -1,18 +1,24 @@
 #
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2022-06-15 14:51:40.463386+00:00\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "X-WagtailLocalize-TranslationID: 23618b55-fdc7-4108-8da9-1f9908b549c9\n"
+"X-Generator: Poedit 3.0.1\n"
 
 msgctxt "title"
 msgid "Thank you - Contact"
-msgstr ""
+msgstr "Tank"
 
 msgctxt "slug"
 msgid "thank-you-contact"
-msgstr ""
+msgstr "did it work"
 
 msgctxt "seo_title"
 msgid "YouGov | Contact us confirmation"
@@ -28,4 +34,4 @@ msgstr ""
 
 msgctxt "hero_description"
 msgid "Thanks for contacting us to find out more. We’ll be in touch shortly to discuss how YouGov can help you."
-msgstr ""
+msgstr "MUM IM HERE !! Thanks for contacting us to find out more. We’ll be in touch shortly to discuss how YouGov can help you."
