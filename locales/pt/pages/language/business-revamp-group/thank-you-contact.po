@@ -22,15 +22,15 @@ msgstr "did it work"
 
 msgctxt "seo_title"
 msgid "YouGov | Contact us confirmation"
-msgstr ""
+msgstr "asdasdasdasd"
 
 msgctxt "search_description"
 msgid "At YouGov, we provide you with the best panel, the best data, the best tools. Contact us to find out more."
-msgstr ""
+msgstr "asdasnjkdansj"
 
 msgctxt "hero_title"
 msgid "Thank you"
-msgstr ""
+msgstr "nasdjkasndjkasdnajk"
 
 msgctxt "hero_description"
 msgid "Thanks for contacting us to find out more. We’ll be in touch shortly to discuss how YouGov can help you."
