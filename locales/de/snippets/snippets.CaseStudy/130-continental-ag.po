@@ -1,0 +1,25 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:29.714050+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 6add8f37-5fa2-48e1-aeb4-2ec831a3f055\n"
+
+msgctxt "title"
+msgid "Continental AG"
+msgstr ""
+
+msgctxt "description"
+msgid ""
+"\"Through both its collection of new data and its historical detail, YouGov BrandIndex has enabled us to actively track our brand KPIs and confirm our strategic choices in real time, especially with"
+" sponsoring the Tour de France. In addition, the Client Service team provides us with pro-active support needed to enable a meaningful interpretation of the data as we require it.\""
+msgstr ""
+
+msgctxt "url"
+msgid "https://business.yougov.com/content/38239-continental-ag-brandindex-case-study"
+msgstr ""
+
+msgctxt "quote_author"
+msgid "Christophe Bellier, <b>Data analytics &amp; Strategic planning France</b>"
+msgstr ""

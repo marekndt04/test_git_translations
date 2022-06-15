@@ -1,0 +1,51 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:38.479456+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 0eb98f62-3a85-4653-9f5b-17584431ccfc\n"
+
+msgctxt "title"
+msgid "YouGov Safe and Signal Launch"
+msgstr ""
+
+msgctxt "slug"
+msgid "yougov-safe-and-signal-launch"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "YouGov Safe and Signal Launch"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Join <b>Alie Cirgenski, Head of Growth for YouGov Signal and YouGov Safe</b>, on <b>Tuesday 27th July</b> as we launch some exciting new digital diagnostic and data visualization products that will "
+"revolutionise your online research, analytics, and marketing approach."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=register"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Register to attend"
+msgstr ""
+
+msgctxt "content_image_title"
+msgid "Event Details"
+msgstr ""
+
+msgctxt "content_image_description"
+msgid "Location: 50 Featherstone Street, Floor 5, London, EC1Y 8RT"
+msgstr ""
+
+msgctxt "content_image_description"
+msgid "The session will last for two hours including refreshments."
+msgstr ""
+
+msgctxt "content_image_description"
+msgid ""
+"A risk assessment has been carried out by YouGov's legal and office management team, and social distancing will be practiced throughout the session. For more details about YouGov's office safety "
+"protocols, <a id=\"a1\">click here</a>."
+msgstr ""

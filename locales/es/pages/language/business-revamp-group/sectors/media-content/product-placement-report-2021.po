@@ -1,0 +1,58 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:35.075332+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 1fb7b704-da80-41a1-b768-168651c3e99d\n"
+
+msgctxt "title"
+msgid "Product Placement White Paper 2021"
+msgstr ""
+
+msgctxt "slug"
+msgid "product-placement-report-2021"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Product Placement Whitepaper 2021"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Product Placement White Paper 2021"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Product placement, the term relating to the deliberate and paid-for <b>inclusion of branding</b> into a work of media, has seen continued <b>explosive growth</b> over the course of the last decade."
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Whilst the appetite for product placement deals is both large and growing, it has remained unclear just how popular product placement is with the audiences that experience them."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=download"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Download now"
+msgstr ""
+
+msgctxt "content_image_label"
+msgid "REPORT"
+msgstr ""
+
+msgctxt "content_image_title"
+msgid "What you'll discover:"
+msgstr ""
+
+msgctxt "content_image_description"
+msgid ""
+"This brand-new white paper explores YouGov Custom Research conducted in the United States and United Kingdom, examining <b>consumers’ attitudes to product placement</b> – and their journey from "
+"awareness, to perception, consideration, and support."
+msgstr ""
+
+msgctxt "content_image_description"
+msgid "<a id=\"a1\"><b>Download the full report</b></a>"
+msgstr ""

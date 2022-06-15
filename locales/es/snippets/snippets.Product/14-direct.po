@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:37.330124+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 5ad71771-1eff-48f1-b2cd-8f749d0ccdf8\n"
+
+msgctxt "title"
+msgid "Direct"
+msgstr ""
+
+msgctxt "description"
+msgid "Run ad and concept testing on an opt-in, fraud-free platform."
+msgstr ""
+
+msgctxt "url"
+msgid "/product/direct/"
+msgstr ""

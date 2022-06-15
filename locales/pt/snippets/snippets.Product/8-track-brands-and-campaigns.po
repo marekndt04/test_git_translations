@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:40.549048+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 205f92e2-d28a-491a-b2d1-039deae4c3d4\n"
+
+msgctxt "title"
+msgid "Track brands and campaigns"
+msgstr ""
+
+msgctxt "description"
+msgid "Analyze changes over time, in real time."
+msgstr ""
+
+msgctxt "url"
+msgid "/solutions/brand-tracking/"
+msgstr ""

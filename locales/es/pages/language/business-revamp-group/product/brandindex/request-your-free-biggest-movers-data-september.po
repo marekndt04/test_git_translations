@@ -1,0 +1,65 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:35.681550+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: f01607a3-af25-4ace-8a4a-335752a70129\n"
+
+msgctxt "title"
+msgid "Request your Free Biggest Movers Data - September"
+msgstr ""
+
+msgctxt "slug"
+msgid "request-your-free-biggest-movers-data-september"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Request your biggest movers data"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Consumers are reacting positively to your brand"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/product/brandindex/request-your-free-biggest-movers-data-september?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Request your free biggest movers data"
+msgstr ""
+
+msgctxt "video_items.1480b1d6-ddaa-49d6-b7b3-30d0160d72bf"
+msgid ""
+"For over a decade YouGov BrandIndex has been tracking daily consumer perception of thousands of brands and their campaigns worldwide, with critical insight on a brand’s performance against its "
+"competitors."
+msgstr ""
+
+msgctxt "video_items.1480b1d6-ddaa-49d6-b7b3-30d0160d72bf"
+msgid ""
+"Between July and August 2021 there has been a <b>significant increase in positive consumer perception of your brand.</b> <a id=\"a1\">Tell us four of your closest competitors and we will get in "
+"touch to show you how you compare.</a>"
+msgstr ""
+
+msgctxt "video_items.1480b1d6-ddaa-49d6-b7b3-30d0160d72bf"
+msgid "<b>Check out the top 10 brands winning with UK consumers in our Biggest Movers Video below</b>."
+msgstr ""
+
+msgctxt "video_items.b5fcb591-f242-4d18-ad11-37c49f6e4fb2"
+msgid "What you'll discover"
+msgstr ""
+
+msgctxt "video_items.50dfc677-108f-4e4b-b40a-da8107252c47"
+msgid ""
+"You’ll find out across which media, brand health and purchase funnel metrics your brand has had a statistically significant positive movement in perception among UK consumers between July and August"
+" 2021, according to YouGov BrandIndex."
+msgstr ""
+
+msgctxt "video_items.50dfc677-108f-4e4b-b40a-da8107252c47"
+msgid "<b>We’ll also compare your movement to four of your closest competitors.</b> Simply reference the competitors you wish your brand to be compared against in the message box."
+msgstr ""
+
+msgctxt "video_items.3eb728c7-1048-42bf-8b2b-17dcb032fbfa.video_id"
+msgid "cb_pZ0Hzefw"
+msgstr ""

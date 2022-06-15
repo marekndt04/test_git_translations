@@ -1,0 +1,137 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:39.627270+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 8844e51d-f78a-46c2-92e0-00e263c78d50\n"
+
+msgctxt "title"
+msgid "YouGov FreeWall"
+msgstr ""
+
+msgctxt "slug"
+msgid "freewall"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov FreeWall®: Unmissable Engagement-Led Advertising"
+msgstr ""
+
+msgctxt "search_description"
+msgid ""
+"Deliver unmissable engagement-led advertising to your target audience. YouGov FreeWall® stops users from scrolling past advertising, encouraging direct interaction with ad units on a cost per "
+"engagement model."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "BENEFITS"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Grab your audience's attention"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "YouGov FreeWall®"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Engagement-led advertising"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Deliver unmissable advertising to your target audience, with guaranteed engagement. YouGov FreeWall® stops users from scrolling past your advertising, and encourages them to interact directly with "
+"your ad units to unlock premium content from our publishing partners. Optimize your budget with a cost per engagement model: high-impact, accountable advertising."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our connected living data solutions"
+msgstr ""
+
+msgctxt "benefit_items.f218086c-e5a7-4b27-9140-1c30fe256a83.title"
+msgid "Guaranteed ad views"
+msgstr ""
+
+msgctxt "benefit_items.f218086c-e5a7-4b27-9140-1c30fe256a83.description"
+msgid "Our 50% ad engagement rate outstrips typical digital advertising for unrivalled performance."
+msgstr ""
+
+msgctxt "benefit_items.19250479-eaaf-46ba-ad15-0cfd74abe10f.title"
+msgid "Increased brand recall"
+msgstr ""
+
+msgctxt "benefit_items.19250479-eaaf-46ba-ad15-0cfd74abe10f.description"
+msgid "3.4x better than standard display formats (following research with Unilever and a major news brand)."
+msgstr ""
+
+msgctxt "benefit_items.30cac05a-b178-450a-9f4a-58dd7d34d69f.title"
+msgid "Generate more demand"
+msgstr ""
+
+msgctxt "benefit_items.30cac05a-b178-450a-9f4a-58dd7d34d69f.description"
+msgid "Discover increased intent to action versus other ad formats, with a click through rate to ad site of 2.4%."
+msgstr ""
+
+msgctxt "content_image_items.86d0ff73-d249-49ef-b5e9-03f108032b18.title"
+msgid "Get 100% ad viewability"
+msgstr ""
+
+msgctxt "content_image_items.86d0ff73-d249-49ef-b5e9-03f108032b18.description"
+msgid ""
+"Reduce ad blindness and guarantee 100% viewability. Confirm ad visibility with our <b>cost per engagement model,</b> paying only if your FreeWall® advertising has seen direct interaction from a "
+"user."
+msgstr ""
+
+msgctxt "content_image_items.86d0ff73-d249-49ef-b5e9-03f108032b18.description"
+msgid "Mitigate money wasted on non-viewable banner advertising and unlock the future of advertising – harness the attention of your audience and guarantee user interaction with your brand."
+msgstr ""
+
+msgctxt "content_image_items.5be072c3-7e8f-46ea-92a7-50308fa85cf7.title"
+msgid "Prove engagement"
+msgstr ""
+
+msgctxt "content_image_items.5be072c3-7e8f-46ea-92a7-50308fa85cf7.description"
+msgid ""
+"Proven engagement ensures value in impressions. Using active recall, your brand messages are registered in the most memorable way, with the stats to back it up. Our <b>50% ad engagement rate</b> "
+"outstrips typical digital advertising for unrivalled performance."
+msgstr ""
+
+msgctxt "content_image_items.5be072c3-7e8f-46ea-92a7-50308fa85cf7.description"
+msgid ""
+"Discover <b>3.4 times better</b> <b>brand recall</b> compared to standard display formats (following research with Unilever and a major news brand). Generate significantly more demand and increased "
+"intent to action than other ad formats, with a click through rate to ad site of <b>2.4%.</b>"
+msgstr ""
+
+msgctxt "content_image_items.211cafc2-14a1-4611-b3a2-7dd2f72a5868.title"
+msgid "Research and educate"
+msgstr ""
+
+msgctxt "content_image_items.211cafc2-14a1-4611-b3a2-7dd2f72a5868.description"
+msgid "Use FreeWall® to educate your consumers or learn more about their needs with two core models:"
+msgstr ""
+
+msgctxt "content_image_items.211cafc2-14a1-4611-b3a2-7dd2f72a5868.description"
+msgid "<b>Research:</b> Create bespoke 1st party data by engaging with consumers directly, collecting valuable answers to the questions that matter most to you."
+msgstr ""
+
+msgctxt "content_image_items.211cafc2-14a1-4611-b3a2-7dd2f72a5868.description"
+msgid "<b>Educate:</b> Ensure your audience has read and remembered your message by requiring one specific answer to unlock publisher content, educating consumers with active recall."
+msgstr ""
+
+msgctxt "content_image_items.211cafc2-14a1-4611-b3a2-7dd2f72a5868.description"
+msgid "Once answered, the rest of the publisher content is revealed and FreeWall® is replaced by a response creative that can be used to continue the conversation with your brand."
+msgstr ""

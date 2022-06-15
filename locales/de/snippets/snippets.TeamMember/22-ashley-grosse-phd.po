@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:30.554943+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 90487660-b2eb-42b8-b75a-e44c0213d5e0\n"
+
+msgctxt "name"
+msgid "Ashley Grosse, Ph.D."
+msgstr ""

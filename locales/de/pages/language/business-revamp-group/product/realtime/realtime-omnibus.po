@@ -1,0 +1,161 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:33.174849+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 2a793811-61e5-4740-b79f-555b4f42a4e9\n"
+
+msgctxt "title"
+msgid "YouGov RealTime"
+msgstr ""
+
+msgctxt "slug"
+msgid "realtime-omnibus"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "RealTime Omnibus Research: Fast Survey Results"
+msgstr ""
+
+msgctxt "search_description"
+msgid "YouGov Realtime Omnibus provides fast survey results from nationally representative or sector-specific audiences. Get cost-effective data with quick survey turnaround and rapid polls."
+msgstr ""
+
+msgctxt "hero_title"
+msgid "YouGov RealTime Black Friday Sale"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "GB/UK Omnibus"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Offer ends 3 December 2021"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Get <b>next-day results</b> from a daily survey of 2,000 adults in Britain, with full-service support and live reporting."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Book now"
+msgstr ""
+
+msgctxt "rates_title"
+msgid "GB and UK Omnibus rates"
+msgstr ""
+
+msgctxt "rates_description"
+msgid "Full-service support - including survey design and advice, plus live reporting of your results."
+msgstr ""
+
+msgctxt "rates_table_text"
+msgid ""
+"Ask us about other deliverables and extra demographic analysis. All our services cover questionnaire design and data tables including analysis by gender, age, region, social grade, social "
+"media/messaging use, parents (by age of child), children in household, working status and marital status."
+msgstr ""
+
+msgctxt "content_image_items.22f413cd-c6b3-4593-ae5c-e30f8dd0637e.title"
+msgid "GB/UK Omnibus service"
+msgstr ""
+
+msgctxt "content_image_items.22f413cd-c6b3-4593-ae5c-e30f8dd0637e.description"
+msgid "Offer applies to new projects only."
+msgstr ""
+
+msgctxt "content_image_items.22f413cd-c6b3-4593-ae5c-e30f8dd0637e.description"
+msgid "Buy 5 questions, get 1 free"
+msgstr ""
+
+msgctxt "content_image_items.22f413cd-c6b3-4593-ae5c-e30f8dd0637e.description"
+msgid "Buy 10 questions, get 2 free"
+msgstr ""
+
+msgctxt "content_image_items.22f413cd-c6b3-4593-ae5c-e30f8dd0637e.description"
+msgid "Buy 15 questions, get 3 free"
+msgstr ""
+
+msgctxt "content_image_items.22f413cd-c6b3-4593-ae5c-e30f8dd0637e.description"
+msgid "Simply quote YG-BFS when you book."
+msgstr ""
+
+msgctxt "content_image_items.22f413cd-c6b3-4593-ae5c-e30f8dd0637e.description"
+msgid "Questions must be booked between Friday 26 November and Friday 3 December 2021 and fielded by Friday 31 December 2021."
+msgstr ""
+
+msgctxt "rates_table_rows.0aa293b7-fb5a-4925-b549-be8a363fb16a.column_1"
+msgid "Entry"
+msgstr ""
+
+msgctxt "rates_table_rows.0aa293b7-fb5a-4925-b549-be8a363fb16a.column_2"
+msgid "Book space on the nation’s market-leading omnibus"
+msgstr ""
+
+msgctxt "rates_table_rows.0aa293b7-fb5a-4925-b549-be8a363fb16a.column_3"
+msgid "£200"
+msgstr ""
+
+msgctxt "rates_table_rows.cdd34132-a577-4a13-8f51-1112752f81b7.column_1"
+msgid "Questions"
+msgstr ""
+
+msgctxt "rates_table_rows.cdd34132-a577-4a13-8f51-1112752f81b7.column_2"
+msgid "Single or multiple choice (up to 10 answers per question)"
+msgstr ""
+
+msgctxt "rates_table_rows.cdd34132-a577-4a13-8f51-1112752f81b7.column_3"
+msgid "£300"
+msgstr ""
+
+msgctxt "rates_table_rows.03cf8239-e825-4a17-a55e-10b4151cfd6b.column_1"
+msgid "Scale Question"
+msgstr ""
+
+msgctxt "rates_table_rows.03cf8239-e825-4a17-a55e-10b4151cfd6b.column_2"
+msgid "Statements answered against a scale (per every 3 statements)"
+msgstr ""
+
+msgctxt "rates_table_rows.03cf8239-e825-4a17-a55e-10b4151cfd6b.column_3"
+msgid "£300"
+msgstr ""
+
+msgctxt "rates_table_rows.be317300-7493-47b9-9391-1c7ace6a613e.column_1"
+msgid "Open-ended"
+msgstr ""
+
+msgctxt "rates_table_rows.be317300-7493-47b9-9391-1c7ace6a613e.column_2"
+msgid "Full verbatim answers (coding services also available)"
+msgstr ""
+
+msgctxt "rates_table_rows.be317300-7493-47b9-9391-1c7ace6a613e.column_3"
+msgid "£325"
+msgstr ""
+
+msgctxt "rates_table_rows.bcac04d1-313a-44d0-98a3-377dc90a2fc7.column_1"
+msgid "Images"
+msgstr ""
+
+msgctxt "rates_table_rows.bcac04d1-313a-44d0-98a3-377dc90a2fc7.column_2"
+msgid "Use images for a more engaging survey (video options available)"
+msgstr ""
+
+msgctxt "rates_table_rows.bcac04d1-313a-44d0-98a3-377dc90a2fc7.column_3"
+msgid "FREE"
+msgstr ""
+
+msgctxt "rates_table_rows.39b82479-8d8c-4d3e-a33e-ac4b5e669c4e.column_1"
+msgid "Deliverables"
+msgstr ""
+
+msgctxt "rates_table_rows.39b82479-8d8c-4d3e-a33e-ac4b5e669c4e.column_2"
+msgid "Full Excel(TM) tables, PowerPoint(TM) summary charts, plus live and final results available via our interactive online analytics platform."
+msgstr ""
+
+msgctxt "rates_table_rows.39b82479-8d8c-4d3e-a33e-ac4b5e669c4e.column_3"
+msgid "INCLUDED"
+msgstr ""

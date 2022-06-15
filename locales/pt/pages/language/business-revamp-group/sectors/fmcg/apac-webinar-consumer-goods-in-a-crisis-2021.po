@@ -1,0 +1,93 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:40.109117+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: be09704d-b33a-43eb-9460-e8dceed6f769\n"
+
+msgctxt "title"
+msgid "YouGov webinar: What’s ‘in-store’ for the CPG sector? Consumer preferences beyond the pandemic"
+msgstr ""
+
+msgctxt "slug"
+msgid "apac-webinar-consumer-goods-in-a-crisis-2021"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov APAC FMCG Webinar 2021: Consumer Goods in a Crisis"
+msgstr ""
+
+msgctxt "benefits_description"
+msgid ""
+"<b>Elodie Causier</b>, YouGov’s Head of Research in Asia Pacific (<a id=\"a1\">LinkedIn profile here</a>), has moderated a panel discussion with the industry leaders coming from the agency and media"
+" space. Leveraging their extensive experience in helping FMCG/ CPG sector clients stay ahead in the industry development, this webinar aimed at sharing insights on decrypting the market trends and "
+"consumers’ changing requirements."
+msgstr ""
+
+msgctxt "benefits_description"
+msgid "Our panel of experts include:"
+msgstr ""
+
+msgctxt "benefits_description"
+msgid "<b>Jeanette Phang</b>, General Manager, Strategy and Insights, Publicis Groupe China (<a id=\"a1\">LinkedIn profile here</a>)"
+msgstr ""
+
+msgctxt "benefits_description"
+msgid "<b>Ben Tuff</b>, Chief Product Officer, APAC, UM Worldwide (<a id=\"a1\">LinkedIn profile here</a>)"
+msgstr ""
+
+msgctxt "benefits_description"
+msgid "<b>Dominique Touchaud</b>, CMO, Shokunin Marketing (<a id=\"a1\">LinkedIn profile here</a>)"
+msgstr ""
+
+msgctxt "benefits_description"
+msgid "Topics covered in our panel discussion:"
+msgstr ""
+
+msgctxt "benefits_description"
+msgid "The impact of COVID-19 - How have consumers’ shopping habits shifted and the impact it has had on FMCG / CPG brands, such as online purchase, the rise of D2C and more;"
+msgstr ""
+
+msgctxt "benefits_description"
+msgid "Rise in price sensitivity;"
+msgstr ""
+
+msgctxt "benefits_description"
+msgid "Creation of new consumption moments, and what it means to CPG brands; and"
+msgstr ""
+
+msgctxt "benefits_description"
+msgid "More findings from YouGov’s International FMCG/CPG Report 2021"
+msgstr ""
+
+msgctxt "benefits_description"
+msgid "<a id=\"a1\">Re-watch the webinar now and learn exclusive insights from industry leaders to plan your data-informed strategy!</a>"
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "WEBINAR"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Re-watch the YouGov APAC FMCG Webinar on 4th August 2021"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "YouGov webinar: What’s ‘in-store’ for the CPG sector?"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"A plurality of consumers – ranging from 44% to 83% - across 17 markets we surveyed changed their shopping routines due to the pandemic. Change is set for the CPG sector’s future too - 54% of global "
+"consumers intend to buy more sustainable products once the pandemic subsides. Understanding consumers’ shifting behaviors and preferences at this pivotal moment is essential for the success of CPG "
+"industry players."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=request"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Request the webinar on-demand"
+msgstr ""

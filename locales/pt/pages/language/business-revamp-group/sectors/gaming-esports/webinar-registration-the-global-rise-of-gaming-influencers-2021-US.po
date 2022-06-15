@@ -1,0 +1,65 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:39.728752+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 90d71116-132b-4872-939c-87cab15bcfa8\n"
+
+msgctxt "title"
+msgid "US: webinar-registration-the-global-rise-of-gaming-influencers-2021"
+msgstr ""
+
+msgctxt "slug"
+msgid "webinar-registration-the-global-rise-of-gaming-influencers-2021-US"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "The global rise of gaming influencers in 2021 and beyond"
+msgstr ""
+
+msgctxt "search_description"
+msgid ""
+"Join YouGov’s Michael Heina, International Sector Director, Esports &amp; Gaming, on Wednesday 8 December at 10am GMT / 11am CET / 3:30pm IST for an exclusive webinar on the global gaming influencer"
+" landscape."
+msgstr ""
+
+msgctxt "hero_title"
+msgid "The global rise of gaming influencers in 2021 and beyond"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "WEBINAR: Tuesday, December 7 at 2:00 pm EST"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Register for the YouGov US Gaming &amp; Esports webinar on Tuesday, December 7"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=request"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Request the webinar on-demand"
+msgstr ""
+
+msgctxt "video_items.3dc89b82-f9e7-401f-beb8-b4f2fd246d52.main_cta_text"
+msgid "Register now"
+msgstr ""
+
+msgctxt "video_items.3dc89b82-f9e7-401f-beb8-b4f2fd246d52.main_cta_url"
+msgid "?marketo=register"
+msgstr ""
+
+msgctxt "video_items.34d15f8f-0fd9-463e-9ac3-84f82089e738"
+msgid "<b>Or register for our other regional</b> <b>global</b> <b>gaming influencer</b> <b>webinars:</b>"
+msgstr ""
+
+msgctxt "video_items.34d15f8f-0fd9-463e-9ac3-84f82089e738"
+msgid "<a id=\"a1\">European &amp; MENA: Wednesday, December 8 at 10am GMT / 11am CET / 3:30pm IST</a>"
+msgstr ""
+
+msgctxt "video_items.34d15f8f-0fd9-463e-9ac3-84f82089e738"
+msgid "<a id=\"a1\">APAC: Thursday, December 9 at 3pm HKT</a>"
+msgstr ""

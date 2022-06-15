@@ -1,0 +1,141 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:30.376379+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 95f0e678-8b1d-4105-9b7b-51287b33c2a9\n"
+
+msgctxt "title"
+msgid "YouGov Sport"
+msgstr ""
+
+msgctxt "slug"
+msgid "sport"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Sports Research: Global Sport Insights"
+msgstr ""
+
+msgctxt "search_description"
+msgid "YouGov Sport provides international custom research in sports sponsorship and entertainment. Get actionable insights on industry trends and opportunities."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "BENEFITS"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Unmatched insight for forward-thinking organizations"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "YouGov Sport"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Game-changing international sports intelligence"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"The most comprehensive suite of research tools, data services and expertise, working with major players for the sport and entertainment industries. Whether for teams, leagues, rights-holders, "
+"brands, media owners or agencies, we deliver the data you need to inform your strategic decision-making."
+msgstr ""
+
+msgctxt "hero_url_2"
+msgid "https://sport.yougov.com"
+msgstr ""
+
+msgctxt "hero_url_text_2"
+msgid "Visit the YouGov Sport website"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our connected living data solutions"
+msgstr ""
+
+msgctxt "rates_label"
+msgid "Use Cases"
+msgstr ""
+
+msgctxt "rates_title"
+msgid "YouGov Sport enables you to:"
+msgstr ""
+
+msgctxt "rates_description"
+msgid "<b>Track</b> public perception of global sports properties and teams, with daily data"
+msgstr ""
+
+msgctxt "rates_description"
+msgid "<b>Measure</b> brand health of major leagues, events and teams – against 16 metrics"
+msgstr ""
+
+msgctxt "rates_description"
+msgid "<b>Drive</b> commercial opportunities with a full understanding of your fans"
+msgstr ""
+
+msgctxt "rates_description"
+msgid "<b>Power</b> your marketing strategy and budget with clear audience data"
+msgstr ""
+
+msgctxt "rates_description"
+msgid "<b>Optimize</b> sponsorship matches – know what brands fans respond to best"
+msgstr ""
+
+msgctxt "benefit_items.f1fc5142-7be8-4640-9020-41b32635e497.title"
+msgid "State of the art techniques"
+msgstr ""
+
+msgctxt "benefit_items.f1fc5142-7be8-4640-9020-41b32635e497.description"
+msgid "Robust, dynamic solutions, augmented by the living data collected from our proprietary online panel of 17million+ members."
+msgstr ""
+
+msgctxt "benefit_items.c10dc0cf-a648-46a2-b9bd-a4d220150ea8.title"
+msgid "Field experts"
+msgstr ""
+
+msgctxt "benefit_items.c10dc0cf-a648-46a2-b9bd-a4d220150ea8.description"
+msgid "Join the world's sports and entertainment leaders – let our research experts solve your challenges."
+msgstr ""
+
+msgctxt "benefit_items.da3a5e69-07b7-4ea4-8634-dff6c7550574.title"
+msgid "Custom solutions"
+msgstr ""
+
+msgctxt "benefit_items.da3a5e69-07b7-4ea4-8634-dff6c7550574.description"
+msgid "Bespoke research solutions designed entirely for your needs and your budget."
+msgstr ""
+
+msgctxt "content_image_items.acc65d85-0089-47ba-a888-704076b19f07.title"
+msgid "Unlock meaningful, actionable data"
+msgstr ""
+
+msgctxt "content_image_items.acc65d85-0089-47ba-a888-704076b19f07.description"
+msgid "Media analysis"
+msgstr ""
+
+msgctxt "content_image_items.acc65d85-0089-47ba-a888-704076b19f07.description"
+msgid "Evaluate the coverage and exposure of any event or sponsorship with a range of tools for media data-collection and analysis."
+msgstr ""
+
+msgctxt "content_image_items.acc65d85-0089-47ba-a888-704076b19f07.description"
+msgid "Consumer data"
+msgstr ""
+
+msgctxt "content_image_items.acc65d85-0089-47ba-a888-704076b19f07.description"
+msgid "Assess performance, partnerships and strategies. Access the opinions, attitudes and behaviors of our highly engaged panel of 17million+ people worldwide."
+msgstr ""
+
+msgctxt "content_image_items.acc65d85-0089-47ba-a888-704076b19f07.description"
+msgid "Bespoke business services"
+msgstr ""
+
+msgctxt "content_image_items.acc65d85-0089-47ba-a888-704076b19f07.description"
+msgid "A number of strategic analysis services, from economic impact to asset evaluation, and more."
+msgstr ""

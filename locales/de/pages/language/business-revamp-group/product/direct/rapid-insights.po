@@ -1,0 +1,90 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:31.976983+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: fdd355fc-cec7-4cf2-b694-c5f33267196a\n"
+
+msgctxt "title"
+msgid "Rapid insights in action"
+msgstr ""
+
+msgctxt "slug"
+msgid "rapid-insights"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Rapid insights in action"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Exclusive webinar on-demand hosted by YouGov’s William Ullstein"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Rapid insights in action"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Webinar on-demand"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=request"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Watch now"
+msgstr ""
+
+msgctxt "video_items.a04ba267-9a67-4194-96cf-1524f378b9ca"
+msgid ""
+"YouGov is an international research, data and analytics group that helps brands and agencies understand what consumers are thinking now, last week or last year. We deliver critical insight in as "
+"little as 1 hour."
+msgstr ""
+
+msgctxt "video_items.a04ba267-9a67-4194-96cf-1524f378b9ca"
+msgid "Learn how to make Friday 5pm briefs, tight budgets, hard-to-reach audiences and complex decision-making a breeze with high-speed research."
+msgstr ""
+
+msgctxt "video_items.a04ba267-9a67-4194-96cf-1524f378b9ca"
+msgid ""
+"Drawing on a number of YouGov client case studies, from the likes of <b>Legal &amp; General</b>, <b>MFUSE</b> and <b>Vauxhall,</b> William Ullstein reveals how rapid insights in action address the "
+"following agency needs:"
+msgstr ""
+
+msgctxt "video_items.a04ba267-9a67-4194-96cf-1524f378b9ca"
+msgid "<b>Dynamic decision-making:</b> results in 1 hour"
+msgstr ""
+
+msgctxt "video_items.a04ba267-9a67-4194-96cf-1524f378b9ca"
+msgid "<b>Continuous data</b>: 24/7 research for tight deadlines"
+msgstr ""
+
+msgctxt "video_items.a04ba267-9a67-4194-96cf-1524f378b9ca"
+msgid "<b>Valuable return</b>: making budgets stretch further"
+msgstr ""
+
+msgctxt "video_items.a04ba267-9a67-4194-96cf-1524f378b9ca"
+msgid "<b>Precision testing</b>: with a unique CTA that augments claimed research data with hard click-through rates to determine interest in the message, product or solution."
+msgstr ""
+
+msgctxt "video_items.bdda2837-78dd-4051-84cf-bc50e9576c53.main_cta_text"
+msgid "Watch now"
+msgstr ""
+
+msgctxt "video_items.bdda2837-78dd-4051-84cf-bc50e9576c53.main_cta_url"
+msgid "?marketo=request"
+msgstr ""
+
+msgctxt "links_title"
+msgid "YouGov"
+msgstr ""
+
+msgctxt "links_description"
+msgid ""
+"YouGov is an international research, data and analytics group. We have been building an ever-growing source of consumer data for over 20 years, creating the most complete understanding of your "
+"customers’ complex lives. We call it living data. Understand what 17 million+ registered panel members in over 55 markets are thinking now, last week, or last year. Explore, plan, activate and track"
+" marketing activity with certainty, at speed, every time."
+msgstr ""

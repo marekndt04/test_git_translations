@@ -1,0 +1,81 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:35.455750+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 6d667313-34be-44f4-8192-e6644b6d45d6\n"
+
+msgctxt "title"
+msgid "US PayPal webinar: Gaining share of wallet with digital payments in 2022"
+msgstr ""
+
+msgctxt "slug"
+msgid "webinar-registration-paypal-webinar-us"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Register for YouGov's PayPal Webinar"
+msgstr ""
+
+msgctxt "search_description"
+msgid ""
+"COVID-19 has dramatically accelerated the rate of digital adoption in financial services, specifically in digital payments and currencies. YouGov is hosting a webinar designed exclusively for PayPal"
+" that will highlight their customers’ adoption of emerging industry trends and how PayPal can continue to exceed their expectations."
+msgstr ""
+
+msgctxt "hero_title"
+msgid "PayPal webinar: Gaining share of wallet with digital payments in 2022"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "WEBINAR: Thursday, February 24, 11 am PST"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"COVID-19 has dramatically accelerated the rate of digital adoption in financial services, specifically in digital payments and currencies. YouGov is hosting a webinar designed exclusively for PayPal"
+" that will highlight their customers’ adoption of emerging industry trends and how PayPal can continue to exceed their expectations."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=register"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Register now"
+msgstr ""
+
+msgctxt "video_items.686afc91-5748-4872-8a46-82941b4c4be5"
+msgid "Join your colleagues at PayPal to learn more, including:"
+msgstr ""
+
+msgctxt "video_items.686afc91-5748-4872-8a46-82941b4c4be5"
+msgid "Assess PayPal’s global brand position and regional nuances to be aware of"
+msgstr ""
+
+msgctxt "video_items.686afc91-5748-4872-8a46-82941b4c4be5"
+msgid "Explore the changing consumer attitudes toward payment methods with a focus on ’Buy Now, Pay Later’ services"
+msgstr ""
+
+msgctxt "video_items.686afc91-5748-4872-8a46-82941b4c4be5"
+msgid "Determine PayPal customers’ barriers and motivators when considering cryptocurrencies"
+msgstr ""
+
+msgctxt "video_items.686afc91-5748-4872-8a46-82941b4c4be5"
+msgid "Identify PayPal’s most lucrative customers"
+msgstr ""
+
+msgctxt "video_items.3dc89b82-f9e7-401f-beb8-b4f2fd246d52.main_cta_text"
+msgid "Register now"
+msgstr ""
+
+msgctxt "video_items.3dc89b82-f9e7-401f-beb8-b4f2fd246d52.main_cta_url"
+msgid "?marketo=register"
+msgstr ""
+
+msgctxt "links_description"
+msgid ""
+"YouGov tracks PayPal’s brand position daily in 23 markets globally. This webinar designed exclusively for PayPal is based on syndicated data collated in YouGov Profiles and YouGov BrandIndex "
+"combined with custom research conducted in the US, the UK, Singapore, France, Germany, and Denmark."
+msgstr ""

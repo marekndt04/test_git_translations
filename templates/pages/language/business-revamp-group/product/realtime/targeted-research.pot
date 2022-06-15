@@ -1,0 +1,160 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:39.372247+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Targeted Research"
+msgstr ""
+
+msgctxt "slug"
+msgid "targeted-research"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Targeted Research"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Reach the respondents you need with YouGov’s fast-turnaround Field &amp; Tab research. The most reliable and accurate research to boost your business."
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Why YouGov?"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Targeted Research"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Reach the respondents you need with YouGov’s fast-turnaround Field &amp; Tab research. The most reliable and accurate research to boost your business."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "benefit_items.45414ca5-450d-4513-b455-46c54b549a82.title"
+msgid "Tailored samples"
+msgstr ""
+
+msgctxt "benefit_items.45414ca5-450d-4513-b455-46c54b549a82.description"
+msgid "Harness the power of YouGov's pre-screened panel of 17million+ registered members to reach your specific target group."
+msgstr ""
+
+msgctxt "benefit_items.6ad01342-c251-4cf0-8678-87f7137dbd34.title"
+msgid "Full support"
+msgstr ""
+
+msgctxt "benefit_items.6ad01342-c251-4cf0-8678-87f7137dbd34.description"
+msgid "We help design your research with you, including survey design and advice, plus live reporting of your results."
+msgstr ""
+
+msgctxt "benefit_items.9adda1bf-3c6b-42e7-a23e-92f2d46642a6.title"
+msgid "Live results"
+msgstr ""
+
+msgctxt "benefit_items.9adda1bf-3c6b-42e7-a23e-92f2d46642a6.description"
+msgid "Your project could turn around in as little as a week, including survey design and set up. Now access live data during fieldwork."
+msgstr ""
+
+msgctxt "content_image_items.38087dd6-b7d0-4d6f-8480-f10520018578.title"
+msgid "Target"
+msgstr ""
+
+msgctxt "content_image_items.38087dd6-b7d0-4d6f-8480-f10520018578.description"
+msgid "Talk to us about the groups you need to research. Sample groups include:"
+msgstr ""
+
+msgctxt "content_image_items.38087dd6-b7d0-4d6f-8480-f10520018578.description"
+msgid "Business flyers"
+msgstr ""
+
+msgctxt "content_image_items.38087dd6-b7d0-4d6f-8480-f10520018578.description"
+msgid "Rugby fans"
+msgstr ""
+
+msgctxt "content_image_items.38087dd6-b7d0-4d6f-8480-f10520018578.description"
+msgid "Vegans"
+msgstr ""
+
+msgctxt "content_image_items.38087dd6-b7d0-4d6f-8480-f10520018578.description"
+msgid "Empty-nesters"
+msgstr ""
+
+msgctxt "content_image_items.38087dd6-b7d0-4d6f-8480-f10520018578.description"
+msgid "Motorcyclists"
+msgstr ""
+
+msgctxt "content_image_items.38087dd6-b7d0-4d6f-8480-f10520018578.description"
+msgid "Wearable tech users"
+msgstr ""
+
+msgctxt "content_image_items.38087dd6-b7d0-4d6f-8480-f10520018578.description"
+msgid "Hay fever sufferers"
+msgstr ""
+
+msgctxt "content_image_items.2f04b6c5-5978-42c5-8874-399fa41cff2b.title"
+msgid "Design"
+msgstr ""
+
+msgctxt "content_image_items.2f04b6c5-5978-42c5-8874-399fa41cff2b.description"
+msgid "Whether you need ground-up questionnaire design, or an expert second opinion on your existing design, we offer:"
+msgstr ""
+
+msgctxt "content_image_items.2f04b6c5-5978-42c5-8874-399fa41cff2b.description"
+msgid "Questionnaire design"
+msgstr ""
+
+msgctxt "content_image_items.2f04b6c5-5978-42c5-8874-399fa41cff2b.description"
+msgid "Analysis design"
+msgstr ""
+
+msgctxt "content_image_items.2f04b6c5-5978-42c5-8874-399fa41cff2b.description"
+msgid "Set-up calls"
+msgstr ""
+
+msgctxt "content_image_items.2f04b6c5-5978-42c5-8874-399fa41cff2b.description"
+msgid "Sample checks"
+msgstr ""
+
+msgctxt "content_image_items.2f04b6c5-5978-42c5-8874-399fa41cff2b.description"
+msgid "Live survey testing"
+msgstr ""
+
+msgctxt "content_image_items.2c81a60a-20fa-4739-a994-503072715240.title"
+msgid "Analyze"
+msgstr ""
+
+msgctxt "content_image_items.2c81a60a-20fa-4739-a994-503072715240.description"
+msgid ""
+"Get your results the way you need them. The depth and detail of YouGov's respondent data means you can add additional lifestyle, attitudinal, consumer and behavioural analysis. Now choose up to four"
+" extra demographics for free, including:"
+msgstr ""
+
+msgctxt "content_image_items.2c81a60a-20fa-4739-a994-503072715240.description"
+msgid "Income"
+msgstr ""
+
+msgctxt "content_image_items.2c81a60a-20fa-4739-a994-503072715240.description"
+msgid "Devices owned"
+msgstr ""
+
+msgctxt "content_image_items.2c81a60a-20fa-4739-a994-503072715240.description"
+msgid "Energy supplier"
+msgstr ""
+
+msgctxt "content_image_items.2c81a60a-20fa-4739-a994-503072715240.description"
+msgid "Average supermarket spend"
+msgstr ""
+
+msgctxt "content_image_items.2c81a60a-20fa-4739-a994-503072715240.description"
+msgid "Pets owned"
+msgstr ""

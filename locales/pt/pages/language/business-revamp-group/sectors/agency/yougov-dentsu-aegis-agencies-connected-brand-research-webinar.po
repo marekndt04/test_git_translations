@@ -1,0 +1,63 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:40.566689+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 6d727437-bd84-4eee-b183-758496f56f04\n"
+
+msgctxt "title"
+msgid "YouGov x Dentsu Aegis Webinar"
+msgstr ""
+
+msgctxt "slug"
+msgid "yougov-dentsu-aegis-agencies-connected-brand-research-webinar"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Webinar: Connected Brand Research"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Webinar: Connected Brand Research"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Exclusive webinar"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "This exclusive webinar explores how the latest developments in martech are fuelling research by enabling YouGov to track digital behaviour from behind walled gardens like Google and Amazon."
+msgstr ""
+
+msgctxt "video_items.702d2b8b-c618-40de-886a-2a7ee41da0df"
+msgid "Exploring the key challenges facing agencies today:"
+msgstr ""
+
+msgctxt "video_items.702d2b8b-c618-40de-886a-2a7ee41da0df"
+msgid "Claimed data doesn’t always correlate with actual digital behaviour"
+msgstr ""
+
+msgctxt "video_items.702d2b8b-c618-40de-886a-2a7ee41da0df"
+msgid "Consumer brand perceptions change throughout the purchase funnel"
+msgstr ""
+
+msgctxt "video_items.702d2b8b-c618-40de-886a-2a7ee41da0df"
+msgid "Using a case study featuring RBS, YouGov demonstrates how our connected data allows agencies to address these challenges."
+msgstr ""
+
+msgctxt "video_items.702d2b8b-c618-40de-886a-2a7ee41da0df"
+msgid "The solution is underpinned by YouGov BrandIndex, our global brand tracking tool, and our new product, YouGov Safe, which allows us to track <b>real cross-device online behavioural data</b>."
+msgstr ""
+
+msgctxt "video_items.702d2b8b-c618-40de-886a-2a7ee41da0df"
+msgid "The solution will highlights YouGov BrandIndex, our global brand tracking tool, and our new product, YouGov Safe, which allows us to track real cross-device online behavioural data."
+msgstr ""
+
+msgctxt "video_items.770fffba-00de-4ec6-b06e-3356c1835024"
+msgid "Connected Brand Research"
+msgstr ""
+
+msgctxt "video_items.fb36ac4a-11fe-4824-b095-377a95f75b83.video_id"
+msgid "sEAycgptrgQ"
+msgstr ""

@@ -1,0 +1,91 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:31.307898+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 8acd4b12-fcb2-46ac-b104-4fdb2ce66b82\n"
+
+msgctxt "title"
+msgid "YouGov Data Product Client Trainings"
+msgstr ""
+
+msgctxt "slug"
+msgid "yougov-data-product-client-trainings"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Data Product Client Trainings"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Webinar Training Series"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "YouGov Data Products"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "video_items.7cf76c15-04c3-4a0d-b6ae-bf421deedf18"
+msgid ""
+"We are excited to invite you to attend YouGov’s monthly Data Products Training Webinar Series. Please select from the sessions below to sign up for our next Zoom training on our BrandIndex and/or "
+"Profiles platforms."
+msgstr ""
+
+msgctxt "video_items.8d17e8b7-13f8-4cf2-a673-c4a46d7480de.description"
+msgid "A YouGov Data Product"
+msgstr ""
+
+msgctxt "video_items.22907576-ed26-4db9-9d85-e2c75d99e180"
+msgid "YouGov Profiles Webinar"
+msgstr ""
+
+msgctxt "video_items.22dfc9ed-eaa2-4008-aa96-8f9a4f4b98ef"
+msgid ""
+"<b>YouGov Profiles</b> makes it simple to identify and understand the audience that matters most to you. It gives you the power to build and customize a portrait of your consumers' entire world with"
+" unrivaled granularity. Our profiling database gives you access to hundreds of thousands of demographic, psychographic, attitudinal and behavioral consumer metrics all connected in one place."
+msgstr ""
+
+msgctxt "video_items.22dfc9ed-eaa2-4008-aa96-8f9a4f4b98ef"
+msgid "What will be covered?"
+msgstr ""
+
+msgctxt "video_items.22dfc9ed-eaa2-4008-aa96-8f9a4f4b98ef"
+msgid "Data collection + methodology"
+msgstr ""
+
+msgctxt "video_items.22dfc9ed-eaa2-4008-aa96-8f9a4f4b98ef"
+msgid "Different visualization areas <i>(Profiles Mode/Variable Summaries/Tables &amp; Graphs/Multi-tables)</i>"
+msgstr ""
+
+msgctxt "video_items.22dfc9ed-eaa2-4008-aa96-8f9a4f4b98ef"
+msgid "Building Audiences (filters vs variables + complete cases)"
+msgstr ""
+
+msgctxt "video_items.22dfc9ed-eaa2-4008-aa96-8f9a4f4b98ef"
+msgid "Creating/saving/sharing analyses"
+msgstr ""
+
+msgctxt "video_items.22dfc9ed-eaa2-4008-aa96-8f9a4f4b98ef"
+msgid "Interpretation of data"
+msgstr ""
+
+msgctxt "video_items.22dfc9ed-eaa2-4008-aa96-8f9a4f4b98ef"
+msgid "Webinar On: Wednesday, May 18th - 2:00 PM to 3:00 PM EST"
+msgstr ""
+
+msgctxt "video_items.66906cda-4006-4ec8-a9df-f63abb156187.main_cta_text"
+msgid "Register now"
+msgstr ""
+
+msgctxt "video_items.66906cda-4006-4ec8-a9df-f63abb156187.main_cta_url"
+msgid "https://business.yougov.com/product/yougov-data-product-client-trainings?marketo=register#webinar8"
+msgstr ""

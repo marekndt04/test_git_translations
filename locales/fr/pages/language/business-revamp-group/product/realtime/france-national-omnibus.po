@@ -1,0 +1,141 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:38.294838+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: db50716d-dd4c-4458-888a-a4d7f2e49c79\n"
+
+msgctxt "title"
+msgid "France National Omnibus"
+msgstr "National Omnibus"
+
+msgctxt "slug"
+msgid "france-national-omnibus"
+msgstr "france-national-omnibus"
+
+msgctxt "seo_title"
+msgid "France National Omnibus"
+msgstr "National Omnibus"
+
+msgctxt "hero_title"
+msgid "France National Omnibus"
+msgstr "Omnibus national "
+
+msgctxt "hero_description"
+msgid "Daily surveys of 1,000+ French aged 18+."
+msgstr "Obtenez de multiples insights en quelques heures et à moindre coûts"
+
+msgctxt "hero_description"
+msgid ""
+"With no minimum question count, you can field a nationally representative survey fast, affordably, and with full research team support including consultation, questionnaire design, programming, "
+"fieldwork, and results."
+msgstr "Obtenez des résultats en quelques heures grâce à nos études réalisées auprès de plus de 1 000 adultes représentatifs de la population nationale."
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr "?marketo=contact"
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr "Contactez-nous"
+
+msgctxt "rates_title"
+msgid "National Omnibus rates"
+msgstr "Omnibus national "
+
+msgctxt "benefit_items.2c087880-9640-4e67-a1bf-280e4d978b6a.title"
+msgid "Representative sample"
+msgstr "Panel"
+
+msgctxt "benefit_items.2c087880-9640-4e67-a1bf-280e4d978b6a.description"
+msgid "Reach a nationally representative sample of 1,000 to 2,000 French adults aged 18+."
+msgstr "Un panel de plus de 700 000 personnes représentatives de la population national française âgée d'au moins 18 ans."
+
+msgctxt "benefit_items.49375af6-f9b4-491b-af04-d69991f1f288.title"
+msgid "Daily surveys"
+msgstr "Rapidité"
+
+msgctxt "benefit_items.49375af6-f9b4-491b-af04-d69991f1f288.description"
+msgid "Surveys launch every business day."
+msgstr "Obtenez des insights précis et actionnables dès le lendemain du lancement de l’étude."
+
+msgctxt "benefit_items.c481bdb9-ded1-4b19-809f-adc8b500a329.title"
+msgid "Fast results"
+msgstr "Crédibilité"
+
+msgctxt "benefit_items.c481bdb9-ded1-4b19-809f-adc8b500a329.description"
+msgid "Results delivered between 1 and 2 business days, with full-service support and live reporting."
+msgstr "Attirez l’attention des médias en leur communiquant des données fiables."
+
+msgctxt "rates_table_rows.8a8dcbb6-f1aa-4236-93d3-a7c82af2c982.column_1"
+msgid "Entry Fee"
+msgstr "Prix d'entrée"
+
+msgctxt "rates_table_rows.8a8dcbb6-f1aa-4236-93d3-a7c82af2c982.column_2"
+msgid "Book space on the nation’s market-leading omnibus"
+msgstr "Pas de droit d'entrée, ni de nombre minimum de questions"
+
+msgctxt "rates_table_rows.8a8dcbb6-f1aa-4236-93d3-a7c82af2c982.column_3"
+msgid "From €490"
+msgstr "A partir de 490€"
+
+msgctxt "rates_table_rows.bbf69690-b057-405c-8139-c576f29252d1.column_1"
+msgid "Questions"
+msgstr "Question fermée"
+
+msgctxt "rates_table_rows.bbf69690-b057-405c-8139-c576f29252d1.column_2"
+msgid "Single or multiple choice (up to 10 answers per question)"
+msgstr "Simple ou choix multiples, jusqu'à 10 items de réponse"
+
+msgctxt "rates_table_rows.bbf69690-b057-405c-8139-c576f29252d1.column_3"
+msgid "From €490"
+msgstr "A partir de 490€"
+
+msgctxt "rates_table_rows.e073f952-0f00-4688-9c7d-5bb56aa403c1.column_1"
+msgid "Scale Questions"
+msgstr "Question matricielle"
+
+msgctxt "rates_table_rows.e073f952-0f00-4688-9c7d-5bb56aa403c1.column_2"
+msgid "Statements answered against a scale (per every 3 statements)"
+msgstr "Prix par question pour 3 items en vertical avec une échelle de valeur horizontale commun"
+
+msgctxt "rates_table_rows.e073f952-0f00-4688-9c7d-5bb56aa403c1.column_3"
+msgid "From €490"
+msgstr "A partir de 490€"
+
+msgctxt "rates_table_rows.d257f331-2511-461b-9b74-e3f97271355c.column_1"
+msgid "Open-ended"
+msgstr "Question ouverte"
+
+msgctxt "rates_table_rows.d257f331-2511-461b-9b74-e3f97271355c.column_2"
+msgid "Full verbatim answers (coding services also available)"
+msgstr "Question ouverte codée, verbatims bruts"
+
+msgctxt "rates_table_rows.d257f331-2511-461b-9b74-e3f97271355c.column_3"
+msgid "€890"
+msgstr "890€"
+
+msgctxt "rates_table_rows.12ac9b90-16e9-4bc1-aa9d-30b9f8489bdc.column_1"
+msgid "Images"
+msgstr "Image et Vidéo"
+
+msgctxt "rates_table_rows.12ac9b90-16e9-4bc1-aa9d-30b9f8489bdc.column_2"
+msgid "Use images for a more engaging survey (video options available)"
+msgstr "Possibilité d’intégrer de l’image et de la vidéo"
+
+msgctxt "rates_table_rows.12ac9b90-16e9-4bc1-aa9d-30b9f8489bdc.column_3"
+msgid "FREE"
+msgstr "Gratuit"
+
+msgctxt "rates_table_rows.9ab7a038-6d9a-48d8-8acd-f8f2bd30c08f.column_1"
+msgid "Deliverables"
+msgstr "Livrables"
+
+msgctxt "rates_table_rows.9ab7a038-6d9a-48d8-8acd-f8f2bd30c08f.column_2"
+msgid "Full Excel(TM) tables, PowerPoint(TM) summary charts, plus live and final results available via our interactive online analytics platform"
+msgstr "Tableaux Excel avec les tris standards, graphiques récapitulatifs PowerPoint, visualisation des résultats en \"live\" sur notre plateforme Crunch"
+
+msgctxt "rates_table_rows.9ab7a038-6d9a-48d8-8acd-f8f2bd30c08f.column_3"
+msgid "INCLUDED"
+msgstr "Inclus"

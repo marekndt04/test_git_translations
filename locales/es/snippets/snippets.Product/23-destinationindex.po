@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:37.209044+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: eec65b0f-3960-4a3f-bc6e-e07b6aaa6f60\n"
+
+msgctxt "title"
+msgid "DestinationIndex"
+msgstr ""
+
+msgctxt "description"
+msgid "Track public perception of the world's popular travel hotspots."
+msgstr ""
+
+msgctxt "url"
+msgid "/product/brandindex/destinationindex/"
+msgstr ""

@@ -1,0 +1,25 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:33.849741+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: a051a8e0-042b-48f6-b517-835951d05136\n"
+
+msgctxt "title"
+msgid "Leading Italian automotive brand"
+msgstr ""
+
+msgctxt "description"
+msgid ""
+"\"BrandIndex is a great tool to track the development of the perception of our brand's globally improving competitor intelligence. YouGov analysis plays a pivotal role in our brands’ business review"
+" bringing consumer brand perception point of view to the table.”"
+msgstr ""
+
+msgctxt "url"
+msgid "https://business.yougov.com/content/37958-anonymous-auto-connected-data-case-study"
+msgstr ""
+
+msgctxt "quote_author"
+msgid "Head of Market Research &amp; Analysis at leading Italian automotive company"
+msgstr ""

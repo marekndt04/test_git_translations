@@ -1,0 +1,39 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:35.262031+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: c7229fa2-8445-4c30-9b50-062bcb8f94c4\n"
+
+msgctxt "title"
+msgid "APAC FMCG Webinar"
+msgstr ""
+
+msgctxt "slug"
+msgid "apac-fmcg-webinar"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Webinar: What's \"in-store\" for the CPG sector?"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "YouGov Webinar: What's \"in-store\" for the CPG sector?"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Webinar on-demand"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Consumer preferences beyond the pandemic"
+msgstr ""
+
+msgctxt "video_items.078ad822-fc30-416a-9b26-75e7a765441a"
+msgid "Re-watch the webinar recording now:"
+msgstr ""
+
+msgctxt "video_items.682e43dc-4eac-4ada-af36-34bfa27df587.video_id"
+msgid "PBv8TkFBnEA"
+msgstr ""

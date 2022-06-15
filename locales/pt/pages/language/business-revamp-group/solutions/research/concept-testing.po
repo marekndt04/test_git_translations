@@ -1,0 +1,166 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:39.105055+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 6848616c-0a1a-4b71-a32b-85c09d2c2fff\n"
+
+msgctxt "title"
+msgid "Ad &amp; Product Concept testing"
+msgstr ""
+
+msgctxt "slug"
+msgid "concept-testing"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Ad &amp; Product Concept Testing"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Test your advertising and product concepts, and receive accurate, credible results with YouGov. Increase your effectiveness and maximize your ROI with data intelligence you can trust."
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Ad &amp; Product Concept testing"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Accurate and credible A/B testing"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Looking to test ad creative, products or new concepts? Increase ad and product effectiveness whilst maximising ROI with our advanced, templated approach to testing."
+msgstr ""
+
+msgctxt "hero_url_3"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text_3"
+msgid "Get in touch"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our creative and concept testing solutions"
+msgstr ""
+
+msgctxt "pricing_component.1246c65a-6542-4fc9-9c59-c611a4f80e90.label"
+msgid "Self-serve"
+msgstr ""
+
+msgctxt "pricing_component.1246c65a-6542-4fc9-9c59-c611a4f80e90.title"
+msgid "Direct"
+msgstr ""
+
+msgctxt "pricing_component.1246c65a-6542-4fc9-9c59-c611a4f80e90.price.84818377-01cd-454d-9aeb-644febce9fd4.currency"
+msgid "£"
+msgstr ""
+
+msgctxt "pricing_component.1246c65a-6542-4fc9-9c59-c611a4f80e90.description"
+msgid "24-7 self-service research"
+msgstr ""
+
+msgctxt "pricing_component.1246c65a-6542-4fc9-9c59-c611a4f80e90.cta_text"
+msgid "Build your survey now"
+msgstr ""
+
+msgctxt "pricing_component.1246c65a-6542-4fc9-9c59-c611a4f80e90.cta_url"
+msgid "https://direct.yougov.com/client/signup"
+msgstr ""
+
+msgctxt "pricing_component.f0ed3db6-89d2-4247-bd6f-3548362ca934.label"
+msgid "Research support"
+msgstr ""
+
+msgctxt "pricing_component.f0ed3db6-89d2-4247-bd6f-3548362ca934.title"
+msgid "RealTime"
+msgstr ""
+
+msgctxt "pricing_component.f0ed3db6-89d2-4247-bd6f-3548362ca934.price.45008366-91cc-4e85-80e5-b9131588ece9.currency"
+msgid "£"
+msgstr ""
+
+msgctxt "pricing_component.f0ed3db6-89d2-4247-bd6f-3548362ca934.description"
+msgid "Fast-turnaround Omnibus and targeted Field &amp; Tab"
+msgstr ""
+
+msgctxt "pricing_component.f0ed3db6-89d2-4247-bd6f-3548362ca934.cta_text"
+msgid "Get a quote"
+msgstr ""
+
+msgctxt "pricing_component.f0ed3db6-89d2-4247-bd6f-3548362ca934.cta_url"
+msgid "https://business.yougov.com/product/realtime?marketo=contact"
+msgstr ""
+
+msgctxt "pricing_component.3de556ca-2664-4606-b545-706ac1c56478.label"
+msgid "Research support"
+msgstr ""
+
+msgctxt "pricing_component.3de556ca-2664-4606-b545-706ac1c56478.title"
+msgid "Journey Diagnostics"
+msgstr ""
+
+msgctxt "pricing_component.3de556ca-2664-4606-b545-706ac1c56478.price.364a7795-e232-4dcb-a969-7b8e602a58a0"
+msgid "Custom"
+msgstr ""
+
+msgctxt "pricing_component.3de556ca-2664-4606-b545-706ac1c56478.description"
+msgid "Expert research across customer lifecycle stages"
+msgstr ""
+
+msgctxt "pricing_component.3de556ca-2664-4606-b545-706ac1c56478.cta_text"
+msgid "Speak to sales"
+msgstr ""
+
+msgctxt "pricing_component.3de556ca-2664-4606-b545-706ac1c56478.cta_url"
+msgid "https://business.yougov.com/product/consumer-journey-diagnostics?marketo=contact"
+msgstr ""
+
+msgctxt "content_image_items.c06a6224-0d35-4e0a-bb66-b16918352cf4.title"
+msgid "Put your ideas to the test"
+msgstr ""
+
+msgctxt "content_image_items.c06a6224-0d35-4e0a-bb66-b16918352cf4.description"
+msgid ""
+"Get fast, cost-effective answers from nationally representative or targeted audiences to launch your campaign or product with confidence. Our full-service Omnibus solution, <a id=\"a1\"><b>YouGov "
+"RealTime</b></a>, allows you to develop successful products by testing pricing models, creatives and concepts. Understand your market and audience to inform smarter strategies for successful "
+"campaigns."
+msgstr ""
+
+msgctxt "content_image_items.455546a4-3d7c-4e53-b2c6-a1634e7d085f.title"
+msgid "24/7 self-service research"
+msgstr ""
+
+msgctxt "content_image_items.455546a4-3d7c-4e53-b2c6-a1634e7d085f.description"
+msgid ""
+"Optimize your ads, products and campaigns before launch. Test your creative and messaging, and see results in minutes with our easy-to-use, self-service platform. Evaluate your campaign's "
+"performance in real-time; understand how it was received by your target audience, and make informed decisions on how to improve it."
+msgstr ""
+
+msgctxt "content_image_items.455546a4-3d7c-4e53-b2c6-a1634e7d085f.description"
+msgid ""
+"Create your own direct-to-consumer surveys with our rapid, self-service tool <a id=\"a1\"><b>YouGov Direct</b></a> to get the consumer feedback you need to shape your strategy before the day is "
+"over."
+msgstr ""
+
+msgctxt "content_image_items.455546a4-3d7c-4e53-b2c6-a1634e7d085f.main_CTA_text"
+msgid "Build your survey now with YouGov Direct"
+msgstr ""
+
+msgctxt "content_image_items.455546a4-3d7c-4e53-b2c6-a1634e7d085f.main_CTA_link"
+msgid "https://business.yougov.com/solutions/research/concept-testing"
+msgstr ""
+
+msgctxt "content_image_items.9914f1dd-b699-4d40-a2e2-deef874dd7aa.title"
+msgid "Test across the customer journey"
+msgstr ""
+
+msgctxt "content_image_items.9914f1dd-b699-4d40-a2e2-deef874dd7aa.description"
+msgid "Understand exactly what concepts and creatives your target audience is most responsive to, at each stage of the customer lifecycle, with <a id=\"a1\"><b>Consumer Journey Diagnostics</b>.</a>"
+msgstr ""
+
+msgctxt "content_image_items.9914f1dd-b699-4d40-a2e2-deef874dd7aa.description"
+msgid "Track respondents as they move from brand awareness, through to purchase intent and loyalty with our templated research approach, designed by experts to generate accurate and useful insights."
+msgstr ""

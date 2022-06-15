@@ -1,0 +1,20 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:40.953056+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "World First"
+msgstr ""
+
+msgctxt "description"
+msgid ""
+"World First, the global foreign exchange company, commissioned a survey via YouGov’s UK and US SME Omnibus to better understand the SME marketplace and gain fresh perspective on business’ habits, "
+"views and concerns on currency and foreign exchange."
+msgstr ""
+
+msgctxt "url"
+msgid "https://yougov.co.uk/topics/resources/articles-reports/2018/08/01/currency-volatility-concern-britains-smes"
+msgstr ""

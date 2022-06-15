@@ -1,0 +1,63 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:35.670633+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: f9ecde41-4c7e-4b81-9356-b82bff1bae9f\n"
+
+msgctxt "title"
+msgid "YouGov Best Brands UK Webinar"
+msgstr ""
+
+msgctxt "slug"
+msgid "yougov-webinar-best-brand-improvers-2021-uk"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Webinar: Best Brand Rankings UK"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "UK Best Brands 2021: How did they do it?"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Learn what drove the nation’s Best Brands to maintain and increase their brand health scores over the past 12 months."
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "This event has now passed"
+msgstr ""
+
+msgctxt "video_items.2119cb0f-32bd-4a51-afdc-0f138e4e0edc"
+msgid "This event has now passed."
+msgstr ""
+
+msgctxt "video_items.2119cb0f-32bd-4a51-afdc-0f138e4e0edc"
+msgid ""
+"YouGov recently unveiled our 2021 Global Best Brand Rankings - the top brands with the best and biggest uplift in positive consumer brand health worldwide, according to our daily brand tracker "
+"YouGov BrandIndex."
+msgstr ""
+
+msgctxt "video_items.2119cb0f-32bd-4a51-afdc-0f138e4e0edc"
+msgid ""
+"Head of Account Management, Angela Miller, interviewed an exclusive panel of experts on launch day, including <b>M&amp;S,</b> <b>Octopus Energy and Whirlpool</b>, who unlocked the key drivers behind"
+" the nation’s Best Brands for 2021."
+msgstr ""
+
+msgctxt "video_items.2119cb0f-32bd-4a51-afdc-0f138e4e0edc"
+msgid "What was discussed:"
+msgstr ""
+
+msgctxt "video_items.2119cb0f-32bd-4a51-afdc-0f138e4e0edc"
+msgid "The key consumer metrics that drove brand health for the top 10 improvers in the UK, from Impression and Recommendation, to Quality, Value, Reputation and Satisfaction"
+msgstr ""
+
+msgctxt "video_items.2119cb0f-32bd-4a51-afdc-0f138e4e0edc"
+msgid "The strategy and tactics behind the metric movements that won over the hearts of consumers as the world started to open up post COVID-19"
+msgstr ""
+
+msgctxt "video_items.2119cb0f-32bd-4a51-afdc-0f138e4e0edc"
+msgid "The significance of brand health as a derived metric to prove brand success."
+msgstr ""

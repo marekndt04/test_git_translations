@@ -1,0 +1,157 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:32.891501+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: be063a89-84c4-4a20-b60c-92a132141f0e\n"
+
+msgctxt "title"
+msgid "German National Omnibus"
+msgstr ""
+
+msgctxt "slug"
+msgid "germany-national-omnibus"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Germany National Omnibus"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "German National Omnibus"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Daily surveys of 2,000 Germans aged 18+."
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"With no minimum question count, you can field a nationally representative survey fast, affordably, and with full research team support including consultation, questionnaire design, programming, "
+"fieldwork, and results."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "rates_title"
+msgid "National Omnibus rates"
+msgstr ""
+
+msgctxt "benefit_items.4e6db079-733e-4739-aaf4-316131832307.title"
+msgid "Representative sample"
+msgstr ""
+
+msgctxt "benefit_items.4e6db079-733e-4739-aaf4-316131832307.description"
+msgid "Reach a nationally representative sample of 2,000 German adults aged 18+."
+msgstr ""
+
+msgctxt "benefit_items.c160a30b-6971-41b1-a7b3-c386de0e8b8e.title"
+msgid "Daily surveys"
+msgstr ""
+
+msgctxt "benefit_items.c160a30b-6971-41b1-a7b3-c386de0e8b8e.description"
+msgid "Surveys launch every business day."
+msgstr ""
+
+msgctxt "benefit_items.b8223ceb-727b-484c-84b3-d5dd18be687c.title"
+msgid "Fast results"
+msgstr ""
+
+msgctxt "benefit_items.b8223ceb-727b-484c-84b3-d5dd18be687c.description"
+msgid "Results delivered between 1 and 2 business days, with full-service support and live reporting."
+msgstr ""
+
+msgctxt "rates_table_rows.a6e93414-d6f8-4aa1-b20a-e1cbf611e9cd.column_1"
+msgid "Entry Fee"
+msgstr ""
+
+msgctxt "rates_table_rows.a6e93414-d6f8-4aa1-b20a-e1cbf611e9cd.column_2"
+msgid "Book space on the nation’s market-leading omnibus"
+msgstr ""
+
+msgctxt "rates_table_rows.a6e93414-d6f8-4aa1-b20a-e1cbf611e9cd.column_3"
+msgid "€200"
+msgstr ""
+
+msgctxt "rates_table_rows.ac4f863d-1cb2-44b5-aef3-f463620e898f.column_1"
+msgid "Questions"
+msgstr ""
+
+msgctxt "rates_table_rows.ac4f863d-1cb2-44b5-aef3-f463620e898f.column_2"
+msgid "Single or multiple choice (up to 10 answers per question)"
+msgstr ""
+
+msgctxt "rates_table_rows.ac4f863d-1cb2-44b5-aef3-f463620e898f.column_3"
+msgid "€480"
+msgstr ""
+
+msgctxt "rates_table_rows.e8c5c8f3-59c4-4289-a85a-057ce75071bc.column_1"
+msgid "Scale Questions"
+msgstr ""
+
+msgctxt "rates_table_rows.e8c5c8f3-59c4-4289-a85a-057ce75071bc.column_2"
+msgid "Statements answered against a scale (per every 3 statements)"
+msgstr ""
+
+msgctxt "rates_table_rows.e8c5c8f3-59c4-4289-a85a-057ce75071bc.column_2"
+msgid "Additional 3 statements"
+msgstr ""
+
+msgctxt "rates_table_rows.e8c5c8f3-59c4-4289-a85a-057ce75071bc.column_3"
+msgid "€480"
+msgstr ""
+
+msgctxt "rates_table_rows.e8c5c8f3-59c4-4289-a85a-057ce75071bc.column_3"
+msgid "€200"
+msgstr ""
+
+msgctxt "rates_table_rows.f6aa3f88-1888-4987-b299-535f7812a45c.column_1"
+msgid "Open-ended"
+msgstr ""
+
+msgctxt "rates_table_rows.f6aa3f88-1888-4987-b299-535f7812a45c.column_2"
+msgid "Full verbatim answers (coded/uncoded)"
+msgstr ""
+
+msgctxt "rates_table_rows.f6aa3f88-1888-4987-b299-535f7812a45c.column_3"
+msgid "€500/880"
+msgstr ""
+
+msgctxt "rates_table_rows.4b61f705-1228-41f1-a6af-45a08811b724.column_1"
+msgid "Images"
+msgstr ""
+
+msgctxt "rates_table_rows.4b61f705-1228-41f1-a6af-45a08811b724.column_2"
+msgid "Single image"
+msgstr ""
+
+msgctxt "rates_table_rows.4b61f705-1228-41f1-a6af-45a08811b724.column_2"
+msgid "Audio-visual media"
+msgstr ""
+
+msgctxt "rates_table_rows.4b61f705-1228-41f1-a6af-45a08811b724.column_3"
+msgid "€60"
+msgstr ""
+
+msgctxt "rates_table_rows.4b61f705-1228-41f1-a6af-45a08811b724.column_3"
+msgid "€150"
+msgstr ""
+
+msgctxt "rates_table_rows.1b797e0e-4ac3-4964-adfa-174381bedfab.column_1"
+msgid "Deliverables"
+msgstr ""
+
+msgctxt "rates_table_rows.1b797e0e-4ac3-4964-adfa-174381bedfab.column_2"
+msgid "Full Excel(TM) tables, PowerPoint(TM) summary charts, plus live and final results available via our interactive online analytics platform"
+msgstr ""
+
+msgctxt "rates_table_rows.1b797e0e-4ac3-4964-adfa-174381bedfab.column_3"
+msgid "FREE"
+msgstr ""

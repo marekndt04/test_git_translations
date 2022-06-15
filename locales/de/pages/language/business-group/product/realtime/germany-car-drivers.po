@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:29.263697+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 710125b9-b478-4875-8659-4e35020d7c70\n"
+
+msgctxt "title"
+msgid "Germany Car Drivers"
+msgstr ""
+
+msgctxt "slug"
+msgid "germany-car-drivers"
+msgstr "deutschland-autofahrer"
+
+msgctxt "hero_title"
+msgid "Germany Car Drivers"
+msgstr ""

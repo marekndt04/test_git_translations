@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:37.447872+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: c18adf83-2904-44d8-a17c-33ca06c6d4d8\n"
+
+msgctxt "name"
+msgid "Todd Dupey"
+msgstr ""

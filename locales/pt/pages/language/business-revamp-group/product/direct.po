@@ -1,0 +1,202 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:39.274056+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: e9235f17-f10f-46d2-bed7-89fedece8e1b\n"
+
+msgctxt "title"
+msgid "Direct"
+msgstr ""
+
+msgctxt "slug"
+msgid "direct"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Direct: 24/7 self-service research and advertising"
+msgstr ""
+
+msgctxt "search_description"
+msgid "YouGov Direct is the fastest way to conduct research, giving live access to real consumer opinions for rapid audience intelligence or to test concepts, creatives, campaigns and more."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "BENEFITS"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "The fastest way to quality research"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Direct"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Award-winning, 24/7 rapid research tool"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Get live access to real consumer opinions and new industry trends, with research results in 1 hour. Create a free account, build and launch your survey in 10 minutes, then slice your data for "
+"analysis, in one, easy-to-use platform. Reach an engaged, fully opt-in panel for rapid insights during meetings, idea testing, crisis management and more – monitoring survey impact with click-"
+"through rates."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://platform.yougov.com/register/direct?loginLink=https:%2F%2Fdirect.yougov.com%2Fclient%2Fyougov-login%3Fredirect_uri%3D%2Fclient%2Frun"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Build your survey now"
+msgstr ""
+
+msgctxt "hero_url_2"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text_2"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our connected living data solutions"
+msgstr ""
+
+msgctxt "rates_label"
+msgid "Use Cases"
+msgstr ""
+
+msgctxt "rates_title"
+msgid "YouGov Direct allows you to:"
+msgstr ""
+
+msgctxt "rates_description"
+msgid "<b>Conquer</b> tight deadlines – launch surveys 24/7 and get results back in 1 hour"
+msgstr ""
+
+msgctxt "rates_description"
+msgid "<b>Maximise</b> budget with great value, quality data"
+msgstr ""
+
+msgctxt "rates_description"
+msgid "<b>Test</b> ads, creatives, concepts and messaging before, during and after campaigns"
+msgstr ""
+
+msgctxt "rates_description"
+msgid "<b>Boost</b> your pitch with credible, fresh insight to get the winning edge"
+msgstr ""
+
+msgctxt "rates_description"
+msgid "<b>Track</b> consumer engagement with YouGov Direct's unique CTA button"
+msgstr ""
+
+msgctxt "rates_description"
+msgid "<b>Reach</b> nationally representative and targeted samples"
+msgstr ""
+
+msgctxt "rates_description"
+msgid "Get started in three easy steps:"
+msgstr ""
+
+msgctxt "case_studies_title"
+msgid "Why YouGov?"
+msgstr ""
+
+msgctxt "case_studies_label"
+msgid "CASE STUDIES"
+msgstr ""
+
+msgctxt "case_studies_description"
+msgid "You’re in good company. Join the top brands that use YouGov Direct."
+msgstr ""
+
+msgctxt "benefit_items.b9437e7a-4cca-4337-aac8-0a94c90473eb.title"
+msgid "Rapid insights"
+msgstr ""
+
+msgctxt "benefit_items.b9437e7a-4cca-4337-aac8-0a94c90473eb.description"
+msgid "Watch real-time insights roll in, with data available as quickly as 1 hour."
+msgstr ""
+
+msgctxt "benefit_items.11ff2800-840e-4c3e-bff5-6f59556ae416.title"
+msgid "Monitor outcomes"
+msgstr ""
+
+msgctxt "benefit_items.11ff2800-840e-4c3e-bff5-6f59556ae416.description"
+msgid "Augment claimed survey data with clicks, identifying verified impact of your survey."
+msgstr ""
+
+msgctxt "benefit_items.66bd5f61-a0ba-4ae3-a94e-e8d3d20c693c.title"
+msgid "Added value"
+msgstr ""
+
+msgctxt "benefit_items.66bd5f61-a0ba-4ae3-a94e-e8d3d20c693c.description"
+msgid "Analyze your results in our powerful analysis tool, using hundreds of already-captured data points on respondents to unlock new insights."
+msgstr ""
+
+msgctxt "content_image_items.bdbe3e8c-e524-4f4f-83a6-f5025de165fe.title"
+msgid "Instant insights"
+msgstr ""
+
+msgctxt "content_image_items.bdbe3e8c-e524-4f4f-83a6-f5025de165fe.description"
+msgid "Self-service"
+msgstr ""
+
+msgctxt "content_image_items.bdbe3e8c-e524-4f4f-83a6-f5025de165fe.description"
+msgid "Be in control of your research, 24/7. Create your survey in minutes, align to your budget and access your results within 1 hour."
+msgstr ""
+
+msgctxt "content_image_items.bdbe3e8c-e524-4f4f-83a6-f5025de165fe.description"
+msgid "200+ profiling variables"
+msgstr ""
+
+msgctxt "content_image_items.bdbe3e8c-e524-4f4f-83a6-f5025de165fe.description"
+msgid "Segment across demographics and attitudes to define your target audience and further analyze your survey results."
+msgstr ""
+
+msgctxt "content_image_items.bdbe3e8c-e524-4f4f-83a6-f5025de165fe.description"
+msgid "Multi-market reach"
+msgstr ""
+
+msgctxt "content_image_items.bdbe3e8c-e524-4f4f-83a6-f5025de165fe.description"
+msgid "Currently available in the US, UK, Australia, Canada, France, Germany, and Singapore, with 13 more markets coming in 2022."
+msgstr ""
+
+msgctxt "content_image_items.bdbe3e8c-e524-4f4f-83a6-f5025de165fe.main_CTA_text"
+msgid "Register now for free"
+msgstr ""
+
+msgctxt "content_image_items.bdbe3e8c-e524-4f4f-83a6-f5025de165fe.main_CTA_link"
+msgid "https://platform.yougov.com/register/direct?loginLink=https:%2F%2Fdirect.yougov.com%2Fclient%2Fyougov-login%3Fredirect_uri%3D%2Fclient%2Frun"
+msgstr ""
+
+msgctxt "rates_table_header.2a13192f-ab3d-498a-8f1d-e83e2ae33257.column_2"
+msgid "1. Register for free"
+msgstr ""
+
+msgctxt "rates_table_header.2a13192f-ab3d-498a-8f1d-e83e2ae33257.column_3"
+msgid "2. Build and launch"
+msgstr ""
+
+msgctxt "rates_table_header.2a13192f-ab3d-498a-8f1d-e83e2ae33257.column_4"
+msgid "3. Results in 1 hour"
+msgstr ""
+
+msgctxt "rates_table_rows.323722c5-9849-4b64-9327-c2fd148cce71.column_2"
+msgid "<a id=\"a1\"><b>Set up an account</b></a> in seconds. Invite team members to join and manage your balance."
+msgstr ""
+
+msgctxt "rates_table_rows.323722c5-9849-4b64-9327-c2fd148cce71.column_3"
+msgid "Choose your target market, select audience attributes and build questions. Align to your budget and hit submit."
+msgstr ""
+
+msgctxt "rates_table_rows.323722c5-9849-4b64-9327-c2fd148cce71.column_4"
+msgid "Get live access to real consumer opinions, with full results in as little as 1 hour."
+msgstr ""

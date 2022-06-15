@@ -1,0 +1,209 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:32.557160+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 83e26ac2-63aa-411e-bdb7-9e01faf5dcfd\n"
+
+msgctxt "title"
+msgid "BrandIndex"
+msgstr ""
+
+msgctxt "slug"
+msgid "brandindex"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "BrandIndex: Track Brand Health And Performance"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Track brand perception with BrandIndex, constantly monitoring global audience opinion and conducting branding surveys to help you track campaigns and measure brand awareness."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "BENEFITS"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "A constant eye on brand performance"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "BrandIndex"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Powerful, daily brand and competitor tracking"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Measure brand health, monitor growth, and track advertising to create an unbeatable strategy. Daily data, from thousands of consumer interviews every day across 55+ markets, gives your business the "
+"edge it needs to succeed."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our connected living data solutions"
+msgstr ""
+
+msgctxt "bullet_lists_label"
+msgid "SECTORS"
+msgstr ""
+
+msgctxt "bullet_lists_title"
+msgid "Intelligence across industries"
+msgstr ""
+
+msgctxt "bullet_lists_description"
+msgid "<b>BrandIndex </b>gives instant access to daily brand tracking across 40+ industries, including:"
+msgstr ""
+
+msgctxt "case_studies_title"
+msgid "Why YouGov?"
+msgstr ""
+
+msgctxt "case_studies_label"
+msgid "CASE STUDIES"
+msgstr ""
+
+msgctxt "case_studies_description"
+msgid "You’re in good company. Join the top brands that use YouGov BrandIndex."
+msgstr ""
+
+msgctxt "benefit_items.0bb5d5cd-860b-490e-9bf1-c91f920e33ad.title"
+msgid "Agile"
+msgstr ""
+
+msgctxt "benefit_items.0bb5d5cd-860b-490e-9bf1-c91f920e33ad.description"
+msgid "React to changes in perception as they unfold, with daily data."
+msgstr ""
+
+msgctxt "benefit_items.0ee96c73-8e03-47a4-b487-3c1965555cea.title"
+msgid "Time-rich"
+msgstr ""
+
+msgctxt "benefit_items.0ee96c73-8e03-47a4-b487-3c1965555cea.description"
+msgid "Capture your brand’s performance over time with over a decade of historical brand data."
+msgstr ""
+
+msgctxt "benefit_items.1769c98e-ae89-4a48-85f3-f1222a5b44b3.title"
+msgid "Vast"
+msgstr ""
+
+msgctxt "benefit_items.1769c98e-ae89-4a48-85f3-f1222a5b44b3.description"
+msgid "Track brand health across multiple metrics, sectors, and markets simultaneously."
+msgstr ""
+
+msgctxt "benefit_items.88e1b46a-93d5-4fa5-b142-5b7a25ef4c08.title"
+msgid "Savvy"
+msgstr ""
+
+msgctxt "benefit_items.88e1b46a-93d5-4fa5-b142-5b7a25ef4c08.description"
+msgid "Benchmark your competitive edge by watching the daily performance of your competitors."
+msgstr ""
+
+msgctxt "benefit_items.7e55d6f5-86f2-4eeb-bc9c-d547ff9f486d.title"
+msgid "Flexible"
+msgstr ""
+
+msgctxt "benefit_items.7e55d6f5-86f2-4eeb-bc9c-d547ff9f486d.description"
+msgid "Add your own custom trigger questions to enrich perception around specific campaigns or initiatives."
+msgstr ""
+
+msgctxt "benefit_items.71bc2608-20df-4930-9e9c-0ceed207cafb.title"
+msgid "Simple"
+msgstr ""
+
+msgctxt "benefit_items.71bc2608-20df-4930-9e9c-0ceed207cafb.description"
+msgid "Access your data in one unique online platform with a single login."
+msgstr ""
+
+msgctxt "bullet_list_items.287eaf77-59a8-4d2a-b1c2-5a3e1c409de9.bullets"
+msgid ""
+"Automotive\r"
+"<br/>Banking and Finance\r"
+"<br/>Charities\r"
+"<br/>Consumer Electronics\r"
+"<br/>Digital, Media and Technology"
+msgstr ""
+
+msgctxt "bullet_list_items.30268a5b-b82c-4843-82cb-81ad19e72a70.bullets"
+msgid ""
+"FMCG\r"
+"<br/>Health and Cosmetics\r"
+"<br/>Public Transport, Utilities and Services\r"
+"<br/>Real Estate\r"
+"<br/>Retail"
+msgstr ""
+
+msgctxt "bullet_list_items.bd070543-81ea-459f-9732-6ccd03ebbc0f.bullets"
+msgid ""
+"Sport\r"
+"<br/>Travel and Leisure\r"
+"<br/>Telco\r"
+"<br/>Video Gaming &amp; Esports"
+msgstr ""
+
+msgctxt "content_image_items.22d47e57-a59c-44d1-ad10-51f9dcab7c88.title"
+msgid "Track daily performance"
+msgstr ""
+
+msgctxt "content_image_items.22d47e57-a59c-44d1-ad10-51f9dcab7c88.description"
+msgid "Strategize your growth with <b>16 vital brand health metrics</b> as clear KPIs. Helping you analyze and benchmark your success against your goals, your competitors, and your entire market."
+msgstr ""
+
+msgctxt "content_image_items.22d47e57-a59c-44d1-ad10-51f9dcab7c88.description"
+msgid "<b>Media &amp; communication metrics:<br/></b> Advertising Awareness • Aided Brand Awareness • Attention • Buzz • Word of Mouth Exposure"
+msgstr ""
+
+msgctxt "content_image_items.22d47e57-a59c-44d1-ad10-51f9dcab7c88.description"
+msgid "<b>Purchase funnel metrics:<br/></b> Purchase Intent • Consideration • Current Customer • Former Customer"
+msgstr ""
+
+msgctxt "content_image_items.22d47e57-a59c-44d1-ad10-51f9dcab7c88.description"
+msgid "<b>Brand perception metrics:<br/></b> General Impression • Customer Satisfaction • Quality • Value • Corporate Reputation • Recommendation • Index (overall brand health)"
+msgstr ""
+
+msgctxt "content_image_items.d1dcc0ad-be93-4533-878a-c5745cbb9b2e.title"
+msgid "Explore living data"
+msgstr ""
+
+msgctxt "content_image_items.d1dcc0ad-be93-4533-878a-c5745cbb9b2e.description"
+msgid "Chart brand trajectories right up to the present day with <b>15+ years of historical brand data</b> and our ever-growing source of constantly evolving living data."
+msgstr ""
+
+msgctxt "content_image_items.d1dcc0ad-be93-4533-878a-c5745cbb9b2e.description"
+msgid "Create the picture that matters most to you, using a range of time-periods and chart-types, easily downloading the data via an API feed to share directly with colleagues or clients."
+msgstr ""
+
+msgctxt "content_image_items.d1dcc0ad-be93-4533-878a-c5745cbb9b2e.description"
+msgid "Immediately identify and take act on any changes in your brand's perception, seizing opportunities in your sector."
+msgstr ""
+
+msgctxt "content_image_items.d1dcc0ad-be93-4533-878a-c5745cbb9b2e.description"
+msgid "YouGov BrandIndex is part of an ever-growing source of constantly evolving, connected intelligence. We call it living data."
+msgstr ""
+
+msgctxt "content_image_items.d1dcc0ad-be93-4533-878a-c5745cbb9b2e.description"
+msgid ""
+"Track your strategy with YouGov BrandIndex, then easily connect to YouGov's other solutions; <a id=\"a1\">Plan</a> your strategy, <a id=\"a2\">Explore</a> online behavior, <a id=\"a3\">Activate</a> "
+"campaigns and more."
+msgstr ""
+
+msgctxt "content_image_items.d1dcc0ad-be93-4533-878a-c5745cbb9b2e.description"
+msgid "A truly 360° view of your audience."
+msgstr ""

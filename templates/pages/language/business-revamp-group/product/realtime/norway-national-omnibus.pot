@@ -1,0 +1,148 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:40.920756+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Norway National Omnibus"
+msgstr ""
+
+msgctxt "slug"
+msgid "norway-national-omnibus"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Norway National Omnibus"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Norway National Omnibus"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Weekly surveys of 1,000 Norwegians aged 18+."
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"With no minimum question count, you can field a nationally representative survey fast, affordably, and with full research team support including consultation, questionnaire design, programming, "
+"fieldwork, and results."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "rates_title"
+msgid "National Omnibus rates"
+msgstr ""
+
+msgctxt "benefit_items.6d4d25d3-8217-42e2-8359-28804ac931e4.title"
+msgid "Representative sample"
+msgstr ""
+
+msgctxt "benefit_items.6d4d25d3-8217-42e2-8359-28804ac931e4.description"
+msgid "Reach a nationally representative sample of 1,000 Norwegian adults aged 18+."
+msgstr ""
+
+msgctxt "benefit_items.fedf379b-35e3-454e-9520-1ce8759280d5.title"
+msgid "Weekly surveys"
+msgstr ""
+
+msgctxt "benefit_items.fedf379b-35e3-454e-9520-1ce8759280d5.description"
+msgid "Surveys launch every Wednesday."
+msgstr ""
+
+msgctxt "benefit_items.f537719b-816b-4aba-8bc5-a6599d031d1e.title"
+msgid "Fast results"
+msgstr ""
+
+msgctxt "benefit_items.f537719b-816b-4aba-8bc5-a6599d031d1e.description"
+msgid "Results delivered the next week, with full-service support and live reporting."
+msgstr ""
+
+msgctxt "rates_table_header.45f67c75-bb73-41b8-93ee-d44422e5dd93.column_1"
+msgid "How it works?"
+msgstr ""
+
+msgctxt "rates_table_header.45f67c75-bb73-41b8-93ee-d44422e5dd93.column_3"
+msgid "1,000 Adults"
+msgstr ""
+
+msgctxt "rates_table_rows.65f71f35-0d09-4cbe-b9ed-b6d45a45c688.column_1"
+msgid "Entry Fee"
+msgstr ""
+
+msgctxt "rates_table_rows.65f71f35-0d09-4cbe-b9ed-b6d45a45c688.column_2"
+msgid "Book space on the nation’s market-leading omnibus"
+msgstr ""
+
+msgctxt "rates_table_rows.65f71f35-0d09-4cbe-b9ed-b6d45a45c688.column_3"
+msgid "3900 NOK"
+msgstr ""
+
+msgctxt "rates_table_rows.e151223f-fae7-4458-9648-7c751c803690.column_1"
+msgid "Questions"
+msgstr ""
+
+msgctxt "rates_table_rows.e151223f-fae7-4458-9648-7c751c803690.column_2"
+msgid "Single or multiple choice (up to 10 answers per question)"
+msgstr ""
+
+msgctxt "rates_table_rows.e151223f-fae7-4458-9648-7c751c803690.column_3"
+msgid "2100 NOK"
+msgstr ""
+
+msgctxt "rates_table_rows.4c393016-b2e9-4659-ad90-ca00b51a2bda.column_1"
+msgid "Scale Questions"
+msgstr ""
+
+msgctxt "rates_table_rows.4c393016-b2e9-4659-ad90-ca00b51a2bda.column_2"
+msgid "Statements answered against a scale (per every 3 statements)"
+msgstr ""
+
+msgctxt "rates_table_rows.4c393016-b2e9-4659-ad90-ca00b51a2bda.column_3"
+msgid "2100 NOK"
+msgstr ""
+
+msgctxt "rates_table_rows.2b3d6d38-b564-4bef-90ce-e773190b10fe.column_1"
+msgid "Open-ended"
+msgstr ""
+
+msgctxt "rates_table_rows.2b3d6d38-b564-4bef-90ce-e773190b10fe.column_2"
+msgid "Full verbatim answers (coding services also available)"
+msgstr ""
+
+msgctxt "rates_table_rows.2b3d6d38-b564-4bef-90ce-e773190b10fe.column_3"
+msgid "4200 NOK"
+msgstr ""
+
+msgctxt "rates_table_rows.004b6102-c99a-4e5e-93a6-0eb29331b2ff.column_1"
+msgid "Images"
+msgstr ""
+
+msgctxt "rates_table_rows.004b6102-c99a-4e5e-93a6-0eb29331b2ff.column_2"
+msgid "Use images for a more engaging survey (video options available)"
+msgstr ""
+
+msgctxt "rates_table_rows.004b6102-c99a-4e5e-93a6-0eb29331b2ff.column_3"
+msgid "FREE"
+msgstr ""
+
+msgctxt "rates_table_rows.cee13d3b-2a40-43ec-8b5e-5b0abf1a9642.column_1"
+msgid "Deliverables"
+msgstr ""
+
+msgctxt "rates_table_rows.cee13d3b-2a40-43ec-8b5e-5b0abf1a9642.column_2"
+msgid "Full Excel(TM) tables, PowerPoint(TM) summary charts, plus live and final results available via our interactive online analytics platform"
+msgstr ""
+
+msgctxt "rates_table_rows.cee13d3b-2a40-43ec-8b5e-5b0abf1a9642.column_3"
+msgid "INCLUDED"
+msgstr ""

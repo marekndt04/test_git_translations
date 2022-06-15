@@ -1,0 +1,21 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:29.482778+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 6d8d0706-3774-4fb0-8fb4-b15beb32b6ee\n"
+
+msgctxt "title"
+msgid "Knight Frank"
+msgstr ""
+
+msgctxt "description"
+msgid ""
+"YouGov were able to amass a sample of 7,000 people making it one of the biggest surveys of its kind ever conducted. YouGov already had so much data about the people taking the survey which sped up "
+"the whole process and gave us really granular data."
+msgstr ""
+
+msgctxt "url"
+msgid "https://yougov.co.uk/topics/resources/articles-reports/2018/08/01/yougov-knight-frank-testimony"
+msgstr ""

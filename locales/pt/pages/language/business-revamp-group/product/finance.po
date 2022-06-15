@@ -1,0 +1,115 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:40.795064+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 6872a7ef-a268-4f63-b08f-645dad41a4b4\n"
+
+msgctxt "title"
+msgid "YouGov Finance"
+msgstr ""
+
+msgctxt "slug"
+msgid "finance"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Finance"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Track consumer transactions, spending habits and financial market trends with YouGov Finance, monitoring transactions from thousands of consumers in the UK and US."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "BENEFITS"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Unparalleled levels of accuracy:"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "YouGov Finance"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "The power of financial data"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"YouGov Finance aggregates transactions from thousands of consumers in the UK and US, creating a rich, verified, connected dataset to unlock understanding of consumer spending habits and market "
+"trends with an unparalleled level of accuracy."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our connected living data solutions"
+msgstr ""
+
+msgctxt "benefit_items.24fa8740-3ba0-4030-945c-15680c4a562d.title"
+msgid "Know your customer"
+msgstr ""
+
+msgctxt "benefit_items.24fa8740-3ba0-4030-945c-15680c4a562d.description"
+msgid "Explore financial profiles on your customers and understand their shopping habits across brands and industries"
+msgstr ""
+
+msgctxt "benefit_items.b6c3fd6a-7f59-43b7-98bd-f6c4acec5955.title"
+msgid "Understand the competition"
+msgstr ""
+
+msgctxt "benefit_items.b6c3fd6a-7f59-43b7-98bd-f6c4acec5955.description"
+msgid "Discover your competitors’ strengths and weaknesses, benchmarking yourself within your industry"
+msgstr ""
+
+msgctxt "benefit_items.d8023ee5-6ad2-4f62-98d3-686a7dae26b9.title"
+msgid "Get ahead"
+msgstr ""
+
+msgctxt "benefit_items.d8023ee5-6ad2-4f62-98d3-686a7dae26b9.description"
+msgid "Use financial insights to target high growth markets and segments to future-proof your strategy"
+msgstr ""
+
+msgctxt "content_image_items.739aaf9b-cf2b-42a8-901f-1d9af2be3f4e.title"
+msgid "Unlock rich, verified, connected data"
+msgstr ""
+
+msgctxt "content_image_items.739aaf9b-cf2b-42a8-901f-1d9af2be3f4e.description"
+msgid ""
+"Get a complete picture on consumers, including their loyalty journeys, wider spending habits and shopping behavior. Explore the share of wallet for the groups driving your growth, identify in-market"
+" audiences and analyze market share within your sector.<br/><br/>Whenever a consumer makes a payment, online or in store, their transaction creates a diverse array of data points: where the purchase"
+" was made; how much was paid; when was the purchase made - we aggregate this for you."
+msgstr ""
+
+msgctxt "content_image_items.739aaf9b-cf2b-42a8-901f-1d9af2be3f4e.description"
+msgid ""
+"Panel members can safely and securely connect their bank accounts in exchange for compensation – when doing so YouGov Finance receives two years of verified transaction data and the ability to track"
+" three months of future transactions in real-time."
+msgstr ""
+
+msgctxt "content_image_items.85b5943b-2ead-4393-a61f-9d47f5a3cf74.title"
+msgid "Tailored to you"
+msgstr ""
+
+msgctxt "content_image_items.85b5943b-2ead-4393-a61f-9d47f5a3cf74.description"
+msgid ""
+"Solve your business needs with bespoke financial data solutions built for you, with standalone financial data tools including Campaign Success and Market Share Monitors currently in development."
+msgstr ""
+
+msgctxt "content_image_items.85b5943b-2ead-4393-a61f-9d47f5a3cf74.description"
+msgid "Access data via our portal or through access to our APIs upon request."
+msgstr ""

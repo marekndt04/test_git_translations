@@ -1,0 +1,123 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:40.422710+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 3c95ece0-9f97-4292-9fec-dfb0d0152b72\n"
+
+msgctxt "title"
+msgid "Product Concept Testing"
+msgstr ""
+
+msgctxt "slug"
+msgid "product-concept-testing"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Product Concept Testing"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Test your new product concepts before launching to understand exactly which consumers will embrace them, and how, using YouGov’s unique connected data approach."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "BENEFITS"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Quality data"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Product Concept Testing"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Verify whether your new concept will be well received"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Avoid expensive mistakes – test your product concept before launch. Product Concept Testing forms part of YouGov Consumer Journey Diagnostics, a cost-effective and time-efficient templated research "
+"approach. De-risk, tailor and optimize your product across a range of concepts."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Get in touch"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our connected living data solutions"
+msgstr ""
+
+msgctxt "benefit_items.5d4f0db5-6126-4ff6-8432-77b00102e8ab.title"
+msgid "Sampling efficiency"
+msgstr ""
+
+msgctxt "benefit_items.5d4f0db5-6126-4ff6-8432-77b00102e8ab.description"
+msgid "Access a representative sample of customers, delivering engaged respondents."
+msgstr ""
+
+msgctxt "benefit_items.9be0934f-a60a-4a5c-9fef-b1334c79119e.title"
+msgid "Dynamic samples"
+msgstr ""
+
+msgctxt "benefit_items.9be0934f-a60a-4a5c-9fef-b1334c79119e.description"
+msgid "Choose from brand specific or sector specific sampling."
+msgstr ""
+
+msgctxt "benefit_items.487010cc-a16e-4189-ab64-6f21ecbdc91c.title"
+msgid "Any frequency, any time"
+msgstr ""
+
+msgctxt "benefit_items.487010cc-a16e-4189-ab64-6f21ecbdc91c.description"
+msgid "Commissioned on an ad-hoc basis or set to repeat for regular tracking."
+msgstr ""
+
+msgctxt "benefit_items.56b6c508-802e-48fb-b976-7fe65f5d7b91.title"
+msgid "Tracking methodology"
+msgstr ""
+
+msgctxt "benefit_items.56b6c508-802e-48fb-b976-7fe65f5d7b91.description"
+msgid "Re-contact audiences with focused surveys, powered by our daily tracking tool – YouGov BrandIndex."
+msgstr ""
+
+msgctxt "benefit_items.451083f7-df67-46fa-931c-d0f87fcae00f.title"
+msgid "Customizable"
+msgstr ""
+
+msgctxt "benefit_items.451083f7-df67-46fa-931c-d0f87fcae00f.description"
+msgid "Add your own open or closed questions to the survey."
+msgstr ""
+
+msgctxt "benefit_items.318af258-a47d-473b-9b11-3c502f1563a1.title"
+msgid "Data analysis"
+msgstr ""
+
+msgctxt "benefit_items.318af258-a47d-473b-9b11-3c502f1563a1.description"
+msgid "Analyze your data via a templated dashboard or commission a bespoke report for additional diagnostic power."
+msgstr ""
+
+msgctxt "content_image_items.9f92172c-6095-40ff-89b5-a046b9b383bf.title"
+msgid "Greater depth, more context"
+msgstr ""
+
+msgctxt "content_image_items.9f92172c-6095-40ff-89b5-a046b9b383bf.description"
+msgid ""
+"Be confident you have the full picture on the consumer journey and what’s driving it. Our research experts have carefully designed questionnaires to generate accurate and useful insight, saving you "
+"time and resource."
+msgstr ""
+
+msgctxt "content_image_items.9f92172c-6095-40ff-89b5-a046b9b383bf.description"
+msgid "Your results will be fully linked with YouGov’s living data, adding more depth and breadth to your research."
+msgstr ""

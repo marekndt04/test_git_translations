@@ -1,0 +1,170 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:39.031037+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Children and Parents Omnibus"
+msgstr ""
+
+msgctxt "slug"
+msgid "children-and-parents-omnibus"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Children and Parents Omnibus"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Why YouGov?"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Children and Parents Omnibus"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Use our Omnibus services to survey children, teenagers or parents."
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Our highly trained researchers will explore your sample options with you. Children's Omnibus is available weekly and the Parents Omnibus runs every day of the week."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "rates_title"
+msgid "Children and Parents Omnibus rates"
+msgstr ""
+
+msgctxt "rates_description"
+msgid "Full-service support, including survey design and advice tailored to the specific group of children or parents, plus live reporting of your results."
+msgstr ""
+
+msgctxt "rates_description"
+msgid "Rates shown are for research with children aged 6-15. Talk to us about pricing for other age groups and surveys of more than 10 questions."
+msgstr ""
+
+msgctxt "benefit_items.66804cdd-db87-4fa2-ab93-2be09ac33db5.title"
+msgid "Tailored samples"
+msgstr ""
+
+msgctxt "benefit_items.66804cdd-db87-4fa2-ab93-2be09ac33db5.description"
+msgid "Reach audiences of up to 1,000 GB children or parents. Survey children and teenagers, with the option of tailoring your age bands."
+msgstr ""
+
+msgctxt "benefit_items.e4ea85d2-df31-497d-af4d-a1d6198f57bc.title"
+msgid "UK or global"
+msgstr ""
+
+msgctxt "benefit_items.e4ea85d2-df31-497d-af4d-a1d6198f57bc.description"
+msgid "Key markets from the Americas and Europe available."
+msgstr ""
+
+msgctxt "benefit_items.5dfc1cc5-39a0-4bfd-acbb-c059c47e4e26.title"
+msgid "Quick results"
+msgstr ""
+
+msgctxt "benefit_items.5dfc1cc5-39a0-4bfd-acbb-c059c47e4e26.description"
+msgid "Children's Omnibus available within three-five working days and Parents Omnibus within two working days. Now access live data during fieldwork."
+msgstr ""
+
+msgctxt "rates_table_header.2d980677-8d2a-4ad4-ac4c-13cb88a9ff4f.column_2"
+msgid "Respondents"
+msgstr ""
+
+msgctxt "rates_table_header.2d980677-8d2a-4ad4-ac4c-13cb88a9ff4f.column_3"
+msgid "Entry"
+msgstr ""
+
+msgctxt "rates_table_header.2d980677-8d2a-4ad4-ac4c-13cb88a9ff4f.column_4"
+msgid "Standard question"
+msgstr ""
+
+msgctxt "rates_table_header.2d980677-8d2a-4ad4-ac4c-13cb88a9ff4f.column_5"
+msgid "Results"
+msgstr ""
+
+msgctxt "rates_table_rows.16692750-d4b1-4668-b99e-7e584e8f4eb3.column_1"
+msgid "Children"
+msgstr ""
+
+msgctxt "rates_table_rows.16692750-d4b1-4668-b99e-7e584e8f4eb3.column_2"
+msgid "500"
+msgstr ""
+
+msgctxt "rates_table_rows.16692750-d4b1-4668-b99e-7e584e8f4eb3.column_3"
+msgid "£600"
+msgstr ""
+
+msgctxt "rates_table_rows.16692750-d4b1-4668-b99e-7e584e8f4eb3.column_4"
+msgid "£400"
+msgstr ""
+
+msgctxt "rates_table_rows.16692750-d4b1-4668-b99e-7e584e8f4eb3.column_5"
+msgid "3 working days"
+msgstr ""
+
+msgctxt "rates_table_rows.12615ee4-c378-4289-89a7-04329a113661.column_2"
+msgid "1000"
+msgstr ""
+
+msgctxt "rates_table_rows.12615ee4-c378-4289-89a7-04329a113661.column_3"
+msgid "£600"
+msgstr ""
+
+msgctxt "rates_table_rows.12615ee4-c378-4289-89a7-04329a113661.column_4"
+msgid "£700"
+msgstr ""
+
+msgctxt "rates_table_rows.12615ee4-c378-4289-89a7-04329a113661.column_5"
+msgid "5 working days"
+msgstr ""
+
+msgctxt "rates_table_rows.eca34f41-ae11-4d51-8259-cfb539ea03a1.column_1"
+msgid "<b>Bespoke</b> (tailor your age bands and sample size)"
+msgstr ""
+
+msgctxt "rates_table_rows.eca34f41-ae11-4d51-8259-cfb539ea03a1.column_2"
+msgid "Flexible"
+msgstr ""
+
+msgctxt "rates_table_rows.eca34f41-ae11-4d51-8259-cfb539ea03a1.column_3"
+msgid "Bespoke"
+msgstr ""
+
+msgctxt "rates_table_rows.eca34f41-ae11-4d51-8259-cfb539ea03a1.column_4"
+msgid "Bespoke"
+msgstr ""
+
+msgctxt "rates_table_rows.eca34f41-ae11-4d51-8259-cfb539ea03a1.column_5"
+msgid "3-7 working days"
+msgstr ""
+
+msgctxt "rates_table_rows.28ab02e3-2605-4f50-aa1e-a0b8c99d339d.column_1"
+msgid "<b>Parents</b> (with children aged 18 and under)"
+msgstr ""
+
+msgctxt "rates_table_rows.28ab02e3-2605-4f50-aa1e-a0b8c99d339d.column_2"
+msgid "1000"
+msgstr ""
+
+msgctxt "rates_table_rows.28ab02e3-2605-4f50-aa1e-a0b8c99d339d.column_3"
+msgid "£200"
+msgstr ""
+
+msgctxt "rates_table_rows.28ab02e3-2605-4f50-aa1e-a0b8c99d339d.column_4"
+msgid "£450"
+msgstr ""
+
+msgctxt "rates_table_rows.28ab02e3-2605-4f50-aa1e-a0b8c99d339d.column_5"
+msgid "2 working days"
+msgstr ""

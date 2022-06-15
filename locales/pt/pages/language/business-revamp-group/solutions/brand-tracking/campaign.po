@@ -1,0 +1,87 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:38.959410+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 248daeb2-e01d-4c39-9405-a3aba7a50732\n"
+
+msgctxt "title"
+msgid "Campaign Effectiveness"
+msgstr ""
+
+msgctxt "slug"
+msgid "campaign"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Evaluation of Campaign Effectiveness"
+msgstr ""
+
+msgctxt "search_description"
+msgid ""
+"Analyze and evaluate the impact of your campaigns and measure effectiveness with YouGov solutions. Get daily updates on your brand metrics to track and monitor brand perception throughout your "
+"campaigns."
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Campaign effectiveness"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Demonstrate the ROI of your campaigns"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Keep a constant eye on performance with access to daily campaign tracking. Measure the impact of your campaigns – before, after and as they happen – in single or multiple markets simultaneously. "
+"React instantly to changes in brand perception and health, combatting crises instantly and optimizing your marketing activities."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our campaign tracking solutions"
+msgstr ""
+
+msgctxt "content_image_items.e678adaf-e4bb-4636-b25f-3c82a1d0fb4f.title"
+msgid "In-depth impact measurement"
+msgstr ""
+
+msgctxt "content_image_items.e678adaf-e4bb-4636-b25f-3c82a1d0fb4f.description"
+msgid "Keep a constant eye on the impact of your marketing campaigns across 16 brand health, media and purchase funnel metrics with <a id=\"a1\"><b>YouGov BrandIndex</b></a><b>.</b>"
+msgstr ""
+
+msgctxt "content_image_items.e678adaf-e4bb-4636-b25f-3c82a1d0fb4f.description"
+msgid "React quickly to changes in your brand's perception and take advantage of the freshest opportunities in your sector with daily data updates."
+msgstr ""
+
+msgctxt "content_image_items.e678adaf-e4bb-4636-b25f-3c82a1d0fb4f.description"
+msgid "Instantly monitor how your latest campaign has impacted ad awareness, keep on top of communications issues and demonstrate the value of your latest strategic move."
+msgstr ""
+
+msgctxt "content_image_items.2957bb78-b1ae-480e-a551-dbaa5da45873.title"
+msgid "Campaign tracking tailored to you"
+msgstr ""
+
+msgctxt "content_image_items.2957bb78-b1ae-480e-a551-dbaa5da45873.description"
+msgid "Looking for something more bespoke? Get <a id=\"a1\"><b>customized research</b></a> with full end-to-end support from our team of world-class researchers and sector experts."
+msgstr ""
+
+msgctxt "content_image_items.2957bb78-b1ae-480e-a551-dbaa5da45873.description"
+msgid "Tailor the intelligence you need from our full range of research solutions, including NPS ® scores, dynamic segmentation, brand tracking, ad and program testing, and more."
+msgstr ""
+
+msgctxt "content_image_items.2957bb78-b1ae-480e-a551-dbaa5da45873.description"
+msgid "Whatever research you need, we’ll make sure you’re supported every step of the way."
+msgstr ""

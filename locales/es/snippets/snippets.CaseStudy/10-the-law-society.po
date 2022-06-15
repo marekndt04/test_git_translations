@@ -1,0 +1,21 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:33.731351+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: b0a5a1c9-d99a-4df4-a828-cf6102751774\n"
+
+msgctxt "title"
+msgid "The Law Society"
+msgstr ""
+
+msgctxt "description"
+msgid ""
+"The qualitative behavioural research undertaken by YouGov has proved very useful to The Law Society. The results were able to show the importance of the Society’s public legal education programmes. "
+"It also highlighted the difficulties that consumers have in assessing the non-price elements of legal work."
+msgstr ""
+
+msgctxt "url"
+msgid "https://yougov.co.uk/topics/resources/articles-reports/2018/08/01/understanding-consumer-journey-when-searching-lega"
+msgstr ""

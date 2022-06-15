@@ -1,0 +1,121 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:41.909919+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 9710213c-008e-4232-b06c-88ed2fa0896d\n"
+
+msgctxt "title"
+msgid "Media &amp; Content"
+msgstr ""
+
+msgctxt "slug"
+msgid "media-content"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Media Industry Reports, Statistics and Insights"
+msgstr ""
+
+msgctxt "search_description"
+msgid ""
+"Discover the latest in media industry reports, statistics and insights with YouGov's unrivalled data intelligence. Understand your audience and their opinions of brands, with reports, articles and "
+"research for the Media industry."
+msgstr ""
+
+msgctxt "data_presentation_title"
+msgid "Explore the YouGov platform"
+msgstr ""
+
+msgctxt "data_presentation_description"
+msgid "Unlock powerful insights about your customers’ needs at every stage of your marketing funnel."
+msgstr ""
+
+msgctxt "download_content_label"
+msgid "White paper"
+msgstr ""
+
+msgctxt "download_content_title"
+msgid "Global Media Outlook Report 2022: Is the new normal here  to stay?"
+msgstr ""
+
+msgctxt "download_content_description"
+msgid ""
+"This report provides a comprehensive view on ever-evolving media consumption habits and media channel preferences, as well as key year-on-year trends for the global media industry. Utilizing global "
+"data, the study sheds light on media growth opportunities, as well as exploring which media consumption<br/> habits and digital trends are likely to stick."
+msgstr ""
+
+msgctxt "download_content_cta_text"
+msgid "Download white paper"
+msgstr ""
+
+msgctxt "download_content_cta_url"
+msgid "https://business.yougov.com/sectors/media-content/global-media-outlook-report-2022"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Media &amp; Content Intelligence"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Deliver tailored messaging for your target audience and build successful  campaigns."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?data=audience"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Explore YouGov data"
+msgstr ""
+
+msgctxt "hero_url_2"
+msgid "https://business.yougov.com/product/realtime?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text_2"
+msgid "Launch a survey"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "How we can help you"
+msgstr ""
+
+msgctxt "all_content_list_title"
+msgid "Unrivalled data insights"
+msgstr ""
+
+msgctxt "all_content_list_description"
+msgid ""
+"YouGov has over 15 years of living consumer intelligence on the Media &amp; Content sector. Exceed the challenging demands of consumers and take your business strategy to the next level by exploring"
+" our latest industry insights below."
+msgstr ""
+
+msgctxt "cta_label"
+msgid "NEWSLETTER"
+msgstr ""
+
+msgctxt "cta_text"
+msgid "Subscribe to our Media &amp; Content Newsletter"
+msgstr ""
+
+msgctxt "cta_url"
+msgid "https://business.yougov.com/sectors/media-content?marketo=newsletter"
+msgstr ""
+
+msgctxt "case_studies_title"
+msgid "Media &amp; Content success stories"
+msgstr ""
+
+msgctxt "case_studies_label"
+msgid "CASE STUDIES"
+msgstr ""
+
+msgctxt "case_studies_description"
+msgid "Our products and services help the world’s most recognised brands, media owners, and agencies."
+msgstr ""

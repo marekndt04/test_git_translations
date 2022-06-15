@@ -1,0 +1,23 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:40.473143+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 3e57f482-554c-49c1-a99c-54220b0c3ee4\n"
+
+msgctxt "title"
+msgid "Lufthansa"
+msgstr ""
+
+msgctxt "description"
+msgid "\"We have found YouGov to be very cooperative. YouGov’s support was always characterized by a high level of competence and pragmatism and was always to our complete satisfaction.”"
+msgstr ""
+
+msgctxt "url"
+msgid "https://business.yougov.com/content/37583-lufthansa-brandindex-case-study"
+msgstr ""
+
+msgctxt "quote_author"
+msgid "<b>- Christian Krawczyk,</b> <b>Head of Customer Insights at Lufthansa</b>"
+msgstr ""

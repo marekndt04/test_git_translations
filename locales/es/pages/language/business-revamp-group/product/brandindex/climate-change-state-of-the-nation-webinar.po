@@ -1,0 +1,116 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:35.724834+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 1d4564fc-2acf-4434-8e00-3aa7c7112261\n"
+
+msgctxt "title"
+msgid "Climate Change: State of the Nation Webinar"
+msgstr ""
+
+msgctxt "slug"
+msgid "climate-change-state-of-the-nation-webinar"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Webinar: Climate Change"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Climate Change: The State of the Nation"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Webinar: Thursday 25 November at 11am"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Register today and learn from the nation on how you can inspire action against climate change in Britain"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/product/brandindex/climate-change-state-of-the-nation-webinar?marketo=register"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Register now"
+msgstr ""
+
+msgctxt "video_items.99d3b984-58e3-4600-a880-9e2834651b20"
+msgid "Webinar: Thursday 25 November, 11am"
+msgstr ""
+
+msgctxt "video_items.99d3b984-58e3-4600-a880-9e2834651b20"
+msgid ""
+"In the aftermath of COP26, there will never be a more critical time for businesses and government entities alike to understand the world’s current position on taking action to tackle climate change."
+msgstr ""
+
+msgctxt "video_items.99d3b984-58e3-4600-a880-9e2834651b20"
+msgid ""
+"In this webinar, YouGov will unveil fresh findings from a <b>brand new study into</b> <b>the UK’s climate change response</b> to identify the key changes that are needed for the country to meet its "
+"ambitious environmental targets."
+msgstr ""
+
+msgctxt "video_items.99d3b984-58e3-4600-a880-9e2834651b20"
+msgid ""
+"Leveraging our connected data and advanced analysis technology within behavioural change models among the public and businesses, join <b>Political Research Director, Anthony Wells</b> as he unveils "
+"the most important barriers to change and how policy makers could drive innovation to inspire action."
+msgstr ""
+
+msgctxt "video_items.111082e6-f02c-42b5-8575-9537e8feb3fe"
+msgid "<b>CAPABILITY</b> <b>&amp; OPPORTUNITY - How things can change</b>"
+msgstr ""
+
+msgctxt "video_items.111082e6-f02c-42b5-8575-9537e8feb3fe"
+msgid "Individuals vs Governments - who should drive change?"
+msgstr ""
+
+msgctxt "video_items.111082e6-f02c-42b5-8575-9537e8feb3fe"
+msgid "Perceived effectiveness of different policies"
+msgstr ""
+
+msgctxt "video_items.111082e6-f02c-42b5-8575-9537e8feb3fe"
+msgid "Budget vs spending priorities for climate change vs other areas"
+msgstr ""
+
+msgctxt "video_items.111082e6-f02c-42b5-8575-9537e8feb3fe"
+msgid "The impact of COP26"
+msgstr ""
+
+msgctxt "video_items.111082e6-f02c-42b5-8575-9537e8feb3fe"
+msgid "MOTIVATION &amp; BARRIERS - Willingness to take action"
+msgstr ""
+
+msgctxt "video_items.111082e6-f02c-42b5-8575-9537e8feb3fe"
+msgid "Perception and level of concern and support for climate change"
+msgstr ""
+
+msgctxt "video_items.111082e6-f02c-42b5-8575-9537e8feb3fe"
+msgid "Historical and international comparisons"
+msgstr ""
+
+msgctxt "video_items.111082e6-f02c-42b5-8575-9537e8feb3fe"
+msgid "Reality vs expectation - how much impact can consumer actions have?"
+msgstr ""
+
+msgctxt "video_items.111082e6-f02c-42b5-8575-9537e8feb3fe"
+msgid "IMPACT - Driving future change"
+msgstr ""
+
+msgctxt "video_items.111082e6-f02c-42b5-8575-9537e8feb3fe"
+msgid "Modelling ‘<b>big win</b>’ policies"
+msgstr ""
+
+msgctxt "video_items.111082e6-f02c-42b5-8575-9537e8feb3fe"
+msgid "Message testing to drive behavioural change"
+msgstr ""
+
+msgctxt "video_items.111082e6-f02c-42b5-8575-9537e8feb3fe"
+msgid "Identifying and converting target audiences"
+msgstr ""
+
+msgctxt "video_items.111082e6-f02c-42b5-8575-9537e8feb3fe"
+msgid "<a id=\"a1\"><b>Register today and learn from the nation on how you can inspire action against climate change in Britain</b></a>"
+msgstr ""

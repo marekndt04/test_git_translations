@@ -1,0 +1,113 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:31.069127+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 4d3b7b07-8d72-4273-a630-6233fd7b7071\n"
+
+msgctxt "title"
+msgid "Volvo's Consumer Insights Webinar On-Demand"
+msgstr ""
+
+msgctxt "slug"
+msgid "volvos-consumer-insights-webinar"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Volvo's Consumer Insights Webinar On-Demand"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Volvo's Consumer Insights Webinar On-Demand"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Volvo's Consumer Insights Webinar On-Demand"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "webinar"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "What is driving the digital and sustainable customer journey in the automotive sector?"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=request"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Request On-Demand Webinar"
+msgstr ""
+
+msgctxt "page_sections.174a937a-316f-400c-b2be-ad33433d9274.label"
+msgid "Webinar"
+msgstr ""
+
+msgctxt "video_items.a397785c-3876-4edc-8fb5-06a9ced8263c"
+msgid "Watch the Webinar recording in here"
+msgstr ""
+
+msgctxt "video_items.5fa36450-2a15-4b2c-814f-dd4f3f461ff6.video_id"
+msgid "zQBa3Feao3c"
+msgstr ""
+
+msgctxt "video_items.9716fb74-70cd-48a2-9801-479ffea5d337"
+msgid ""
+"YouGov is a world-leading online market research company with thousands of global panellists. Free to join, members are part of global community who share their opinions in return for points and "
+"rewards. Learn more about YouGov in the following video:"
+msgstr ""
+
+msgctxt "video_items.afbf7fcc-177a-43e7-9ccb-b37aa198aebb.video_id"
+msgid "95944485"
+msgstr ""
+
+msgctxt "video_items.365eb730-580b-4a38-88e7-3921800e74f9.main_cta_text"
+msgid "Subscribe to your sector newsletter"
+msgstr ""
+
+msgctxt "video_items.365eb730-580b-4a38-88e7-3921800e74f9.main_cta_url"
+msgid "?marketo=newsletter"
+msgstr ""
+
+msgctxt "links_title"
+msgid "Discover how YouGov can help you"
+msgstr ""
+
+msgctxt "links.a7e9fc7a-8b33-454d-9830-12870b947443.title"
+msgid "BrandIndex"
+msgstr ""
+
+msgctxt "links.a7e9fc7a-8b33-454d-9830-12870b947443.description"
+msgid "Track Global brand data daily to measure health, monitor growth, and inform strategy"
+msgstr ""
+
+msgctxt "links.a7e9fc7a-8b33-454d-9830-12870b947443.url"
+msgid "/product/brandindex/"
+msgstr ""
+
+msgctxt "links.8d484f0d-f7d9-4fdc-99f3-37c41215919c.title"
+msgid "Profiles"
+msgstr ""
+
+msgctxt "links.8d484f0d-f7d9-4fdc-99f3-37c41215919c.description"
+msgid "Deep dive into audience intelligence and targeting"
+msgstr ""
+
+msgctxt "links.8d484f0d-f7d9-4fdc-99f3-37c41215919c.url"
+msgid "/product/profiles/"
+msgstr ""
+
+msgctxt "links.a2d708e5-8eee-4f2e-8f94-26638595e87e.title"
+msgid "Direct"
+msgstr ""
+
+msgctxt "links.a2d708e5-8eee-4f2e-8f94-26638595e87e.description"
+msgid "24/7 self-service research and advertising with exceptional speed"
+msgstr ""
+
+msgctxt "links.a2d708e5-8eee-4f2e-8f94-26638595e87e.url"
+msgid "/product/direct/"
+msgstr ""

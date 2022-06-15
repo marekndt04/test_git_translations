@@ -1,0 +1,222 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:42.314817+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Profiles"
+msgstr ""
+
+msgctxt "slug"
+msgid "profiles"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Profiles: Audience Intelligence &amp; Targeting"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Identify target audience  profiles  for your campaigns.  Understand  your market’s demographics  and how they behave  using  Profiles  for  bespoke segmentations  to plan your marketing."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "BENEFITS"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Granular audience profiling, made simple"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Profiles"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Unparalleled audience intelligence"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Find and understand the audience that matters most to you. Build and customize a portrait of your consumers' entire world with unrivalled granularity.  Engage with your target audience at the right "
+"time, on the right channels. Create unbeatable brand strategies based on authentic consumer intelligence."
+msgstr ""
+
+msgctxt "hero_url_2"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text_2"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our connected solutions"
+msgstr ""
+
+msgctxt "bullet_lists_label"
+msgid "DATAPOINTS"
+msgstr ""
+
+msgctxt "bullet_lists_title"
+msgid "Discover what you didn’t know about your audience"
+msgstr ""
+
+msgctxt "bullet_lists_description"
+msgid "Use everything you never knew about your audience to build a hyper-granular portrait of not only them, but their entire world."
+msgstr ""
+
+msgctxt "bullet_lists_description"
+msgid "YouGov Profiles holds hundreds of thousands of data variables about YouGov panellists worldwide, across categories like:"
+msgstr ""
+
+msgctxt "case_studies_title"
+msgid "Why YouGov?"
+msgstr ""
+
+msgctxt "case_studies_label"
+msgid "CASE STUDIES"
+msgstr ""
+
+msgctxt "case_studies_description"
+msgid "You’re in good company. Join the top brands that use YouGov Profiles"
+msgstr ""
+
+msgctxt "benefit_items.5f601525-6684-4a3c-a977-f4e219c3f711.title"
+msgid "24hr cloud platform"
+msgstr ""
+
+msgctxt "benefit_items.5f601525-6684-4a3c-a977-f4e219c3f711.description"
+msgid "Your data is safely stored  in our cloud-based, high performance data store."
+msgstr ""
+
+msgctxt "benefit_items.b2bc4e66-7cd9-438b-91f8-606d800117be.title"
+msgid "Easy and interactive"
+msgstr ""
+
+msgctxt "benefit_items.b2bc4e66-7cd9-438b-91f8-606d800117be.description"
+msgid "Our simple drag-and-drop interface allows anyone to quickly get the data they need."
+msgstr ""
+
+msgctxt "benefit_items.e02dc66f-d68d-4bc0-a282-e30036258ec7.title"
+msgid "Research intuitive"
+msgstr ""
+
+msgctxt "benefit_items.e02dc66f-d68d-4bc0-a282-e30036258ec7.description"
+msgid "Multiple modes of analysis including: group comparison, tables, graphs, and multitables to help you get the most from your data."
+msgstr ""
+
+msgctxt "benefit_items.e8f74645-568e-4deb-9a52-b5186f999e5f.title"
+msgid "Weekly updates"
+msgstr ""
+
+msgctxt "benefit_items.e8f74645-568e-4deb-9a52-b5186f999e5f.description"
+msgid "Data sets are refreshed every week, for the freshest, most relevant data."
+msgstr ""
+
+msgctxt "benefit_items.99982457-a39e-4151-a927-20a0a86386e5.title"
+msgid "Flexible"
+msgstr ""
+
+msgctxt "benefit_items.99982457-a39e-4151-a927-20a0a86386e5.description"
+msgid "Create unique custom filters and variables to extract the data that's most useful to you."
+msgstr ""
+
+msgctxt "benefit_items.08b113fe-2605-418a-a66e-af5c106917f7.title"
+msgid "Collaborative"
+msgstr ""
+
+msgctxt "benefit_items.08b113fe-2605-418a-a66e-af5c106917f7.description"
+msgid "Share data sets and custom filters, externally or with your team, quickly and easily."
+msgstr ""
+
+msgctxt "benefit_items.6730653c-1f5c-4030-9595-8d7bd90d508d.title"
+msgid "Smart"
+msgstr ""
+
+msgctxt "benefit_items.6730653c-1f5c-4030-9595-8d7bd90d508d.description"
+msgid "YouGov uses Z-scores to automatically highlight the important variables that distinguish groups."
+msgstr ""
+
+msgctxt "benefit_items.3fdd1e73-5f8e-4aa1-81ab-a8a79d935c8d.title"
+msgid "Customizable"
+msgstr ""
+
+msgctxt "benefit_items.3fdd1e73-5f8e-4aa1-81ab-a8a79d935c8d.description"
+msgid "Use YouGov Re-Contact to approach defined segments with further questions, or run your own surveys and feed the results straight into YouGov Profiles."
+msgstr ""
+
+msgctxt "benefit_items.cfa0b359-9cdd-4448-8d60-407c6548068e.title"
+msgid "Depth of comparison"
+msgstr ""
+
+msgctxt "benefit_items.cfa0b359-9cdd-4448-8d60-407c6548068e.description"
+msgid "Compare data in all markets over specific time frames, global variables, pre-coded variables (such as income) and more."
+msgstr ""
+
+msgctxt "bullet_list_items.775c613e-07a5-4c8f-a324-5ef71e4cc259.bullets"
+msgid ""
+"Audiences\r"
+"<br/>Brand Use &amp; Perception"
+msgstr ""
+
+msgctxt "bullet_list_items.70546358-6a12-4501-912f-8e8418f023f7.bullets"
+msgid ""
+"Consumer Behaviour\r"
+"<br/>Current Events"
+msgstr ""
+
+msgctxt "bullet_list_items.5ab00b87-37ef-489f-b51c-6035d8684eaf.bullets"
+msgid ""
+"Custom\r"
+"<br/>Media Habits"
+msgstr ""
+
+msgctxt "content_image_items.46ee3dd5-bfaa-4e23-aec3-74fbb0855772.title"
+msgid "Explore living data"
+msgstr ""
+
+msgctxt "content_image_items.46ee3dd5-bfaa-4e23-aec3-74fbb0855772.description"
+msgid "<b>YouGov Profiles</b> is an ever-growing source of living consumer data, with 2 million+ data variables from YouGov’s <b>17 million+ global panel members</b> in <b>49 markets</b>."
+msgstr ""
+
+msgctxt "content_image_items.46ee3dd5-bfaa-4e23-aec3-74fbb0855772.description"
+msgid "Covering demographic, psychographic, attitudinal and behavioral consumer metrics, our data is collected daily and updated weekly."
+msgstr ""
+
+msgctxt "content_image_items.46ee3dd5-bfaa-4e23-aec3-74fbb0855772.description"
+msgid "Connect to <a id=\"a1\"><b>YouGov BrandIndex</b></a> for the most comprehensive view of everything your audience thinks, and feels about the world around them."
+msgstr ""
+
+msgctxt "content_image_items.46ee3dd5-bfaa-4e23-aec3-74fbb0855772.description"
+msgid "Exactly the insights you need, when you need them."
+msgstr ""
+
+msgctxt "content_image_items.636875f8-17d2-4549-a7c1-9a3c6fed5ee9.title"
+msgid "Understand your audience in depth"
+msgstr ""
+
+msgctxt "content_image_items.636875f8-17d2-4549-a7c1-9a3c6fed5ee9.description"
+msgid ""
+"Precise<b> audience profiling and segmentation</b> empowers you with the knowledge of how to engage with your target audience at the right time, on the right channels. Understand what your audience "
+"loves and talk to them where they’re most receptive."
+msgstr ""
+
+msgctxt "content_image_items.636875f8-17d2-4549-a7c1-9a3c6fed5ee9.description"
+msgid "YouGov Profiles is part of an ever-growing source of constantly evolving, connected intelligence. We call it living data."
+msgstr ""
+
+msgctxt "content_image_items.636875f8-17d2-4549-a7c1-9a3c6fed5ee9.description"
+msgid ""
+"Plan your strategy with YouGov Profiles, then easily connect to YouGov's other solutions; <a id=\"a1\">Track</a> brand health, <a id=\"a2\">Explore</a> online behavior, <a id=\"a3\">Activate</a> "
+"campaigns and more."
+msgstr ""
+
+msgctxt "content_image_items.636875f8-17d2-4549-a7c1-9a3c6fed5ee9.description"
+msgid "A truly 360° view of your audience."
+msgstr ""

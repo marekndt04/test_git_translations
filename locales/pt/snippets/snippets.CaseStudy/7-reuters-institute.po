@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:38.998914+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 69c45fe5-b8b8-47b4-a77a-4755067eb2f8\n"
+
+msgctxt "title"
+msgid "Reuters Institute"
+msgstr ""
+
+msgctxt "description"
+msgid "YouGov has been an outstanding partner for our Digital News Report, the largest ongoing international study of news and media use across the world."
+msgstr ""
+
+msgctxt "url"
+msgid "https://yougov.co.uk/topics/resources/articles-reports/2019/06/18/worlds-largest-digital-news-report"
+msgstr ""

@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:30.830992+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: e2081b30-17c9-4398-be1f-94aa384c794b\n"
+
+msgctxt "title"
+msgid "Identify, understand and target audiences"
+msgstr "Zielgruppen identifizieren, verstehen und ansprechen "
+
+msgctxt "description"
+msgid "Accurately identify audiences to plan targeted outreach."
+msgstr "Identifizieren Sie Zielgruppen leicht und genau."
+
+msgctxt "url"
+msgid "/solutions/audience/"
+msgstr "/de/loesungen/zielgruppen/"

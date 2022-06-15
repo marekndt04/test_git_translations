@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:36.363202+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 6c87744a-47c1-4c2d-9d36-e0660d898fa0\n"
+
+msgctxt "title"
+msgid "GameIndex"
+msgstr ""
+
+msgctxt "description"
+msgid "Daily video game franchise and publisher brand tracking."
+msgstr ""
+
+msgctxt "url"
+msgid "https://business.yougov.com/product/brandindex/gameindex"
+msgstr ""

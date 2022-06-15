@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:30.141406+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 6ac96b75-0392-447d-a6e7-e7b552bfd365\n"
+
+msgctxt "title"
+msgid "ShortList"
+msgstr ""
+
+msgctxt "description"
+msgid "The ability to look at our reader profiles against so many thousands of attitudes, beliefs and behaviours is hugely valuable."
+msgstr ""
+
+msgctxt "url"
+msgid "https://yougov.co.uk/topics/resources/articles-reports/2018/09/05/how-does-shortlist-get-edge-when-it-comes-understa"
+msgstr ""

@@ -1,0 +1,87 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:35.890113+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: ee60e123-ed09-489e-bca4-a6a2467563e8\n"
+
+msgctxt "title"
+msgid "On-demand Webinar: Best Brand Rankings UK"
+msgstr ""
+
+msgctxt "slug"
+msgid "yougov-webinar-on-demand-best-brands-2021-uk"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Webinar: Best Brand Rankings UK"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "UK 2021 Best Brand Rankings"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "On-demand Webinar:"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Hear from M&amp;S, Octopus Energy and Whirlpool as they unlock what drove the nation’s Best Brands to maintain and increase their brand health over the past year."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Get in touch"
+msgstr ""
+
+msgctxt "page_sections.f292a332-f0d3-41a1-8dfb-5a11e2535aec.video_id"
+msgid "xxTGzkvReNU"
+msgstr ""
+
+msgctxt "video_items.e1facc21-aad3-4b4d-ae45-aa2d5619f95a"
+msgid ""
+"On 16 November 2021 YouGov unveiled our 2021 Global Best Brand Rankings - the top brands with the best and biggest uplift in positive consumer brand health worldwide, according to our daily brand "
+"tracker YouGov BrandIndex."
+msgstr ""
+
+msgctxt "video_items.e1facc21-aad3-4b4d-ae45-aa2d5619f95a"
+msgid ""
+"YouGov's Head of Account Management, Angela Miller, interviewed an exclusive panel of experts, including <b>M&amp;S,</b> <b>Octopus Energy and Whirlpool</b>, to unlock the key drivers behind the "
+"nation’s Best Brands for 2021."
+msgstr ""
+
+msgctxt "video_items.e1facc21-aad3-4b4d-ae45-aa2d5619f95a"
+msgid "What you'll learn:"
+msgstr ""
+
+msgctxt "video_items.e1facc21-aad3-4b4d-ae45-aa2d5619f95a"
+msgid "The key consumer metrics that drove brand health for the top 10 improvers in the UK, from Impression and Recommendation, to Quality, Value, Reputation and Satisfaction"
+msgstr ""
+
+msgctxt "video_items.e1facc21-aad3-4b4d-ae45-aa2d5619f95a"
+msgid "The strategy and tactics behind the metric movements that won over the hearts of consumers as the world started to open up post COVID-19"
+msgstr ""
+
+msgctxt "video_items.e1facc21-aad3-4b4d-ae45-aa2d5619f95a"
+msgid "The significance of brand health as a derived metric to prove brand success."
+msgstr ""
+
+msgctxt "video_items.e1facc21-aad3-4b4d-ae45-aa2d5619f95a"
+msgid "Speakers:"
+msgstr ""
+
+msgctxt "video_items.e1facc21-aad3-4b4d-ae45-aa2d5619f95a"
+msgid "Sharry Cramond<br/>Marketing Director, M&amp;S Food"
+msgstr ""
+
+msgctxt "video_items.e1facc21-aad3-4b4d-ae45-aa2d5619f95a"
+msgid "Max McShane<br/>Digital Marketing Director, Octopus Energy"
+msgstr ""
+
+msgctxt "video_items.e1facc21-aad3-4b4d-ae45-aa2d5619f95a"
+msgid "Ian Moverley<br/>UK Communications &amp; Public Affairs Director, Whirlpool"
+msgstr ""

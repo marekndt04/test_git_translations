@@ -1,0 +1,102 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:38.877495+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Understand Audiences"
+msgstr ""
+
+msgctxt "slug"
+msgid "understand-audience"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Audience Analysis and Demographics"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Understand your audience's lifestyle, media consumption preferences, behaviors and more with rich data and insights from YouGov solutions that will help you to build personas."
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Understand your audience"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Know what your audience thinks"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Leverage 20 years of Living Consumer Intelligence and advanced analytics technology to create a 360° view your audience. Filter and segment your audience across hundreds of categories to understand "
+"exactly what influences and motivates consumers to take action."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our audience solutions"
+msgstr ""
+
+msgctxt "content_image_items.bdb93c39-4314-40c5-bdee-007bdda64ef0.title"
+msgid "High-level audience intelligence"
+msgstr ""
+
+msgctxt "content_image_items.bdb93c39-4314-40c5-bdee-007bdda64ef0.description"
+msgid "Want to know what your audience thinks and feels? Get quick,<b> free intelligence</b> with <a id=\"a1\"><b>YouGov Audience Explorer,</b></a> helping you to understand an overview of your audience."
+msgstr ""
+
+msgctxt "content_image_items.bdb93c39-4314-40c5-bdee-007bdda64ef0.description"
+msgid "Understand their lifestyle and media consumption preferences, which brands they like, and their advertising attitudes, hobbies and interests."
+msgstr ""
+
+msgctxt "content_image_items.bdb93c39-4314-40c5-bdee-007bdda64ef0.description"
+msgid "Easily share your findings in a deck-ready visual format, and get rapid insights for your pitches and campaigns."
+msgstr ""
+
+msgctxt "content_image_items.0f9d0865-78c8-4dbd-82b9-0a76a6e41005.title"
+msgid "Granular audience intelligence"
+msgstr ""
+
+msgctxt "content_image_items.0f9d0865-78c8-4dbd-82b9-0a76a6e41005.description"
+msgid "<b>Create a detailed</b> <b>view of your personas</b> using our flagship audience intelligence tool <a id=\"a1\"><b>YouGov Profiles</b></a>."
+msgstr ""
+
+msgctxt "content_image_items.0f9d0865-78c8-4dbd-82b9-0a76a6e41005.description"
+msgid ""
+"Build richer, deeper understandings of your audience with our profiling database of nearly 2 billion global consumer metrics cover demographic, psychographic, attitudinal and behavioural consumer "
+"variables to help you"
+msgstr ""
+
+msgctxt "content_image_items.0f9d0865-78c8-4dbd-82b9-0a76a6e41005.description"
+msgid "Use <a id=\"a1\"><b>YouGov Profiles</b></a> to plan game-changing product, brand and marketing strategies, or for media planning to achieve long-term business success."
+msgstr ""
+
+msgctxt "content_image_items.2495e817-7f57-4dcf-be51-cfaeb34a3dcf.title"
+msgid "Bespoke audience research"
+msgstr ""
+
+msgctxt "content_image_items.2495e817-7f57-4dcf-be51-cfaeb34a3dcf.description"
+msgid "Whatever your project scope and budget, we’ll find the most accurate and cost-effective way to get the data you need."
+msgstr ""
+
+msgctxt "content_image_items.2495e817-7f57-4dcf-be51-cfaeb34a3dcf.description"
+msgid "Get end-to-end support from research specialists including sample framing, questionnaire design, analysis and more, with <a id=\"a1\"><b>YouGov Custom Research solutions.</b></a>"
+msgstr ""
+
+msgctxt "content_image_items.2495e817-7f57-4dcf-be51-cfaeb34a3dcf.description"
+msgid "Leverage our advanced survey analysis technology, category expertise and sector experience. We’ll make sure you’re supported every step of the way."
+msgstr ""

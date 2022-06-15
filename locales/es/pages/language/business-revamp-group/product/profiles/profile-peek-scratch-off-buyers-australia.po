@@ -1,0 +1,84 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:36.669912+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: d86613ad-0ed1-4ae4-afd4-216127df61f2\n"
+
+msgctxt "title"
+msgid "Profile Peeks: Scratch-off Buyers in Australia"
+msgstr ""
+
+msgctxt "slug"
+msgid "profile-peek-scratch-off-buyers-australia"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Profile Peeks: Scratch-off Buyers in Australia"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Scratch-off Buyers in Australia"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Profile Peeks"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Who are the scratch-off buyers in Australia and how to reach out to them?"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/product/profiles/profile-peek-scratch-off-buyers-australia?marketo=download"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Download the full Profile Peeks"
+msgstr ""
+
+msgctxt "video_items.9fa1d33a-7463-4bc9-9973-a0529525b6f0"
+msgid ""
+"<a id=\"a1\">YouGov's International Gambling Report 2021</a> reveals that the popularity of online gambling globally has achieved new highs. However, does the rise of online gambling mean that the "
+"traditional one would have fallen to the wayside? It doesn't seem to be the case in Australia - where nearly one in five (17%) Aussies saying they have bought a scratch ticket in the last 12 months "
+"- reveals YouGov Profiles data."
+msgstr ""
+
+msgctxt "video_items.9fa1d33a-7463-4bc9-9973-a0529525b6f0"
+msgid "Our latest Profile Peeks delves into the persona of scratch-off buyers in Australia, revealing:-"
+msgstr ""
+
+msgctxt "video_items.9fa1d33a-7463-4bc9-9973-a0529525b6f0"
+msgid "Demographics of this segment group"
+msgstr ""
+
+msgctxt "video_items.9fa1d33a-7463-4bc9-9973-a0529525b6f0"
+msgid "Their attitudes towards adverts and various topics"
+msgstr ""
+
+msgctxt "video_items.9fa1d33a-7463-4bc9-9973-a0529525b6f0"
+msgid "Top advert channels that grab their attention"
+msgstr ""
+
+msgctxt "video_items.9fa1d33a-7463-4bc9-9973-a0529525b6f0"
+msgid "Factors affecting their selection of sports betting providers, and"
+msgstr ""
+
+msgctxt "video_items.9fa1d33a-7463-4bc9-9973-a0529525b6f0"
+msgid "Gambling activities they are more likely to participate in over the past 12 months besides buying a scratch ticket"
+msgstr ""
+
+msgctxt "video_items.9fa1d33a-7463-4bc9-9973-a0529525b6f0"
+msgid "<a id=\"a1\">Download the full Profile Peeks now</a>"
+msgstr ""
+
+msgctxt "video_items.9fa1d33a-7463-4bc9-9973-a0529525b6f0"
+msgid "About Profile Peeks"
+msgstr ""
+
+msgctxt "video_items.9fa1d33a-7463-4bc9-9973-a0529525b6f0"
+msgid ""
+"Drawing on data from across YouGov’s vast connected ecosystem, Profile Peeks are infographics that deep dive into a niche audience group segmented based on trending sector topics. Showcasing a range"
+" of behavioural and attitudinal insights they are designed to help brands and agencies get that little bit closer to the consumers they need to understand most."
+msgstr ""

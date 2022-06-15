@@ -1,0 +1,115 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:32.417941+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 41b08384-fc45-43dc-97a1-52944ec7e3fc\n"
+
+msgctxt "title"
+msgid "GameIndex"
+msgstr ""
+
+msgctxt "slug"
+msgid "gameindex"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov GameIndex"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Measure public perception of video game publishers and franchises, daily, to help inform your gaming strategy."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "BENEFITS"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Stay ahead of the competition"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "GameIndex"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Daily video game publisher and franchise brand tracking"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Inform your gaming strategy, measure public perception of major video game publishers and franchises."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/product/brandindex/gameindex/?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our connected living data solutions"
+msgstr ""
+
+msgctxt "benefit_items.35cf5a79-ee4f-49b2-995a-d9b9b6583af8.title"
+msgid "Customizable, daily tracking"
+msgstr ""
+
+msgctxt "benefit_items.35cf5a79-ee4f-49b2-995a-d9b9b6583af8.description"
+msgid "Make sense of industry-specific data in real-time. Add custom trigger questions for your brand to our daily surveys."
+msgstr ""
+
+msgctxt "benefit_items.45e073eb-188c-4ecf-9a00-53834c4960ca.title"
+msgid "Global coverage"
+msgstr ""
+
+msgctxt "benefit_items.45e073eb-188c-4ecf-9a00-53834c4960ca.description"
+msgid "Consistent data available in US, UK, France, Germany, Brazil, South Korea, Vietnam and China."
+msgstr ""
+
+msgctxt "benefit_items.9966f359-76dc-40ac-8931-2ca790e7691f.title"
+msgid "Relevant audience intelligence"
+msgstr ""
+
+msgctxt "benefit_items.9966f359-76dc-40ac-8931-2ca790e7691f.description"
+msgid "Reach general consumers 18+, plus access a specialized sample of respondents interested in gaming, esports, and more."
+msgstr ""
+
+msgctxt "content_image_items.827d1380-6445-4d4c-86db-f2a03c862cbe.title"
+msgid "Level-up your marketing strategy"
+msgstr ""
+
+msgctxt "content_image_items.827d1380-6445-4d4c-86db-f2a03c862cbe.description"
+msgid "Get an instant view of what consumers really think of gaming brands."
+msgstr ""
+
+msgctxt "content_image_items.827d1380-6445-4d4c-86db-f2a03c862cbe.description"
+msgid "Powered by our brand health tracking tool, continuously track <b>40</b> publishers and <b>70</b> franchises across <b>16</b> key brand health metrics."
+msgstr ""
+
+msgctxt "content_image_items.827d1380-6445-4d4c-86db-f2a03c862cbe.description"
+msgid "React quickly to industry shifts and crises, and assess positive and negative feelings towards brands."
+msgstr ""
+
+msgctxt "content_image_items.fa646575-e329-46f7-829c-4a8196aa1b95.title"
+msgid "Stay on top of industry changes, and competitors"
+msgstr ""
+
+msgctxt "content_image_items.fa646575-e329-46f7-829c-4a8196aa1b95.description"
+msgid ""
+"Keep up to date with new announcements, evaluate potential partnerships, and monitor campaign performance. Then, compare your brand against the competition to accurately create and strategize growth"
+" opportunities."
+msgstr ""
+
+msgctxt "content_image_items.fa646575-e329-46f7-829c-4a8196aa1b95.description"
+msgid ""
+"Examine continuous data flow and monitor change over time to keep up with gaming audiences. Measure partnership and sponsorship successes, both short and long-term, across multiple sectors and "
+"audiences. Access all data within one dashboard, displayed in multiple formats."
+msgstr ""

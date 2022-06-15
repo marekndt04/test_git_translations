@@ -1,0 +1,107 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:37.804681+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 519931b2-a7e7-436b-9907-5ab6633c0e32\n"
+
+msgctxt "title"
+msgid "US Homeowners Omnibus"
+msgstr ""
+
+msgctxt "slug"
+msgid "us-homeowners-omnibus"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "US Homeowners Omnibus"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Why YouGov?"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "US Homeowners Omnibus"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "From home repairs and maintenance to life goals to issues facing their community, capture US homeowner perspectives on your business challenges."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "rates_title"
+msgid "Homeowner Omnibus rates"
+msgstr ""
+
+msgctxt "rates_description"
+msgid "Including survey design, full-service support, and full results analysis."
+msgstr ""
+
+msgctxt "benefit_items.2ef22ca2-04a2-4abb-96ce-fdf2bb9505f7.title"
+msgid "Reach 1,000 US homeowners"
+msgstr ""
+
+msgctxt "benefit_items.2ef22ca2-04a2-4abb-96ce-fdf2bb9505f7.description"
+msgid "Tap into the opinions and perspectives of this distinct market."
+msgstr ""
+
+msgctxt "benefit_items.3b8a219f-7db1-4b3c-9a0a-4a111f9535d5.title"
+msgid "Frequent surveys"
+msgstr ""
+
+msgctxt "benefit_items.3b8a219f-7db1-4b3c-9a0a-4a111f9535d5.description"
+msgid "Launch surveys on any business day."
+msgstr ""
+
+msgctxt "benefit_items.59f1777b-43b1-4749-aa08-1c705df9f69b.title"
+msgid "Fast results"
+msgstr ""
+
+msgctxt "benefit_items.59f1777b-43b1-4749-aa08-1c705df9f69b.description"
+msgid "Actionable results delivered in 2 business days."
+msgstr ""
+
+msgctxt "rates_table_header.a1131526-21a5-4e6f-9fe1-bfdcc6561a2f.column_2"
+msgid "Respondents"
+msgstr ""
+
+msgctxt "rates_table_header.a1131526-21a5-4e6f-9fe1-bfdcc6561a2f.column_3"
+msgid "Entry"
+msgstr ""
+
+msgctxt "rates_table_header.a1131526-21a5-4e6f-9fe1-bfdcc6561a2f.column_4"
+msgid "Standard question"
+msgstr ""
+
+msgctxt "rates_table_header.a1131526-21a5-4e6f-9fe1-bfdcc6561a2f.column_5"
+msgid "Results"
+msgstr ""
+
+msgctxt "rates_table_rows.5d30eb5f-2dd9-4e33-83d1-71709a863604.column_1"
+msgid "American Homeowners"
+msgstr ""
+
+msgctxt "rates_table_rows.5d30eb5f-2dd9-4e33-83d1-71709a863604.column_2"
+msgid "1000"
+msgstr ""
+
+msgctxt "rates_table_rows.5d30eb5f-2dd9-4e33-83d1-71709a863604.column_3"
+msgid "$300"
+msgstr ""
+
+msgctxt "rates_table_rows.5d30eb5f-2dd9-4e33-83d1-71709a863604.column_4"
+msgid "$750"
+msgstr ""
+
+msgctxt "rates_table_rows.5d30eb5f-2dd9-4e33-83d1-71709a863604.column_5"
+msgid "2 business days"
+msgstr ""

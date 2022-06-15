@@ -1,0 +1,25 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:39.283457+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 79572d21-f719-4b34-b46a-e5e2957b8003\n"
+
+msgctxt "title"
+msgid "Sarson's"
+msgstr ""
+
+msgctxt "description"
+msgid ""
+"“We needed to make an urgent and critical business decision that required a robust evidence base to support it. YouGov Direct’s speed and service over the Christmas period allowed us to make that "
+"decision with confidence.”"
+msgstr ""
+
+msgctxt "url"
+msgid "https://business.yougov.com/content/35211-sarsons-direct-case-study"
+msgstr ""
+
+msgctxt "quote_author"
+msgid "Rebecca Hargadon, Marketing Manager at Mizkan Euro"
+msgstr ""

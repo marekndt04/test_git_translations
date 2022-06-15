@@ -1,0 +1,155 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:39.560644+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Global Affiliate Partnerships"
+msgstr ""
+
+msgctxt "slug"
+msgid "global-affiliate-partnerships"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Global Affiliate Partnerships"
+msgstr ""
+
+msgctxt "search_description"
+msgid "YouGov’s licensed reseller partners across the world."
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Global Affiliate Partnerships"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "YouGov’s licensed reseller partners across the world."
+msgstr ""
+
+msgctxt "rates_table_header.10e56545-b72a-4eae-8ae7-c755fdfe1616.column_1"
+msgid "Partner"
+msgstr ""
+
+msgctxt "rates_table_header.10e56545-b72a-4eae-8ae7-c755fdfe1616.column_2"
+msgid "Region"
+msgstr ""
+
+msgctxt "rates_table_header.10e56545-b72a-4eae-8ae7-c755fdfe1616.column_3"
+msgid "Description"
+msgstr ""
+
+msgctxt "rates_table_rows.cf5f99c9-ef22-43fa-95ea-a4603734974b.column_1"
+msgid "<a id=\"a1\">Nippon Research Center, Ltd.</a>"
+msgstr ""
+
+msgctxt "rates_table_rows.cf5f99c9-ef22-43fa-95ea-a4603734974b.column_2"
+msgid "Japan"
+msgstr ""
+
+msgctxt "rates_table_rows.cf5f99c9-ef22-43fa-95ea-a4603734974b.column_3"
+msgid ""
+"Established in 1960, NRC is one of the pioneers of research industry in Japan and offers a wide range of research services, from marketing, opinion polls, to academic research, local and "
+"international, using various research methods."
+msgstr ""
+
+msgctxt "rates_table_rows.68e87e15-a6b8-4877-a1a6-7e3976b9832b.column_1"
+msgid "<a id=\"a1\">Synergy Market Research + Strategic Consultancy</a>"
+msgstr ""
+
+msgctxt "rates_table_rows.68e87e15-a6b8-4877-a1a6-7e3976b9832b.column_2"
+msgid "Philippines"
+msgstr ""
+
+msgctxt "rates_table_rows.68e87e15-a6b8-4877-a1a6-7e3976b9832b.column_3"
+msgid "Synergy is a management consulting company that provides evidence-based strategies for companies through research and analytics and through its immersion with consumers in the past 20 years."
+msgstr ""
+
+msgctxt "rates_table_rows.b0bf814e-e090-4f34-89e8-38701954840c.column_1"
+msgid "<a id=\"a1\">Decision Lab</a>"
+msgstr ""
+
+msgctxt "rates_table_rows.b0bf814e-e090-4f34-89e8-38701954840c.column_2"
+msgid "Vietnam"
+msgstr ""
+
+msgctxt "rates_table_rows.b0bf814e-e090-4f34-89e8-38701954840c.column_3"
+msgid "Decision Lab is a boutique market research company leading in measuring and optimising digital marketing campaigns."
+msgstr ""
+
+msgctxt "rates_table_rows.0389baa1-6d10-452c-bd4b-5ec261a0a282.column_1"
+msgid "<a id=\"a1\">Ventures Middle East</a>"
+msgstr ""
+
+msgctxt "rates_table_rows.0389baa1-6d10-452c-bd4b-5ec261a0a282.column_2"
+msgid "Egypt"
+msgstr ""
+
+msgctxt "rates_table_rows.0389baa1-6d10-452c-bd4b-5ec261a0a282.column_3"
+msgid "Established in 2002, Ventures Middle East (VME) is an international management consulting company providing strategic business advisory services across the GCC and the wider MENA region."
+msgstr ""
+
+msgctxt "rates_table_rows.7cddecd7-a785-4731-86d9-238acbe99743.column_1"
+msgid "<a id=\"a1\">KLA Market Research</a>"
+msgstr ""
+
+msgctxt "rates_table_rows.7cddecd7-a785-4731-86d9-238acbe99743.column_2"
+msgid "South Africa"
+msgstr ""
+
+msgctxt "rates_table_rows.7cddecd7-a785-4731-86d9-238acbe99743.column_3"
+msgid "KLA is an intelligence and professional insights agency that helps our clients solve key strategic business questions."
+msgstr ""
+
+msgctxt "rates_table_rows.27fddbb4-79ba-45f7-9f1f-16ea1c29540a.column_1"
+msgid "<a id=\"a1\">Focus Bari</a>"
+msgstr ""
+
+msgctxt "rates_table_rows.27fddbb4-79ba-45f7-9f1f-16ea1c29540a.column_2"
+msgid "Greece"
+msgstr ""
+
+msgctxt "rates_table_rows.27fddbb4-79ba-45f7-9f1f-16ea1c29540a.column_3"
+msgid ""
+"Focus Bari is a leading full service market research agency in Greece, boasting a 32-year operation &amp; successful presence in Media, Advertising, Technology, Telecoms &amp; Customer Experience."
+msgstr ""
+
+msgctxt "rates_table_rows.13548e35-5674-461c-b10f-b66a042b89a3.column_1"
+msgid "<a id=\"a1\">ThinkONE Research &amp; Consulting</a>"
+msgstr ""
+
+msgctxt "rates_table_rows.13548e35-5674-461c-b10f-b66a042b89a3.column_2"
+msgid "Morocco"
+msgstr ""
+
+msgctxt "rates_table_rows.13548e35-5674-461c-b10f-b66a042b89a3.column_3"
+msgid "ThinkONE Research &amp; Consulting is an innovative agency specialized in market intelligence, customer insight (qualitative &amp; quantitative studies) and data analytics."
+msgstr ""
+
+msgctxt "rates_table_rows.1eb32258-b18f-4e85-9c94-a6f4b05aea01.column_1"
+msgid "<a id=\"a1\">Inquiry sp. z o.o.</a>"
+msgstr ""
+
+msgctxt "rates_table_rows.1eb32258-b18f-4e85-9c94-a6f4b05aea01.column_2"
+msgid "Poland"
+msgstr ""
+
+msgctxt "rates_table_rows.1eb32258-b18f-4e85-9c94-a6f4b05aea01.column_3"
+msgid ""
+"Inquiry’s research services cover Eastern European countries including Poland, Russia, Czech Republic, Slovakia, Ukraine, Bulgaria, Romania, Hungary, the Baltic states and other countries of the "
+"region."
+msgstr ""
+
+msgctxt "rates_table_rows.561d1020-8041-42b2-8cc2-aaf44892a075.column_1"
+msgid "<a id=\"a1\">OMI (Online Market Intelligence)</a>"
+msgstr ""
+
+msgctxt "rates_table_rows.561d1020-8041-42b2-8cc2-aaf44892a075.column_2"
+msgid "Russia"
+msgstr ""
+
+msgctxt "rates_table_rows.561d1020-8041-42b2-8cc2-aaf44892a075.column_3"
+msgid "OMI (Online Market Intelligence) provides high quality online research in Russia, Ukraine, Belarus and Kazakhstan. It is the only ISO 20252 certified panel provider in Russia."
+msgstr ""

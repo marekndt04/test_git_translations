@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:31.692751+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 5d82e733-6bf0-4a05-b20a-1412f598c360\n"
+
+msgctxt "title"
+msgid "Natco Foods"
+msgstr ""
+
+msgctxt "description"
+msgid "The presentation of the results were very clear and we keep referring back to them to shed light on new questions as they occur to us, using the ability to slice the data in different ways."
+msgstr ""
+
+msgctxt "url"
+msgid "https://yougov.co.uk/topics/resources/articles-reports/2019/01/31/how-does-food-manufacturer-measure-their-brand-per"
+msgstr ""

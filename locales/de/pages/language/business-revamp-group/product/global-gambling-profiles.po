@@ -1,0 +1,128 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:32.251379+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 8a0dc56f-26e4-4247-b968-fac58ad2f4f7\n"
+
+msgctxt "title"
+msgid "Global Gambling Profiles"
+msgstr "Global Gambling Profiles"
+
+msgctxt "slug"
+msgid "global-gambling-profiles"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Global Gambling Profiles"
+msgstr ""
+
+msgctxt "search_description"
+msgid ""
+"YouGov Global Gambling Profiles is the first tool of its kind with unparalleled intelligence on gambling audiences, from bets to brands, across 24 markets. Identify industry insights at a global and"
+" local level, track behaviors and attitudes and get a full picture of your target consumers."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "BENEFITS"
+msgstr "Vorteile"
+
+msgctxt "benefits_title"
+msgid "Our unique tool provides you with:"
+msgstr "Unser einzigartiges Tool bietet Ihnen:"
+
+msgctxt "hero_title"
+msgid "Global Gambling Profiles"
+msgstr "Global Gambling Profiles"
+
+msgctxt "hero_label"
+msgid "Game-changing intelligence on gambling audiences"
+msgstr "Neue Erkenntnisse über das Glücksspielpublikum"
+
+msgctxt "hero_description"
+msgid ""
+"A comprehensive look into gambling prevalence and gamblers across 24 markets. Get the most up-to-date gambling industry data at a global and local level. Track behaviors and attitudes across the "
+"gambling space for a full picture of your target audience, updated monthly."
+msgstr ""
+"Ein umfassender Blick auf die Prävalenz von Glücksspielen und Spielern in 24 Märkten. Erhalten Sie die aktuellsten Daten der Glücksspielindustrie auf globaler und lokaler Ebene. Verfolgen Sie "
+"Verhaltensweisen und Einstellungen im gesamten Glücksspielbereich, um ein vollständiges Bild Ihrer Zielgruppe zu erhalten, das monatlich aktualisiert wird."
+
+msgctxt "hero_url_3"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text_3"
+msgid "Unlock gambling insights"
+msgstr "Einblicke in das Glücksspiel"
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr "Lösungen &amp; Produkte"
+
+msgctxt "products_title"
+msgid "Explore our connected living data solutions"
+msgstr "Entdecken Sie unsere vernetzten Datenlösungen"
+
+msgctxt "benefit_items.f4bc196e-3a5b-408a-82d3-2134b6895404.title"
+msgid "Accurate industry analysis"
+msgstr "Präzise Branchenanalyse"
+
+msgctxt "benefit_items.f4bc196e-3a5b-408a-82d3-2134b6895404.description"
+msgid "Market sizing across 24 markets with new data collected and updated monthly."
+msgstr "Marktgrößenbestimmung für 24 Märkte mit monatlich neu erhobenen und aktualisierten Daten."
+
+msgctxt "benefit_items.64a72089-d34a-48c3-a2f0-f8bd5d30532c.title"
+msgid "Data consistency"
+msgstr "Datenkonsistenz"
+
+msgctxt "benefit_items.64a72089-d34a-48c3-a2f0-f8bd5d30532c.description"
+msgid "Measure trends across a consistent set of gambling metrics to inform strategic decisions, from slots to esports."
+msgstr "Messen Sie Trends über eine konsistente Menge von Glücksspielmetriken, um strategische Entscheidungen zu treffen, von Spielautomaten bis zu Esports."
+
+msgctxt "benefit_items.f72b0511-4a1e-4b7d-aac0-f5b7303bb9ad.title"
+msgid "Unparalleled audience insights"
+msgstr "Unvergleichliche Einblicke in die Zielgruppe"
+
+msgctxt "benefit_items.f72b0511-4a1e-4b7d-aac0-f5b7303bb9ad.description"
+msgid "Analyze gamblers against a range of readily available data variables to understand your audience in depth."
+msgstr "Analysieren Sie die Spieler anhand einer Reihe von leicht zugänglichen Datenvariablen, um Ihre Zielgruppe genau zu verstehen."
+
+msgctxt "content_image_items.fd63bf0a-1f49-40e7-8141-de8575b29b26.title"
+msgid "Fresh, actionable insights"
+msgstr "Neue, umsetzbare Erkenntnisse"
+
+msgctxt "content_image_items.fd63bf0a-1f49-40e7-8141-de8575b29b26.description"
+msgid ""
+"Access unrivalled consumer intelligence including market sizing, usage trends, attitudes, and brand choice from over 500,000+ interviews per year. Identify trends and cross-analyze gambling data "
+"against key metrics, including demographics, media consumption, sports and teams followed, and more."
+msgstr ""
+"Greifen Sie auf unübertroffene Verbraucherdaten zu, einschließlich Marktgröße, Nutzungstrends, Einstellungen und Markenwahl aus mehr als 500.000 Interviews pro Jahr. Erkennen Sie Trends und "
+"vergleichen Sie Glücksspieldaten mit wichtigen Kennzahlen wie Demografie, Medienkonsum, verfolgte Sportarten und Teams und mehr."
+
+msgctxt "content_image_items.fd63bf0a-1f49-40e7-8141-de8575b29b26.description"
+msgid "Unlock key gambling insights including what consumers gamble on, where they gamble, bets placed, types of bets, frequency, spend, style, attitudes and behaviors."
+msgstr ""
+"Gewinnen Sie Einblicke in die wichtigsten Glücksspiele, z. B. was die Verbraucher spielen, wo sie spielen, welche Wetten sie abschließen, welche Arten von Wetten sie abschließen, wie häufig sie "
+"spielen, was sie ausgeben, welchen Stil sie haben und welche Einstellungen und Verhaltensweisen sie haben."
+
+msgctxt "content_image_items.6833a29c-540a-4991-8e77-a83e46b492ed.title"
+msgid "Stay ahead of the game"
+msgstr "Seien Sie der Konkurrenz immer einen Schritt voraus"
+
+msgctxt "content_image_items.6833a29c-540a-4991-8e77-a83e46b492ed.description"
+msgid ""
+"Explore information on specific topics such as buying tickets for prize draws, spread betting, and political betting. Create custom variables to draw out and highlight the data most important to "
+"you."
+msgstr ""
+"Erforschen Sie Informationen zu bestimmten Themen, wie z. B. Kauf von Losen für Gewinnspiele, Spread Betting und politische Wetten. Erstellen Sie benutzerdefinierte Variablen, um die für Sie "
+"wichtigsten Daten hervorzuheben."
+
+msgctxt "content_image_items.6833a29c-540a-4991-8e77-a83e46b492ed.description"
+msgid ""
+"Build a profile of purchasers including demographics, attitudes, media consumption and gambling activities, to help develop campaign targeting. Understand attitudes towards general legislative "
+"change, sport sponsorship, new verticals and upcoming industry developments, and <a id=\"a1\"><b>Re-Contact</b></a> your audience to better understand their responses."
+msgstr ""
+"Erstellen Sie ein Profil der Käufer, einschließlich demografischer Daten, Einstellungen, Medienkonsum und Glücksspielaktivitäten, um die Ausrichtung von Kampagnen zu unterstützen. Verstehen Sie die "
+"Einstellungen zu allgemeinen Gesetzesänderungen, Sportsponsoring, neuen Branchen und bevorstehenden Entwicklungen in der Branche, und kontaktieren Sie Ihre Zielgruppe erneut, um ihre Reaktionen "
+"besser zu verstehen. Übersetzt mit www.DeepL.com/Translator (kostenlose Version)"

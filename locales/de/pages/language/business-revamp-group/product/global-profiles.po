@@ -1,0 +1,114 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:29.856721+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 22aa2d1f-8cfe-4f37-b109-32a5d3298545\n"
+
+msgctxt "title"
+msgid "Global Profiles"
+msgstr "Global Profiles"
+
+msgctxt "slug"
+msgid "global-profiles"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Global Profiles"
+msgstr "YouGov Global Profiles"
+
+msgctxt "search_description"
+msgid "Explore the largest global audience dataset in the world. Unrivalled global audience intelligence in 48 markets: monitor trends, purchase behavior, media consumption and more."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "Benefits"
+msgstr "Vorteile"
+
+msgctxt "benefits_title"
+msgid "Global audience profiling, made simple:"
+msgstr "Global audience profiling, made simple:"
+
+msgctxt "hero_title"
+msgid "Global Profiles"
+msgstr "Global Profiles"
+
+msgctxt "hero_label"
+msgid "Unrivaled global audience intelligence"
+msgstr "Unrivaled global audience intelligence"
+
+msgctxt "hero_description"
+msgid ""
+"Understand your target audiences in all the markets that matter most to you. With <b>1,000+</b> questions in <b>43 major markets</b>, we offer the world's largest globally consistent audience "
+"dataset. Use <b>200,000+ datapoints</b> to easily build, compare, and contrast detailed portraits of audiences across the globe."
+msgstr ""
+"Verstehen Sie Ihre Zielgruppen in allen Märkten, die für Sie am wichtigsten sind. Mit Fragen in den wichtigsten Märkten bieten wir den weltweit größten, konsistenten Audience-Datensatz. Nutzen Sie "
+"über 200.000 Datenpunkte, um auf einfache Weise detaillierte Porträts von Zielgruppen auf der ganzen Welt zu erstellen, zu vergleichen und gegenüberzustellen."
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Book a demo"
+msgstr "Demo buchen"
+
+msgctxt "case_studies_label"
+msgid "Why YouGov?"
+msgstr "Warum YouGov?"
+
+msgctxt "case_studies_description"
+msgid "You’re in good company. See how top brands use YouGov Profiles to understand their audience:"
+msgstr " Sehen Sie, wie Top-Marken YouGov-Profile nutzen, um ihr Publikum zu verstehen:"
+
+msgctxt "benefit_items.7f531904-a210-4c22-bf69-3d5bb13f84d0.title"
+msgid "Consistent questions"
+msgstr "Konsequente Fragen"
+
+msgctxt "benefit_items.7f531904-a210-4c22-bf69-3d5bb13f84d0.description"
+msgid "Easily compare and contrast audiences, with an unrivalled 1000+ consistent questions across 43 markets."
+msgstr "Mit über 1000 konsistenten Fragen für 43 Märkte können Sie Ihre Zielgruppen mühelos vergleichen und gegenüberstellen."
+
+msgctxt "benefit_items.4a93e4cb-7232-4522-94a4-87bd7da23e0a.title"
+msgid "Rich coverage"
+msgstr "Umfangreiche Berichterstattung"
+
+msgctxt "benefit_items.4a93e4cb-7232-4522-94a4-87bd7da23e0a.description"
+msgid "Hundreds of thousands of data variables on media consumption, attitudes and more."
+msgstr "Hunderttausende von Datenvariablen zu Medienkonsum, Einstellungen und mehr."
+
+msgctxt "benefit_items.3e25dd3f-e376-4308-b166-475b14da6953.title"
+msgid "Cost-effective"
+msgstr "Kosteneffizient"
+
+msgctxt "benefit_items.3e25dd3f-e376-4308-b166-475b14da6953.description"
+msgid "Benefit from our cost-effective ‘seat’ model pricing, enabling you to decide product access at a user level."
+msgstr "Profitieren Sie von unserem kostengünstigen \"Seat\"-Modell, mit dem Sie den Produktzugang auf Benutzerebene festlegen können."
+
+msgctxt "content_image_items.87032cb7-0492-430c-beb9-5a97b8e8fd8f.title"
+msgid "More questions, more metrics, more value"
+msgstr "Mehr Fragen, mehr Metriken, mehr Wert"
+
+msgctxt "content_image_items.87032cb7-0492-430c-beb9-5a97b8e8fd8f.description"
+msgid ""
+"Enrich your audience understanding with the largest globally consistent selection of demographics, psychographics, attitudinal and behavioral consumer metrics available – with an unmatched <b>700+ "
+"attitudinal points and 150+ media questions</b>. Understand their thoughts, feelings, behaviors and habits, monitoring global trends, customer behavior, media consumption and more so you can plan "
+"targeted campaigns and effective partnerships."
+msgstr ""
+"Erweitern Sie das Verständnis Ihrer Zielgruppe mit der größten weltweit konsistenten Auswahl an demografischen, psychografischen, einstellungs- und verhaltensbezogenen Verbrauchermetriken - mit "
+"unübertroffenen <b>700+ einstellungsbezogenen Punkten und 150+ Medienfragen</b>. Verstehen Sie ihre Gedanken, Gefühle, Verhaltensweisen und Gewohnheiten und beobachten Sie globale Trends, das "
+"Kundenverhalten, den Medienkonsum und mehr, damit Sie gezielte Kampagnen und effektive Partnerschaften planen können.Übersetzt mit www.DeepL.com/Translator (kostenlose Version)"
+
+msgctxt "content_image_items.46db3017-ddad-4737-9d28-34b5b53d4c95.title"
+msgid "Optimize your strategy"
+msgstr "Optimieren Sie Ihre Strategie"
+
+msgctxt "content_image_items.46db3017-ddad-4737-9d28-34b5b53d4c95.description"
+msgid ""
+"Create campaigns that resonate across the globe, and confidently tailor your strategy to work in multiple markets or regions. Conduct research for business expansion, gauge interest in new product "
+"launches, build relationships with international partners – YouGov Global Profiles empowers you to <b>drive your business or brand to the next level</b>, and beyond."
+msgstr ""
+"Erstellen Sie Kampagnen, die auf der ganzen Welt Wirkung zeigen, und passen Sie Ihre Strategie so an, dass sie in mehreren Märkten oder Regionen funktioniert. Recherchieren Sie für die "
+"Geschäftsexpansion, messen Sie das Interesse an der Einführung neuer Produkte, bauen Sie Beziehungen zu internationalen Partnern auf - YouGov Global Profiles versetzt Sie in die Lage, Ihr "
+"Unternehmen oder Ihre Marke auf die nächste Stufe</b> und darüber hinaus zu bringen."

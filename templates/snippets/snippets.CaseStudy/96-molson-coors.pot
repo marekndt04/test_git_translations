@@ -1,0 +1,25 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:39.946265+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Molson Coors"
+msgstr ""
+
+msgctxt "description"
+msgid ""
+"<i>\"Being able to tap into YouGov’s suite of products allowed us to evaluate and directly attribute the increase in brand awareness for Coors Banquet to its exposure in the Cobra Kai series on "
+"Netflix. Using </i><b><i>YouGov BrandIndex</i></b><i> for brand health tracking, combined with </i><b><i>YouGov Profiles</i></b><i> for consumer media behaviors, unlocked a powerful insight that we "
+"would not have been able to get otherwise.”</i>"
+msgstr ""
+
+msgctxt "url"
+msgid "https://business.yougov.com/content/37109-molson-coors-brandindex-case-study"
+msgstr ""
+
+msgctxt "quote_author"
+msgid "Matt Slater, <b>Senior Manager, Marketing Insights at Molson Coors</b>"
+msgstr ""

@@ -1,0 +1,49 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:32.356103+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 88a0bda4-ad76-41bc-97ba-75516b115f1f\n"
+
+msgctxt "title"
+msgid "Request your Free Biggest Movers Data - August"
+msgstr ""
+
+msgctxt "slug"
+msgid "request-your-free-biggest-movers-data-august"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Request your biggest movers data"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Consumers are reacting positively to your brand"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/product/brandindex/request-your-free-biggest-movers-data-august?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Request your free biggest movers data"
+msgstr ""
+
+msgctxt "video_items.4a159ddc-f5b7-442b-aabc-7f58e7154af0"
+msgid ""
+"For over a decade YouGov BrandIndex has been tracking daily consumer perception of thousands of brands and their campaigns worldwide, with critical insight on a brand’s performance against its "
+"competitors."
+msgstr ""
+
+msgctxt "video_items.4a159ddc-f5b7-442b-aabc-7f58e7154af0"
+msgid "Between June and July 2021 there has been a <b>significant increase in positive consumer perception of your brand.</b> <a id=\"a1\">See how you compare to your competitors</a>"
+msgstr ""
+
+msgctxt "video_items.4a159ddc-f5b7-442b-aabc-7f58e7154af0"
+msgid "<b>Check out the top 10 brands winning with UK consumers in our Biggest Movers Video below</b>."
+msgstr ""
+
+msgctxt "video_items.3eb728c7-1048-42bf-8b2b-17dcb032fbfa.video_id"
+msgid "XGanQh8ZTAQ"
+msgstr ""

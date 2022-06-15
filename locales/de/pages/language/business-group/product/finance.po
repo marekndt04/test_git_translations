@@ -1,0 +1,131 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:30.019090+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 9d21ba46-4919-471b-a707-3514e9563d98\n"
+
+msgctxt "title"
+msgid "YouGov Finance"
+msgstr "YouGov Finance"
+
+msgctxt "slug"
+msgid "finance"
+msgstr "finanzdienstleistungen"
+
+msgctxt "seo_title"
+msgid "YouGov Finance"
+msgstr "YouGov Finance"
+
+msgctxt "search_description"
+msgid "Track consumer transactions, spending habits and financial market trends with YouGov Finance, monitoring transactions from thousands of consumers in the UK and US."
+msgstr "Tracken Sie mit YouGov Finance die Transaktionen von Tausenden von Verbrauchern im Vereinigten Königreich und in den USA, ihre Ausgabengewohnheiten und Trends auf dem Finanzmarkt."
+
+msgctxt "benefits_label"
+msgid "BENEFITS"
+msgstr "VORTEILE"
+
+msgctxt "benefits_title"
+msgid "Unparalleled levels of accuracy"
+msgstr "Einzigartige Genauigkeit"
+
+msgctxt "hero_title"
+msgid "YouGov Finance"
+msgstr "YouGov Finance"
+
+msgctxt "hero_description"
+msgid "The power of financial data"
+msgstr "Finanzdaten direkt vom Verbraucher"
+
+msgctxt "products_label"
+msgid "OFFERING"
+msgstr "ANGEBOT"
+
+msgctxt "products_title"
+msgid "Unlock more audience data"
+msgstr "Zielgruppen jetzt noch besser kennenlernen"
+
+msgctxt "direct_description"
+msgid ""
+"<b>YouGov Finance</b> aggregates transactions from thousands of consumers in the UK and US, creating a <b>rich, verified, connected dataset</b> to unlock understanding of consumer <b>spending "
+"habits</b> and <b>market trends</b> with an unparalleled level of accuracy."
+msgstr ""
+"<b>YouGov Finance</b> sammelt Transaktionen von Tausenden von Verbrauchern in Großbritannien und den USA und schafft so einen <b>umfassenden, verifizierten und vernetzten Datensatz</b>, um das "
+"Verständnis für die <b>Ausgabegewohnheiten</b> der Verbraucher und die <b>Markttrends</b> umfänglich und hoch detailliert abzubilden."
+
+msgctxt "direct_url"
+msgid "?marketo=contact"
+msgstr "?marketo=contact"
+
+msgctxt "direct_footer"
+msgid "Unlock financial data"
+msgstr "Erhalten Sie Daten zu Finanztransaktionen"
+
+msgctxt "benefit_items.68805b09-15ea-45f6-932f-f7a92a30bd29.title"
+msgid "Know your customer"
+msgstr "Verstehen Sie Ihren Kunden"
+
+msgctxt "benefit_items.68805b09-15ea-45f6-932f-f7a92a30bd29.description"
+msgid "Explore financial profiles on your customers and understand their shopping habits across brands and industries"
+msgstr "Analysieren Sie die Finanz-Profile Ihrer Kunden und verstehen Sie deren Einkaufsgewohnheiten über Marken und Branchen hinweg"
+
+msgctxt "benefit_items.7ae76e2b-5eb4-4ae6-b522-7c0d8d0a7fcf.title"
+msgid "Understand the competition"
+msgstr "Verstehen Sie den Wettbewerb"
+
+msgctxt "benefit_items.7ae76e2b-5eb4-4ae6-b522-7c0d8d0a7fcf.description"
+msgid "Discover your competitors’ strengths and weaknesses, benchmarking yourself within your industry"
+msgstr "Entdecken Sie die Stärken und Schwächen Ihrer Mitbewerber und benchmarken Sie sich innerhalb Ihrer Branche"
+
+msgctxt "benefit_items.28baa0c6-64da-42f8-b0da-63138f895776.title"
+msgid "Get ahead"
+msgstr "Planen Sie voraus "
+
+msgctxt "benefit_items.28baa0c6-64da-42f8-b0da-63138f895776.description"
+msgid "Use financial insights to target high growth markets and segments to future-proof your strategy"
+msgstr "Nutzen Sie  die gewonnen Erkenntnisse, um wachstumsstarke Märkte und Segmente anzusteuern und Ihre Strategie zukunftssicher zu machen"
+
+msgctxt "content_image_items.00d37d73-cd35-4694-b951-921609626240.title"
+msgid "Rich, verified, connected data"
+msgstr "Connected Data: umfassend, verifiziert, vernetzt"
+
+msgctxt "content_image_items.00d37d73-cd35-4694-b951-921609626240.description"
+msgid ""
+"Whenever a consumer makes a payment, either online or in store, their transaction creates a diverse array of <b>data points</b>: where the purchase was made; how much was paid; when was the purchase"
+" made.<b> YouGov Finance</b> aggregates this data to provide a complete picture on consumers, including their <b>loyalty journeys</b>, wider <b>spending habits</b> and <b>shopping behavior</b>."
+msgstr ""
+"Wann immer ein Verbraucher eine Zahlung tätigt, sei es online oder im Geschäft, erzeugt seine Transaktion eine Vielzahl von <b>Datenpunkten</b>: wo der Kauf getätigt wurde, wie viel gezahlt wurde, "
+"wann der Kauf getätigt wurde.<b> YouGov Finance</b> aggregiert diese Daten, um ein vollständiges Bild über die Verbraucher zu erhalten, einschließlich ihrer <b>Bindung</b>, ihrer weiteren "
+"<b>Ausgabegewohnheiten</b> und ihres <b>Einkaufsverhaltens</b>."
+
+msgctxt "content_image_items.00d37d73-cd35-4694-b951-921609626240.description"
+msgid ""
+"Panel members can safely and securely connect their bank accounts in exchange for <b>compensation</b> – when doing so <b>YouGov Finance</b> receives two years of <b>verified transaction data</b> and"
+" the ability to track three months of <b>future transactions</b> in <b>real-time</b>."
+msgstr ""
+"Die Mitglieder unseres Panels können ihre Bankkonten sicher mit unserer Datenbank verbinden. Wenn sie dies tun, erhält <b>YouGov Finance</b> zwei Jahre lang <b>geprüfte Transaktionsdaten</b> und die"
+" Möglichkeit, drei Monate lang <b>zukünftige Transaktionen</b> in <b>Echtzeit</b> zu verfolgen. Teilnehmende Panelisten erhalten eine <b>Aufwandsentschädigung </b>für die Anbindung ihrer Konten."
+
+msgctxt "content_image_items.00d37d73-cd35-4694-b951-921609626240.description"
+msgid ""
+"Leverage this bank of knowledge to explore the <b>share of wallet</b> for the groups driving your growth, identify <b>in-market audiences</b> and analyze <b>market share</b> within your sector."
+msgstr ""
+"Nutzen Sie das Wissen um die Banktransaktionen, um den <b>Share of Wallet  <b>für relevante Zielgruppen zu ermitteln, <b>im Markt befindliche Zielgruppen</b> zu identifizieren und den "
+"<b>Marktanteil</b> innerhalb Ihres Sektors zu analysieren."
+
+msgctxt "content_image_items.c935ae81-a170-4ba4-80ef-37dac674acd2.title"
+msgid "Financial data solutions tailored to you"
+msgstr "Individuelle Finanzmarkt-Forschung "
+
+msgctxt "content_image_items.c935ae81-a170-4ba4-80ef-37dac674acd2.description"
+msgid ""
+"Solve your business needs with <b>bespoke financial data solutions</b> built for you, with standalone financial data tools including Campaign Success and Market Share Monitors currently in "
+"development."
+msgstr ""
+"Erhalten Sie Daten zu Lösung Ihrer individuellen geschäftlichen Herausforderungen mit  <b>speziellen Forschungslösungen für die Finanzbranche</b>, darunter die sich gegenwärtig in der Entwicklung "
+"befindenden Lösungen \"Campaign Success\" zur Messung des Kampagnenerfolgs und \"Market Share Monitor\" für das Monitoring des Marktanteils."
+
+msgctxt "content_image_items.c935ae81-a170-4ba4-80ef-37dac674acd2.description"
+msgid "Data will be accessible via our portal or through access to our APIs upon request."
+msgstr "Die Daten werden über unser Online-Dashboard oder auf Anfrage über unsere APIs zugänglich sein."

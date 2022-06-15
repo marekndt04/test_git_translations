@@ -1,0 +1,141 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:33.399902+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 62b2d157-b43c-4835-8c92-b008628da955\n"
+
+msgctxt "title"
+msgid "Sweden National Omnibus"
+msgstr ""
+
+msgctxt "slug"
+msgid "sweden-national-omnibus"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Sweden National Omnibus"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Sweden National Omnibus"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Daily surveys of 1,000+ Swedes aged 18+."
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"With no minimum question count, you can field a nationally representative survey fast, affordably, and with full research team support including consultation, questionnaire design, programming, "
+"fieldwork, and results."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "rates_title"
+msgid "National Omnibus rates"
+msgstr ""
+
+msgctxt "benefit_items.5f92272a-2ccd-48bf-8b05-2c9b58a319ea.title"
+msgid "Representative sample"
+msgstr ""
+
+msgctxt "benefit_items.5f92272a-2ccd-48bf-8b05-2c9b58a319ea.description"
+msgid "Reach a nationally representative sample of 1,000 to 2,000 Swedish adults aged 18+."
+msgstr ""
+
+msgctxt "benefit_items.2b5f2f46-3469-4e28-ba0c-ab13b9afa020.title"
+msgid "Daily surveys"
+msgstr ""
+
+msgctxt "benefit_items.2b5f2f46-3469-4e28-ba0c-ab13b9afa020.description"
+msgid "Surveys launch every business day."
+msgstr ""
+
+msgctxt "benefit_items.1518ca28-1dc3-406e-8015-b23443c9670f.title"
+msgid "Fast results"
+msgstr ""
+
+msgctxt "benefit_items.1518ca28-1dc3-406e-8015-b23443c9670f.description"
+msgid "Results delivered in a week, with full-service support and live reporting."
+msgstr ""
+
+msgctxt "rates_table_rows.96494ba2-f0db-4ac4-b5c8-d4f27009aa0c.column_1"
+msgid "Entry Fee"
+msgstr ""
+
+msgctxt "rates_table_rows.96494ba2-f0db-4ac4-b5c8-d4f27009aa0c.column_2"
+msgid "Book space on the nation’s market-leading omnibus"
+msgstr ""
+
+msgctxt "rates_table_rows.96494ba2-f0db-4ac4-b5c8-d4f27009aa0c.column_3"
+msgid "5000 SEK"
+msgstr ""
+
+msgctxt "rates_table_rows.fe3a3d31-8064-4864-8c52-2dbca06d6b1d.column_1"
+msgid "Questions"
+msgstr ""
+
+msgctxt "rates_table_rows.fe3a3d31-8064-4864-8c52-2dbca06d6b1d.column_2"
+msgid "Single or multiple choice (up to 10 answers per question)"
+msgstr ""
+
+msgctxt "rates_table_rows.fe3a3d31-8064-4864-8c52-2dbca06d6b1d.column_3"
+msgid "2500 SEK"
+msgstr ""
+
+msgctxt "rates_table_rows.16a9dc8f-6593-4d2f-8147-dc6eb59679ec.column_1"
+msgid "Scale Questions"
+msgstr ""
+
+msgctxt "rates_table_rows.16a9dc8f-6593-4d2f-8147-dc6eb59679ec.column_2"
+msgid "Statements answered against a scale (per every 3 statements)"
+msgstr ""
+
+msgctxt "rates_table_rows.16a9dc8f-6593-4d2f-8147-dc6eb59679ec.column_3"
+msgid "2500 SEK"
+msgstr ""
+
+msgctxt "rates_table_rows.3c445149-a942-4a6f-ae4c-7ec8fd987270.column_1"
+msgid "Open-ended"
+msgstr ""
+
+msgctxt "rates_table_rows.3c445149-a942-4a6f-ae4c-7ec8fd987270.column_2"
+msgid "Full verbatim answers (coding services also available)"
+msgstr ""
+
+msgctxt "rates_table_rows.3c445149-a942-4a6f-ae4c-7ec8fd987270.column_3"
+msgid "5000 SEK"
+msgstr ""
+
+msgctxt "rates_table_rows.98317061-410c-422a-b220-85abb1e97aff.column_1"
+msgid "Images"
+msgstr ""
+
+msgctxt "rates_table_rows.98317061-410c-422a-b220-85abb1e97aff.column_2"
+msgid "Use images for a more engaging survey (video options available)"
+msgstr ""
+
+msgctxt "rates_table_rows.98317061-410c-422a-b220-85abb1e97aff.column_3"
+msgid "FREE"
+msgstr ""
+
+msgctxt "rates_table_rows.315ca4ec-0879-4efc-a217-2eef5a931412.column_1"
+msgid "Deliverables"
+msgstr ""
+
+msgctxt "rates_table_rows.315ca4ec-0879-4efc-a217-2eef5a931412.column_2"
+msgid "Full Excel(TM) tables, PowerPoint(TM) summary charts, plus live and final results available via our interactive online analytics platform"
+msgstr ""
+
+msgctxt "rates_table_rows.315ca4ec-0879-4efc-a217-2eef5a931412.column_3"
+msgid "INCLUDED"
+msgstr ""

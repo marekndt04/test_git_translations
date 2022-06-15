@@ -1,0 +1,124 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:36.925237+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 988949d0-0af0-4a06-8807-c9011c3dd440\n"
+
+msgctxt "title"
+msgid "CorporateIndex"
+msgstr ""
+
+msgctxt "slug"
+msgid "corporateindex"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "CorporateIndex"
+msgstr ""
+
+msgctxt "search_description"
+msgid "CorporateIndex is an always-on tracker measuring public sentiment towards the largest companies operating or listed in the UK."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "FEATURES"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Always-on tracking for rich and comprehensive data"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "CorporateIndex"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Understand how audiences view the corporate world"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Continuously measure the corporate image and public perception of the largest companies operating or listed in the UK. Rapidly check your campaign effectiveness and react quickly to events or "
+"crises. Immediately spot and take action on any changes in your sector and take advantage of opportunities."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Get in touch"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our connected living data solutions"
+msgstr ""
+
+msgctxt "benefit_items.5cd30768-f253-466f-a283-d4539f5fb096.title"
+msgid "Quality"
+msgstr ""
+
+msgctxt "benefit_items.5cd30768-f253-466f-a283-d4539f5fb096.description"
+msgid "Clients praise our robust data responsiveness, market acumen and attention to detail."
+msgstr ""
+
+msgctxt "benefit_items.98dc7f81-576e-42cc-a63f-6a40c2d66ee7.title"
+msgid "Expertise"
+msgstr ""
+
+msgctxt "benefit_items.98dc7f81-576e-42cc-a63f-6a40c2d66ee7.description"
+msgid "Get a full, end-to-end service from our team of leading researchers, who are highly attuned to the changing needs of your market."
+msgstr ""
+
+msgctxt "benefit_items.f2869987-f4c7-46ee-a16f-f0d285f3db52.title"
+msgid "Reach"
+msgstr ""
+
+msgctxt "benefit_items.f2869987-f4c7-46ee-a16f-f0d285f3db52.description"
+msgid "We interview around 1,500 UK adults every week from our highly engaged online panel."
+msgstr ""
+
+msgctxt "content_image_items.535fe4d4-8b14-4744-afb7-cbd5350e3792.title"
+msgid "Track the fundamentals of your corporate image"
+msgstr ""
+
+msgctxt "content_image_items.535fe4d4-8b14-4744-afb7-cbd5350e3792.description"
+msgid "Agile"
+msgstr ""
+
+msgctxt "content_image_items.535fe4d4-8b14-4744-afb7-cbd5350e3792.description"
+msgid "React to changes in perception as they unfold, with data collected daily."
+msgstr ""
+
+msgctxt "content_image_items.535fe4d4-8b14-4744-afb7-cbd5350e3792.description"
+msgid "Vast"
+msgstr ""
+
+msgctxt "content_image_items.535fe4d4-8b14-4744-afb7-cbd5350e3792.description"
+msgid "Track corporate reputation across multiple metrics, and sectors simultaneously."
+msgstr ""
+
+msgctxt "content_image_items.535fe4d4-8b14-4744-afb7-cbd5350e3792.description"
+msgid "Savvy"
+msgstr ""
+
+msgctxt "content_image_items.535fe4d4-8b14-4744-afb7-cbd5350e3792.description"
+msgid "Benchmark your competitive edge by watching the performance of your competitors."
+msgstr ""
+
+msgctxt "content_image_items.ae7e0854-41fb-4b03-90a5-e6ffc030cef0.title"
+msgid "Measure and understand corporate perception"
+msgstr ""
+
+msgctxt "content_image_items.ae7e0854-41fb-4b03-90a5-e6ffc030cef0.description"
+msgid ""
+"Carry out continuous daily online surveys covering <b>12</b> metrics for each company, including: Awareness, Buzz, Momentum, Impression, Trust, Environment, Citizenship, Fairness, Role Model, Pride,"
+" Resilience, Purpose and Britishness"
+msgstr ""
+
+msgctxt "content_image_items.ae7e0854-41fb-4b03-90a5-e6ffc030cef0.description"
+msgid ""
+"Capture scores for <b>60+</b> corporates in multiple industries, including: tech, financial services and insurance, consumer goods, fashion, media, supermarkets, retail, digital, travel and airlines"
+msgstr ""

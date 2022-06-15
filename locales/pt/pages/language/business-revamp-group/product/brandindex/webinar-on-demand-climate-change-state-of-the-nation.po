@@ -1,0 +1,68 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:41.119607+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 393b6994-7d8b-4534-9d99-cbf5e95cc3a3\n"
+
+msgctxt "title"
+msgid "On-demand Webinar: Climate Change: State of the Nation"
+msgstr ""
+
+msgctxt "slug"
+msgid "webinar-on-demand-climate-change-state-of-the-nation"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Webinar: Climate Change"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Climate Change: The State of the Nation"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Learn from the nation on how you can inspire action against climate change in Britain."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Get in touch"
+msgstr ""
+
+msgctxt "page_sections.4636778c-2c5e-4bfc-b1f8-5aee2e8c595e.video_id"
+msgid "r2yJ7jV0kfA"
+msgstr ""
+
+msgctxt "video_items.fe81131f-a616-4052-b54c-49c7e437ca6c.main_cta_text"
+msgid "Download slides"
+msgstr ""
+
+msgctxt "video_items.fe81131f-a616-4052-b54c-49c7e437ca6c.main_cta_url"
+msgid "https://commercial.yougov.com/rs/464-VHH-988/images/yougov-uk-climate-change-state-of-the-nation-webinar-deck.pdf"
+msgstr ""
+
+msgctxt "video_items.4f47afa5-4efe-487d-8c46-dccd6df00fcf"
+msgid ""
+"In the aftermath of COP26, there will never be a more critical time for businesses and government entities alike to understand the world’s current position on taking action to tackle climate change."
+msgstr ""
+
+msgctxt "video_items.4f47afa5-4efe-487d-8c46-dccd6df00fcf"
+msgid ""
+"In this webinar, YouGov unveiled fresh findings from a <b>brand new study into</b> <b>the UK’s climate change response</b> to identify the key changes that are needed for the country to meet its "
+"ambitious environmental targets."
+msgstr ""
+
+msgctxt "video_items.4f47afa5-4efe-487d-8c46-dccd6df00fcf"
+msgid ""
+"Leveraging our connected data and advanced analysis technology within behavioural change models among the public and businesses, watch as we unveil the most important barriers to change and how "
+"policy makers could drive innovation to inspire action."
+msgstr ""
+
+msgctxt "video_items.4f47afa5-4efe-487d-8c46-dccd6df00fcf"
+msgid "<a id=\"a1\"><b>Click here to see all of our publicly available data on climate change.</b></a>"
+msgstr ""

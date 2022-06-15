@@ -1,0 +1,2216 @@
+locales = [ "ar-ae", "ar-eg", "ar-lb", "ar-ma", "ar-sa", "bg-bg", "cs-cz", "da-dk", "de", "de-at", "de-ch", "de-de", "el-gr", "en-ae", "en-au", "en-ca", "en-eg", "en-gb", "en-hk", "en-id", "en-ie", "en-il", "en-in", "en-lb", "en-my", "en-ph", "en-pk", "en-sa", "en-sg", "en-th", "en-us", "es", "es-ar", "es-co", "es-es", "es-mx", "fi-fi", "fil-ph", "fr", "fr-be", "fr-ca", "fr-ch", "fr-fr", "fr-lb", "fr-ma", "hi-in", "hr-hr", "hu-hu", "id-id", "it-ch", "it-it", "ms-my", "ms-sg", "nb-no", "nl-be", "nl-nl", "pl", "pt", "pt-br", "pt-pt", "ro-ro", "sk-sk", "sv-se", "th-th", "tr", "ur-pk", "vi-vn", "zh-cn", "zh-hk", "zh-my", "zh-sg", "zh-tw",]
+[[paths]]
+reference = "templates/snippets/snippets.Product/30-academic-political-public-affairs-research.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/30-academic-political-public-affairs-research.po"
+locales = [ "ar-ae", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/7-identify-and-understand-target-audiences.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/7-identify-and-understand-target-audiences.po"
+locales = [ "ar-ae", "de", "es", "pt", "zh-tw",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/29-covid-19-monitor.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/29-covid-19-monitor.po"
+locales = [ "ar-ae", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/13-custom-research.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/13-custom-research.po"
+locales = [ "ar-ae", "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/353-activate.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/353-activate.po"
+locales = [ "ar-ae", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/8-track-brands-and-campaigns.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/8-track-brands-and-campaigns.po"
+locales = [ "ar-ae", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/23-holiday-ad-awareness.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/23-holiday-ad-awareness.po"
+locales = [ "ar-ae", "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/9-research.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/9-research.po"
+locales = [ "ar-ae", "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/14-bbc.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/14-bbc.po"
+locales = [ "ar-ae", "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.TeamMember/5-james-mundell.pot"
+l10n = "locales/{locale}/snippets/snippets.TeamMember/5-james-mundell.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/realtime/international-omnibus.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/realtime/international-omnibus.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.TeamMember/6-matthew-palframan.pot"
+l10n = "locales/{locale}/snippets/snippets.TeamMember/6-matthew-palframan.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/realtime/gb-and-uk-omnibus.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/realtime/gb-and-uk-omnibus.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.TeamMember/7-oliver-rowe.pot"
+l10n = "locales/{locale}/snippets/snippets.TeamMember/7-oliver-rowe.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/realtime.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/realtime.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.TeamMember/8-russell-feldman.pot"
+l10n = "locales/{locale}/snippets/snippets.TeamMember/8-russell-feldman.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.TeamMember/12-randi-quinn.pot"
+l10n = "locales/{locale}/snippets/snippets.TeamMember/12-randi-quinn.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.TeamMember/9-paul-lundquist.pot"
+l10n = "locales/{locale}/snippets/snippets.TeamMember/9-paul-lundquist.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/telco/uk-premium-handset-market-report-2022.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/telco/uk-premium-handset-market-report-2022.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.TeamMember/10-cara-david.pot"
+l10n = "locales/{locale}/snippets/snippets.TeamMember/10-cara-david.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/telco/mobile-phone-network-switchers-framework.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/telco/mobile-phone-network-switchers-framework.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/telco/international-telco-report-2021.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/telco/international-telco-report-2021.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/telco/the-5g-opportunity.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/telco/the-5g-opportunity.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/telco/global-telco-white-paper.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/telco/global-telco-white-paper.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/telco.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/telco.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/global-automotive-profiles.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/global-automotive-profiles.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/gaming-esports/apac-on-demand-webinar-the-global-rise-of-gaming-influencers-2021.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/gaming-esports/apac-on-demand-webinar-the-global-rise-of-gaming-influencers-2021.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/gaming-esports/us-on-demand-webinar-the-global-rise-of-gaming-influencers-2021.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/gaming-esports/us-on-demand-webinar-the-global-rise-of-gaming-influencers-2021.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/profiles/online-shopping-with-augmented-reality.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/profiles/online-shopping-with-augmented-reality.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/profiles/profile-peek-cycling-vs-cycling-viewers.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/profiles/profile-peek-cycling-vs-cycling-viewers.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/profiles.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/profiles.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/profiles/my-audience.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/profiles/my-audience.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/profiles/us-audience.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/profiles/us-audience.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/profiles/profile-peek-samsung-phone-owner-switchers.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/profiles/profile-peek-samsung-phone-owner-switchers.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/profiles/profile-peek-sustainable-shoppers.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/profiles/profile-peek-sustainable-shoppers.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/profiles/profile-peek-streaming-enthusiasts-vs-tv-loyalists.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/profiles/profile-peek-streaming-enthusiasts-vs-tv-loyalists.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/profiles/profile-peek-sustainable-shoppers-us.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/profiles/profile-peek-sustainable-shoppers-us.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/profiles/profile-peek-red-meat-eaters-usa.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/profiles/profile-peek-red-meat-eaters-usa.po"
+locales = [ "de", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.TeamMember/11-samantha-luks-phd.pot"
+l10n = "locales/{locale}/snippets/snippets.TeamMember/11-samantha-luks-phd.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/profiles/nordic-car-buyers.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/profiles/nordic-car-buyers.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/profiles/profile-peek-league-of-legends-fans-us.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/profiles/profile-peek-league-of-legends-fans-us.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/profiles/profile-peek-augmented-reality.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/profiles/profile-peek-augmented-reality.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/profiles/profile-peek-live-tv-vs-streamers.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/profiles/profile-peek-live-tv-vs-streamers.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/profiles/profile-peeks-sustainable-shoppers-singapore.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/profiles/profile-peeks-sustainable-shoppers-singapore.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/profiles/profile-peek-scratch-off-buyers-australia.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/profiles/profile-peek-scratch-off-buyers-australia.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/profiles/profile-peek-british-motorsports-fans.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/profiles/profile-peek-british-motorsports-fans.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/profiles/profile-peek-university-students-vs-parents.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/profiles/profile-peek-university-students-vs-parents.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/profiles/profile-peek-car-buyers-us.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/profiles/profile-peek-car-buyers-us.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/profiles/profile-peek-new-or-used-car-buyers.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/profiles/profile-peek-new-or-used-car-buyers.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/profiles/profile-peek-car-buyers-singapore.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/profiles/profile-peek-car-buyers-singapore.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/profiles/profile-peek-flexitarians.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/profiles/profile-peek-flexitarians.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/profiles/profile-peek-league-of-legends-fans.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/profiles/profile-peek-league-of-legends-fans.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/gaming-esports/eu-mena-on-demand-webinar-the-global-rise-of-gaming-influencers-2021.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/gaming-esports/eu-mena-on-demand-webinar-the-global-rise-of-gaming-influencers-2021.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/gaming-esports/webinar-registration-successful-sponsoring.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/gaming-esports/webinar-registration-successful-sponsoring.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/gaming-esports/successful-sponsoring-webinar-on-demand.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/gaming-esports/successful-sponsoring-webinar-on-demand.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/gaming-esports/watch-successful-sponsoring-webinar.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/gaming-esports/watch-successful-sponsoring-webinar.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/travel-tourism/nordic-webinar-the-new-travel-normal.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/travel-tourism/nordic-webinar-the-new-travel-normal.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/travel-tourism/consumer-sentiment-on-travel-and-sustainability-webinar.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/travel-tourism/consumer-sentiment-on-travel-and-sustainability-webinar.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/travel-tourism/travel-sustainability-framework.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/travel-tourism/travel-sustainability-framework.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/travel-tourism/apac-travel-and-tourism-webinar-on-demand-what-to-expect-in-2022.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/travel-tourism/apac-travel-and-tourism-webinar-on-demand-what-to-expect-in-2022.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/travel-tourism/travel-tourism-rankings-2022.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/travel-tourism/travel-tourism-rankings-2022.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/93-lufthansa.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/93-lufthansa.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/product/realtime/germany-b2b.pot"
+l10n = "locales/{locale}/pages/language/business-group/product/realtime/germany-b2b.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/product/realtime/germany-metropolis.pot"
+l10n = "locales/{locale}/pages/language/business-group/product/realtime/germany-metropolis.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/product/realtime/germany-nrw.pot"
+l10n = "locales/{locale}/pages/language/business-group/product/realtime/germany-nrw.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/product/realtime/germany-50.pot"
+l10n = "locales/{locale}/pages/language/business-group/product/realtime/germany-50.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/product/realtime/germany-car-drivers.pot"
+l10n = "locales/{locale}/pages/language/business-group/product/realtime/germany-car-drivers.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/product/realtime/germany-pet-owners.pot"
+l10n = "locales/{locale}/pages/language/business-group/product/realtime/germany-pet-owners.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/product/realtime/germany-express.pot"
+l10n = "locales/{locale}/pages/language/business-group/product/realtime/germany-express.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/retail.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/retail.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/retail/international-omni-channel-retail-report-2021.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/retail/international-omni-channel-retail-report-2021.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/retail/retail-rankings-2021.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/retail/retail-rankings-2021.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/92-virgin-money.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/92-virgin-money.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/91-tiktok.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/91-tiktok.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/product/realtime/china-mothers-kids.pot"
+l10n = "locales/{locale}/pages/language/business-group/product/realtime/china-mothers-kids.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/product/realtime/china-youth.pot"
+l10n = "locales/{locale}/pages/language/business-group/product/realtime/china-youth.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/96-molson-coors.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/96-molson-coors.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/product/realtime/china-minibus.pot"
+l10n = "locales/{locale}/pages/language/business-group/product/realtime/china-minibus.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/product/realtime/denmark-omnitracker.pot"
+l10n = "locales/{locale}/pages/language/business-group/product/realtime/denmark-omnitracker.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/5-we-communications.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/5-we-communications.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/6-world-first.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/6-world-first.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/product/realtime/brussels-eu-elite-omnibus.pot"
+l10n = "locales/{locale}/pages/language/business-group/product/realtime/brussels-eu-elite-omnibus.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/3-knight-frank.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/3-knight-frank.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/4-nspcc.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/4-nspcc.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/7-reuters-institute.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/7-reuters-institute.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/8-citypress.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/8-citypress.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/realtime/children-and-parents-omnibus.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/realtime/children-and-parents-omnibus.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.TeamMember/1-melanie-nicholls.pot"
+l10n = "locales/{locale}/snippets/snippets.TeamMember/1-melanie-nicholls.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/realtime/regional-omnibus.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/realtime/regional-omnibus.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.TeamMember/2-anthony-wells.pot"
+l10n = "locales/{locale}/snippets/snippets.TeamMember/2-anthony-wells.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/realtime/london-omnibus-and-citybus.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/realtime/london-omnibus-and-citybus.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.TeamMember/3-frank-saez.pot"
+l10n = "locales/{locale}/snippets/snippets.TeamMember/3-frank-saez.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/realtime/b2b-omnibus.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/realtime/b2b-omnibus.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.TeamMember/4-gavin-ellison.pot"
+l10n = "locales/{locale}/snippets/snippets.TeamMember/4-gavin-ellison.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/realtime/targeted-research.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/realtime/targeted-research.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/realtime/brussels-eu-elite-omnibus.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/realtime/brussels-eu-elite-omnibus.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/9-krow.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/9-krow.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/130-continental-ag.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/130-continental-ag.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/10-the-law-society.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/10-the-law-society.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/129-deutsche-telekom.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/129-deutsche-telekom.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/11-help-for-heroes.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/11-help-for-heroes.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/132-hawaii-tourism-authority.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/132-hawaii-tourism-authority.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/12-lv.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/12-lv.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/128-leading-italian-automotive-brand.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/128-leading-italian-automotive-brand.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/24-future-care-capital.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/24-future-care-capital.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/127-miral.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/127-miral.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/126-back-market.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/126-back-market.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/solutions/brand-tracking/health/telkomsels-2021-exclusive-brand-insights.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/solutions/brand-tracking/health/telkomsels-2021-exclusive-brand-insights.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/global-profiles.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/global-profiles.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/131-rugby-league-world-cup.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/131-rugby-league-world-cup.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/125-eon-nordics.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/125-eon-nordics.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/sectors/retail/international-omni-channel-retail-report-2021.pot"
+l10n = "locales/{locale}/pages/language/business-group/sectors/retail/international-omni-channel-retail-report-2021.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/sectors/health-pharma/covid-19-a-year-in-review-and-whats-next.pot"
+l10n = "locales/{locale}/pages/language/business-group/sectors/health-pharma/covid-19-a-year-in-review-and-whats-next.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/sectors/fmcg/brand-sustainability-and-authenticity-framework.pot"
+l10n = "locales/{locale}/pages/language/business-group/sectors/fmcg/brand-sustainability-and-authenticity-framework.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/sectors/fmcg/request-your-free-biggest-movers-data.pot"
+l10n = "locales/{locale}/pages/language/business-group/sectors/fmcg/request-your-free-biggest-movers-data.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/99-continental.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/99-continental.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/sectors/banking-insurance/attitudes-to-investing-framework.pot"
+l10n = "locales/{locale}/pages/language/business-group/sectors/banking-insurance/attitudes-to-investing-framework.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/contact-us.pot"
+l10n = "locales/{locale}/pages/language/business-group/contact-us.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/fmcg/brand-sustainability-and-authenticity-framework.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/fmcg/brand-sustainability-and-authenticity-framework.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/product/finance.pot"
+l10n = "locales/{locale}/pages/language/business-group/product/finance.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/audience-explorer.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/audience-explorer.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/sectors.pot"
+l10n = "locales/{locale}/pages/language/business-group/sectors.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/automotive.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/automotive.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/automotive/exclusive-insights-on-volvo-customer-purchasing-behaviour-in-light-of-current-global-trends.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/automotive/exclusive-insights-on-volvo-customer-purchasing-behaviour-in-light-of-current-global-trends.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/automotive/international-automotive-report-2021.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/automotive/international-automotive-report-2021.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/106-university-of-manchester.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/106-university-of-manchester.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/98-justitia.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/98-justitia.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/solutions/brand-tracking/health/lazada-2021-exclusive-brand-insights.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/solutions/brand-tracking/health/lazada-2021-exclusive-brand-insights.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/13-shortlist.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/13-shortlist.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/97-audika-group.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/97-audika-group.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/qualitative-research.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/qualitative-research.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/20-primesight.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/20-primesight.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/re-contact.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/re-contact.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/solutions/brand-tracking/health/mcdonalds-2021-exclusive-brand-insights.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/solutions/brand-tracking/health/mcdonalds-2021-exclusive-brand-insights.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/business-test.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/business-test.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/fmcg/request-your-free-biggest-movers-data.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/fmcg/request-your-free-biggest-movers-data.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/fmcg/apac-webinar-consumer-goods-in-a-crisis-2021.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/fmcg/apac-webinar-consumer-goods-in-a-crisis-2021.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/sectors/technology/tech-rankings-2021.pot"
+l10n = "locales/{locale}/pages/language/business-group/sectors/technology/tech-rankings-2021.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/custom-research.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/custom-research.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/freewall.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/freewall.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/fmcg/brand-loyalty-framework.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/fmcg/brand-loyalty-framework.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/covid-19.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/covid-19.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/sport.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/sport.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/health-pharma/covid-19-a-year-in-review-and-whats-next.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/health-pharma/covid-19-a-year-in-review-and-whats-next.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/health-pharma.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/health-pharma.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/chat.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/chat.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/audience-data.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/audience-data.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.TeamMember/25-nicole-pike.pot"
+l10n = "locales/{locale}/snippets/snippets.TeamMember/25-nicole-pike.po"
+locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/fmcg/apac-fmcg-webinar.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/fmcg/apac-fmcg-webinar.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.TeamMember/24-julian-tooke.pot"
+l10n = "locales/{locale}/snippets/snippets.TeamMember/24-julian-tooke.po"
+locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/fmcg/rankings-2021.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/fmcg/rankings-2021.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.TeamMember/23-hamish-brocklebank.pot"
+l10n = "locales/{locale}/snippets/snippets.TeamMember/23-hamish-brocklebank.po"
+locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/fmcg/webinar-beer-consumer-insights-webinar.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/fmcg/webinar-beer-consumer-insights-webinar.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/fmcg/watch-beer-consumer-insights-webinar.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/fmcg/watch-beer-consumer-insights-webinar.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.TeamMember/22-ashley-grosse-phd.pot"
+l10n = "locales/{locale}/snippets/snippets.TeamMember/22-ashley-grosse-phd.po"
+locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/snippets/snippets.TeamMember/20-tom-fisher.pot"
+l10n = "locales/{locale}/snippets/snippets.TeamMember/20-tom-fisher.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.TeamMember/19-roy-perrson.pot"
+l10n = "locales/{locale}/snippets/snippets.TeamMember/19-roy-perrson.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.TeamMember/18-lisa-carter.pot"
+l10n = "locales/{locale}/snippets/snippets.TeamMember/18-lisa-carter.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/custom-trackers.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/custom-trackers.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/15-psda.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/15-psda.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.TeamMember/17-todd-dupey.pot"
+l10n = "locales/{locale}/snippets/snippets.TeamMember/17-todd-dupey.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/21-virgin-management.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/21-virgin-management.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.TeamMember/16-kristen-harmeling.pot"
+l10n = "locales/{locale}/snippets/snippets.TeamMember/16-kristen-harmeling.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/automotive/us-car-driver-attitudes-to-fuel-consumption-and-engine-power.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/automotive/us-car-driver-attitudes-to-fuel-consumption-and-engine-power.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/automotive/webinar-registration-the-behavioral-shifts-in-mobility-and-transportation.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/automotive/webinar-registration-the-behavioral-shifts-in-mobility-and-transportation.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/fmcg.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/fmcg.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/crunch.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/crunch.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.TeamMember/15-scott-perretta.pot"
+l10n = "locales/{locale}/snippets/snippets.TeamMember/15-scott-perretta.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/agency/us-brand-purpose-framework.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/agency/us-brand-purpose-framework.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/agency/yougov-havas-connected-brand-research-webinar.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/agency/yougov-havas-connected-brand-research-webinar.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/global-travel-profiles.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/global-travel-profiles.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/thank-you-contact.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/thank-you-contact.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/teen-profiles.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/teen-profiles.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/teen-profiles/as-told-by-teens-webinar.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/teen-profiles/as-told-by-teens-webinar.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/agency/yougov-groupm-connected-brand-research-webinar.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/agency/yougov-groupm-connected-brand-research-webinar.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/product/realtime/australia-mothers-kids.pot"
+l10n = "locales/{locale}/pages/language/business-group/product/realtime/australia-mothers-kids.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/finance.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/finance.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/blue.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/blue.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/automotive/webinar-registration-the-road-to-an-omni-channel-automotive-path-to-purchase.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/automotive/webinar-registration-the-road-to-an-omni-channel-automotive-path-to-purchase.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/automotive/APAC-webinar-registration-the-behavioral-shifts-in-mobility-and-transportation.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/automotive/APAC-webinar-registration-the-behavioral-shifts-in-mobility-and-transportation.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/automotive/ford-webinar-north-america.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/automotive/ford-webinar-north-america.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/automotive/APAC-webinar-registration-the-behavioral-shifts-in-mobility-and-transportation-on-demand.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/automotive/APAC-webinar-registration-the-behavioral-shifts-in-mobility-and-transportation-on-demand.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/automotive/us-on-demand-webinar-path-to-purchase-the-new-omni-channel-automotive-strategy.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/automotive/us-on-demand-webinar-path-to-purchase-the-new-omni-channel-automotive-strategy.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/automotive/emea-on-demand-webinar-the-behavioural-shifts-in-mobility-and-transportation.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/automotive/emea-on-demand-webinar-the-behavioural-shifts-in-mobility-and-transportation.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/agency/yougov-dentsu-aegis-agencies-connected-brand-research-webinar.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/agency/yougov-dentsu-aegis-agencies-connected-brand-research-webinar.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/automotive/apac-webinar-on-demand-the-behavioral-shifts-in-mobility-and-transportation.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/automotive/apac-webinar-on-demand-the-behavioral-shifts-in-mobility-and-transportation.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/automotive/cam-yougov-electric-vehicle-market-innovation-report.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/automotive/cam-yougov-electric-vehicle-market-innovation-report.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/automotive/ford-webinar-on-demand.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/automotive/ford-webinar-on-demand.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/automotive/watch-ford-webinar.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/automotive/watch-ford-webinar.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/automotive/volvos-consumer-insights-webinar.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/automotive/volvos-consumer-insights-webinar.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/agency/yougov-independent-agencies-connected-brand-research-webinar.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/agency/yougov-independent-agencies-connected-brand-research-webinar.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/16-manchester-airport-groups.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/16-manchester-airport-groups.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/academic-political-public.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/academic-political-public.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/87-allison-partners-and-tiktok.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/87-allison-partners-and-tiktok.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/product/platform.pot"
+l10n = "locales/{locale}/pages/language/business-group/product/platform.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/95-legal-general.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/95-legal-general.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/consumer-journey-diagnostics.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/consumer-journey-diagnostics.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/signal.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/signal.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/consumer-journey-diagnostics/creative-testing.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/consumer-journey-diagnostics/creative-testing.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/14-direct.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/14-direct.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/consumer-journey-diagnostics/purchase-funnel.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/consumer-journey-diagnostics/purchase-funnel.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/consumer-journey-diagnostics/product-concept-testing.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/consumer-journey-diagnostics/product-concept-testing.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/consumer-journey-diagnostics/brand-loyalty-switching.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/consumer-journey-diagnostics/brand-loyalty-switching.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/94-vauxhall.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/94-vauxhall.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/education-family-youth.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/education-family-youth.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/yougov-data-product-client-trainings.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/yougov-data-product-client-trainings.po"
+locales = [ "de", "de-at", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/technology.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/technology.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/technology/tech-rankings-2021.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/technology/tech-rankings-2021.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/technology/international-technology-report-2021.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/technology/international-technology-report-2021.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/product/realtime/denmark-high-income-no-kids.pot"
+l10n = "locales/{locale}/pages/language/business-group/product/realtime/denmark-high-income-no-kids.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/banking-insurance.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/banking-insurance.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/banking-insurance/attitudes-to-investing-framework.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/banking-insurance/attitudes-to-investing-framework.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/banking-insurance/banking-insurance-rankings-2021-vietnam.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/banking-insurance/banking-insurance-rankings-2021-vietnam.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/banking-insurance/rankings-2021.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/banking-insurance/rankings-2021.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/banking-insurance/indonesia-attitudes-to-investing-framework.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/banking-insurance/indonesia-attitudes-to-investing-framework.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/banking-insurance/hong-kong-attitudes-to-investing-framework.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/banking-insurance/hong-kong-attitudes-to-investing-framework.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/banking-insurance/thailand-attitudes-to-investing-framework.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/banking-insurance/thailand-attitudes-to-investing-framework.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/banking-insurance/singapore-attitudes-to-investing-framework.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/banking-insurance/singapore-attitudes-to-investing-framework.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/banking-insurance/australia-attitudes-to-investing-framework.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/banking-insurance/australia-attitudes-to-investing-framework.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/banking-insurance/eco-investing-framework.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/banking-insurance/eco-investing-framework.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/banking-insurance/us-eco-investing-webinar.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/banking-insurance/us-eco-investing-webinar.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/banking-insurance/us-eco-investing-framework.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/banking-insurance/us-eco-investing-framework.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/banking-insurance/webinar-registration-paypal-webinar-us.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/banking-insurance/webinar-registration-paypal-webinar-us.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/banking-insurance/webinar-registration-paypal-webinar.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/banking-insurance/webinar-registration-paypal-webinar.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/banking-insurance/watch-us-eco-investing-webinar-january-2022.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/banking-insurance/watch-us-eco-investing-webinar-january-2022.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.TeamMember/14-todd-dupey.pot"
+l10n = "locales/{locale}/snippets/snippets.TeamMember/14-todd-dupey.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/product/realtime/denmark-singles.pot"
+l10n = "locales/{locale}/pages/language/business-group/product/realtime/denmark-singles.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/telco-profiles.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/telco-profiles.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/brandindex/yougov-webinar-on-demand-best-brands-2021-uk.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/brandindex/yougov-webinar-on-demand-best-brands-2021-uk.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/brandindex/webinar-on-demand-climate-change-state-of-the-nation.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/brandindex/webinar-on-demand-climate-change-state-of-the-nation.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/brandindex/request-your-free-biggest-movers-data-dec.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/brandindex/request-your-free-biggest-movers-data-dec.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/brandindex/uk-charity-rankings-2022.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/brandindex/uk-charity-rankings-2022.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/17-natco-foods.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/17-natco-foods.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/brandindex/request-your-free-biggest-movers-data-january-us.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/brandindex/request-your-free-biggest-movers-data-january-us.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/25-solicitors-regulation-authority.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/25-solicitors-regulation-authority.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/brandindex/charity-rankings-2021.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/brandindex/charity-rankings-2021.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/product/realtime/egypt-parents.pot"
+l10n = "locales/{locale}/pages/language/business-group/product/realtime/egypt-parents.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/product/brand-snapshot.pot"
+l10n = "locales/{locale}/pages/language/business-group/product/brand-snapshot.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/100-sarsons.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/100-sarsons.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/product/realtime/egypt-homeowners.pot"
+l10n = "locales/{locale}/pages/language/business-group/product/realtime/egypt-homeowners.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/brandindex/request-your-free-biggest-movers-data-december-2021-apac.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/brandindex/request-your-free-biggest-movers-data-december-2021-apac.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/brandindex/request-your-free-biggest-movers-data-2021-india.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/brandindex/request-your-free-biggest-movers-data-2021-india.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/brandindex/request-your-free-biggest-movers-data-december-us.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/brandindex/request-your-free-biggest-movers-data-december-us.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/product/realtime/egypt-b2b.pot"
+l10n = "locales/{locale}/pages/language/business-group/product/realtime/egypt-b2b.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/101-business-of-fashion.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/101-business-of-fashion.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/30-friends-of-the-earth.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/30-friends-of-the-earth.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/brandindex/yougov-webinar-accenture-innovation-market-research.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/brandindex/yougov-webinar-accenture-innovation-market-research.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/product/realtime/egypt-express.pot"
+l10n = "locales/{locale}/pages/language/business-group/product/realtime/egypt-express.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/brandindex/best-brand-rankings-us-mini-report-2021.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/brandindex/best-brand-rankings-us-mini-report-2021.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/direct.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/direct.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/direct/8-tips-yougov-direct.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/direct/8-tips-yougov-direct.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/direct/test-yougov-direct-webinar-on-demand.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/direct/test-yougov-direct-webinar-on-demand.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/direct/free-online-survey-tool.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/direct/free-online-survey-tool.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/direct/rapid-insights.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/direct/rapid-insights.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/social-change.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/social-change.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/product/realtime/egypt-pet-owners.pot"
+l10n = "locales/{locale}/pages/language/business-group/product/realtime/egypt-pet-owners.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/agency.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/agency.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/brandindex/request-your-free-biggest-movers-data-november.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/brandindex/request-your-free-biggest-movers-data-november.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/18-yougov-us-for-we-communications.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/18-yougov-us-for-we-communications.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/brandindex/request-your-free-biggest-movers-data-november-us.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/brandindex/request-your-free-biggest-movers-data-november-us.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/19-ubiquitous.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/19-ubiquitous.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/brandindex/best-brand-rankings-us-2021-webinar.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/brandindex/best-brand-rankings-us-2021-webinar.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/22-channel-4.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/22-channel-4.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/brandindex/global-best-brand-rankings-2021-home.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/brandindex/global-best-brand-rankings-2021-home.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/26-dignity-in-dying.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/26-dignity-in-dying.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/brandindex/climate-change-state-of-the-nation-webinar.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/brandindex/climate-change-state-of-the-nation-webinar.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/28-what-the-british-want-from-loyalty-programmes-20-white-paper-case-study-with-mando-connect.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/28-what-the-british-want-from-loyalty-programmes-20-white-paper-case-study-with-mando-connect.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/brandindex/request-your-free-biggest-movers-data-october.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/brandindex/request-your-free-biggest-movers-data-october.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/brandindex/request-your-free-biggest-movers-data-october-us.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/brandindex/request-your-free-biggest-movers-data-october-us.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/brandindex/request-your-free-biggest-movers-data-us.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/brandindex/request-your-free-biggest-movers-data-us.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/recommend-plus.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/recommend-plus.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/recommend-plus/recommend-rankings-2021.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/recommend-plus/recommend-rankings-2021.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/product/realtime/egypt-20-30s.pot"
+l10n = "locales/{locale}/pages/language/business-group/product/realtime/egypt-20-30s.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/global-gambling-profiles.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/global-gambling-profiles.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/leisure-entertainment.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/leisure-entertainment.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/leisure-entertainment/international-gambling-report-2021.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/leisure-entertainment/international-gambling-report-2021.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/leisure-entertainment/sports-betting-and-advertising-report-2021.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/leisure-entertainment/sports-betting-and-advertising-report-2021.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/brandindex/request-your-free-biggest-movers-data-september.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/brandindex/request-your-free-biggest-movers-data-september.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/brandindex/yougov-webinar-best-brand-improvers-2021-uk.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/brandindex/yougov-webinar-best-brand-improvers-2021-uk.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/product/realtime/egypt-youth.pot"
+l10n = "locales/{locale}/pages/language/business-group/product/realtime/egypt-youth.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/brandindex/request-your-free-biggest-movers-data-august.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/brandindex/request-your-free-biggest-movers-data-august.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/product/realtime/france-childrens.pot"
+l10n = "locales/{locale}/pages/language/business-group/product/realtime/france-childrens.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/brandindex/request-your-free-biggest-movers-data-july.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/brandindex/request-your-free-biggest-movers-data-july.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/product/realtime/france-citybus.pot"
+l10n = "locales/{locale}/pages/language/business-group/product/realtime/france-citybus.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/brandindex/gameindex.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/brandindex/gameindex.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/product/realtime/france-car-drivers.pot"
+l10n = "locales/{locale}/pages/language/business-group/product/realtime/france-car-drivers.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/product/brandindex/request-your-free-biggest-movers-data-june.pot"
+l10n = "locales/{locale}/pages/language/business-group/product/brandindex/request-your-free-biggest-movers-data-june.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/brandindex/request-your-free-biggest-movers-data-june.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/brandindex/request-your-free-biggest-movers-data-june.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/brandindex/biggest-movers.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/brandindex/biggest-movers.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/brandindex/cultureindex.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/brandindex/cultureindex.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/brandindex/destinationindex.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/brandindex/destinationindex.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/brandindex/charityindex.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/brandindex/charityindex.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/product/realtime/france-pet-owners.pot"
+l10n = "locales/{locale}/pages/language/business-group/product/realtime/france-pet-owners.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/brandindex.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/brandindex.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/gaming-esports.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/gaming-esports.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.TeamMember/13-amy-emmatty.pot"
+l10n = "locales/{locale}/snippets/snippets.TeamMember/13-amy-emmatty.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/105-brokenrecord.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/105-brokenrecord.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/104-windflower-florist.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/104-windflower-florist.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/safe/yougov-safe-and-signal-launch.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/safe/yougov-safe-and-signal-launch.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/charity-nonprofit.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/charity-nonprofit.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/platform.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/platform.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/media-content.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/media-content.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/media-content/us-streamers-advertising.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/media-content/us-streamers-advertising.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/media-content/product-placement-report-2021.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/media-content/product-placement-report-2021.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/media-content/global-media-outlook-report-2022.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/media-content/global-media-outlook-report-2022.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/media-content/public-transport-commuters-in-britain.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/media-content/public-transport-commuters-in-britain.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/media-content/global-media-outlook-report-2022-uk.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/media-content/global-media-outlook-report-2022-uk.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/media-content/global-media-outlook-report-2022-us.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/media-content/global-media-outlook-report-2022-us.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/media-content/global-media-outlook-report-2022-apac.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/media-content/global-media-outlook-report-2022-apac.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/safe/stream.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/safe/stream.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/safe.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/safe.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/gaming-esports/webinar-registration-the-global-rise-of-gaming-influencers-2021.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/gaming-esports/webinar-registration-the-global-rise-of-gaming-influencers-2021.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/103-good.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/103-good.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/102-wwf-singapore.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/102-wwf-singapore.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/global-fan-profiles.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/global-fan-profiles.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/brandrankings.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/brandrankings.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/realtime/germany-national-omnibus.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/realtime/germany-national-omnibus.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/27-eating-better.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/27-eating-better.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/realtime/spain-national-omnibus.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/realtime/spain-national-omnibus.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.CaseStudy/29-mando-connect.pot"
+l10n = "locales/{locale}/snippets/snippets.CaseStudy/29-mando-connect.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/realtime/italy-national-omnibus.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/realtime/italy-national-omnibus.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-group/product/realtime/australia-international-travellers.pot"
+l10n = "locales/{locale}/pages/language/business-group/product/realtime/australia-international-travellers.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/realtime/livechat.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/realtime/livechat.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/realtime/france-national-omnibus.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/realtime/france-national-omnibus.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/gaming-esports/webinar-registration-the-global-rise-of-gaming-influencers-2021-US.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/gaming-esports/webinar-registration-the-global-rise-of-gaming-influencers-2021-US.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/realtime/brazil-national-omnibus.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/realtime/brazil-national-omnibus.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/realtime/mexico-national-omnibus.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/realtime/mexico-national-omnibus.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/realtime/egypt-national-omnibus.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/realtime/egypt-national-omnibus.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/gaming-esports/webinar-registration-the-global-rise-of-gaming-influencers-2021-APAC.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/gaming-esports/webinar-registration-the-global-rise-of-gaming-influencers-2021-APAC.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/realtime/ksa-national-omnibus.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/realtime/ksa-national-omnibus.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/realtime/uae-national-omnibus.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/realtime/uae-national-omnibus.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/realtime/us-b2b-omnibus.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/realtime/us-b2b-omnibus.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/realtime/canada-omnibus.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/realtime/canada-omnibus.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/realtime/realtime-omnibus.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/realtime/realtime-omnibus.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/reputation-business-research.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/reputation-business-research.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/realtime/finland-national-omnibus.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/realtime/finland-national-omnibus.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/reputation-business-research/catalysts.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/reputation-business-research/catalysts.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/reputation-business-research/corporateindex.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/reputation-business-research/corporateindex.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/brand-snapshot.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/brand-snapshot.po"
+locales = [ "de", "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/realtime/denmark-national-omnibus.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/realtime/denmark-national-omnibus.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/government.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/government.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/realtime/sweden-national-omnibus.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/realtime/sweden-national-omnibus.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/realtime/norway-national-omnibus.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/realtime/norway-national-omnibus.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/realtime/us-youth-omnibus.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/realtime/us-youth-omnibus.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/realtime/us-generational-omnibus.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/realtime/us-generational-omnibus.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/realtime/us-homeowners-omnibus.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/realtime/us-homeowners-omnibus.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/realtime/hispanic-african-american-omnibus.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/realtime/hispanic-african-american-omnibus.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/realtime/us-citybus.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/realtime/us-citybus.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/realtime/us-national-omnibus.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/realtime/us-national-omnibus.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/realtime/yougov-blue.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/realtime/yougov-blue.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/realtime/gb-50-omnibus.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/realtime/gb-50-omnibus.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/realtime/uk-mps-omnibus.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/realtime/uk-mps-omnibus.po"
+locales = [ "de", "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/thank-you-download.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/thank-you-download.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/travel-tourism/apac-webinar-registration-travel-and-tourism-what-to-expect-in-2022.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/travel-tourism/apac-webinar-registration-travel-and-tourism-what-to-expect-in-2022.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/technology/yougov-webinar-accenture-innovation-market-research.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/technology/yougov-webinar-accenture-innovation-market-research.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/thank-you-request.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/thank-you-request.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/thank-you-register.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/thank-you-register.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/37-technology.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/37-technology.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/48-media-content.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/48-media-content.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/36-financial-services.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/36-financial-services.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/global-affiliate-partnerships.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/global-affiliate-partnerships.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/49-health-pharma.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/49-health-pharma.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/thank-you-newsletter.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/thank-you-newsletter.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/44-charities-non-profit.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/44-charities-non-profit.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/contact-us.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/contact-us.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/panel-data-tools.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/panel-data-tools.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/select.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/select.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/business.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/business.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/content.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/content.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/24-charityindex.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/24-charityindex.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/20-audience-data.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/20-audience-data.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/solutions.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/solutions.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/solutions/audience.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/solutions/audience.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/solutions/audience/identify.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/solutions/audience/identify.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/solutions/audience/understand-audience.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/solutions/audience/understand-audience.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/solutions/audience/target-audience.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/solutions/audience/target-audience.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/solutions/brand-tracking.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/solutions/brand-tracking.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/solutions/brand-tracking/health.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/solutions/brand-tracking/health.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/solutions/brand-tracking/campaign.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/solutions/brand-tracking/campaign.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/solutions/brand-tracking/social.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/solutions/brand-tracking/social.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/solutions/brand-tracking/satisfaction.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/solutions/brand-tracking/satisfaction.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/solutions/research.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/solutions/research.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/solutions/research/fast-survey-polls.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/solutions/research/fast-survey-polls.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/solutions/research/concept-testing.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/solutions/research/concept-testing.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/solutions/research/in-depth.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/solutions/research/in-depth.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/solutions/activate.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/solutions/activate.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/34-automotive.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/34-automotive.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/43-video-gaming-esports.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/43-video-gaming-esports.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/50-yougov-sport.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/50-yougov-sport.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/47-fmcg.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/47-fmcg.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/telco/q4-2021-us-wireless-market-report.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/telco/q4-2021-us-wireless-market-report.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/21-yougov-crunch.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/21-yougov-crunch.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/351-freewall.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/351-freewall.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/352-brand-rankings.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/352-brand-rankings.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/19-custom-trackers.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/19-custom-trackers.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/18-audience-explorer.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/18-audience-explorer.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/33-education-family-youth.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/33-education-family-youth.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/28-social-change-monitor.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/28-social-change-monitor.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/57-stream.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/57-stream.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/180-global-automotive-profiles.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/180-global-automotive-profiles.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/171-yougov-finance.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/171-yougov-finance.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/31-yougov-blue.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/31-yougov-blue.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/38-travel-tourism.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/38-travel-tourism.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/46-government-academia.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/46-government-academia.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/35-agencies.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/35-agencies.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/39-telco.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/39-telco.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/fmcg/cpgs-winning-digital-generation-us.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/fmcg/cpgs-winning-digital-generation-us.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/banking-insurance/watch-paypal-webinar.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/banking-insurance/watch-paypal-webinar.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/178-global-gambling-profiles.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/178-global-gambling-profiles.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/42-retail.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/42-retail.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/51-global-fan-profiles.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/51-global-fan-profiles.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/brandindex/request-your-free-biggest-movers-data-february-us.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/brandindex/request-your-free-biggest-movers-data-february-us.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/brandindex/request-your-free-biggest-movers-data-february-uk.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/brandindex/request-your-free-biggest-movers-data-february-uk.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/54-purchase-funnel-diagnostics.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/54-purchase-funnel-diagnostics.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/12-recommend.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/12-recommend.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/56-brand-loyalty-and-switching-diagnostics.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/56-brand-loyalty-and-switching-diagnostics.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/55-product-concept-testing.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/55-product-concept-testing.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/45-leisure-entertainment.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/45-leisure-entertainment.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/automotive/stellantis-webinar.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/automotive/stellantis-webinar.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/travel-tourism.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/travel-tourism.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/181-telco-profiles.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/181-telco-profiles.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/25-cultureindex.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/25-cultureindex.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/177-gameindex.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/177-gameindex.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/26-global-travel-profiles.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/26-global-travel-profiles.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/52-consumer-journey-diagnostics.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/52-consumer-journey-diagnostics.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/53-creative-testing.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/53-creative-testing.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/sectors/retail/social-shopping-report.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/sectors/retail/social-shopping-report.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/17-profiles.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/17-profiles.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/10-brandindex.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/10-brandindex.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/27-qualitative-research.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/27-qualitative-research.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/62-corporateindex.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/62-corporateindex.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/32-reputation-business-research.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/32-reputation-business-research.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/15-yougov-chat.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/15-yougov-chat.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/16-realtime-omnibus.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/16-realtime-omnibus.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/58-safe.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/58-safe.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/23-destinationindex.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/23-destinationindex.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/11-yougov-signal.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/11-yougov-signal.po"
+locales = [ "es", "fr", "pt",]
+
+[[paths]]
+reference = "templates/snippets/snippets.Product/22-re-contact.pot"
+l10n = "locales/{locale}/snippets/snippets.Product/22-re-contact.po"
+locales = [ "es", "pt",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/realtime/france-special-omnibus.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/realtime/france-special-omnibus.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/language/business-revamp-group/product/consumer-journey-diagnostics/brand-evolution-webinar.pot"
+l10n = "locales/{locale}/pages/language/business-revamp-group/product/consumer-journey-diagnostics/brand-evolution-webinar.po"
+locales = [ "pt",]
+

@@ -1,0 +1,87 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:33.380902+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 8e2e17bc-5973-4c76-b0bc-c7c4594fda9f\n"
+
+msgctxt "title"
+msgid "Government &amp; Academia"
+msgstr "Regierung &amp; Akademien"
+
+msgctxt "slug"
+msgid "government"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Election Polls, Government Statistics and Insights"
+msgstr ""
+
+msgctxt "search_description"
+msgid ""
+"Leveraging our proprietary panel of 11 million+ people worldwide, YouGov has over 10 years of data and insights on government statistics, election polls and political opinions. Explore trackers, "
+"reports and articles for governments, and discover what the world thinks."
+msgstr ""
+
+msgctxt "data_presentation_title"
+msgid "Explore the YouGov platform"
+msgstr "Entdecken Sie die YouGov-Plattform"
+
+msgctxt "data_presentation_description"
+msgid "Unlock powerful insights about your customers’ needs at every stage of your marketing funnel."
+msgstr "Gewinnen Sie in jeder Phase Ihres Marketing-Funnels wichtige Erkenntnisse über die Bedürfnisse Ihrer Kunden."
+
+msgctxt "hero_title"
+msgid "Government &amp; Academic Intelligence"
+msgstr "Regierung &amp; Akademische Intelligenz"
+
+msgctxt "hero_description"
+msgid "Access unparalleled intelligence on political trends, opinions and the latest academic research."
+msgstr "Sie erhalten Zugang zu unvergleichlichen Informationen über politische Trends, Meinungen und die neueste wissenschaftliche Forschung."
+
+msgctxt "hero_url"
+msgid "?data=audience"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Explore YouGov data"
+msgstr "YouGov-Daten erkunden"
+
+msgctxt "hero_url_2"
+msgid "https://business.yougov.com/product/realtime?marketo=contact"
+msgstr "https://business.yougov.com/de/produkt/realtime?marketo=contact"
+
+msgctxt "hero_url_text_2"
+msgid "Launch a survey"
+msgstr "Starten Sie eine Umfrage"
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr "Lösungen &amp; Produkte"
+
+msgctxt "products_title"
+msgid "How we can help you"
+msgstr "Wie wir Ihnen helfen können"
+
+msgctxt "all_content_list_title"
+msgid "Unrivalled data insights"
+msgstr "Einzigartige Dateneinblicke"
+
+msgctxt "all_content_list_description"
+msgid ""
+"YouGov has over 15 years of living consumer intelligence on political opinion, governmental decisions and public affairs. We offer f<b>ull-service survey</b> <b>research</b> for academics, health "
+"researchers, policy think tanks and corporate clients. Explore our latest insights below to help you stay up-to-date and lead the way."
+msgstr ""
+
+msgctxt "cta_label"
+msgid "NEWSLETTER"
+msgstr "NEWSLETTER"
+
+msgctxt "cta_text"
+msgid "Subscribe to our Government Newsletter"
+msgstr "Abonnieren Sie unseren Government Newsletter"
+
+msgctxt "cta_url"
+msgid "https://business.yougov.com/sectors/government?marketo=newsletter"
+msgstr ""

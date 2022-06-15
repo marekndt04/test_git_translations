@@ -1,0 +1,22 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:42.823750+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 513b8dc3-a44b-47de-a0e6-9354c46ec3a8\n"
+
+msgctxt "title"
+msgid "What The British Want From Loyalty Programmes 2.0 –  White Paper Case study, with Mando-Connect"
+msgstr ""
+
+msgctxt "description"
+msgid ""
+"Mando-Connect partners with brands to design market leading partnerships and rewards programmes informed by the smart use of cutting-edge data and insight. Thought leadership is a core part of the "
+"agency’s commitment to adding value to clients by continuously analysing current and upcoming trends in the market. Mando-Connect used YouGov’s Profiles and Real Time solutions to produce a new "
+"whitepaper with an up to date look at loyalty, partnerships and rewards."
+msgstr ""
+
+msgctxt "url"
+msgid "https://staging-uk.wild.yougov.net/news/2020/03/02/what-british-want-loyalty-programmes-20-white-pape/"
+msgstr ""

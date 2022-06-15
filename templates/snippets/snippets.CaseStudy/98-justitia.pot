@@ -1,0 +1,24 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:39.515730+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Justitia"
+msgstr ""
+
+msgctxt "description"
+msgid ""
+"“Globally, testing people's limits of free speech is no easy task, but YouGov provided good advice throughout the project. We chose YouGov because of the size of their panel and their global "
+"reach.\""
+msgstr ""
+
+msgctxt "url"
+msgid "https://business.yougov.com/content/37862-justitia-custom-research-case-study"
+msgstr ""
+
+msgctxt "quote_author"
+msgid "<b>Jacob Mchangama,</b> <b>Founder and Executive Director </b>"
+msgstr ""

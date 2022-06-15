@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:40.783990+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 00776ef5-da3b-4876-956c-d0864199bff1\n"
+
+msgctxt "title"
+msgid "Brand Rankings"
+msgstr ""
+
+msgctxt "description"
+msgid "Discover top-performing brands."
+msgstr ""
+
+msgctxt "url"
+msgid "/product/brandrankings/"
+msgstr ""

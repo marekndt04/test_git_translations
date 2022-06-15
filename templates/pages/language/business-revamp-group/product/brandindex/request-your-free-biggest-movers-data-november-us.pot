@@ -1,0 +1,68 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:40.943327+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Request your Free Biggest Movers Data - November - US"
+msgstr ""
+
+msgctxt "slug"
+msgid "request-your-free-biggest-movers-data-november-us"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Request your biggest movers data"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Consumers are reacting positively to your brand"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/product/brandindex/request-your-free-biggest-movers-data-october-us?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Request your free biggest movers data"
+msgstr ""
+
+msgctxt "video_items.7cfd3ee0-e8fd-4e50-901f-4f5e022eee62"
+msgid ""
+"For over a decade YouGov BrandIndex has been tracking daily consumer perception of thousands of brands and their campaigns worldwide, with critical insight on a brand’s performance against its "
+"competitors."
+msgstr ""
+
+msgctxt "video_items.7cfd3ee0-e8fd-4e50-901f-4f5e022eee62"
+msgid "Between October and September 2021 there has been a <b>significant increase in positive consumer perception of your brand.</b> <a id=\"a1\">See how you compare to your competitors</a>."
+msgstr ""
+
+msgctxt "video_items.7cfd3ee0-e8fd-4e50-901f-4f5e022eee62"
+msgid "<b>Check out the top 10 brands winning with US consumers in our Biggest Movers Video below</b>."
+msgstr ""
+
+msgctxt "video_items.a567f985-5da9-4ef9-a7e4-149aba3c04fc"
+msgid "What you'll discover"
+msgstr ""
+
+msgctxt "video_items.5069154c-a00f-47c9-a915-dd4095dfc497"
+msgid ""
+"Your brand’s statistically significant positive gains among US consumers as determined by the media, brand health, and purchase funnel metrics tracked within YouGov BrandIndex between October and "
+"September 2021."
+msgstr ""
+
+msgctxt "video_items.5069154c-a00f-47c9-a915-dd4095dfc497"
+msgid ""
+"<b>We’ll also present</b> <b>how your brand metric movement across the board compares</b> <b>against four competitors of your choice.</b> Simply reference the competitors you wish your brand to be "
+"compared against in the form’s open message box."
+msgstr ""
+
+msgctxt "video_items.5069154c-a00f-47c9-a915-dd4095dfc497"
+msgid "<a id=\"a1\">Request your free biggest movers data.</a>"
+msgstr ""
+
+msgctxt "video_items.3eb728c7-1048-42bf-8b2b-17dcb032fbfa.video_id"
+msgid "PP8S-jFp8as"
+msgstr ""

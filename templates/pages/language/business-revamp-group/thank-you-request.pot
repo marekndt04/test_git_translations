@@ -1,0 +1,46 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:42.843875+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Thank you - Request"
+msgstr ""
+
+msgctxt "slug"
+msgid "thank-you-request"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Thank you for registering your interest"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "You will shortly receive an email with next steps."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/select?data=audience"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Explore living data"
+msgstr ""
+
+msgctxt "hero_url_2"
+msgid "?cta=research"
+msgstr ""
+
+msgctxt "hero_url_text_2"
+msgid "Launch a survey"
+msgstr ""
+
+msgctxt "hero_url_3"
+msgid "https://business.yougov.com/product"
+msgstr ""
+
+msgctxt "hero_url_text_3"
+msgid "Discover our solutions"
+msgstr ""

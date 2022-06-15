@@ -1,0 +1,119 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:41.739736+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 7ffce234-f1b8-4b79-8395-4934477f4909\n"
+
+msgctxt "title"
+msgid "Living Consumer Intelligence"
+msgstr ""
+
+msgctxt "slug"
+msgid "panel-data-tools"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Survey Panel, Data and Tools: Reach A Global Audience"
+msgstr ""
+
+msgctxt "search_description"
+msgid ""
+"Understand how YouGov's proprietary panel of over 17 million people in over 55 markets results in the best consumer data experience. Combined with powerful analysis tool, Crunch, get market-leading "
+"data intelligence you can trust."
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Living Consumer Intelligence"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Constantly evolving, connected data"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Build a complete understanding of your audience from our ever-growing source of living data, from 17 million+ registered panel members in 55+ markets."
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Analyze and report, with confidence and ease, using reliable, robust intelligence you can trust."
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our connected living data solutions"
+msgstr ""
+
+msgctxt "content_image_items.e2e1638b-aa4b-4ad5-80c0-9ceb4078e543.title"
+msgid "Our panel"
+msgstr ""
+
+msgctxt "content_image_items.e2e1638b-aa4b-4ad5-80c0-9ceb4078e543.description"
+msgid "Verified, engaged and global. Our panel of 17million+ registered members generate thousands of data points – every day – on consumer attitudes, opinions and behaviours."
+msgstr ""
+
+msgctxt "content_image_items.e2e1638b-aa4b-4ad5-80c0-9ceb4078e543.description"
+msgid "Create nationally representative samples from all ages, socio-economic groups and demographic types – and start seeing your results within minutes."
+msgstr ""
+
+msgctxt "content_image_items.e2e1638b-aa4b-4ad5-80c0-9ceb4078e543.description"
+msgid "Access hard to reach groups, know the likely number of respondents available before committing to a project, or Re-Contact panellists with higher than industry average response rates."
+msgstr ""
+
+msgctxt "content_image_items.e2e1638b-aa4b-4ad5-80c0-9ceb4078e543.description"
+msgid ""
+"All surveys are mobile-friendly, with more than 50% of all surveys taken on mobile devices. We also have more than 250,000 active monthly users of our mobile app, who use it for faster payments and "
+"on-the-go responses"
+msgstr ""
+
+msgctxt "content_image_items.928dc779-f77f-46f4-a212-8db8b8b04702.title"
+msgid "Explore living data"
+msgstr ""
+
+msgctxt "content_image_items.928dc779-f77f-46f4-a212-8db8b8b04702.description"
+msgid "YouGov has been a pioneer in online consumer intelligence for over 20 years, leading the way on accuracy, speed, and expertise."
+msgstr ""
+
+msgctxt "content_image_items.928dc779-f77f-46f4-a212-8db8b8b04702.description"
+msgid "The Pew Research Center study concluded that YouGov <b>“consistently outperforms competitors on accuracy”</b>, highlighting the credible, robust nature of our connected consumer insights."
+msgstr ""
+
+msgctxt "content_image_items.928dc779-f77f-46f4-a212-8db8b8b04702.description"
+msgid ""
+"We have thousands of brands, millions of consumer data points, across multiple sectors and markets. Constantly evolving, connected intelligence: discover what your customers were thinking yesterday,"
+" 5 years ago, and today – we call it <b>living data</b>."
+msgstr ""
+
+msgctxt "content_image_items.928dc779-f77f-46f4-a212-8db8b8b04702.description"
+msgid "Get the data you need, in the way you need it, with speed and certainty, every time."
+msgstr ""
+
+msgctxt "content_image_items.99d48312-be84-42d5-9327-a6dbf578bffa.title"
+msgid "Plan, activate and track with our tools"
+msgstr ""
+
+msgctxt "content_image_items.99d48312-be84-42d5-9327-a6dbf578bffa.description"
+msgid "Industry-leading technology built to simplify consumer intelligence."
+msgstr ""
+
+msgctxt "content_image_items.99d48312-be84-42d5-9327-a6dbf578bffa.description"
+msgid ""
+"We offer a large range of products and services that help you understand, with speed and ease, exactly what your audience is thinking. Plan, activate and track better marketing activities, with "
+"intelligence across the consumer journey."
+msgstr ""
+
+msgctxt "content_image_items.99d48312-be84-42d5-9327-a6dbf578bffa.description"
+msgid "Unlock powerful insights with YouGov <a id=\"a1\"><b>Crunch</b></a>, our powerful online platform for survey data analysis."
+msgstr ""
+
+msgctxt "content_image_items.99d48312-be84-42d5-9327-a6dbf578bffa.description"
+msgid "Leverage self-serve and end-to-end support options to get the research you need, in exactly the way you need it."
+msgstr ""
+
+msgctxt "content_image_items.99d48312-be84-42d5-9327-a6dbf578bffa.description"
+msgid "YouGov’s data is displayed in a visual and easy-to-understand format, at all stages of your workflow."
+msgstr ""

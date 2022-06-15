@@ -1,0 +1,78 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:30.287537+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 8c6c126c-a281-4bd7-a7f2-289b086426ef\n"
+
+msgctxt "title"
+msgid "Tech Rankings:"
+msgstr "Tech Rankings:"
+
+msgctxt "slug"
+msgid "tech-rankings-2021"
+msgstr "tech-rankings-2021"
+
+msgctxt "seo_title"
+msgid "Tech Rankings 2021"
+msgstr "Tech Rankings 2021"
+
+msgctxt "search_description"
+msgid "YouGov 2021 Technology Rankings were ranked based on a 12-month average Impression score - a net measure of whether a consumer has a positive or negative impression of a brand."
+msgstr ""
+"Die YouGov 2021 Technologie-Rankings wurden auf der Grundlage eines durchschnittlichen 12-Monats-Impressions-Scores erstellt - ein Nettomaß dafür, ob ein Verbraucher einen positiven oder negativen "
+"Eindruck von einer Marke hat."
+
+msgctxt "hero_title"
+msgid "Technology Rankings 2021"
+msgstr "Technologie Rankings 2021"
+
+msgctxt "content_image_label"
+msgid "Tech Rankings 2021"
+msgstr "Tech Rankings 2021"
+
+msgctxt "content_image_title"
+msgid "Our data:"
+msgstr "Unseren Daten:"
+
+msgctxt "content_image_description"
+msgid ""
+"YouGov’s Technology Rankings 2021 are calculated using data we collect from members of the public in markets around the globe every day, from our <a id=\"a1\">YouGov BrandIndex</a> tool. The brands "
+"in the YouGov Technology Rankings 2021 were ranked based on a 12-month average <b>Impression</b> score - a net measure of whether a consumer has a positive or negative impression of a brand."
+msgstr ""
+"Die YouGov Technology Rankings 2021 werden anhand von Daten berechnet, die wir täglich von Personen in Märkten weltweit mit unserem <a id=\"a1\">YouGov BrandIndex</a>-Tool erheben. Die Marken in den"
+" YouGov Technology Rankings 2021 wurden auf Basis eines 12-Monats-Durchschnitts des <b>Impression</b>-Scores kalkuliert- ein Nettomaß dafür, ob ein Verbraucher einen positiven oder negativen "
+"Eindruck von einer Marke hat."
+
+msgctxt "content_image_description"
+msgid ""
+"YouGov BrandIndex draws data from 15 million registered panellists across 40 sectors and 55 markets globally. This year’s ranking includes the views of more of the world’s public than ever before, "
+"including consumers from United States, China, Japan, Germany, India and the United Kingdom."
+msgstr ""
+"Der YouGov BrandIndex basiert auf Daten von 15 Millionen registrierten Panelisten aus 40 Branchen und 55 Märkten weltweit. Das diesjährige Ranking umfasst die Ansichten von mehr Verbrauchern als je "
+"zuvor, darunter aus den USA, China, Japan, Deutschland, Indien und dem Vereinigten Königreich."
+
+msgctxt "content_image_description"
+msgid "Want to see how other markets compare? Our annual rankings highlights the top 10 technology brands across 24 countries."
+msgstr "Möchten Sie sehen, wie andere Märkte im Vergleich abschneiden? Unser jährliches Ranking zeigt die Top 10 der Technologiemarken in 24 Ländern."
+
+msgctxt "content_image_description"
+msgid "<a id=\"a1\"><b>Download the annual rankings here</b></a>"
+msgstr "<a id=\"a1\"><b>Laden Sie unser Ranking hier herunter</b></a>"
+
+msgctxt "direct_description"
+msgid ""
+"YouGov Technology Rankings 2021 data has been drawn from our daily brand tracking tool <a id=\"a1\">YouGov BrandIndex</a>, which continuously measures the public’s perception of brands within the "
+"technology sector around the globe. To see your brand’s <b>Impression</b> ranking please get in touch with one of our experts."
+msgstr ""
+"Die Daten des YouGov Technology Rankings 2021 stammen aus unserem täglichen Brand Tracking Tool <a id=\"a1\">YouGov BrandIndex</a>, das kontinuierlich die öffentliche Wahrnehmung von Marken im "
+"Technologiesektor rund um den Globus misst. Um das <b>Impressions</b>-Ranking Ihrer Marke zu sehen, nehmen Sie bitte Kontakt mit einem unserer Experten auf."
+
+msgctxt "direct_url"
+msgid "https://business.yougov.com/sectors/technology/tech-rankings-2021?marketo=contact"
+msgstr "https://business.yougov.com/de/sektoren/technologie/tech-rankings-2021?marketo=contact"
+
+msgctxt "direct_footer"
+msgid "Get in touch to see your brand data"
+msgstr "Erhalten Sie Ihre Marken-Daten"

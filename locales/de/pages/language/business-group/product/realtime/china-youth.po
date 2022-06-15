@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:29.386821+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 1f3b1332-8b26-439d-9fd4-6fc0e57e2272\n"
+
+msgctxt "title"
+msgid "China Youth"
+msgstr ""
+
+msgctxt "slug"
+msgid "china-youth"
+msgstr "china-jugend"
+
+msgctxt "hero_title"
+msgid "China Youth"
+msgstr ""

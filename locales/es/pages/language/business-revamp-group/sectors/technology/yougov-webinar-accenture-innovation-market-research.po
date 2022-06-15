@@ -1,0 +1,63 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:33.676922+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 27d06043-67b1-43d4-b49a-f55b3f6e11e0\n"
+
+msgctxt "title"
+msgid "Accenture Webinar Exclusive: YouGov Innovation"
+msgstr ""
+
+msgctxt "slug"
+msgid "yougov-webinar-accenture-innovation-market-research"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Accenture Webinar"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Accenture Webinar Exclusive: YouGov Innovation"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "On-demand Webinar"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Watch our webinar to learn more about YouGov’s latest innovations in data, technology, and market research."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=request"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Watch webinar"
+msgstr ""
+
+msgctxt "video_items.3ff66058-76d2-43c8-9945-3a7e0c77f5a9"
+msgid ""
+"As the pioneer of online market research, YouGov has been at the forefront of data innovation since its founding in 2000. In 2022, we’re excited to invite Accenture to an exclusive webinar to "
+"showcase four of YouGov’s most game-changing innovations."
+msgstr ""
+
+msgctxt "video_items.3ff66058-76d2-43c8-9945-3a7e0c77f5a9"
+msgid ""
+"From trialling new, more accurate ways of collecting verified data, to applying new models to better understand audiences and micro-target campaigns, we’ll demonstrate the impact of our improved "
+"data accuracy, speed and depth."
+msgstr ""
+
+msgctxt "video_items.3ff66058-76d2-43c8-9945-3a7e0c77f5a9"
+msgid "Watch the webinar on-demand below."
+msgstr ""
+
+msgctxt "video_items.cd62ce4c-9d32-4861-84bd-cd226ac7772a"
+msgid "Watch: YouGov Innovation"
+msgstr ""
+
+msgctxt "video_items.d86b7c6a-8784-4a72-8d14-02a0badaf0d2.video_id"
+msgid "GHauGGTS0FI"
+msgstr ""

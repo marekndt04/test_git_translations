@@ -1,0 +1,81 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:36.721207+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 24dc2c22-06e3-4415-ae51-b423c6adbd28\n"
+
+msgctxt "title"
+msgid "Profile Peek: Car Buyers in the Nordics"
+msgstr ""
+
+msgctxt "slug"
+msgid "nordic-car-buyers"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Profile Peek: Car Buyers in the Nordics"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Car Buyers in the Nordics"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Profile Peek"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "One in seven in the Nordics are likely to purchase a car in the next 12 months. Who are they?"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/product/profiles/nordic-car-buyers?marketo=download"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Download the full Profile Peek"
+msgstr ""
+
+msgctxt "video_items.56315bfc-198b-44ba-938a-2d7e3e7bffad"
+msgid "14% of Danes, Swedes, Norwegians, and Finns are looking to buy a new or used car in the next year."
+msgstr ""
+
+msgctxt "video_items.56315bfc-198b-44ba-938a-2d7e3e7bffad"
+msgid "Download YouGov's latest automotive Profile Peek and discover:"
+msgstr ""
+
+msgctxt "video_items.56315bfc-198b-44ba-938a-2d7e3e7bffad"
+msgid "Demographics"
+msgstr ""
+
+msgctxt "video_items.56315bfc-198b-44ba-938a-2d7e3e7bffad"
+msgid "Media consumption"
+msgstr ""
+
+msgctxt "video_items.56315bfc-198b-44ba-938a-2d7e3e7bffad"
+msgid "Engine type considered"
+msgstr ""
+
+msgctxt "video_items.56315bfc-198b-44ba-938a-2d7e3e7bffad"
+msgid "Attitudes to car brands"
+msgstr ""
+
+msgctxt "video_items.56315bfc-198b-44ba-938a-2d7e3e7bffad"
+msgid "And more"
+msgstr ""
+
+msgctxt "video_items.56315bfc-198b-44ba-938a-2d7e3e7bffad"
+msgid "<a id=\"a1\"><b>Download the full Profile Peek now</b></a>"
+msgstr ""
+
+msgctxt "video_items.56315bfc-198b-44ba-938a-2d7e3e7bffad"
+msgid "About Profile Peeks"
+msgstr ""
+
+msgctxt "video_items.56315bfc-198b-44ba-938a-2d7e3e7bffad"
+msgid ""
+"Drawing on data from across YouGov’s vast connected ecosystem, Profile Peeks are infographics that deep dive into a niche audience group segmented based on trending sector topics. Showcasing a range"
+" of behavioural and attitudinal insights they are designed to help brands and agencies get that little bit closer to the consumers they need to understand most."
+msgstr ""

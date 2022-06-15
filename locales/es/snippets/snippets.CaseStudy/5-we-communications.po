@@ -1,0 +1,21 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:33.722009+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: a4459f43-8335-4e0b-a51c-cb4c4a83c04a\n"
+
+msgctxt "title"
+msgid "WE Communications"
+msgstr ""
+
+msgctxt "description"
+msgid ""
+"YouGov have done an outstanding job of being true partners. They are always the first phone call I make. I chose to work with YouGov because I strongly believe in the product and what they are "
+"offering."
+msgstr ""
+
+msgctxt "url"
+msgid "https://yougov.co.uk/topics/resources/articles-reports/2018/08/01/yougov-we-global-advocacy"
+msgstr ""

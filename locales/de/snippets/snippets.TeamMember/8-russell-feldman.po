@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:28.562366+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: ca905bb1-9843-40a6-bfb5-f03f0d226676\n"
+
+msgctxt "name"
+msgid "Russell Feldman"
+msgstr ""

@@ -1,0 +1,103 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:38.123597+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 60d479f0-35f7-4b48-88fb-c27acfd8faa1\n"
+
+msgctxt "title"
+msgid "YouGov webinar: What’s ‘in-store’ for the CPG sector? Consumer preferences beyond the pandemic"
+msgstr "Webinaire YouGov : Qu’est-ce que le secteur des produits de grande consommation a en magasin ? Les préférences des consommateurs au-delà de la pandémie"
+
+msgctxt "slug"
+msgid "apac-webinar-consumer-goods-in-a-crisis-2021"
+msgstr "apac-webinar-biens-de-consommation-en-crise-2021"
+
+msgctxt "seo_title"
+msgid "YouGov APAC FMCG Webinar 2021: Consumer Goods in a Crisis"
+msgstr "Webinaire sur le secteur des biens de consommation courante dans la région de l’APAC 2021 de YouGov : Les biens de consommation en crise"
+
+msgctxt "benefits_description"
+msgid ""
+"<b>Elodie Causier</b>, YouGov’s Head of Research in Asia Pacific (<a id=\"a1\">LinkedIn profile here</a>), has moderated a panel discussion with the industry leaders coming from the agency and media"
+" space. Leveraging their extensive experience in helping FMCG/ CPG sector clients stay ahead in the industry development, this webinar aimed at sharing insights on decrypting the market trends and "
+"consumers’ changing requirements."
+msgstr ""
+"Elodie Causier, responsable des études de YouGov pour la région Asie-Pacifique (profil LinkedIn), animera une table ronde avec des leaders du secteur des biens de consommation courante, des agences "
+"et des médias. S’appuyant sur leur vaste expérience dans l’aide aux clients du secteur des produits de grande consommation, ce webinaire vise à partager des idées sur le décryptage des tendances du "
+"marché et les exigences changeantes des consommateurs."
+
+msgctxt "benefits_description"
+msgid "Our panel of experts include:"
+msgstr "Notre panel d’experts inclut :"
+
+msgctxt "benefits_description"
+msgid "<b>Jeanette Phang</b>, General Manager, Strategy and Insights, Publicis Groupe China (<a id=\"a1\">LinkedIn profile here</a>)"
+msgstr "Jeanette Phang, Directeur général, Stratégie et Perspectives, Publicis Groupe Chine (profil LinkedIn)"
+
+msgctxt "benefits_description"
+msgid "<b>Ben Tuff</b>, Chief Product Officer, APAC, UM Worldwide (<a id=\"a1\">LinkedIn profile here</a>)"
+msgstr "Ben Tuff, Chef de produit, APAC, UM Worldwide (profil LinkedIn)"
+
+msgctxt "benefits_description"
+msgid "<b>Dominique Touchaud</b>, CMO, Shokunin Marketing (<a id=\"a1\">LinkedIn profile here</a>)"
+msgstr "Dominique Touchaud, CMO, Shokunin Marketing (profil LinkedIn)"
+
+msgctxt "benefits_description"
+msgid "Topics covered in our panel discussion:"
+msgstr "Sujets abordés lors de notre table ronde :"
+
+msgctxt "benefits_description"
+msgid "The impact of COVID-19 - How have consumers’ shopping habits shifted and the impact it has had on FMCG / CPG brands, such as online purchase, the rise of D2C and more;"
+msgstr ""
+"L’impact du COVID-19 : Comment les habitudes d’achat des consommateurs ont-elles évolué et quel impact cela a-t-il eu sur les marques des biens de consommation courante / produits de grande "
+"consommation, comme l’achat en ligne, la montée du D2C et plus encore ;"
+
+msgctxt "benefits_description"
+msgid "Rise in price sensitivity;"
+msgstr "Augmentation de la sensibilité aux prix ;"
+
+msgctxt "benefits_description"
+msgid "Creation of new consumption moments, and what it means to CPG brands; and"
+msgstr "Création de nouveaux moments de consommation ;"
+
+msgctxt "benefits_description"
+msgid "More findings from YouGov’s International FMCG/CPG Report 2021"
+msgstr ""
+"Le rôle et l’importance de la durabilité dans les comportements d’achat et ce qu’elle signifie pour les marques de produits de grande consommation ; et Autres résultats du rapport international sur "
+"les biens de consommation courante / produits de grande consommation 2021 de YouGov"
+
+msgctxt "benefits_description"
+msgid "<a id=\"a1\">Re-watch the webinar now and learn exclusive insights from industry leaders to plan your data-informed strategy!</a>"
+msgstr "<a id=\"a1\">Réservez vos places DÈS À PRÉSENT et découvrez les opinions exclusives des leaders du secteur pour établir votre stratégie basée sur les données !</a>"
+
+msgctxt "benefits_label"
+msgid "WEBINAR"
+msgstr "WEBINAIRE"
+
+msgctxt "benefits_title"
+msgid "Re-watch the YouGov APAC FMCG Webinar on 4th August 2021"
+msgstr "Rejoignez-nous lors du Webinaire sur le secteur des biens de consommation courante dans la région de l’APAC 2021 de YouGov le 22 juillet 2021 (jeudi) à 14h00 SGT"
+
+msgctxt "hero_title"
+msgid "YouGov webinar: What’s ‘in-store’ for the CPG sector?"
+msgstr "Webinaire YouGov : Qu’est-ce que le secteur des produits de grande consommation a en magasin ?"
+
+msgctxt "hero_description"
+msgid ""
+"A plurality of consumers – ranging from 44% to 83% - across 17 markets we surveyed changed their shopping routines due to the pandemic. Change is set for the CPG sector’s future too - 54% of global "
+"consumers intend to buy more sustainable products once the pandemic subsides. Understanding consumers’ shifting behaviors and preferences at this pivotal moment is essential for the success of CPG "
+"industry players."
+msgstr ""
+"Entre 44 et 83 % des consommateurs sur les 17 marchés que nous avons étudiés ont changé leurs habitudes d’achat en raison de la pandémie. Le changement est également prévu pour l’avenir du secteur "
+"des biens de grande consommation. En effet, 54 % des consommateurs mondiaux ont l’intention d’acheter des produits plus durables une fois que la pandémie aura disparu. Pour garantir le succès des "
+"acteurs de l’industrie des biens de consommation courante, il est primordial de comprendre l’évolution des comportements et des préférences des consommateurs à ce moment."
+
+msgctxt "hero_url"
+msgid "?marketo=request"
+msgstr "?marketo=request"
+
+msgctxt "hero_url_text"
+msgid "Request the webinar on-demand"
+msgstr "Inscrivez-vous pour le webinaire"

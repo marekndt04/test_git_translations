@@ -1,0 +1,21 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:33.897985+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 317a4d9f-95ef-4fdf-b37b-d16770df3143\n"
+
+msgctxt "title"
+msgid "BBC"
+msgstr ""
+
+msgctxt "description"
+msgid ""
+"The speed of response in setting Profiles up and offering us your time has been really exceptional. I’m sure you imagine just what a joy that is when we’ve been landed with an urgent/very high "
+"profile piece of work - it’s thoroughly appreciated."
+msgstr ""
+
+msgctxt "url"
+msgid "https://yougov.co.uk/topics/resources/articles-reports/2019/01/31/tracking-online-perceptions-bbc-help-brand-track-p"
+msgstr ""

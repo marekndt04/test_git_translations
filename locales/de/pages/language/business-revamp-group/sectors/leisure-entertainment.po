@@ -1,0 +1,99 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:32.267902+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 020d02b9-f3df-40a3-af40-5d3874ae2ca1\n"
+
+msgctxt "title"
+msgid "Leisure &amp; Entertainment"
+msgstr "Freizeit &amp; Unterhaltung"
+
+msgctxt "slug"
+msgid "leisure-entertainment"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Leisure Industry Insights and Trends in Recreation"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Understand the latest in leisure industry insights with YouGov. Explore the latest data intelligence on trends in culture and recreation, with our reports, articles and brand trackers."
+msgstr ""
+
+msgctxt "download_content_label"
+msgid "WHITE PAPER"
+msgstr "WHITE PAPER"
+
+msgctxt "download_content_title"
+msgid "Opportunities for gambling companies to win big"
+msgstr "Chancen für Glücksspielunternehmen auf große Gewinne"
+
+msgctxt "download_content_description"
+msgid ""
+"How have changing attitudes towards gambling affected its global perception? Will online de-regulation in key markets continue to drive its surge in popularity? This report explores consumer trends "
+"shaping the future of gambling and reveals opportunities for businesses in the sector."
+msgstr ""
+"Wie hat sich die veränderte Einstellung zum Glücksspiel auf seine weltweite Wahrnehmung ausgewirkt? Wird die Deregulierung von Online-Glücksspielen in wichtigen Märkten die Popularität des "
+"Glücksspiels weiter ansteigen lassen? Dieser Bericht untersucht die Verbrauchertrends, die die Zukunft des Glücksspiels prägen, und zeigt Chancen für Unternehmen in diesem Sektor auf."
+
+msgctxt "download_content_cta_text"
+msgid "Download now"
+msgstr "Jetzt herunterladen"
+
+msgctxt "download_content_cta_url"
+msgid "https://business.yougov.com/sectors/leisure-entertainment/international-gambling-report-2021"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Leisure &amp; Entertainment Intelligence"
+msgstr "Freizeit & amp; Unterhaltungs Informationen"
+
+msgctxt "hero_description"
+msgid "Identify exactly who your target consumers are, make smarter strategic decisions, improve ROI."
+msgstr "Ermitteln Sie genau, wer Ihre Zielkunden sind, treffen Sie intelligentere strategische Entscheidungen und verbessern Sie Ihren ROI."
+
+msgctxt "hero_url"
+msgid "?data=audience"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Explore YouGov data"
+msgstr "YouGov-Daten erkunden"
+
+msgctxt "hero_url_2"
+msgid "https://business.yougov.com/product/realtime?marketo=contact"
+msgstr "https://business.yougov.com/de/produkt/realtime?marketo=contact"
+
+msgctxt "hero_url_text_2"
+msgid "Launch a survey"
+msgstr "Starten Sie eine Umfrage"
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr "Lösungen &amp; Produkte"
+
+msgctxt "products_title"
+msgid "How we can help you"
+msgstr "Wie wir Ihnen helfen können"
+
+msgctxt "all_content_list_title"
+msgid "Unrivalled data insights"
+msgstr "Einzigartige Dateneinblicke"
+
+msgctxt "all_content_list_description"
+msgid ""
+"YouGov has over 15 years of living consumer intelligence on the Leisure &amp; Entertainment sector. Generate market cut-through in a challenging consumer landscape by exploring our latest industry "
+"insights below."
+msgstr ""
+"YouGov verfügt über mehr als 15 Jahre living consumer intelligence über den Freizeit- und Unterhaltungssektor. Verschaffen Sie sich einen Marktdurchbruch in einer herausfordernden "
+"Verbraucherlandschaft, indem Sie unsere neuesten Brancheneinblicke erkunden."
+
+msgctxt "cta_text"
+msgid "Subscribe to our Leisure &amp; Entertainment Newsletter"
+msgstr "Abonnieren Sie unseren Freizeit- und Unterhaltungs-Newsletter"
+
+msgctxt "cta_url"
+msgid "?marketo=newsletter"
+msgstr ""

@@ -1,0 +1,169 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:30.441546+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 1ca81660-e7ab-4886-b3b9-c6b2c92348ca\n"
+
+msgctxt "title"
+msgid "Audience Data"
+msgstr ""
+
+msgctxt "slug"
+msgid "audience-data"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Audience Data: Addressable Audiences for Ad Targeting"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Bridge the gap between advertising campaign planning and execution, and boost marketing campaign effectiveness with research-based ad targeting from YouGov Audience Data."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "BENEFITS"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Research-based audiences for effective activation"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Audience Data"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Target your ideal research-based audience"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Plan and execute perfect ad campaigns. Find your ideal audience using YouGov’s Living Consumer Intelligence, then push a model of it to your desired addressable channel, or a wide range of buying "
+"platforms."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our connected living data solutions"
+msgstr ""
+
+msgctxt "bullet_lists_label"
+msgid "PARTNERS"
+msgstr ""
+
+msgctxt "bullet_lists_title"
+msgid "Enabled with partnerships"
+msgstr ""
+
+msgctxt "bullet_lists_description"
+msgid ""
+"YouGov Audience Data is enabled through a range of partnerships in each market. We have relationships with <b>open marketplace tech companies</b>, and direct integrations with <b>media agencies and "
+"media owners</b> for audience extension and activation."
+msgstr ""
+
+msgctxt "bullet_lists_description"
+msgid "Available across UK, US, mainland Europe, APAC. <a id=\"a1\"><b>Contact us</b></a> to find out if we are integrated with your agency stack."
+msgstr ""
+
+msgctxt "benefit_items.b75f072b-12fd-4dc5-a45b-5e5ea90ff369.title"
+msgid "Addressable"
+msgstr ""
+
+msgctxt "benefit_items.b75f072b-12fd-4dc5-a45b-5e5ea90ff369.description"
+msgid "Target accurate, research-based seed audiences on addressable channels and platforms including social, display and TV."
+msgstr ""
+
+msgctxt "benefit_items.e6719b12-306c-4b53-a5aa-7f7d1e9b0ded.title"
+msgid "Unique"
+msgstr ""
+
+msgctxt "benefit_items.e6719b12-306c-4b53-a5aa-7f7d1e9b0ded.description"
+msgid "Research-based approach to targeting lets advertisers develop audiences that would have not been possible before."
+msgstr ""
+
+msgctxt "benefit_items.495e941b-21ad-4530-934e-a3bd32f4ef6e.title"
+msgid "Customizable"
+msgstr ""
+
+msgctxt "benefit_items.495e941b-21ad-4530-934e-a3bd32f4ef6e.description"
+msgid "Segments can be based on individual campaign or brand specific needs."
+msgstr ""
+
+msgctxt "benefit_items.3234bbe8-c88c-490f-9ae9-b5607d45e3ce.title"
+msgid "Exclusive"
+msgstr ""
+
+msgctxt "benefit_items.3234bbe8-c88c-490f-9ae9-b5607d45e3ce.description"
+msgid "Custom segments crafted exclusively for your brand or agency."
+msgstr ""
+
+msgctxt "benefit_items.4efcce4f-eb8c-423d-91dd-393602138b31.title"
+msgid "Integrated"
+msgstr ""
+
+msgctxt "benefit_items.4efcce4f-eb8c-423d-91dd-393602138b31.description"
+msgid "Using single-source data mitigates waste when translating strategic audiences into media target groups."
+msgstr ""
+
+msgctxt "benefit_items.ec6918e1-8efe-4b58-bee3-db72c7931037.title"
+msgid "Privacy compliant"
+msgstr ""
+
+msgctxt "benefit_items.ec6918e1-8efe-4b58-bee3-db72c7931037.description"
+msgid "GDPR compliant and consent based on the IAB’s Transparency and Consent Framework."
+msgstr ""
+
+msgctxt "bullet_list_items.94073534-ed55-497a-b154-21256a82b7df.bullets"
+msgid ""
+"Eyeota\r"
+"<br/>semasio"
+msgstr ""
+
+msgctxt "bullet_list_items.6f7f01d9-a15a-4e87-8af8-94e1aa6e567e.bullets"
+msgid ""
+"adform\r"
+"<br/>LiveRamp"
+msgstr ""
+
+msgctxt "bullet_list_items.7d9e4b5a-e690-4b18-9577-47ff14b12cfa.bullets"
+msgid "Acxiom"
+msgstr ""
+
+msgctxt "content_image_items.2ad3be8c-5e62-49a5-a42e-c19c979c8a46.title"
+msgid "Rapid self-service"
+msgstr ""
+
+msgctxt "content_image_items.2ad3be8c-5e62-49a5-a42e-c19c979c8a46.description"
+msgid "Choose from a wide range of pre-built audiences for instant campaign activation."
+msgstr ""
+
+msgctxt "content_image_items.2ad3be8c-5e62-49a5-a42e-c19c979c8a46.description"
+msgid ""
+"Pre-scaled, regularly updated and built using data from <b>YouGov Profiles</b> – our industry-leading audience intelligence tool – for segments including demographics, consumer behavior, lifestyle "
+"and attitudes."
+msgstr ""
+
+msgctxt "content_image_items.b1d791d1-e65e-4ee7-9abf-0857374197ce.title"
+msgid "Granular custom audiences"
+msgstr ""
+
+msgctxt "content_image_items.b1d791d1-e65e-4ee7-9abf-0857374197ce.description"
+msgid "Create exclusive, research-based audience segments to suit your campaign or brand needs, using syndicated YouGov data or your own bespoke research."
+msgstr ""
+
+msgctxt "content_image_items.b1d791d1-e65e-4ee7-9abf-0857374197ce.description"
+msgid "We create an accurate seed audience based on the definition you provide, then our tech partners create a precise lookalike for targeting across all addressable channels."
+msgstr ""

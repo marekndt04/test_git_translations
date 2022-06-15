@@ -1,0 +1,60 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:34.114296+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: d15ddb0d-be70-4ba0-a41c-3f1b7e0baaef\n"
+
+msgctxt "title"
+msgid "Content &amp; Resources"
+msgstr ""
+
+msgctxt "slug"
+msgid "content"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov | Content &amp; Resources"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Read the latest YouGov case studies, white papers and articles featuring client success stories, intelligence and results from our reliable, robust data."
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Content &amp; Resources"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "The latest trends, analysis and insights"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"We have been sharing what the world thinks for 20+ years. Inspiring game-changing strategies, products and marketing campaigns among the world’s most recognised and successful brands.<br/> Explore "
+"the latest trends and thinking on a range of topics, including what consumer really feel about AI, global brand rankings and the biggest movers, how shopping habits have changed as a result of "
+"COVID-19, and what marketers should know about TikTok audiences."
+msgstr ""
+
+msgctxt "all_content_list_description"
+msgid "We have been sharing what the world thinks for 20+ years. Inspiring game-changing strategies, products and marketing campaigns among the world’s most recognised and successful brands."
+msgstr ""
+
+msgctxt "all_content_list_description"
+msgid ""
+"Explore the latest trends and thinking on a range of topics, including what consumer really feel about AI, global brand rankings and the biggest movers, how shopping habits have changed as a result "
+"of COVID-19, and what marketers should know about TikTok audiences."
+msgstr ""
+
+msgctxt "cta_label"
+msgid "Get in touch"
+msgstr ""
+
+msgctxt "cta_text"
+msgid "How can we help? Contact us"
+msgstr ""
+
+msgctxt "cta_url"
+msgid "?marketo=contact"
+msgstr ""

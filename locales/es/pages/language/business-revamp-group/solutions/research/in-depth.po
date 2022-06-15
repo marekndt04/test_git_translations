@@ -1,0 +1,81 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:34.399741+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 38900d18-2678-47f2-a3c5-cc363ebc5ce8\n"
+
+msgctxt "title"
+msgid "In-depth Research"
+msgstr ""
+
+msgctxt "slug"
+msgid "in-depth"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "In-Depth and Extensive Custom Research Services"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Commission Custom Research with full, end-to-end support from YouGov’s dedicated researchers and sector experts.  Designed entirely around your needs, create bespoke research solutions."
+msgstr ""
+
+msgctxt "hero_title"
+msgid "In-depth Research"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Custom Research, end-to-end support"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Designed entirely around your needs, YouGov’s flexible and scalable<a id=\"a1\"><b> Custom Research</b></a> provides end-to-end support from our team of world-class researchers and sector experts."
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Work with respected leaders, highly attuned to the changing needs of the market. Get the bespoke research you need from our Living Consumer Intelligence of 17+ million registered panellists, for the"
+" most accurate and reliable results."
+msgstr ""
+
+msgctxt "hero_url_3"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text_3"
+msgid "Get in touch"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our research solutions"
+msgstr ""
+
+msgctxt "content_image_items.ad1e2beb-c599-4677-9839-3cc9ee70248a.title"
+msgid "Maximise your research RO"
+msgstr ""
+
+msgctxt "content_image_items.ad1e2beb-c599-4677-9839-3cc9ee70248a.description"
+msgid ""
+"Get industry or sub-sector specific advice from leading researchers who understand your business challenges. Allow us to dig deeper using cutting-edge technology and research expertise, unlocking "
+"the meaning behind specific responses with our <a id=\"a1\"><b>Re-Contact</b></a> methodology."
+msgstr ""
+
+msgctxt "content_image_items.f43f3cc7-42bd-43c7-aa37-84b9ff59f42c.title"
+msgid "Connected and scalable living data"
+msgstr ""
+
+msgctxt "content_image_items.f43f3cc7-42bd-43c7-aa37-84b9ff59f42c.description"
+msgid "Get tailored data reports delivered to you, in the format you need, designed with your individual research and sharing needs in mind."
+msgstr ""
+
+msgctxt "content_image_items.f43f3cc7-42bd-43c7-aa37-84b9ff59f42c.description"
+msgid ""
+"Research data is delivered through <a id=\"a1\"><b>YouGov Crunch</b></a>, a modern platform for survey data analysis. With an easy-to-use interface, Crunch empowers everyone to analyse, visualise, "
+"and deliver insights with speed and simplicity."
+msgstr ""
+
+msgctxt "content_image_items.f43f3cc7-42bd-43c7-aa37-84b9ff59f42c.description"
+msgid "No more long turnaround times to get answers to simple questions. Build interactive dashboards in a few clicks and get the most detailed results in minutes."
+msgstr ""

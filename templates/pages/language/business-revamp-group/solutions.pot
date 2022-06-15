@@ -1,0 +1,48 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:38.797638+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Solutions"
+msgstr ""
+
+msgctxt "slug"
+msgid "solutions"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Solutions"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Discover YouGov's Audience Intelligence &amp; Targeting, Brand &amp; Campaign Tracking, and Research solutions - perfectly tailored to provide you with accurate data to better your business."
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Solutions tailored to your needs"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "A stream of accurate consumer data, brand analytics and research"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"With the world's most complete consumer research system, YouGov offers four main data solutions across our suite of products, providing your business with the data intelligence you need to grow "
+"effectively."
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Identify, understand and target your audience with <a id=\"a1\"><b>Audience Intelligence &amp; Targeting</b></a><b>.</b><br/>Supercharge campaigns to your audience with precision targeting with <a "
+"id=\"a2\"><b>Activate</b></a>, exploring lookalike audiences and unmissable, engagement-led advertising solutions.<br/>Track brand health, campaign effectiveness, customer satisfaction and online "
+"social sentiment with <a id=\"a3\"><b>Brand &amp; Campaign Tracking</b></a><b>.</b><br/>Conduct fast surveys and polls, ad and product concept testing and in-depth research with our <a "
+"id=\"a4\"><b>Research</b></a> solution."
+msgstr ""
+
+msgctxt "products_title"
+msgid "Discover YouGov's solutions"
+msgstr ""

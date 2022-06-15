@@ -1,0 +1,127 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:32.856540+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 2b59bb52-65f4-4b39-9c6e-e52a1eb62cee\n"
+
+msgctxt "title"
+msgid "Global Fan Profiles"
+msgstr "Global Fan Profiles"
+
+msgctxt "slug"
+msgid "global-fan-profiles"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Global Fan Profiles: Understand Sports Fan Data"
+msgstr ""
+
+msgctxt "search_description"
+msgid ""
+"Discover an instant view of the size and make-up of fan bases around the globe with YouGov Global Fan Profiles, the perfect tool to analyse the size, make-up, attitudes and behaviors of fan bases "
+"for sport and esports."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "BENEFITS"
+msgstr "Vorteile"
+
+msgctxt "benefits_title"
+msgid "Get the winning edge, no matter what market"
+msgstr "Verschaffen Sie sich den entscheidenden Vorteil, egal auf welchem Markt"
+
+msgctxt "hero_title"
+msgid "Global Fan Profiles"
+msgstr "Global Fan Profiles"
+
+msgctxt "hero_label"
+msgid "Sport and esports fan data at your fingertips."
+msgstr "Sport- und Esport-Fan-Daten auf Knopfdruck."
+
+msgctxt "hero_description"
+msgid "Discover everything you need to know about fan bases around the world. Get an instant view of the size, make-up, attitudes and behaviours of fan bases in 50+ markets."
+msgstr ""
+"Entdecken Sie alles, was Sie über Fangemeinden auf der ganzen Welt wissen müssen. Verschaffen Sie sich einen sofortigen Überblick über die Größe, den Aufbau, die Einstellungen und das Verhalten von "
+"Fangemeinden in über 50 Märkten."
+
+msgctxt "hero_url"
+msgid "/product/global-fan-profiles/?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr "Kontaktieren Sie uns"
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr "Lösungen &amp; Produkte"
+
+msgctxt "products_title"
+msgid "Explore our connected living data solutions"
+msgstr "Entdecken Sie unsere verknüpften Datenlösungen "
+
+msgctxt "benefit_items.e0b469d2-e735-4936-8b16-2a227bfafd04.title"
+msgid "All sports"
+msgstr "Alle Sportarten"
+
+msgctxt "benefit_items.e0b469d2-e735-4936-8b16-2a227bfafd04.description"
+msgid "No matter the sport, event, or market, we have the full picture on your fans to help you effectively reach them."
+msgstr "Unabhängig von der Sportart, der Veranstaltung oder dem Markt haben wir ein umfassendes Bild von Ihren Fans, damit Sie sie effektiv erreichen können."
+
+msgctxt "benefit_items.b09b762f-c054-4f83-9192-a4b5eebcbfb6.title"
+msgid "Esports coverage"
+msgstr "Esports-Berichterstattung"
+
+msgctxt "benefit_items.b09b762f-c054-4f83-9192-a4b5eebcbfb6.description"
+msgid "A steady flow of data at the game, league, event, and team level, delivering unmatched fan group analysis."
+msgstr "Ein ständiger Datenfluss auf Spiel-, Liga-, Veranstaltungs- und Teamebene, der unübertroffene Fangruppenanalysen liefert."
+
+msgctxt "benefit_items.47ff4b09-6b03-41c9-a01d-3c0181e2be53.title"
+msgid "Athlete marketing"
+msgstr "Athletenmarketing"
+
+msgctxt "benefit_items.47ff4b09-6b03-41c9-a01d-3c0181e2be53.description"
+msgid "Perception tracking on 500 of the world’s top athletes tells you what audiences they do and do not appeal to."
+msgstr "Die Beobachtung der Wahrnehmung von 500 Spitzensportlern zeigt Ihnen, welche Zielgruppen sie ansprechen und welche nicht."
+
+msgctxt "content_image_items.d6000d4b-4540-4895-ad38-9d11c3e932d1.title"
+msgid "Understand your fans in depth"
+msgstr "Verstehen Sie Ihre Fans im Detail"
+
+msgctxt "content_image_items.d6000d4b-4540-4895-ad38-9d11c3e932d1.description"
+msgid "Discover precisely how big a fan base is, who the fans are and how they consume content."
+msgstr "Finden Sie heraus, wie groß eine Fangemeinde ist, wer die Fans sind und wie sie Inhalte konsumieren."
+
+msgctxt "content_image_items.d6000d4b-4540-4895-ad38-9d11c3e932d1.description"
+msgid ""
+"Access market-specific fan data across <b>200</b> leagues, <b>50</b> events, <b>45+</b> game titles, <b>500</b> athletes and <b>2,000</b> teams, with the latest data from more than <b>300,000</b> "
+"interviews."
+msgstr "Greifen Sie auf marktspezifische Fan-Daten für 200 Ligen, 50 Veranstaltungen, mehr als 45 Spieltitel, 500 Athleten und 2.000 Teams zu, mit den neuesten Daten aus mehr als 300.000 Interviews."
+
+msgctxt "content_image_items.d6000d4b-4540-4895-ad38-9d11c3e932d1.description"
+msgid "Align this with the thousands of brands and audience trends YouGov tracks daily to evaluate sponsorship opportunities, win pitches and stand out from your competitors."
+msgstr ""
+"Gleichen Sie dies mit den Tausenden von Marken und Publikumstrends ab, die YouGov täglich verfolgt, um Sponsoring-Möglichkeiten zu bewerten, Pitches zu gewinnen und sich von Ihren Mitbewerbern "
+"abzuheben."
+
+msgctxt "content_image_items.5bb8fac6-c833-40bd-8097-4e99d5fb4384.title"
+msgid "Data-led decisions"
+msgstr "Datengesteuerte Entscheidungen"
+
+msgctxt "content_image_items.5bb8fac6-c833-40bd-8097-4e99d5fb4384.description"
+msgid ""
+"Inform your strategic plans and decisions – assess international market differences in fan base size and make-up. You can even track esports properties and compare individual game titles, leagues, "
+"events, tournaments, and team fan bases."
+msgstr ""
+"Nutzen Sie diese Informationen für Ihre strategischen Pläne und Entscheidungen und bewerten Sie die Unterschiede zwischen den internationalen Märkten in Bezug auf Größe und Zusammensetzung der "
+"Fangemeinde. Sie können sogar esports-Eigenschaften verfolgen und einzelne Spieletitel, Ligen, Events, Turniere und Team-Fanbasen vergleichen."
+
+msgctxt "content_image_items.5bb8fac6-c833-40bd-8097-4e99d5fb4384.description"
+msgid ""
+"Evaluate sponsorship opportunities and create compelling propositions, using real data on your fans and how they align with the brand you’re pitching to. Prove the growth and composition of your fan"
+" base to support broadcast negotiations."
+msgstr ""
+"Bewerten Sie Sponsoring-Möglichkeiten und erstellen Sie überzeugende Angebote, indem Sie echte Daten über Ihre Fans und deren Übereinstimmung mit der Marke, für die Sie werben möchten, nutzen. "
+"Weisen Sie das Wachstum und die Zusammensetzung Ihrer Fangemeinde nach, um Verhandlungen mit Sendern zu unterstützen."

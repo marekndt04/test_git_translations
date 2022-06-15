@@ -1,0 +1,134 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:39.935829+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Audience Explorer"
+msgstr ""
+
+msgctxt "slug"
+msgid "audience-explorer"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Audience Explorer: Free Audience Insights"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Get free audience data and brand affinity. Find out what makes your  target  audience  demographic  unique  and get intelligence on their  behavior  with Audience Explorer."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "BENEFITS"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Free audience intelligence:"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Audience Explorer"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Discover what makes your audience unique"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Build your custom audience and explore what they think and feel in minutes with our <b>free</b> self-service tool."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://platform.yougov.com/register/audience?loginLink=https:%2F%2Fplatform.yougov.com%2Flogin%2F%3FredirectPath%3Daudience"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Explore your audience"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our connected living data solutions"
+msgstr ""
+
+msgctxt "benefit_items.dc9d25d8-5edd-474b-9430-b1b74f87b7a5.title"
+msgid "Straightforward insights"
+msgstr ""
+
+msgctxt "benefit_items.dc9d25d8-5edd-474b-9430-b1b74f87b7a5.description"
+msgid "Get straight to the point of the story using one simple data platform."
+msgstr ""
+
+msgctxt "benefit_items.5712b7d6-dc15-4dff-98a8-4eeb0554a1f5.title"
+msgid "Rapid research"
+msgstr ""
+
+msgctxt "benefit_items.5712b7d6-dc15-4dff-98a8-4eeb0554a1f5.description"
+msgid "Unlock the value of our vast dataset – Living Consumer Intelligence."
+msgstr ""
+
+msgctxt "benefit_items.626c7ec0-19e4-425e-8259-097f4b208f3b.title"
+msgid "Deck-ready data"
+msgstr ""
+
+msgctxt "benefit_items.626c7ec0-19e4-425e-8259-097f4b208f3b.description"
+msgid "Present your story with visual portraits that can be shared instantly."
+msgstr ""
+
+msgctxt "content_image_items.3a235a57-699f-4911-b827-0502be88f18a.title"
+msgid "Build an audience, fast"
+msgstr ""
+
+msgctxt "content_image_items.3a235a57-699f-4911-b827-0502be88f18a.description"
+msgid "Easily create your audience from our wide selection of attributes:"
+msgstr ""
+
+msgctxt "content_image_items.3a235a57-699f-4911-b827-0502be88f18a.description"
+msgid "Select the location or region of your target audience"
+msgstr ""
+
+msgctxt "content_image_items.3a235a57-699f-4911-b827-0502be88f18a.description"
+msgid "Filter by age, region and gender to create an even more detailed customer profile"
+msgstr ""
+
+msgctxt "content_image_items.3a235a57-699f-4911-b827-0502be88f18a.description"
+msgid "Choose a brand, competitor or personality that your target audience is a fan of, or an example attitude or opinion they hold"
+msgstr ""
+
+msgctxt "content_image_items.3a235a57-699f-4911-b827-0502be88f18a.description"
+msgid "Discover data and insights on your custom audience to help you understand and target them effectively"
+msgstr ""
+
+msgctxt "content_image_items.f233aae2-7635-4ae4-8560-9ff5f68f846f.title"
+msgid "Unlock audience insights"
+msgstr ""
+
+msgctxt "content_image_items.f233aae2-7635-4ae4-8560-9ff5f68f846f.description"
+msgid "Click  'Explore your Audience' to uncover data and access your free audience dashboard"
+msgstr ""
+
+msgctxt "content_image_items.f233aae2-7635-4ae4-8560-9ff5f68f846f.description"
+msgid "Share the audience you’ve discovered with your colleagues, clients and business partners in a presentation-ready format"
+msgstr ""
+
+msgctxt "content_image_items.f233aae2-7635-4ae4-8560-9ff5f68f846f.description"
+msgid "Unlock more audience data by registering for an account"
+msgstr ""
+
+msgctxt "content_image_items.cc0691cd-aa15-420b-bcfb-21ffe884a46d.title"
+msgid "Access additional data"
+msgstr ""
+
+msgctxt "content_image_items.cc0691cd-aa15-420b-bcfb-21ffe884a46d.description"
+msgid "Unlock more data points with <a id=\"a1\"><b>YouGov Profiles</b></a><b>.</b>"
+msgstr ""
+
+msgctxt "content_image_items.cc0691cd-aa15-420b-bcfb-21ffe884a46d.description"
+msgid "The data in your audience dashboards is a snapshot from <b>YouGov Profiles</b> — a powerful syndicated data tool containing <b>over 200,000 audience data points</b>."
+msgstr ""

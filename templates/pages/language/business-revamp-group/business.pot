@@ -1,0 +1,272 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:40.292761+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Business MAIN PAGE"
+msgstr ""
+
+msgctxt "slug"
+msgid "business"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov: Living Consumer Intelligence, Discover What Your Customers Are Thinking"
+msgstr ""
+
+msgctxt "search_description"
+msgid "YouGov is an international research, data and analytics group, providing highest quality brand tracking, brand health analysis, audience profiling, audience intelligence, and market research."
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Living Consumer Intelligence"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Get intelligence from our ever-growing source of consumer data on 17 million+ registered panel members in 55+ markets.<br/>We call it living data."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "/select/?data=audience"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Explore living data"
+msgstr ""
+
+msgctxt "hero_url_2"
+msgid "https://business.yougov.com/product/realtime?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text_2"
+msgid "Launch a survey"
+msgstr ""
+
+msgctxt "hero_url_3"
+msgid "/product/"
+msgstr ""
+
+msgctxt "hero_url_text_3"
+msgid "Discover our solutions"
+msgstr ""
+
+msgctxt "bullet_lists_title"
+msgid "Know your sector"
+msgstr ""
+
+msgctxt "news_title"
+msgid "Read our latest thinking"
+msgstr ""
+
+msgctxt "latest_news.544f431a-ae0d-4baf-a4a6-783b506740dd.label"
+msgid "Article"
+msgstr ""
+
+msgctxt "latest_news.544f431a-ae0d-4baf-a4a6-783b506740dd.title"
+msgid "How many users could the Microsoft/Activision deal bring to Xbox Game Pass?"
+msgstr ""
+
+msgctxt "latest_news.544f431a-ae0d-4baf-a4a6-783b506740dd.url"
+msgid "/content/40572-how-many-users-could-microsoftactivision-deal-brin/"
+msgstr ""
+
+msgctxt "latest_news.ed67e467-6105-4ca1-8cdb-84a8300bbb18.label"
+msgid "Article"
+msgstr ""
+
+msgctxt "latest_news.ed67e467-6105-4ca1-8cdb-84a8300bbb18.title"
+msgid "Celebrities go crypto – but are they winning the public over, or putting them off?"
+msgstr ""
+
+msgctxt "latest_news.ed67e467-6105-4ca1-8cdb-84a8300bbb18.url"
+msgid "/content/40608-celebrities-go-crypto-are-they-winning-public-over/"
+msgstr ""
+
+msgctxt "latest_news.41966259-158d-40d3-add2-e4b742467c0a.label"
+msgid "Article"
+msgstr ""
+
+msgctxt "latest_news.41966259-158d-40d3-add2-e4b742467c0a.title"
+msgid "UK – Biggest Brand Movers – January 2022"
+msgstr ""
+
+msgctxt "latest_news.41966259-158d-40d3-add2-e4b742467c0a.url"
+msgid "/content/40438-uk-biggest-brand-movers-january-2022/"
+msgstr ""
+
+msgctxt "latest_news.c1e5db5c-4c76-4b4a-a2f1-5f88df184d4d.label"
+msgid "Article"
+msgstr ""
+
+msgctxt "latest_news.c1e5db5c-4c76-4b4a-a2f1-5f88df184d4d.title"
+msgid "As Omicron surges in the US, comfort in seeing live sports wanes"
+msgstr ""
+
+msgctxt "latest_news.c1e5db5c-4c76-4b4a-a2f1-5f88df184d4d.url"
+msgid "/content/40524-omicron-surges-us-comfort-seeing-live-sports-wanes/"
+msgstr ""
+
+msgctxt "latest_news.a94ee282-7b86-424c-a8fa-2881cd4a4b47.label"
+msgid "Article"
+msgstr ""
+
+msgctxt "latest_news.a94ee282-7b86-424c-a8fa-2881cd4a4b47.title"
+msgid "What do Apple users think about virtual reality?"
+msgstr ""
+
+msgctxt "latest_news.a94ee282-7b86-424c-a8fa-2881cd4a4b47.url"
+msgid "/content/40627-what-do-apple-users-think-about-virtual-reality/"
+msgstr ""
+
+msgctxt "latest_news.cccd8579-8165-4a55-a570-60c69c6c3d7b.label"
+msgid "CONTENT"
+msgstr ""
+
+msgctxt "latest_news.cccd8579-8165-4a55-a570-60c69c6c3d7b.title"
+msgid "Explore more latest trends, analysis and insights"
+msgstr ""
+
+msgctxt "latest_news.cccd8579-8165-4a55-a570-60c69c6c3d7b.url"
+msgid "/content/"
+msgstr ""
+
+msgctxt "video.1bb5917a-7832-442a-952f-4c91abc67957.video_id"
+msgid "682932345"
+msgstr ""
+
+msgctxt "case_studies_title"
+msgid "Why YouGov?"
+msgstr ""
+
+msgctxt "case_studies_description"
+msgid "Our products and services help the world’s most recognised brands, media owners, and agencies."
+msgstr ""
+
+msgctxt "diagram_title"
+msgid "Living data"
+msgstr ""
+
+msgctxt "diagram_description"
+msgid "<b>An ever-growing source of constantly evolving, connected intelligence:</b> discover what your customers were thinking yesterday, 5 years ago, and today."
+msgstr ""
+
+msgctxt "diagram_body.f3c3b903-6b36-4666-b609-f12471cad585.short_name"
+msgid "Explore"
+msgstr ""
+
+msgctxt "diagram_body.f3c3b903-6b36-4666-b609-f12471cad585.title"
+msgid "Explore"
+msgstr ""
+
+msgctxt "diagram_body.f3c3b903-6b36-4666-b609-f12471cad585.description"
+msgid "Answers you need from your audience - from syndicated data and in-depth custom research to quick surveys and polls."
+msgstr ""
+
+msgctxt "diagram_body.f3c3b903-6b36-4666-b609-f12471cad585.url"
+msgid "/solutions/research/"
+msgstr ""
+
+msgctxt "diagram_body.fff231b4-74b8-49d8-b4e9-886439683e9e.short_name"
+msgid "Plan"
+msgstr ""
+
+msgctxt "diagram_body.fff231b4-74b8-49d8-b4e9-886439683e9e.title"
+msgid "Plan"
+msgstr ""
+
+msgctxt "diagram_body.fff231b4-74b8-49d8-b4e9-886439683e9e.description"
+msgid "Unlock the most complete profile of your audience, with over a million data points."
+msgstr ""
+
+msgctxt "diagram_body.fff231b4-74b8-49d8-b4e9-886439683e9e.url"
+msgid "/solutions/audience/"
+msgstr ""
+
+msgctxt "diagram_body.45bdafff-d2b8-4f82-9342-dc0c6ef0e7fa.short_name"
+msgid "Activate"
+msgstr ""
+
+msgctxt "diagram_body.45bdafff-d2b8-4f82-9342-dc0c6ef0e7fa.title"
+msgid "Activate"
+msgstr ""
+
+msgctxt "diagram_body.45bdafff-d2b8-4f82-9342-dc0c6ef0e7fa.description"
+msgid "Supercharge campaigns with precision targeting and unmissable advertising."
+msgstr ""
+
+msgctxt "diagram_body.45bdafff-d2b8-4f82-9342-dc0c6ef0e7fa.url"
+msgid "/solutions/activate/"
+msgstr ""
+
+msgctxt "diagram_body.d4b567b1-8e14-4027-bce4-4b49a70cbfad.short_name"
+msgid "Track"
+msgstr ""
+
+msgctxt "diagram_body.d4b567b1-8e14-4027-bce4-4b49a70cbfad.title"
+msgid "Track"
+msgstr ""
+
+msgctxt "diagram_body.d4b567b1-8e14-4027-bce4-4b49a70cbfad.description"
+msgid "Continuously monitor what your audience thinks about brands, campaigns and your competition with daily updates."
+msgstr ""
+
+msgctxt "diagram_body.d4b567b1-8e14-4027-bce4-4b49a70cbfad.url"
+msgid "/solutions/brand-tracking/"
+msgstr ""
+
+msgctxt "links_list_items.2a71a329-60e7-4d84-aba7-29e66e8212c0.text"
+msgid ""
+"Automotive\r"
+"<br/>Agencies\r"
+"<br/>Banking &amp; Insurance\r"
+"<br/>Charities &amp; Non-profit\r"
+"<br/>FMCG"
+msgstr ""
+
+msgctxt "links_list_items.2a71a329-60e7-4d84-aba7-29e66e8212c0.links"
+msgid ""
+"/sectors/automotive/\r"
+"<br/>/sectors/agency\r"
+"<br/>/sectors/banking-insurance/\r"
+"<br/>/sectors/charity-nonprofit/\r"
+"<br/>/sectors/fmcg/"
+msgstr ""
+
+msgctxt "links_list_items.99bcee1b-4673-4932-872c-98bff30c69b7.text"
+msgid ""
+"Government &amp; Academia\r"
+"<br/>Health &amp; Pharma\r"
+"<br/>Leisure &amp; Entertainment\r"
+"<br/>Media &amp; Content\r"
+"<br/>Retail"
+msgstr ""
+
+msgctxt "links_list_items.99bcee1b-4673-4932-872c-98bff30c69b7.links"
+msgid ""
+"/sectors/government/\r"
+"<br/>/sectors/health-pharma/\r"
+"<br/>/sectors/leisure-entertainment/\r"
+"<br/>/sectors/media-content/\r"
+"<br/>/sectors/retail/"
+msgstr ""
+
+msgctxt "links_list_items.1e76c14e-5be0-4759-ba60-c2900eccd4d0.text"
+msgid ""
+"Sport\r"
+"<br/>Technology\r"
+"<br/>Telco\r"
+"<br/>Travel\r"
+"<br/>Video Gaming &amp; Esports"
+msgstr ""
+
+msgctxt "links_list_items.1e76c14e-5be0-4759-ba60-c2900eccd4d0.links"
+msgid ""
+"https://sport.yougov.com\r"
+"<br/>/sectors/technology/\r"
+"<br/>/sectors/telco/\r"
+"<br/>/sectors/travel-tourism/\r"
+"<br/>/sectors/gaming-esports/"
+msgstr ""

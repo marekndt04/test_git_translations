@@ -1,0 +1,86 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:38.965774+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Online &amp; Social Tracking"
+msgstr ""
+
+msgctxt "slug"
+msgid "social"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Track Social Sentiment"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Track online social sentiment to your brand, competitors and product with YouGov's digital tools. Leverage the power of our panel data to understand and monitor niche groups."
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Online and social opinion"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Monitor online sentiment"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Get an instant overview of how opinions are expressed about your brand and sector online, with thorough examination of text and conversation. We track all the major digital sources in over 40 "
+"markets for an analytical approach to social listening."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our social tracking solutions"
+msgstr ""
+
+msgctxt "content_image_items.a708afb2-5232-41c7-b864-89a790e8dd1b.title"
+msgid "Connected online sentiment analysis"
+msgstr ""
+
+msgctxt "content_image_items.a708afb2-5232-41c7-b864-89a790e8dd1b.description"
+msgid ""
+"Intelligence you need from the sources that matter. <a id=\"a1\"><b>YouGov Signal</b></a> has one of the broadest global online reaches, covering every relevant article, social post, video, search "
+"volume, and much more."
+msgstr ""
+
+msgctxt "content_image_items.a708afb2-5232-41c7-b864-89a790e8dd1b.description"
+msgid "Our state-of-the-art natural language processing – with up to 93% sentiment accuracy – helps you understand, with unrivalled accuracy, what consumers’ think and feel."
+msgstr ""
+
+msgctxt "content_image_items.a708afb2-5232-41c7-b864-89a790e8dd1b.description"
+msgid "Unlock authentic audience insights on the very latest properties, as they happen, – with 10,500+ tracked brands, products, movies and TV shows."
+msgstr ""
+
+msgctxt "content_image_items.b5e381e8-6cca-4a19-9755-362d86369dfd.title"
+msgid "Connected living data solutions"
+msgstr ""
+
+msgctxt "content_image_items.b5e381e8-6cca-4a19-9755-362d86369dfd.description"
+msgid ""
+"Connect your data from <a id=\"a1\"><b>YouGov Signal</b></a> to YouGov’s wider Living Consumer Intelligence for a richer picture of the audiences and personas engaging with your brand, product or "
+"company."
+msgstr ""
+
+msgctxt "content_image_items.b5e381e8-6cca-4a19-9755-362d86369dfd.description"
+msgid ""
+"For more granular analysis, get a deeper understanding of social behaviours, monitor overlapping audiences, and understand customer needs – with speed and certainty – with <a id=\"a1\"><b>YouGov "
+"Custom Research</b></a>."
+msgstr ""

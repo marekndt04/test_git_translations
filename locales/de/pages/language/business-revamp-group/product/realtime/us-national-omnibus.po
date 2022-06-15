@@ -1,0 +1,193 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:33.535090+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: cd4e1a35-99db-40bd-be20-5072d916704d\n"
+
+msgctxt "title"
+msgid "US National Omnibus"
+msgstr ""
+
+msgctxt "slug"
+msgid "us-national-omnibus"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "US National Omnibus"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "US National Omnibus"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Get next-day results with our daily survey of 1,000+ nationally representative US adults."
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"With no minimum question count, you can field a nationally representative survey fast, affordably, and with full research team support including consultation, questionnaire design, programming, "
+"fieldwork, and results."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "rates_title"
+msgid "National Omnibus rates"
+msgstr ""
+
+msgctxt "benefit_items.fd529002-c8c4-4cf7-890c-3a0e017d60f6.title"
+msgid "Representative sample"
+msgstr ""
+
+msgctxt "benefit_items.fd529002-c8c4-4cf7-890c-3a0e017d60f6.description"
+msgid "Reach a nationally representative sample of 1,000 or 2,000 US adults aged 18+."
+msgstr ""
+
+msgctxt "benefit_items.7a99f359-1051-49c8-86ee-24dc386e07e0.title"
+msgid "Daily surveys"
+msgstr ""
+
+msgctxt "benefit_items.7a99f359-1051-49c8-86ee-24dc386e07e0.description"
+msgid "Surveys launch every business day."
+msgstr ""
+
+msgctxt "benefit_items.aa2d1a50-7cee-4965-b568-9cc0199dfc48.title"
+msgid "Fast results"
+msgstr ""
+
+msgctxt "benefit_items.aa2d1a50-7cee-4965-b568-9cc0199dfc48.description"
+msgid "Results delivered next business day (2 business days for 2,000 respondents)."
+msgstr ""
+
+msgctxt "rates_table_header.3a703b2c-023b-466c-bd79-4d9a867a2467.column_1"
+msgid "How it works?"
+msgstr ""
+
+msgctxt "rates_table_header.3a703b2c-023b-466c-bd79-4d9a867a2467.column_3"
+msgid "1,000 Adults"
+msgstr ""
+
+msgctxt "rates_table_header.3a703b2c-023b-466c-bd79-4d9a867a2467.column_4"
+msgid "2,000 Adults"
+msgstr ""
+
+msgctxt "rates_table_rows.dd7b8405-a0a0-441e-a76c-8a4b59bd69e5.column_1"
+msgid "Entry Fee"
+msgstr ""
+
+msgctxt "rates_table_rows.dd7b8405-a0a0-441e-a76c-8a4b59bd69e5.column_2"
+msgid "Covers initial consultation, programming, and final deliverables"
+msgstr ""
+
+msgctxt "rates_table_rows.dd7b8405-a0a0-441e-a76c-8a4b59bd69e5.column_3"
+msgid "$300"
+msgstr ""
+
+msgctxt "rates_table_rows.dd7b8405-a0a0-441e-a76c-8a4b59bd69e5.column_4"
+msgid "$300"
+msgstr ""
+
+msgctxt "rates_table_rows.042ab11f-fb55-4a35-8201-11324a21e477.column_1"
+msgid "Questions"
+msgstr ""
+
+msgctxt "rates_table_rows.042ab11f-fb55-4a35-8201-11324a21e477.column_2"
+msgid "Prices for a question with up to 10 single or multiple choice answers"
+msgstr ""
+
+msgctxt "rates_table_rows.042ab11f-fb55-4a35-8201-11324a21e477.column_3"
+msgid "$500"
+msgstr ""
+
+msgctxt "rates_table_rows.042ab11f-fb55-4a35-8201-11324a21e477.column_4"
+msgid "$750"
+msgstr ""
+
+msgctxt "rates_table_rows.29e84bf4-880c-4d34-97cf-9df6be13a49e.column_1"
+msgid "Scale Questions"
+msgstr ""
+
+msgctxt "rates_table_rows.29e84bf4-880c-4d34-97cf-9df6be13a49e.column_2"
+msgid "Price for every three statements answered against the same scale (e.g. 'very poor' &lt;-&gt; 'very good')"
+msgstr ""
+
+msgctxt "rates_table_rows.29e84bf4-880c-4d34-97cf-9df6be13a49e.column_3"
+msgid "$500"
+msgstr ""
+
+msgctxt "rates_table_rows.29e84bf4-880c-4d34-97cf-9df6be13a49e.column_4"
+msgid "$750"
+msgstr ""
+
+msgctxt "rates_table_rows.3c315925-e8d3-4fd2-b293-1af01bb0b9ba.column_1"
+msgid "Open-ended"
+msgstr ""
+
+msgctxt "rates_table_rows.3c315925-e8d3-4fd2-b293-1af01bb0b9ba.column_2"
+msgid "Respondents provide subjective responses to questions in their own words"
+msgstr ""
+
+msgctxt "rates_table_rows.3c315925-e8d3-4fd2-b293-1af01bb0b9ba.column_3"
+msgid "$500"
+msgstr ""
+
+msgctxt "rates_table_rows.3c315925-e8d3-4fd2-b293-1af01bb0b9ba.column_4"
+msgid "$750"
+msgstr ""
+
+msgctxt "rates_table_rows.b19c4ed7-ec5c-45a8-a823-4cba5af8ba4e.column_1"
+msgid "Images"
+msgstr ""
+
+msgctxt "rates_table_rows.b19c4ed7-ec5c-45a8-a823-4cba5af8ba4e.column_2"
+msgid "Incorporate images for a more engaging survey"
+msgstr ""
+
+msgctxt "rates_table_rows.b19c4ed7-ec5c-45a8-a823-4cba5af8ba4e.column_3"
+msgid "FREE"
+msgstr ""
+
+msgctxt "rates_table_rows.b19c4ed7-ec5c-45a8-a823-4cba5af8ba4e.column_4"
+msgid "FREE"
+msgstr ""
+
+msgctxt "rates_table_rows.fa47ce4e-ce92-424f-9ecf-c4e88a47e751.column_1"
+msgid "Videos"
+msgstr ""
+
+msgctxt "rates_table_rows.fa47ce4e-ce92-424f-9ecf-c4e88a47e751.column_2"
+msgid "Incorporate videos (per 30 seconds) into survey"
+msgstr ""
+
+msgctxt "rates_table_rows.fa47ce4e-ce92-424f-9ecf-c4e88a47e751.column_3"
+msgid "$500"
+msgstr ""
+
+msgctxt "rates_table_rows.fa47ce4e-ce92-424f-9ecf-c4e88a47e751.column_4"
+msgid "$750"
+msgstr ""
+
+msgctxt "rates_table_rows.b1ba3266-cb3b-4fa4-a460-23e915304a73.column_1"
+msgid "Results"
+msgstr ""
+
+msgctxt "rates_table_rows.b1ba3266-cb3b-4fa4-a460-23e915304a73.column_2"
+msgid "Time frames for US samples only. For Canadian and Mexican samples, please inquire as to delivery speeds."
+msgstr ""
+
+msgctxt "rates_table_rows.b1ba3266-cb3b-4fa4-a460-23e915304a73.column_3"
+msgid "1 business day"
+msgstr ""
+
+msgctxt "rates_table_rows.b1ba3266-cb3b-4fa4-a460-23e915304a73.column_4"
+msgid "2 business day"
+msgstr ""

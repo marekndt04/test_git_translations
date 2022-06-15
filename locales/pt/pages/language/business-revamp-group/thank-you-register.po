@@ -1,0 +1,47 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:41.566756+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 9360ca0d-a5e3-418b-b1d7-2ca28402b5dc\n"
+
+msgctxt "title"
+msgid "Thank you - Register"
+msgstr ""
+
+msgctxt "slug"
+msgid "thank-you-register"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Thank you for registering for our webinar"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "You will shortly receive an email confirming your registration. We look forward to seeing you there."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/select?data=audience"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Explore living data"
+msgstr ""
+
+msgctxt "hero_url_2"
+msgid "?cta=research"
+msgstr ""
+
+msgctxt "hero_url_text_2"
+msgid "Launch a survey"
+msgstr ""
+
+msgctxt "hero_url_3"
+msgid "https://business.yougov.com/product"
+msgstr ""
+
+msgctxt "hero_url_text_3"
+msgid "Discover our solutions"
+msgstr ""

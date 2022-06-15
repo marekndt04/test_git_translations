@@ -1,0 +1,138 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:40.159886+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Education, Family &amp; Youth"
+msgstr ""
+
+msgctxt "slug"
+msgid "education-family-youth"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Education, Family, &amp; Youth"
+msgstr ""
+
+msgctxt "search_description"
+msgid ""
+"Explore YouGov's expertise in family and education trends, educator needs, communications, and thought-leadership, working hand-in-hand with corporate clients, non-profits, NGOs, and public "
+"institutions to ensure stakeholder voices drive decisions."
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Why YouGov?"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Education, Family &amp; Youth"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Get to the heart of people's views"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"With expertise in family and education trends, educator needs, communications, and thought-leadership, we work hand-in-hand with corporate clients, non-profits, NGOs, and public institutions to "
+"ensure stakeholder voices drive decisions. Talk with parents, children, educators and other professionals, to understand how they view the world around them."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/product/education-family-youth/?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our connected living data solutions"
+msgstr ""
+
+msgctxt "benefit_items.1c3b9cfb-128e-4791-aa1d-6b288b3bb764.title"
+msgid "Global community"
+msgstr ""
+
+msgctxt "benefit_items.1c3b9cfb-128e-4791-aa1d-6b288b3bb764.description"
+msgid "YouGov operates an online panel of 17 million+ registered people worldwide who are incentivized to share their opinions."
+msgstr ""
+
+msgctxt "benefit_items.86f33729-ecc8-4b20-8fa4-23e916990094.title"
+msgid "Advanced analytics"
+msgstr ""
+
+msgctxt "benefit_items.86f33729-ecc8-4b20-8fa4-23e916990094.description"
+msgid "Navigate, analyze, visualize and present their research findings in one simple, intuitive online platform."
+msgstr ""
+
+msgctxt "benefit_items.670e06c2-f7b3-4b8f-b4cd-b5d3b073fa5b.title"
+msgid "Living data"
+msgstr ""
+
+msgctxt "benefit_items.670e06c2-f7b3-4b8f-b4cd-b5d3b073fa5b.description"
+msgid "Everything we learn from a continuous conversation with our global online community."
+msgstr ""
+
+msgctxt "benefit_items.b2ca5dce-235b-4410-9058-25cae728bcea.title"
+msgid "Experts in the field"
+msgstr ""
+
+msgctxt "benefit_items.b2ca5dce-235b-4410-9058-25cae728bcea.description"
+msgid "Content-area experts know how to uncover the insights needed to solve your challenges and reveal untapped opportunities."
+msgstr ""
+
+msgctxt "benefit_items.a47aaaba-e064-4c8e-8aed-6a64185dfe28.title"
+msgid "Multiple lenses"
+msgstr ""
+
+msgctxt "benefit_items.a47aaaba-e064-4c8e-8aed-6a64185dfe28.description"
+msgid "We understand the inter-related views and needs of children, families, educators, and the companies that serve them."
+msgstr ""
+
+msgctxt "benefit_items.bfd2bb22-e712-4a48-8f5e-1b75dab86ad9.title"
+msgid "Adaptable to your needs"
+msgstr ""
+
+msgctxt "benefit_items.bfd2bb22-e712-4a48-8f5e-1b75dab86ad9.description"
+msgid "From sample sources to survey construction to data presentation, your project is designed entirely for your needs and your budget."
+msgstr ""
+
+msgctxt "content_image_items.9295e144-2ec9-440c-9556-8e36cb031134.title"
+msgid "Custom solutions"
+msgstr ""
+
+msgctxt "content_image_items.9295e144-2ec9-440c-9556-8e36cb031134.description"
+msgid "YouGov’s dedicated team of experienced youth, family and education professionals design custom market research solutions for a variety of clients."
+msgstr ""
+
+msgctxt "content_image_items.9295e144-2ec9-440c-9556-8e36cb031134.description"
+msgid ""
+"We study trends among families and children to reveal their concerns, dreams and goals, leisure-time habits and more. We’ve revealed how educators, parents and young people impact – and are impacted"
+" by –policy shifts in education, the diffusion of digital technologies, the focus on college, career and citizenship and more."
+msgstr ""
+
+msgctxt "content_image_items.9295e144-2ec9-440c-9556-8e36cb031134.description"
+msgid "We know what drives consumer choices in the marketplace and what they want and expect from marketers across all sectors, from entertainment and media, to technology, retail, CPG and more."
+msgstr ""
+
+msgctxt "content_image_items.17615f23-fe31-4fc2-bdd2-9842b0006a0a.title"
+msgid "Our methodology"
+msgstr ""
+
+msgctxt "content_image_items.17615f23-fe31-4fc2-bdd2-9842b0006a0a.description"
+msgid "We have both the research expertise and sector experience to conduct a full range of research methodologies."
+msgstr ""
+
+msgctxt "content_image_items.17615f23-fe31-4fc2-bdd2-9842b0006a0a.description"
+msgid ""
+"Our range of tools, strategies and techniques give organizations a better understanding of both their customers and target markets. We work in partnership with clients to provide actionable insights"
+" – answering both the ‘why’ and ‘so what’ questions."
+msgstr ""

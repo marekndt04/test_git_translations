@@ -1,0 +1,57 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:35.445060+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: bc940743-e8e5-4383-b48b-355bfa7dec2a\n"
+
+msgctxt "title"
+msgid "YouGov Framework: Eco-investing in the US"
+msgstr ""
+
+msgctxt "slug"
+msgid "us-eco-investing-framework"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Framework: Eco-investing in the US"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "YouGov Framework: Eco-investing in the US"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=download"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Download full framework"
+msgstr ""
+
+msgctxt "video_items.33c69a25-bae6-48ff-8247-4e3e9424ddd2"
+msgid ""
+"How will sustainable considerations continue to influence investors and which brands are poised to thrive in this environment? YouGov's newest Eco-Investing report segments and profiles various "
+"consumer categories in the US based on their willingness to invest and whether they view themselves as environmentalists. The full report:"
+msgstr ""
+
+msgctxt "video_items.33c69a25-bae6-48ff-8247-4e3e9424ddd2"
+msgid "Identifies the four main investor groups in this growing space"
+msgstr ""
+
+msgctxt "video_items.33c69a25-bae6-48ff-8247-4e3e9424ddd2"
+msgid "Uncovers the predominant attitudes, behaviors, and demographics of eco-investors when market sizing"
+msgstr ""
+
+msgctxt "video_items.33c69a25-bae6-48ff-8247-4e3e9424ddd2"
+msgid "Anticipates America's sustainable expectations of financial brands."
+msgstr ""
+
+msgctxt "links_cta_text"
+msgid "Download the full framework"
+msgstr ""
+
+msgctxt "links_cta_url"
+msgid "?marketo=download"
+msgstr ""

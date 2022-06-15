@@ -1,0 +1,60 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:36.090430+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 5eb20f6b-ce2e-4df9-a627-d02f158438fb\n"
+
+msgctxt "title"
+msgid "Exclusive insights on Volvo customer purchasing behaviour in light of current global trends"
+msgstr ""
+
+msgctxt "slug"
+msgid "exclusive-insights-on-volvo-customer-purchasing-behaviour-in-light-of-current-global-trends"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Volvo's Consumer Insights Webinar-On-Demand"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Volvo’s consumer insights webinar on-demand"
+msgstr ""
+
+msgctxt "content_image_label"
+msgid "WEBINAR ON-DEMAND"
+msgstr ""
+
+msgctxt "content_image_title"
+msgid "What you'll hear about:"
+msgstr ""
+
+msgctxt "content_image_description"
+msgid "What’s driving the digital customer journey within the automotive sector"
+msgstr ""
+
+msgctxt "content_image_description"
+msgid "The drivers and barriers for purchasing new and used cars online"
+msgstr ""
+
+msgctxt "content_image_description"
+msgid "Consumer attitudes towards purchasing a Volvo vehicle online"
+msgstr ""
+
+msgctxt "content_image_description"
+msgid "The electric car market in Europe, including the key purchase triggers for European consumers"
+msgstr ""
+
+msgctxt "content_image_description"
+msgid "A deep dive into the Volvo consumer profiles in Sweden, Germany and UK"
+msgstr ""
+
+msgctxt "content_image_description"
+msgid ""
+"The webinar is based on syndicated data from YouGov BrandIndex and YouGov Profiles in combination with custom research conducted across 6.000+ interviews in 3 countries: Sweden, Germany, and the UK."
+msgstr ""
+
+msgctxt "content_image_description"
+msgid "<a id=\"a1\">Request the webinar on-demand</a>"
+msgstr ""

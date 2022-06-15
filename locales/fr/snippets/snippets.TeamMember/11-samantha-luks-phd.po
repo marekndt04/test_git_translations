@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:38.274808+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: fc3ea395-6e93-4c95-b2d8-b2e2c7bd3679\n"
+
+msgctxt "name"
+msgid "Samantha Luks, Ph.D."
+msgstr ""

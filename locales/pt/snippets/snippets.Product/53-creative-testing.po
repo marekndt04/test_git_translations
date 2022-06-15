@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:41.867546+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: f1aa3ed8-3f9d-41e4-9027-219fc014ad11\n"
+
+msgctxt "title"
+msgid "Creative Testing"
+msgstr ""
+
+msgctxt "description"
+msgid "Fully understand the customer lifecycle and adapt your messaging appropriately."
+msgstr ""
+
+msgctxt "url"
+msgid "/product/consumer-journey-diagnostics/creative-testing/"
+msgstr ""

@@ -1,0 +1,67 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:34.271399+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: be949225-ed27-4484-917b-3e5f49174659\n"
+
+msgctxt "title"
+msgid "Telkomsel's 2021 exclusive brand insights"
+msgstr ""
+
+msgctxt "slug"
+msgid "telkomsels-2021-exclusive-brand-insights"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Telkomsel's 2021 Exclusive YouGov Brand Insights"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Telkomsel's 2021 exclusive brand insights working with YouGov"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Telkomsel's 2021 exclusive brand insights"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Leveraging YouGov's data and analytics tools, we have conducted an analysis on Telkomsel’s overall brand performance against its competitors in Indonesia."
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"This analysis is created exclusively for Telkomsel's internal use to help the team to picture a portrait of the brand's current users including their demographic, psychographic, attitude "
+"and behavior."
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"4.464 Telkomsel's current users were analysed using <a id=\"a1\">YouGov Profiles</a> to generate the below insights, including a glimpse of room for improvement which could be explored and fixed "
+"with the right analytics."
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Telkomsel's brand health metrics compared to its top 2 competitors"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Telkomsel's current customers social and attitudinal attributes, mobile screen time, internet activities and mobile apps usage"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Brand perception trend and the analysis during the period of Q1'20 - Q1'21"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "<a id=\"a1\">Reach out to YouGov team</a> for a discussion to discuss the findings further and get your questions answered."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Reach out to YouGov team"
+msgstr ""

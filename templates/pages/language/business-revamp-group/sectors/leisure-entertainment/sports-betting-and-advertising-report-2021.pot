@@ -1,0 +1,42 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:42.263555+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "[REPORT] States of play: US attitudes on sports betting and advertising"
+msgstr ""
+
+msgctxt "slug"
+msgid "sports-betting-and-advertising-report-2021"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Report: US attitudes on sports betting and advertising"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "States of Play: US attitudes on sports betting and advertising"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "YouGov Report"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=download"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Download the report now"
+msgstr ""
+
+msgctxt "video_items.df2f56e0-8703-4ff1-aac7-1680437228e9.main_cta_text"
+msgid "Download the report now"
+msgstr ""
+
+msgctxt "video_items.df2f56e0-8703-4ff1-aac7-1680437228e9.main_cta_url"
+msgid "?marketo=download"
+msgstr ""

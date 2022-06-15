@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:42.285692+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 08c65de3-cbd7-4499-b550-0fb5a993b54c\n"
+
+msgctxt "title"
+msgid "CultureIndex"
+msgstr ""
+
+msgctxt "description"
+msgid "Continuously measure public brand perception of the UK's top cultural brands and attractions."
+msgstr ""
+
+msgctxt "url"
+msgid "/product/brandindex/cultureindex/"
+msgstr ""

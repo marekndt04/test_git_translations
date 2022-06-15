@@ -1,0 +1,141 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:41.178959+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: cfc7c705-3522-40e8-bc51-807812b43bf5\n"
+
+msgctxt "title"
+msgid "Finland National Omnibus"
+msgstr ""
+
+msgctxt "slug"
+msgid "finland-national-omnibus"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Finland National Omnibus"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Finland National Omnibus"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Daily surveys of 1,000 Finns aged 18+."
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"With no minimum question count, you can field a nationally representative survey fast, affordably, and with full research team support including consultation, questionnaire design, programming, "
+"fieldwork, and results."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "rates_title"
+msgid "National Omnibus rates"
+msgstr ""
+
+msgctxt "benefit_items.b0c20df1-f726-4e7e-a9bf-c7d45eb74503.title"
+msgid "Representative sample"
+msgstr ""
+
+msgctxt "benefit_items.b0c20df1-f726-4e7e-a9bf-c7d45eb74503.description"
+msgid "Reach a nationally representative sample of 1,000 Finnish adults aged 18+."
+msgstr ""
+
+msgctxt "benefit_items.de298ef5-f211-4597-bb85-0fdc1225d705.title"
+msgid "Daily surveys"
+msgstr ""
+
+msgctxt "benefit_items.de298ef5-f211-4597-bb85-0fdc1225d705.description"
+msgid "Surveys launch every business day."
+msgstr ""
+
+msgctxt "benefit_items.b4ff09e1-bffd-4481-b9bc-65ab83f67a2f.title"
+msgid "Fast results"
+msgstr ""
+
+msgctxt "benefit_items.b4ff09e1-bffd-4481-b9bc-65ab83f67a2f.description"
+msgid "Results delivered in a week, with full-service support and live reporting."
+msgstr ""
+
+msgctxt "rates_table_rows.c7963b41-2430-4ad2-9b8f-95ddbd4ef884.column_1"
+msgid "Entry Fee"
+msgstr ""
+
+msgctxt "rates_table_rows.c7963b41-2430-4ad2-9b8f-95ddbd4ef884.column_2"
+msgid "Book space on the nation’s market-leading omnibus"
+msgstr ""
+
+msgctxt "rates_table_rows.c7963b41-2430-4ad2-9b8f-95ddbd4ef884.column_3"
+msgid "500 EUR"
+msgstr ""
+
+msgctxt "rates_table_rows.b7d3428c-ccac-4637-87b0-f858bd39902d.column_1"
+msgid "Questions"
+msgstr ""
+
+msgctxt "rates_table_rows.b7d3428c-ccac-4637-87b0-f858bd39902d.column_2"
+msgid "Single or multiple choice (up to 10 answers per question)"
+msgstr ""
+
+msgctxt "rates_table_rows.b7d3428c-ccac-4637-87b0-f858bd39902d.column_3"
+msgid "300 EUR"
+msgstr ""
+
+msgctxt "rates_table_rows.1aa71cde-dd39-472f-b969-b59cd94fc4da.column_1"
+msgid "Scale Questions"
+msgstr ""
+
+msgctxt "rates_table_rows.1aa71cde-dd39-472f-b969-b59cd94fc4da.column_2"
+msgid "Statements answered against a scale (per every 3 statements)"
+msgstr ""
+
+msgctxt "rates_table_rows.1aa71cde-dd39-472f-b969-b59cd94fc4da.column_3"
+msgid "300 EUR"
+msgstr ""
+
+msgctxt "rates_table_rows.e810ad11-3de8-4ba6-b8b8-803ca911b7bf.column_1"
+msgid "Open-ended"
+msgstr ""
+
+msgctxt "rates_table_rows.e810ad11-3de8-4ba6-b8b8-803ca911b7bf.column_2"
+msgid "Full verbatim answers (coding services also available)"
+msgstr ""
+
+msgctxt "rates_table_rows.e810ad11-3de8-4ba6-b8b8-803ca911b7bf.column_3"
+msgid "500 EUR"
+msgstr ""
+
+msgctxt "rates_table_rows.3a23dddb-93e0-43b4-9557-d487d65ec5f4.column_1"
+msgid "Images"
+msgstr ""
+
+msgctxt "rates_table_rows.3a23dddb-93e0-43b4-9557-d487d65ec5f4.column_2"
+msgid "Use images for a more engaging survey (video options available)"
+msgstr ""
+
+msgctxt "rates_table_rows.3a23dddb-93e0-43b4-9557-d487d65ec5f4.column_3"
+msgid "FREE"
+msgstr ""
+
+msgctxt "rates_table_rows.3ee46f78-0c2a-41e3-aead-46dc30448f2b.column_1"
+msgid "Deliverables"
+msgstr ""
+
+msgctxt "rates_table_rows.3ee46f78-0c2a-41e3-aead-46dc30448f2b.column_2"
+msgid "Full Excel(TM) tables, PowerPoint(TM) summary charts, plus live and final results available via our interactive online analytics platform"
+msgstr ""
+
+msgctxt "rates_table_rows.3ee46f78-0c2a-41e3-aead-46dc30448f2b.column_3"
+msgid "INCLUDED"
+msgstr ""

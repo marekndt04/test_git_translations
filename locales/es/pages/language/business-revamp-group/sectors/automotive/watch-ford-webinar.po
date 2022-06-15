@@ -1,0 +1,61 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:36.217913+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 68ea4f3e-a11d-48d4-9519-91abe0292443\n"
+
+msgctxt "title"
+msgid "Watch our webinar designed exclusively for Ford"
+msgstr ""
+
+msgctxt "slug"
+msgid "watch-ford-webinar"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Watch YouGov's webinar designed exclusively for Ford"
+msgstr ""
+
+msgctxt "search_description"
+msgid ""
+"Watch our webinar designed exclusively for Ford, YouGov’s Global Sector Head of Automotive, Suzanna Mitrovich, will discuss how Ford – the definitive automotive brand of the 20th century – can "
+"maintain and continue to grow its foothold on the North American market with electric vehicles."
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Watch our Ford webinar: How to win the sustainability race"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Webinar"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Watch our webinar designed exclusively for Ford. How can Ford continue to grow its foothold on the North American market with electric vehicles."
+msgstr ""
+
+msgctxt "hero_description"
+msgid "A deep dive into the attitudes and behaviors of potential Ford buyers in the US"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Ford’s place in sustainable mobility compared to the competition in North America"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "The motivators and barriers for consumers considering an electric Ford vehicle"
+msgstr ""
+
+msgctxt "video_items.4da9c9cd-8eff-4785-a271-6c43da827b49.video_id"
+msgid "Atvb_MEkgns"
+msgstr ""
+
+msgctxt "video_items.71497ce2-0bb1-4682-b688-91c1344386ab.main_cta_text"
+msgid "Get in contact"
+msgstr ""
+
+msgctxt "video_items.71497ce2-0bb1-4682-b688-91c1344386ab.main_cta_url"
+msgid "?marketo=contact"
+msgstr ""

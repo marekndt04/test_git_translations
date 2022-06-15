@@ -1,0 +1,105 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:41.079066+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Global Profiles"
+msgstr ""
+
+msgctxt "slug"
+msgid "global-profiles"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Global Profiles"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Explore the largest global audience dataset in the world. Unrivalled global audience intelligence in 48 markets: monitor trends, purchase behavior, media consumption and more."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "Benefits"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Global audience profiling, made simple:"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Global Profiles"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Unrivaled global audience intelligence"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Understand your target audiences in all the markets that matter most to you. With <b>1,000+</b> questions in <b>43 major markets</b>, we offer the world's largest globally consistent audience "
+"dataset. Use <b>200,000+ datapoints</b> to easily build, compare, and contrast detailed portraits of audiences across the globe."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Book a demo"
+msgstr ""
+
+msgctxt "case_studies_label"
+msgid "Why YouGov?"
+msgstr ""
+
+msgctxt "case_studies_description"
+msgid "You’re in good company. See how top brands use YouGov Profiles to understand their audience:"
+msgstr ""
+
+msgctxt "benefit_items.7f531904-a210-4c22-bf69-3d5bb13f84d0.title"
+msgid "Consistent questions"
+msgstr ""
+
+msgctxt "benefit_items.7f531904-a210-4c22-bf69-3d5bb13f84d0.description"
+msgid "Easily compare and contrast audiences, with an unrivalled 1000+ consistent questions across 43 markets."
+msgstr ""
+
+msgctxt "benefit_items.4a93e4cb-7232-4522-94a4-87bd7da23e0a.title"
+msgid "Rich coverage"
+msgstr ""
+
+msgctxt "benefit_items.4a93e4cb-7232-4522-94a4-87bd7da23e0a.description"
+msgid "Hundreds of thousands of data variables on media consumption, attitudes and more."
+msgstr ""
+
+msgctxt "benefit_items.3e25dd3f-e376-4308-b166-475b14da6953.title"
+msgid "Cost-effective"
+msgstr ""
+
+msgctxt "benefit_items.3e25dd3f-e376-4308-b166-475b14da6953.description"
+msgid "Benefit from our cost-effective ‘seat’ model pricing, enabling you to decide product access at a user level."
+msgstr ""
+
+msgctxt "content_image_items.87032cb7-0492-430c-beb9-5a97b8e8fd8f.title"
+msgid "More questions, more metrics, more value"
+msgstr ""
+
+msgctxt "content_image_items.87032cb7-0492-430c-beb9-5a97b8e8fd8f.description"
+msgid ""
+"Enrich your audience understanding with the largest globally consistent selection of demographics, psychographics, attitudinal and behavioral consumer metrics available – with an unmatched <b>700+ "
+"attitudinal points and 150+ media questions</b>. Understand their thoughts, feelings, behaviors and habits, monitoring global trends, customer behavior, media consumption and more so you can plan "
+"targeted campaigns and effective partnerships."
+msgstr ""
+
+msgctxt "content_image_items.46db3017-ddad-4737-9d28-34b5b53d4c95.title"
+msgid "Optimize your strategy"
+msgstr ""
+
+msgctxt "content_image_items.46db3017-ddad-4737-9d28-34b5b53d4c95.description"
+msgid ""
+"Create campaigns that resonate across the globe, and confidently tailor your strategy to work in multiple markets or regions. Conduct research for business expansion, gauge interest in new product "
+"launches, build relationships with international partners – YouGov Global Profiles empowers you to <b>drive your business or brand to the next level</b>, and beyond."
+msgstr ""

@@ -1,0 +1,73 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:28.826327+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: a89d3a79-3d88-476c-8fed-995342710104\n"
+
+msgctxt "title"
+msgid "Profile Peek: Samsung Phone Owner Switchers"
+msgstr ""
+
+msgctxt "slug"
+msgid "profile-peek-samsung-phone-owner-switchers"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Profile Peek: Samsung Phone Owner Switchers"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Samsung Phone Owner Switchers"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Profile Peek"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Samsung phone owners likely to switch brand for their next handset"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/product/profiles/profile-peek-samsung-phone-owner-switchers?marketo=download"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Download the full Profile Peek"
+msgstr ""
+
+msgctxt "video_items.9eb4f176-678b-414a-b5d5-7c548222945d"
+msgid "We profiled Samsung phone owners who are likely to switch brand for their next handset."
+msgstr ""
+
+msgctxt "video_items.9eb4f176-678b-414a-b5d5-7c548222945d"
+msgid "Download YouGov's latest Telco Profile Peek and discover:"
+msgstr ""
+
+msgctxt "video_items.9eb4f176-678b-414a-b5d5-7c548222945d"
+msgid "The phone networks they are with"
+msgstr ""
+
+msgctxt "video_items.9eb4f176-678b-414a-b5d5-7c548222945d"
+msgid "Their thoughts on 5G"
+msgstr ""
+
+msgctxt "video_items.9eb4f176-678b-414a-b5d5-7c548222945d"
+msgid "The advertising channels that catch their eye"
+msgstr ""
+
+msgctxt "video_items.9eb4f176-678b-414a-b5d5-7c548222945d"
+msgid "<a id=\"a1\"><b>Download the full Profile Peek now.</b></a>"
+msgstr ""
+
+msgctxt "video_items.9eb4f176-678b-414a-b5d5-7c548222945d"
+msgid "About Profile Peeks"
+msgstr ""
+
+msgctxt "video_items.9eb4f176-678b-414a-b5d5-7c548222945d"
+msgid ""
+"Drawing on data from across YouGov’s vast connected ecosystem, Profile Peeks are infographics that deep dive into a niche audience group segmented based on trending sector topics. Showcasing a range"
+" of behavioural and attitudinal insights they are designed to help brands and agencies get that little bit closer to the consumers they need to understand most."
+msgstr ""

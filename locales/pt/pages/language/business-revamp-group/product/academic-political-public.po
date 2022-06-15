@@ -1,0 +1,147 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:41.523391+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 3878a3c2-51cc-415b-846a-ddbbdde2a3be\n"
+
+msgctxt "title"
+msgid "Academic, Political &amp; Public Affairs Research"
+msgstr ""
+
+msgctxt "slug"
+msgid "academic-political-public"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Academic, Political, &amp; Public Affairs Research"
+msgstr ""
+
+msgctxt "search_description"
+msgid ""
+"YouGov's Academic, Political, &amp; Public Affairs Team provides you with the most accurate, timely, and relevant polling on current political issues, elections, public affairs, advocacy, and "
+"quality of life."
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Why YouGov?"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Academic, Political &amp; Public Affairs"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Timely and relevant polling"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"The most accurate, timely, and relevant polling on current political issues, elections, public affairs, advocacy, and quality of life. Our senior sector specialists apply their expertise to provide "
+"fully customized research that brings enormous value to clients."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/product/academic-political-public/?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our connected living data solutions"
+msgstr ""
+
+msgctxt "benefit_items.832005b0-d2b0-46d1-aaf5-e4f7737536b2.title"
+msgid "Global community"
+msgstr ""
+
+msgctxt "benefit_items.832005b0-d2b0-46d1-aaf5-e4f7737536b2.description"
+msgid "YouGov operates a global online panel of millions of people who are incentivized to talk to us every day."
+msgstr ""
+
+msgctxt "benefit_items.f3f8341c-4090-4e92-a3fd-7d3391c44fe8.title"
+msgid "Advanced analytics"
+msgstr ""
+
+msgctxt "benefit_items.f3f8341c-4090-4e92-a3fd-7d3391c44fe8.description"
+msgid "Navigate, analyze, visualize and present their research findings in one simple, intuitive online platform."
+msgstr ""
+
+msgctxt "benefit_items.f050af82-2794-47f7-afe9-1185646c6d64.title"
+msgid "Living data"
+msgstr ""
+
+msgctxt "benefit_items.f050af82-2794-47f7-afe9-1185646c6d64.description"
+msgid "We store everything we learn from a continuous conversation with our global online community."
+msgstr ""
+
+msgctxt "content_image_items.f66f2bb1-4725-4188-a49c-cd786d1e2d87.title"
+msgid "Scientific &amp; Academic Research"
+msgstr ""
+
+msgctxt "content_image_items.f66f2bb1-4725-4188-a49c-cd786d1e2d87.description"
+msgid ""
+"<b>Full-service survey research</b> for academics, health researchers, policy think-tanks and unique corporate clients. Our highly trained survey methodologists conduct survey research intended for "
+"peer-reviewed publications."
+msgstr ""
+
+msgctxt "content_image_items.f66f2bb1-4725-4188-a49c-cd786d1e2d87.description"
+msgid ""
+"<b>Target hard-to-reach populations</b> and conduct survey research on multi-wave panels, cross-national studies and surveys with complex experimentation and embedded media. We provide deep research"
+" and analytical experience, supported by a large, diverse panel and innovative sampling methodology."
+msgstr ""
+
+msgctxt "content_image_items.f66f2bb1-4725-4188-a49c-cd786d1e2d87.description"
+msgid ""
+"Our services include research and questionnaire design, pretesting services, sample design, survey fielding, and reporting. Throughout the data collection process, we offer our clients intellectual "
+"collaboration to solve problems and tackle difficult research questions."
+msgstr ""
+
+msgctxt "content_image_items.531a1475-1f71-4a43-a02b-f1c28adbcd65.title"
+msgid "Political Research"
+msgstr ""
+
+msgctxt "content_image_items.531a1475-1f71-4a43-a02b-f1c28adbcd65.description"
+msgid "Using our unique panel and online suite of survey tools, we provide a rigorous understanding of the current political landscape."
+msgstr ""
+
+msgctxt "content_image_items.531a1475-1f71-4a43-a02b-f1c28adbcd65.description"
+msgid ""
+"We are the trusted media partner of CBS News, HuffPost, and The Economist, and our polling numbers are used by those who want the most accurate understanding of what Americans think about the issues"
+" of the day."
+msgstr ""
+
+msgctxt "content_image_items.531a1475-1f71-4a43-a02b-f1c28adbcd65.description"
+msgid "Our services include research and questionnaire design, pretesting, sampling design, fielding, weighting, and analysis reports."
+msgstr ""
+
+msgctxt "content_image_items.531a1475-1f71-4a43-a02b-f1c28adbcd65.description"
+msgid "Our researchers have expertise in academia, journalism, and political research, and we apply that experience to help our clients understand the electorate."
+msgstr ""
+
+msgctxt "content_image_items.834b27ee-a260-4281-8cd7-779ba2df90fc.title"
+msgid "Public Affairs"
+msgstr ""
+
+msgctxt "content_image_items.834b27ee-a260-4281-8cd7-779ba2df90fc.description"
+msgid ""
+"Implement the best strategies for navigating stakeholder concerns by leveraging a full cycle methodological research approach. This approach measures sentiment towards policies and issues, "
+"identifies core audiences, shapes campaign communications, and tracks public policy program effectiveness."
+msgstr ""
+
+msgctxt "content_image_items.834b27ee-a260-4281-8cd7-779ba2df90fc.description"
+msgid ""
+"In the advocacy space, the Public Affairs team has created a concise profile of what defines an advocate. Get actionable insights into what motivates advocates to take action, how and where to find "
+"these groups, and how to speak to them."
+msgstr ""
+
+msgctxt "content_image_items.834b27ee-a260-4281-8cd7-779ba2df90fc.description"
+msgid "We ensure clients successfully attain program goals and help them understand any disconnects they may have with the public on a specific issue or cause."
+msgstr ""

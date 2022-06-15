@@ -1,0 +1,35 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:36.178186+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 3584d05c-7cef-4681-af25-bdc869eade5a\n"
+
+msgctxt "title"
+msgid "EMEA On-demand Webinar the behavioural shifts in mobility and transportation"
+msgstr ""
+
+msgctxt "slug"
+msgid "emea-on-demand-webinar-the-behavioural-shifts-in-mobility-and-transportation"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Consumer-behavior shifts: What is driving decisions on mobility and transportation?"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "How consumers have altered their behaviors"
+msgstr ""
+
+msgctxt "page_sections.a00a00ac-033d-47e8-8a63-f34e8aada797.label"
+msgid "Webinar"
+msgstr ""
+
+msgctxt "video_items.855647fe-e9f7-4591-b1be-c8b11fb3a097"
+msgid "Watch the webinar recording now:"
+msgstr ""
+
+msgctxt "video_items.67a1f8ce-c4b4-4b83-8230-31f243d030a9.video_id"
+msgid "YJHkduerPrM"
+msgstr ""

@@ -1,0 +1,65 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:35.869022+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 596c7a40-50b5-4a0d-a999-202eaae204cd\n"
+
+msgctxt "title"
+msgid "Request your Free Biggest Movers Data - December"
+msgstr ""
+
+msgctxt "slug"
+msgid "request-your-free-biggest-movers-data-dec"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Request your Free Biggest Movers Data"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Consumers are reacting positively to your brand"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Request your free biggest movers data"
+msgstr ""
+
+msgctxt "page_sections.33a24007-b685-4fdd-838f-4d94586d5208.video_id"
+msgid "WaCO5S0ydTo"
+msgstr ""
+
+msgctxt "video_items.7333fcb7-afc2-4a95-b0e6-99881f6c6ae7"
+msgid "Biggest Movers Top 10 - December 2021"
+msgstr ""
+
+msgctxt "video_items.5dfc5252-bf7c-48fa-955b-f22efad56199"
+msgid "For over a decade YouGov BrandIndex has been tracking daily consumer perception of thousands of brands and their campaigns worldwide, with critical insight on their competitive performance."
+msgstr ""
+
+msgctxt "video_items.5dfc5252-bf7c-48fa-955b-f22efad56199"
+msgid "Between October and November 2021 there has been a <b>significant increase in positive consumer perception of your brand.</b>"
+msgstr ""
+
+msgctxt "video_items.5dfc5252-bf7c-48fa-955b-f22efad56199"
+msgid ""
+"<a id=\"a1\"><b>Request your biggest movers data</b></a> and we’ll present which media, brand health and purchase funnel metrics your brand has had a statistically significant positive movement in "
+"perception among UK consumers between <b>October and November 2021</b>, according to YouGov BrandIndex."
+msgstr ""
+
+msgctxt "video_items.5dfc5252-bf7c-48fa-955b-f22efad56199"
+msgid "<b>We’ll also compare your movement to four of your closest competitors.</b> Simply reference the competitors you wish your brand to be compared against in the message box."
+msgstr ""
+
+msgctxt "links_cta_text"
+msgid "Request your Biggest Movers data now"
+msgstr ""
+
+msgctxt "links_cta_url"
+msgid "?marketo=contact"
+msgstr ""

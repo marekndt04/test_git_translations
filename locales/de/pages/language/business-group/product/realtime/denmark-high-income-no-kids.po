@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:31.369106+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 0787609c-3d5f-4218-9b92-34c53204470e\n"
+
+msgctxt "title"
+msgid "Denmark High income no kids"
+msgstr ""
+
+msgctxt "slug"
+msgid "denmark-high-income-no-kids"
+msgstr "daenemark-hohes-einkommen-kinderlos"
+
+msgctxt "hero_title"
+msgid "Denmark High income no kids"
+msgstr ""

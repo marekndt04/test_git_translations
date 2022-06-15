@@ -1,0 +1,95 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:42.331033+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "YouGov My Audience"
+msgstr ""
+
+msgctxt "slug"
+msgid "my-audience"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov: My Audience"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Tell us your most critical audience right now"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "We’ll tell you something you didn’t know about them to help you convert them in the best way you know how."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/product/profiles/my-audience?marketo=audience"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Request an Audience Profile"
+msgstr ""
+
+msgctxt "video_items.0f3e1609-6fba-4485-b21b-05446a2839a5"
+msgid ""
+"YouGov’s vast connected ecosystem means we have an unrivalled source of rich, on-demand actual and attitudinal consumer data. From the top to the bottom of the funnel, we have insight that some "
+"clients didn’t even know they needed - to help them convert their most critical audiences when they need them most."
+msgstr ""
+
+msgctxt "video_items.0f3e1609-6fba-4485-b21b-05446a2839a5"
+msgid ""
+"<b>Simply click the link to request an Audience Profile and describe your audience.</b> We’ll get in touch to <b>present what we know about them right now for free</b>, directly within our "
+"syndicated data tools."
+msgstr ""
+
+msgctxt "video_items.0f3e1609-6fba-4485-b21b-05446a2839a5"
+msgid ""
+"If we don’t have exactly what you’re looking for, we’ll present the closest data we have and, on request, we can get more answers as soon as the next day via our YouGov RealTime research service."
+msgstr ""
+
+msgctxt "video_items.0f3e1609-6fba-4485-b21b-05446a2839a5"
+msgid "Let’s get you even closer to the audience you need most."
+msgstr ""
+
+msgctxt "video_items.0f3e1609-6fba-4485-b21b-05446a2839a5"
+msgid "<a id=\"a1\">Request an Audience Profile now</a>"
+msgstr ""
+
+msgctxt "video_items.48a913b7-e1c8-4615-af85-db97476a8804"
+msgid "Explore more YouGov Audience Videos"
+msgstr ""
+
+msgctxt "video_items.1b48513f-34be-418c-8411-cb8866ae2ed2"
+msgid "F1 Fans"
+msgstr ""
+
+msgctxt "video_items.fd0df179-d4f0-4118-b73e-fc3c1525e0e6.video_id"
+msgid "EVLF3QcbQI4"
+msgstr ""
+
+msgctxt "video_items.47594a99-0e40-4e65-99e2-aed3dc7ead0e"
+msgid "Flight Intenders"
+msgstr ""
+
+msgctxt "video_items.5e7476df-1055-4b82-9c54-c3fe3055faf5.video_id"
+msgid "5F7H0oGDJCI"
+msgstr ""
+
+msgctxt "video_items.6fee6c14-1489-448f-b302-f19f850b21bd"
+msgid "Car Purchase Intenders"
+msgstr ""
+
+msgctxt "video_items.0a54e132-df3a-4ea3-8b9d-4736300be653.video_id"
+msgid "b67WOTH-3Nw"
+msgstr ""
+
+msgctxt "video_items.932b0dd0-969e-42fb-9b5f-2838e44da33d"
+msgid "Bank Switchers"
+msgstr ""
+
+msgctxt "video_items.62567a4a-e1f9-43a4-a5b5-f8a244e1582d.video_id"
+msgid "-weCUbFHoGU"
+msgstr ""

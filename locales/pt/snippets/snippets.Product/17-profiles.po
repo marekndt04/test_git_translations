@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:42.276643+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 039b2ebe-4c8a-4f30-97c8-61a2c321ed3f\n"
+
+msgctxt "title"
+msgid "Profiles"
+msgstr ""
+
+msgctxt "description"
+msgid "Delve deeper with thousands of audience variables."
+msgstr ""
+
+msgctxt "url"
+msgid "/product/profiles/"
+msgstr ""

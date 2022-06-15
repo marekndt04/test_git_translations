@@ -1,0 +1,56 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:29.321206+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 398a8a13-a529-423c-b985-8f7a91455f2f\n"
+
+msgctxt "title"
+msgid "International Omni-Channel Retail Report 2021"
+msgstr ""
+
+msgctxt "slug"
+msgid "international-omni-channel-retail-report-2021"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "International Omni-Channel Retail Report 2021"
+msgstr ""
+
+msgctxt "search_description"
+msgid "International Omni-Channel Retail Report 2021: Shopping in the pandemic and the implications for the future"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "International Omni-Channel Retail Report 2021"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/sectors/retail/international-omni-channel-retail-report-2021?marketo=download"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Download the report now"
+msgstr ""
+
+msgctxt "content_image_items.9ce8d723-2701-43a0-a978-de3b6e521f30.description"
+msgid ""
+"Now more than ever it is crucial for retailers and brands to understand the dynamics at play influencing shoppers within the retail industry. No single event has had a more profound impact on "
+"shopping attitudes and behaviors globally than COVID-19, raising the stakes for retailers and manufacturers to better understand direct competitive forces, cross channel interplay between online and"
+" brick-and-mortar outlets, and the certainty around how behaviors will normalize post-pandemic."
+msgstr ""
+
+msgctxt "content_image_items.9ce8d723-2701-43a0-a978-de3b6e521f30.description"
+msgid ""
+"YouGov’s latest retail report analyzes custom RealTime research executed across 17 global markets, linked to YouGov Profiles. The insights allow retailers, and the brands that compete within, to "
+"focus on what matters most - excelling within the largest benefit spaces and overcoming barriers to drive greater penetration and trip visits."
+msgstr ""
+
+msgctxt "content_image_items.9ce8d723-2701-43a0-a978-de3b6e521f30.main_CTA_text"
+msgid "Download the report now"
+msgstr ""
+
+msgctxt "content_image_items.9ce8d723-2701-43a0-a978-de3b6e521f30.main_CTA_link"
+msgid "https://business.yougov.com/sectors/retail/international-omni-channel-retail-report-2021?marketo=download"
+msgstr ""

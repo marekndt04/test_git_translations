@@ -1,0 +1,23 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:32.613471+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 3e307d97-38b4-47f9-aee5-9bdd9f1e072a\n"
+
+msgctxt "title"
+msgid "Windflower Florist"
+msgstr ""
+
+msgctxt "description"
+msgid "\"YouGov was very helpful, they made sure the survey was unbiased and helped to fulfil our objectives. The team was efficient, launching our survey within a week or so.\""
+msgstr ""
+
+msgctxt "url"
+msgid "https://business.yougov.com/content/38486-windflower-florist-realtime-case-study"
+msgstr ""
+
+msgctxt "quote_author"
+msgid "<b>Stanley Tan, Director </b>"
+msgstr ""

@@ -1,0 +1,122 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:39.130867+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: e1d6326b-d484-456f-9feb-7125f5bfaf36\n"
+
+msgctxt "title"
+msgid "Activate"
+msgstr ""
+
+msgctxt "slug"
+msgid "activate"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Activate Targeted Advertizing Campaigns"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Supercharge your campaigns with precision targeting and unmissable advertizing."
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Activate"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Optimize your advertising with precision data"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Take your advertising to the next level, get to know your target audiences and ensure your ads are viewed by the right people, in the most noticeable way, with innovative advertising solutions. Plan"
+" and deliver unmissable advertising to engaged and scaled target audiences. Secure verified viewability, proven engagement and demonstrable ROI, meeting key campaign and brand objectives."
+msgstr ""
+
+msgctxt "hero_url_3"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text_3"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our connected living data solutions"
+msgstr ""
+
+msgctxt "pricing_component.bb7ce3c9-e7be-4da7-afa7-40034050b21a.label"
+msgid "SCALED TARGET AUDIENCES"
+msgstr ""
+
+msgctxt "pricing_component.bb7ce3c9-e7be-4da7-afa7-40034050b21a.title"
+msgid "Audience Data"
+msgstr ""
+
+msgctxt "pricing_component.bb7ce3c9-e7be-4da7-afa7-40034050b21a.price.f87f2991-7fc9-4692-b1db-8ab358005f8a"
+msgid "From £1"
+msgstr ""
+
+msgctxt "pricing_component.bb7ce3c9-e7be-4da7-afa7-40034050b21a.description"
+msgid "Research-based addressable audiences"
+msgstr ""
+
+msgctxt "pricing_component.bb7ce3c9-e7be-4da7-afa7-40034050b21a.cta_text"
+msgid "Get in touch"
+msgstr ""
+
+msgctxt "pricing_component.bb7ce3c9-e7be-4da7-afa7-40034050b21a.cta_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "pricing_component.64091c19-e620-48b0-81af-186f1314de8c.label"
+msgid "FREEWALL ADVERTISING"
+msgstr ""
+
+msgctxt "pricing_component.64091c19-e620-48b0-81af-186f1314de8c.title"
+msgid "YouGov FreeWall®"
+msgstr ""
+
+msgctxt "pricing_component.64091c19-e620-48b0-81af-186f1314de8c.price.f400618a-5018-4e5d-a4d2-28f91555c89c"
+msgid "CPE"
+msgstr ""
+
+msgctxt "pricing_component.64091c19-e620-48b0-81af-186f1314de8c.description"
+msgid "Targeted, 100% viewable advertising"
+msgstr ""
+
+msgctxt "pricing_component.64091c19-e620-48b0-81af-186f1314de8c.cta_text"
+msgid "Get in touch"
+msgstr ""
+
+msgctxt "pricing_component.64091c19-e620-48b0-81af-186f1314de8c.cta_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "content_image_items.04861449-3b93-4800-8841-f07d55b14043.title"
+msgid "Intelligent audience modelling"
+msgstr ""
+
+msgctxt "content_image_items.04861449-3b93-4800-8841-f07d55b14043.description"
+msgid ""
+"Leverage YouGov’s diverse panel of 17million+ registered consumers to create your ideal customer portrait. Build precise, research-based audience profiles from hundreds of thousands of variables, "
+"that can be scaled and bought across any addressable ad channels. Maximize your spend with efficient ad targeting, ensuring you hit campaign objectives within budget."
+msgstr ""
+
+msgctxt "content_image_items.300912df-ba57-4a07-893e-5011a2be62c3.title"
+msgid "Interactive ads with 100% viewability"
+msgstr ""
+
+msgctxt "content_image_items.300912df-ba57-4a07-893e-5011a2be62c3.description"
+msgid ""
+"Guarantee 100% viewability with zero ad blindness, and only pay for verified engagement on a CPE model. Make your ads unmissable with <a id=\"a1\"><b>YouGov</b> <b>FreeWall®</b></a>, where audiences"
+" interact directly with your advertising units to unlock premium publisher content. Harness audience engagement to deliver memorable advertising, with proven and measurable increase of message "
+"recall, CTR and intent to take action."
+msgstr ""

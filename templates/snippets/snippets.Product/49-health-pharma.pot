@@ -1,0 +1,18 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:40.407847+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Health &amp; Pharma"
+msgstr ""
+
+msgctxt "description"
+msgid "Unpack the latest insights and research."
+msgstr ""
+
+msgctxt "url"
+msgid "/sectors/health-pharma/"
+msgstr ""

@@ -1,0 +1,228 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:36.886440+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 5c197f0c-366f-461d-9dc2-8010de0bf6fc\n"
+
+msgctxt "title"
+msgid "Reputation &amp; Business Research"
+msgstr ""
+
+msgctxt "slug"
+msgid "reputation-business-research"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Reputation and Business Research"
+msgstr ""
+
+msgctxt "search_description"
+msgid ""
+"Track and monitor your organization's reputation with business research from YouGov. From stakeholder measurement to corporate comms evaluation and business thought leadership, our work is focused "
+"on providing tangible actions."
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Enhance your organization's reputation"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Reputation &amp; Business Research"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Monitor and enhance your organization's reputation"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Track reputation, know what drives it and develop insight to enhance it. From stakeholder measurement to corporate comms evaluation and B2B thought leadership, our team focuses on providing you with"
+" the tools and research to manage and improve your organization's reputation."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/product/reputation-business-research?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our connected living data solutions"
+msgstr ""
+
+msgctxt "subpages.d87aaae1-8275-4492-99e9-7e573d2e350b.title"
+msgid "Reputation and Business Research"
+msgstr ""
+
+msgctxt "subpages.d87aaae1-8275-4492-99e9-7e573d2e350b.pills.3bcd275b-7e73-459b-a3a6-705d6f719ee4.title"
+msgid "Omnibus Research"
+msgstr ""
+
+msgctxt "subpages.d87aaae1-8275-4492-99e9-7e573d2e350b.pills.3bcd275b-7e73-459b-a3a6-705d6f719ee4.tiles.a8ecbc64-c6ac-46a0-9570-4b57c925ac4f.title"
+msgid "UK MPs Omnibus"
+msgstr ""
+
+msgctxt "subpages.d87aaae1-8275-4492-99e9-7e573d2e350b.pills.3bcd275b-7e73-459b-a3a6-705d6f719ee4.tiles.a8ecbc64-c6ac-46a0-9570-4b57c925ac4f.description"
+msgid "Interview MPs representative of the House."
+msgstr ""
+
+msgctxt "subpages.d87aaae1-8275-4492-99e9-7e573d2e350b.pills.3bcd275b-7e73-459b-a3a6-705d6f719ee4.tiles.a8ecbc64-c6ac-46a0-9570-4b57c925ac4f.url"
+msgid "https://business.yougov.com/product/realtime/uk-mps-omnibus"
+msgstr ""
+
+msgctxt "subpages.d87aaae1-8275-4492-99e9-7e573d2e350b.pills.3bcd275b-7e73-459b-a3a6-705d6f719ee4.tiles.aace05b1-4a90-41ae-a6ea-d5b26bf2911c.title"
+msgid "Catalysts"
+msgstr ""
+
+msgctxt "subpages.d87aaae1-8275-4492-99e9-7e573d2e350b.pills.3bcd275b-7e73-459b-a3a6-705d6f719ee4.tiles.aace05b1-4a90-41ae-a6ea-d5b26bf2911c.description"
+msgid "A unique way of conducting research with leading members of the public."
+msgstr ""
+
+msgctxt "subpages.d87aaae1-8275-4492-99e9-7e573d2e350b.pills.3bcd275b-7e73-459b-a3a6-705d6f719ee4.tiles.aace05b1-4a90-41ae-a6ea-d5b26bf2911c.url"
+msgid "https://business.yougov.com/product/reputation-business-research/catalysts"
+msgstr ""
+
+msgctxt "subpages.d87aaae1-8275-4492-99e9-7e573d2e350b.pills.975a6b99-d8ef-46e6-b8a9-ddd5a1f3b788.title"
+msgid "Audits and Research"
+msgstr ""
+
+msgctxt "subpages.d87aaae1-8275-4492-99e9-7e573d2e350b.pills.975a6b99-d8ef-46e6-b8a9-ddd5a1f3b788.tiles.d7b09ec2-6627-429b-9c9f-efcb33b8c938.title"
+msgid "Bespoke Reputation Audits"
+msgstr ""
+
+msgctxt "subpages.d87aaae1-8275-4492-99e9-7e573d2e350b.pills.975a6b99-d8ef-46e6-b8a9-ddd5a1f3b788.tiles.d7b09ec2-6627-429b-9c9f-efcb33b8c938.description"
+msgid "Get in touch to discuss your requirements."
+msgstr ""
+
+msgctxt "subpages.d87aaae1-8275-4492-99e9-7e573d2e350b.pills.975a6b99-d8ef-46e6-b8a9-ddd5a1f3b788.tiles.d7b09ec2-6627-429b-9c9f-efcb33b8c938.url"
+msgid "https://business.yougov.com/product/reputation-business-research?marketo=contact"
+msgstr ""
+
+msgctxt "subpages.d87aaae1-8275-4492-99e9-7e573d2e350b.pills.975a6b99-d8ef-46e6-b8a9-ddd5a1f3b788.tiles.cfddbf7d-cc66-4013-afa2-b913acdf06b6.title"
+msgid "Bespoke Business Research"
+msgstr ""
+
+msgctxt "subpages.d87aaae1-8275-4492-99e9-7e573d2e350b.pills.975a6b99-d8ef-46e6-b8a9-ddd5a1f3b788.tiles.cfddbf7d-cc66-4013-afa2-b913acdf06b6.description"
+msgid "Our tailored approach is adaptable to your needs."
+msgstr ""
+
+msgctxt "subpages.d87aaae1-8275-4492-99e9-7e573d2e350b.pills.975a6b99-d8ef-46e6-b8a9-ddd5a1f3b788.tiles.cfddbf7d-cc66-4013-afa2-b913acdf06b6.url"
+msgid "https://business.yougov.com/product/reputation-business-research?marketo=contact"
+msgstr ""
+
+msgctxt "subpages.d87aaae1-8275-4492-99e9-7e573d2e350b.pills.975a6b99-d8ef-46e6-b8a9-ddd5a1f3b788.tiles.07ef4bfe-ed25-470e-b587-e82e5910279e.title"
+msgid "Hard-to-reach Audiences"
+msgstr ""
+
+msgctxt "subpages.d87aaae1-8275-4492-99e9-7e573d2e350b.pills.975a6b99-d8ef-46e6-b8a9-ddd5a1f3b788.tiles.07ef4bfe-ed25-470e-b587-e82e5910279e.description"
+msgid "Access elite audiences such as MPs, Lords, C-Suite decision-makers and more."
+msgstr ""
+
+msgctxt "subpages.d87aaae1-8275-4492-99e9-7e573d2e350b.pills.975a6b99-d8ef-46e6-b8a9-ddd5a1f3b788.tiles.07ef4bfe-ed25-470e-b587-e82e5910279e.url"
+msgid "https://business.yougov.com/product/reputation-business-research?marketo=contact"
+msgstr ""
+
+msgctxt "benefit_items.d71d5f29-723e-4828-9770-5cfa7bd7bd83.title"
+msgid "Experts in the field"
+msgstr ""
+
+msgctxt "benefit_items.d71d5f29-723e-4828-9770-5cfa7bd7bd83.description"
+msgid "Our highly experienced experts design research for large and small organizations, committed to solving your challenges."
+msgstr ""
+
+msgctxt "benefit_items.f26998dd-0e96-43f1-aba0-7417ead9817f.title"
+msgid "Adaptable to your needs"
+msgstr ""
+
+msgctxt "benefit_items.f26998dd-0e96-43f1-aba0-7417ead9817f.description"
+msgid "We design and execute research to meet your needs and budget."
+msgstr ""
+
+msgctxt "benefit_items.750a608b-874f-4b29-84a0-5ca6e4899d74.title"
+msgid "Quality research partnerships"
+msgstr ""
+
+msgctxt "benefit_items.750a608b-874f-4b29-84a0-5ca6e4899d74.description"
+msgid "We partner with our clients for the long-term, providing valuable support and insights derived from high quality fieldwork."
+msgstr ""
+
+msgctxt "content_image_items.cefff5b9-97ef-4242-a67b-90cac13cfd06.title"
+msgid "Reputation is everything"
+msgstr ""
+
+msgctxt "content_image_items.cefff5b9-97ef-4242-a67b-90cac13cfd06.description"
+msgid ""
+"Our work ranges from <b>in-depth audits</b> across multiple audiences and stakeholders in global markets, to quick and easy dips using our <b>Omnibus research</b> including: MPs, politicians, "
+"journalists, business leaders, NGOs and charities, academics, think tanks and more."
+msgstr ""
+
+msgctxt "content_image_items.cefff5b9-97ef-4242-a67b-90cac13cfd06.description"
+msgid "<b>Board-level metrics we provide</b>:"
+msgstr ""
+
+msgctxt "content_image_items.cefff5b9-97ef-4242-a67b-90cac13cfd06.description"
+msgid "Single score for “reputation” or trust"
+msgstr ""
+
+msgctxt "content_image_items.cefff5b9-97ef-4242-a67b-90cac13cfd06.description"
+msgid "Benchmarking KPIs vs peer group"
+msgstr ""
+
+msgctxt "content_image_items.cefff5b9-97ef-4242-a67b-90cac13cfd06.description"
+msgid "Highlighting the most influential drivers of reputation"
+msgstr ""
+
+msgctxt "content_image_items.cefff5b9-97ef-4242-a67b-90cac13cfd06.description"
+msgid "Impact of news, activities, issues"
+msgstr ""
+
+msgctxt "content_image_items.cefff5b9-97ef-4242-a67b-90cac13cfd06.description"
+msgid "Analysis of messaging and communications"
+msgstr ""
+
+msgctxt "content_image_items.cefff5b9-97ef-4242-a67b-90cac13cfd06.description"
+msgid "Tracking performance over time"
+msgstr ""
+
+msgctxt "content_image_items.295d4258-fdf8-41fb-93c3-affdee7856c3.title"
+msgid "Ask the questions you need to be answered"
+msgstr ""
+
+msgctxt "content_image_items.295d4258-fdf8-41fb-93c3-affdee7856c3.description"
+msgid "We use both <b>quantitative online surveys</b> and <b>qualitative in-depth discussions</b> to conduct research directly with the stakeholders you care about."
+msgstr ""
+
+msgctxt "content_image_items.295d4258-fdf8-41fb-93c3-affdee7856c3.description"
+msgid ""
+"From <b>global KPIs</b> to <b>local tactical campaigns</b>, YouGov can provide the data that Boards and Communications teams require, delivering the confidence that reputational opportunities and "
+"risks are being properly monitored."
+msgstr ""
+
+msgctxt "content_image_items.5319d259-83f2-49e2-8c6d-52ebfc9c8a15.title"
+msgid "Confidently deliver thought leadership"
+msgstr ""
+
+msgctxt "content_image_items.5319d259-83f2-49e2-8c6d-52ebfc9c8a15.description"
+msgid ""
+"Our <b>business research service</b> helps organizations create thought leadership content to both improve reputation and support marketing activity. Recent thought leadership research includes:"
+msgstr ""
+
+msgctxt "content_image_items.5319d259-83f2-49e2-8c6d-52ebfc9c8a15.description"
+msgid "<a id=\"a1\"><b>Barclaycard - 'UK SMEs begin road to recovery'</b></a>"
+msgstr ""
+
+msgctxt "content_image_items.5319d259-83f2-49e2-8c6d-52ebfc9c8a15.description"
+msgid "<a id=\"a1\"><b>Pinsent Masons - ‘Brexit Report’ - Into the breach</b></a>"
+msgstr ""
+
+msgctxt "content_image_items.5319d259-83f2-49e2-8c6d-52ebfc9c8a15.description"
+msgid "<a id=\"a1\"><b>London Stock Exchange - 'Finance for Fintech'</b></a>"
+msgstr ""

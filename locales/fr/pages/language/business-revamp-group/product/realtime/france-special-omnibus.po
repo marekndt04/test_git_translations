@@ -1,0 +1,194 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:38.316000+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: f08387bf-80c7-4108-bd5e-aff28d7752c7\n"
+
+msgctxt "title"
+msgid "France Special Omnibus"
+msgstr "Special Omnibus France"
+
+msgctxt "slug"
+msgid "france-special-omnibus"
+msgstr "special-omnibus-france"
+
+msgctxt "benefits_title"
+msgid "France Special Omnibus"
+msgstr "Special Omnibus France"
+
+msgctxt "hero_title"
+msgid "France Special Omnibus"
+msgstr "Special Omnibus France"
+
+msgctxt "hero_description"
+msgid "Get accurate, fast, and insightful results on a specific audience."
+msgstr "Obtenez de multiples insights en quelques heures et à moindre coûts sur une cible prédéfinie."
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr "?marketo=contact"
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr "Contactez-nous"
+
+msgctxt "rates_title"
+msgid "France Special Omnibus"
+msgstr "Special Omnibus France"
+
+msgctxt "benefit_items.fb9c44de-0ad0-42b9-b80d-3f997d7be98b.title"
+msgid "Women"
+msgstr "Femmes"
+
+msgctxt "benefit_items.fb9c44de-0ad0-42b9-b80d-3f997d7be98b.description"
+msgid "Target representative samples of 1000 women in France."
+msgstr "1000 femmes représentatives de la population française."
+
+msgctxt "benefit_items.59861ddd-1721-4cd7-ab41-276c172f72cd.title"
+msgid "Men"
+msgstr "Hommes"
+
+msgctxt "benefit_items.59861ddd-1721-4cd7-ab41-276c172f72cd.description"
+msgid "Target representative samples of 1000 men in France."
+msgstr "1000 hommes représentatives de la population française."
+
+msgctxt "benefit_items.be7cd84c-2a6f-4ae1-91bf-425618e54cec.title"
+msgid "Children"
+msgstr "Enfants"
+
+msgctxt "benefit_items.be7cd84c-2a6f-4ae1-91bf-425618e54cec.description"
+msgid "Target representative samples of 1000 children aged 6-15 in France."
+msgstr "1000 enfants âgés de 6 à 15 ans (interrogés via leurs parents)."
+
+msgctxt "benefit_items.5779597c-2498-45bb-98d3-09ef65098499.title"
+msgid "Baby Boomers"
+msgstr "Baby Boomers"
+
+msgctxt "benefit_items.5779597c-2498-45bb-98d3-09ef65098499.description"
+msgid "Target representative samples of 1000 adults aged 50 and over in France."
+msgstr "1000 adultes âgés de 50 ans et plus, représentatifs de la population française."
+
+msgctxt "benefit_items.5ef7710b-6d2c-408e-b7ac-df574e31941e.title"
+msgid "Gamers"
+msgstr "Gamers"
+
+msgctxt "benefit_items.5ef7710b-6d2c-408e-b7ac-df574e31941e.description"
+msgid "Target representative samples of 1000 adult gamers in France."
+msgstr "1000 adultes jouant à des jeux sur au moins l’un des appareils suivants : smartphone, ordinateur portable ou bureau, console ou tablette. Echantillon représentatif des gamers."
+
+msgctxt "benefit_items.c9efb844-1d8b-4d2b-8c3e-eb1070305952.title"
+msgid "Parents"
+msgstr "Parents"
+
+msgctxt "benefit_items.c9efb844-1d8b-4d2b-8c3e-eb1070305952.description"
+msgid "Target representative samples of 1000 parents of children aged 18 or younger in France."
+msgstr "1000 parents d’enfants âgés de 18 ans ou moins, représentatifs de la population nationale."
+
+msgctxt "benefit_items.aa746653-3c33-4ef3-8d69-5519eee46be3.title"
+msgid "Paris Bus"
+msgstr "Paris Bus"
+
+msgctxt "benefit_items.aa746653-3c33-4ef3-8d69-5519eee46be3.description"
+msgid "Target representative samples of 500 adults living in Paris."
+msgstr "500 adultes habitant l’agglomération parisienne, représentatifs de cette population en France."
+
+msgctxt "benefit_items.f891c594-1a50-4d2c-9a53-cef0aad84ef7.title"
+msgid "Car drivers"
+msgstr "Car drivers"
+
+msgctxt "benefit_items.f891c594-1a50-4d2c-9a53-cef0aad84ef7.description"
+msgid "Target representative samples of 1000 adults driving a car at least once a week in France."
+msgstr "1000 adultes conduisant une voiture au moins 1 fois par semaine, représentatifs de la population française."
+
+msgctxt "benefit_items.b548339e-b01e-4d65-b879-9810226a7510.title"
+msgid "Pet owners"
+msgstr "Pet owners"
+
+msgctxt "benefit_items.b548339e-b01e-4d65-b879-9810226a7510.description"
+msgid "Target representative samples of 500 adults who own at least one pet in France."
+msgstr "500 adultes possesseurs d’au moins un animal domestique, représentatifs de cette population en France."
+
+msgctxt "benefit_items.329f6876-8970-4ad9-967c-3939e4c18e2c.title"
+msgid "Top revenues"
+msgstr "Top revenues"
+
+msgctxt "benefit_items.329f6876-8970-4ad9-967c-3939e4c18e2c.description"
+msgid "Target representative samples of 500 adults with monthly household income of 4000€ or more per month in France."
+msgstr "500 adultes ayant des revenus foyers mensuels supérieurs ou égaux à 4000€."
+
+msgctxt "benefit_items.c6f3a9b3-2a26-48b6-9c92-11f9eeef7157.title"
+msgid "Millennials"
+msgstr "Millennials"
+
+msgctxt "benefit_items.c6f3a9b3-2a26-48b6-9c92-11f9eeef7157.description"
+msgid "Target representative samples of 1000 adults aged 18-34 in France."
+msgstr "1000 adultes âgés de 18 à 34 ans, représentatifs des Millennials en France"
+
+msgctxt "benefit_items.26c731c3-f2b1-4643-a123-be7bbae6716e.title"
+msgid "Urban population"
+msgstr "Grands Urbains"
+
+msgctxt "benefit_items.26c731c3-f2b1-4643-a123-be7bbae6716e.description"
+msgid ""
+"Target representative samples of 1000 adults living in large urban areas, sample defined according to the size of the city : 450 in Paris, 150 in Marseille and 100 in Lyon, Toulouse, Nice and Lille."
+msgstr ""
+"1000 adultes habitant les grandes agglomérations, avec une représentativité définie selon leur taille : 450 à Paris, 150 à Marseille et100 à Lyon, Toulouse, Nice et Lille(quotas sur l’âge, le genre "
+"et l’agglomération habitée)."
+
+msgctxt "rates_table_header.ebc7270a-f4b1-4a8c-a8d3-6caec7b5bafe.column_1"
+msgid "Set up"
+msgstr "Set up"
+
+msgctxt "rates_table_header.ebc7270a-f4b1-4a8c-a8d3-6caec7b5bafe.column_2"
+msgid "5 questions minimum (except for the men and women Omnibus)"
+msgstr "5 questions minimum  (sauf pour l'Omnibus Hommes et l'Omnibus Femmes)"
+
+msgctxt "rates_table_rows.a7565c5b-09df-4396-8468-f685f1583624.column_1"
+msgid "Question"
+msgstr "Question fermée"
+
+msgctxt "rates_table_rows.a7565c5b-09df-4396-8468-f685f1583624.column_2"
+msgid "Single or multiple choice"
+msgstr "Simple ou choix multiples, jusqu'à 10 options de réponses possible"
+
+msgctxt "rates_table_rows.a7565c5b-09df-4396-8468-f685f1583624.column_3"
+msgid "490€"
+msgstr "490€"
+
+msgctxt "rates_table_rows.aae1958e-7234-4fb3-ac87-c1232cb54759.column_1"
+msgid "Open-ended"
+msgstr "Question ouverte"
+
+msgctxt "rates_table_rows.aae1958e-7234-4fb3-ac87-c1232cb54759.column_2"
+msgid "Full verbatim answers (coding services also available)"
+msgstr "Question ouverte codée, verbatims bruts"
+
+msgctxt "rates_table_rows.aae1958e-7234-4fb3-ac87-c1232cb54759.column_3"
+msgid "890€"
+msgstr "890€"
+
+msgctxt "rates_table_rows.47d1c07f-ae32-411f-8e27-0dfa258bfe47.column_1"
+msgid "Scale Questions"
+msgstr "Question matricielle"
+
+msgctxt "rates_table_rows.47d1c07f-ae32-411f-8e27-0dfa258bfe47.column_2"
+msgid "Statements answered against a scale (per every 3 statements)"
+msgstr "Prix par question pour 3 items en vertical avec une échelle de valeur horizontale commun"
+
+msgctxt "rates_table_rows.47d1c07f-ae32-411f-8e27-0dfa258bfe47.column_3"
+msgid "490€"
+msgstr "490€"
+
+msgctxt "rates_table_rows.28d8169a-86fd-4c9c-9747-67cd9f37093d.column_1"
+msgid "Images"
+msgstr "Images"
+
+msgctxt "rates_table_rows.28d8169a-86fd-4c9c-9747-67cd9f37093d.column_2"
+msgid "Use images for a more engaging survey (video options available)"
+msgstr "Possibilité d’intégrer de l’image et de la vidéo"
+
+msgctxt "rates_table_rows.28d8169a-86fd-4c9c-9747-67cd9f37093d.column_3"
+msgid "Free"
+msgstr "Gratuit"

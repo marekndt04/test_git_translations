@@ -1,0 +1,84 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:38.025549+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 6207af2b-1a0c-40cb-98e9-4fbf07cc9efe\n"
+
+msgctxt "title"
+msgid "Live chat"
+msgstr ""
+
+msgctxt "slug"
+msgid "livechat"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Live chat: work with the researcher"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Chat live with one of our researchers to collaborate on your survey project."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "Ask and learn fast"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "LIVE CHAT: WORK WITH A RESEARCHER"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Chat live with one of our researchers to collaborate on your survey project."
+msgstr ""
+
+msgctxt "content_image_items.b72b4d0e-be53-4507-8044-84ffeda85a7c.title"
+msgid "Credible, market-leading research"
+msgstr ""
+
+msgctxt "content_image_items.b72b4d0e-be53-4507-8044-84ffeda85a7c.description"
+msgid ""
+"Built on the pulse of consumer perspective, our research yields data you can trust and our reputation precedes us – <a id=\"a1\"><b>Pew concluded</b></a> that <b>YouGov consistently outperformed "
+"competitors on accuracy</b>. Alongside technology that makes analysis simple, and deep sector and industry expertise, there are countless ways you can employ YouGov’s research services to inspire "
+"data-informed initiatives."
+msgstr ""
+
+msgctxt "content_image_items.841fc4eb-ce83-4aea-aec8-68dcd08d33ed.title"
+msgid "Ask and learn fast"
+msgstr ""
+
+msgctxt "content_image_items.841fc4eb-ce83-4aea-aec8-68dcd08d33ed.description"
+msgid ""
+"Build fast surveys and polls quickly with expert support, or request cost-effective omnibus and targeted research services. Our services are so flexible they are used across organizations, from "
+"pricing strategies to PR stories."
+msgstr ""
+
+msgctxt "content_image_items.841fc4eb-ce83-4aea-aec8-68dcd08d33ed.description"
+msgid "When you just need<b> fast, reliable insights,</b> we have the right tool and an expert on hand for that. Build and launch your own surveys and polls with YouGov's self-service platform."
+msgstr ""
+
+msgctxt "content_image_items.841fc4eb-ce83-4aea-aec8-68dcd08d33ed.description"
+msgid ""
+"Whether it's a targeted niche sample, or a low-cost solution from our omnibus range, we have experienced researchers on hand to give you fast-turnaround data. Providing best practice guidance and "
+"expertise in real time, we ensure you secure the fast, accurate responses you need from the people you want."
+msgstr ""
+
+msgctxt "content_image_items.dcd757f1-7c14-4c65-bd03-973d3fabe83b.label"
+msgid "Stay ahead with in-depth research"
+msgstr ""
+
+msgctxt "content_image_items.dcd757f1-7c14-4c65-bd03-973d3fabe83b.title"
+msgid "Custom Research"
+msgstr ""
+
+msgctxt "content_image_items.dcd757f1-7c14-4c65-bd03-973d3fabe83b.description"
+msgid ""
+"Commission in-depth research built on the pulse of consumer perspective, fully assured that you’re working with holistic data you can trust. Teamed with the <b>smartest technology, genuine expertise"
+" and full end-to-end support</b>, this is the gold standard in consumer, market and competitive intelligence."
+msgstr ""
+
+msgctxt "content_image_items.dcd757f1-7c14-4c65-bd03-973d3fabe83b.description"
+msgid "When you're working on a unique or niche project with custom research requirements, speak to our experienced researchers who will craft you a bespoke proposition."
+msgstr ""

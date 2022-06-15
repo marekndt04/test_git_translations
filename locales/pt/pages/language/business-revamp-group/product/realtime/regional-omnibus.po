@@ -1,0 +1,179 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:39.326486+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 3fcd24fb-210a-4132-94ce-5c63ceff1935\n"
+
+msgctxt "title"
+msgid "Regional Omnibus UK"
+msgstr ""
+
+msgctxt "slug"
+msgid "regional-omnibus"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Regional Omnibus"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Why YouGov RealTime?"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Regional Omnibus"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "The most reliable and accurate research to boost your business. Understand behaviours, attitudes and views of people from across Scotland, Wales or Northern Ireland."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "rates_title"
+msgid "Regional Omnibus rates"
+msgstr ""
+
+msgctxt "rates_description"
+msgid "Full-service support - including survey design and advice, plus live reporting of your results."
+msgstr ""
+
+msgctxt "benefit_items.bb05e9e4-44b5-4f8a-9bfa-2f81915e613d.title"
+msgid "National samples"
+msgstr ""
+
+msgctxt "benefit_items.bb05e9e4-44b5-4f8a-9bfa-2f81915e613d.description"
+msgid "Target a representative sample of 1,000 adults 18+ for Scotland or Wales and 500 for Northern Ireland."
+msgstr ""
+
+msgctxt "benefit_items.09077ed2-bfd5-472e-b8b3-e5d253098ec0.title"
+msgid "Regular surveys"
+msgstr ""
+
+msgctxt "benefit_items.09077ed2-bfd5-472e-b8b3-e5d253098ec0.description"
+msgid "Surveys run twice a week for Scotland and once a week for Wales and Northern Ireland."
+msgstr ""
+
+msgctxt "benefit_items.0cc19cb2-1a2d-4547-a96a-e5bee40c42a9.title"
+msgid "Live results"
+msgstr ""
+
+msgctxt "benefit_items.0cc19cb2-1a2d-4547-a96a-e5bee40c42a9.description"
+msgid "Full results in as little as two working days. Now access live data during fieldwork."
+msgstr ""
+
+msgctxt "rates_table_header.54ac574b-da86-4211-b6b4-d0e74eb0bcfb.column_2"
+msgid "Respondents"
+msgstr ""
+
+msgctxt "rates_table_header.54ac574b-da86-4211-b6b4-d0e74eb0bcfb.column_3"
+msgid "Entry"
+msgstr ""
+
+msgctxt "rates_table_header.54ac574b-da86-4211-b6b4-d0e74eb0bcfb.column_4"
+msgid "Standard question / Open-ended"
+msgstr ""
+
+msgctxt "rates_table_header.54ac574b-da86-4211-b6b4-d0e74eb0bcfb.column_5"
+msgid "Results"
+msgstr ""
+
+msgctxt "rates_table_rows.769969ed-2660-4d6b-a0c8-c6ff82f198cb.column_1"
+msgid "Scotland*"
+msgstr ""
+
+msgctxt "rates_table_rows.769969ed-2660-4d6b-a0c8-c6ff82f198cb.column_2"
+msgid "1,000"
+msgstr ""
+
+msgctxt "rates_table_rows.769969ed-2660-4d6b-a0c8-c6ff82f198cb.column_3"
+msgid "£200"
+msgstr ""
+
+msgctxt "rates_table_rows.769969ed-2660-4d6b-a0c8-c6ff82f198cb.column_4"
+msgid "£350 / £375"
+msgstr ""
+
+msgctxt "rates_table_rows.769969ed-2660-4d6b-a0c8-c6ff82f198cb.column_5"
+msgid "2 working days"
+msgstr ""
+
+msgctxt "rates_table_rows.e9fbb096-4449-45ba-9087-67cd93202a79.column_1"
+msgid "Wales**"
+msgstr ""
+
+msgctxt "rates_table_rows.e9fbb096-4449-45ba-9087-67cd93202a79.column_2"
+msgid "1,000"
+msgstr ""
+
+msgctxt "rates_table_rows.e9fbb096-4449-45ba-9087-67cd93202a79.column_3"
+msgid "£200"
+msgstr ""
+
+msgctxt "rates_table_rows.e9fbb096-4449-45ba-9087-67cd93202a79.column_4"
+msgid "£350 / £375"
+msgstr ""
+
+msgctxt "rates_table_rows.e9fbb096-4449-45ba-9087-67cd93202a79.column_5"
+msgid "2 working days"
+msgstr ""
+
+msgctxt "rates_table_rows.cdf923e5-3c73-4c4d-8eec-ffcc9480f75a.column_1"
+msgid "Northern Ireland"
+msgstr ""
+
+msgctxt "rates_table_rows.cdf923e5-3c73-4c4d-8eec-ffcc9480f75a.column_2"
+msgid "500"
+msgstr ""
+
+msgctxt "rates_table_rows.cdf923e5-3c73-4c4d-8eec-ffcc9480f75a.column_3"
+msgid "£200"
+msgstr ""
+
+msgctxt "rates_table_rows.cdf923e5-3c73-4c4d-8eec-ffcc9480f75a.column_4"
+msgid "£300 / £325"
+msgstr ""
+
+msgctxt "rates_table_rows.cdf923e5-3c73-4c4d-8eec-ffcc9480f75a.column_5"
+msgid "3 working days"
+msgstr ""
+
+msgctxt "rates_table_rows.46fb5545-e47d-40f9-8e16-abc444579c94.column_1"
+msgid "England"
+msgstr ""
+
+msgctxt "rates_table_rows.46fb5545-e47d-40f9-8e16-abc444579c94.column_2"
+msgid "1,700"
+msgstr ""
+
+msgctxt "rates_table_rows.46fb5545-e47d-40f9-8e16-abc444579c94.column_3"
+msgid "£200"
+msgstr ""
+
+msgctxt "rates_table_rows.46fb5545-e47d-40f9-8e16-abc444579c94.column_4"
+msgid "£300/£325"
+msgstr ""
+
+msgctxt "rates_table_rows.46fb5545-e47d-40f9-8e16-abc444579c94.column_5"
+msgid "Next working day"
+msgstr ""
+
+msgctxt "rates_table_rows.04486e11-4ff7-4efe-a625-4575fe9c0644.column_1"
+msgid "*Please get in touch to enquire about larger sample sizes."
+msgstr ""
+
+msgctxt "rates_table_rows.04486e11-4ff7-4efe-a625-4575fe9c0644.column_1"
+msgid "**Additional £50 per question to give the consumer the option of taking the survey in English or Welsh."
+msgstr ""
+
+msgctxt "rates_table_rows.04486e11-4ff7-4efe-a625-4575fe9c0644.column_1"
+msgid "If you need to interview a specific region in the UK or elsewhere that is not covered above, please contact us."
+msgstr ""

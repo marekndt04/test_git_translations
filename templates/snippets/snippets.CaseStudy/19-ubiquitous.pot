@@ -1,0 +1,18 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:40.042130+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Ubiquitous"
+msgstr ""
+
+msgctxt "description"
+msgid "The added bonus of being able to access our sample via profiles was really useful for expanding on the minutiae of audience behaviour to deliver deeper insights."
+msgstr ""
+
+msgctxt "url"
+msgid "https://yougov.co.uk/topics/resources/articles-reports/2019/04/26/reaching-high-net-worth-londoners"
+msgstr ""

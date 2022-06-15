@@ -1,0 +1,57 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:41.061678+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 3478bad4-daff-4162-a7b4-86386c333163\n"
+
+msgctxt "title"
+msgid "UK 2021 Charity Rankings"
+msgstr ""
+
+msgctxt "slug"
+msgid "charity-rankings-2021"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov UK 2021 Charity Rankings"
+msgstr ""
+
+msgctxt "search_description"
+msgid "The top charities supported by the nation  in 2021 - YouGov CharityIndex"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "UK 2022 Charity Rankings"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "YouGov CharityIndex"
+msgstr ""
+
+msgctxt "content_image_label"
+msgid "Methodology"
+msgstr ""
+
+msgctxt "content_image_title"
+msgid "Donor Consideration"
+msgstr ""
+
+msgctxt "content_image_description"
+msgid ""
+"The charities in the YouGov UK 2022 Charity Rankings were ranked using the Donor Consideration score - a daily measure of which charities the nation would likely donate to tomorrow - according to "
+"YouGov CharityIndex."
+msgstr ""
+
+msgctxt "content_image_description"
+msgid ""
+"The rankings chart shows the brands with the highest average Donor Consideration score between 1st January to December 31st 2021. The scores are representative of the general population of adults "
+"18+. The Most Improved Rankings chart shows the brands with the highest increase in Donor Consideration score comparing 1st January to December 31st 2020 to 1st January to December 31st 2021."
+msgstr ""
+
+msgctxt "content_image_description"
+msgid ""
+"All scores listed have been rounded to a single decimal place; however, we have used additional precision to assign ranks. All brands must have been tracked for at least six months in order to be "
+"eligible for inclusion in the rankings."
+msgstr ""

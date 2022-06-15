@@ -1,0 +1,21 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:38.385669+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: c7e272e4-83ca-473f-8e22-5975c72888e2\n"
+
+msgctxt "title"
+msgid "Future Care Capital"
+msgstr ""
+
+msgctxt "description"
+msgid ""
+"The level of client engagement and guidance by the YouGov team was second to none. I would work with YouGov again and recommend them to other organisations who are looking to pursue a major national"
+" research project."
+msgstr ""
+
+msgctxt "url"
+msgid "https://yougov.co.uk/topics/resources/articles-reports/2019/11/01/providing-depth-insight-impact-caring"
+msgstr ""

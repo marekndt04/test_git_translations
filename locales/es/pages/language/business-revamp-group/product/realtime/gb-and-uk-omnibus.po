@@ -1,0 +1,119 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:37.630225+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 2f1bb924-086f-4a3e-a496-b559524b3161\n"
+
+msgctxt "title"
+msgid "GB and UK Omnibus"
+msgstr ""
+
+msgctxt "slug"
+msgid "gb-and-uk-omnibus"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "GB and UK Omnibus"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "GB and UK Omnibus"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Get the insight or media presence you need. Next-day results from a daily survey of 2,000 adults, with full-service support and live reporting. Ask us about other deliverables and extra demographic "
+"analysis."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "rates_title"
+msgid "GB and UK Omnibus rates"
+msgstr ""
+
+msgctxt "rates_description"
+msgid ""
+"Full-service support, including survey design and advice, plus live reporting of your results. Data tables include analysis by gender, age, region, social grade, social media use, parents (by age of"
+" child), children in household, working status and marital status."
+msgstr ""
+
+msgctxt "rates_table_rows.3af4467f-d872-4201-bd2d-ac45c97bd905.column_1"
+msgid "Entry"
+msgstr ""
+
+msgctxt "rates_table_rows.3af4467f-d872-4201-bd2d-ac45c97bd905.column_2"
+msgid "Book space on the nation’s market-leading omnibus"
+msgstr ""
+
+msgctxt "rates_table_rows.3af4467f-d872-4201-bd2d-ac45c97bd905.column_3"
+msgid "£200"
+msgstr ""
+
+msgctxt "rates_table_rows.cda5317e-da8c-4266-912b-da2141584a59.column_1"
+msgid "Questions"
+msgstr ""
+
+msgctxt "rates_table_rows.cda5317e-da8c-4266-912b-da2141584a59.column_2"
+msgid "Single or multiple choice (up to 10 answers per question)"
+msgstr ""
+
+msgctxt "rates_table_rows.cda5317e-da8c-4266-912b-da2141584a59.column_3"
+msgid "£300"
+msgstr ""
+
+msgctxt "rates_table_rows.d4360e14-d8db-4041-bde9-b51ff897b986.column_1"
+msgid "Scale Question"
+msgstr ""
+
+msgctxt "rates_table_rows.d4360e14-d8db-4041-bde9-b51ff897b986.column_2"
+msgid "Statements answered against a scale (per every 3 statements)"
+msgstr ""
+
+msgctxt "rates_table_rows.d4360e14-d8db-4041-bde9-b51ff897b986.column_3"
+msgid "£300"
+msgstr ""
+
+msgctxt "rates_table_rows.694c3487-bfc4-497e-93c6-27de88dde325.column_1"
+msgid "Open-ended"
+msgstr ""
+
+msgctxt "rates_table_rows.694c3487-bfc4-497e-93c6-27de88dde325.column_2"
+msgid "Full verbatim answers (coding services also available)"
+msgstr ""
+
+msgctxt "rates_table_rows.694c3487-bfc4-497e-93c6-27de88dde325.column_3"
+msgid "£325"
+msgstr ""
+
+msgctxt "rates_table_rows.c687e264-098f-43df-8303-585fb9e1e987.column_1"
+msgid "Images"
+msgstr ""
+
+msgctxt "rates_table_rows.c687e264-098f-43df-8303-585fb9e1e987.column_2"
+msgid "Use images for a more engaging survey (video options available)"
+msgstr ""
+
+msgctxt "rates_table_rows.c687e264-098f-43df-8303-585fb9e1e987.column_3"
+msgid "FREE"
+msgstr ""
+
+msgctxt "rates_table_rows.0ec6fc53-3d76-4c5c-bae8-a941c0a02058.column_1"
+msgid "Deliverables"
+msgstr ""
+
+msgctxt "rates_table_rows.0ec6fc53-3d76-4c5c-bae8-a941c0a02058.column_2"
+msgid "Full Excel(TM) tables, PowerPoint(TM) summary charts, plus live and final results available via our interactive online analytics platform."
+msgstr ""
+
+msgctxt "rates_table_rows.0ec6fc53-3d76-4c5c-bae8-a941c0a02058.column_3"
+msgid "INCLUDED"
+msgstr ""

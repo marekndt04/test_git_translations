@@ -1,0 +1,67 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:29.925552+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "YouGov Framework: Attitudes to brand sustainability &amp; authenticity in Britain"
+msgstr ""
+
+msgctxt "slug"
+msgid "brand-sustainability-and-authenticity-framework"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Framework: Attitudes to brand sustainability and authenticity in Britain"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "YouGov Framework:"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Attitudes to brand sustainability &amp; authenticity in Britain"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/sectors/fmcg/brand-sustainability-and-authenticity-framework?marketo=download"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Download full framework"
+msgstr ""
+
+msgctxt "content_image_label"
+msgid "FRAMEWORK"
+msgstr ""
+
+msgctxt "content_image_title"
+msgid "What you'll discover"
+msgstr ""
+
+msgctxt "content_image_description"
+msgid ""
+"Using a total adult GB market size of 52.4, the British population has been segmented based on their propensity to shop for sustainable brands but also the extent to which they believe they can "
+"trust the product messaging. The segments have then been profiled to reveal the attitudes and behavioural traits of each group. Download the full framework and segment profiles"
+msgstr ""
+
+msgctxt "content_image_description"
+msgid "<a id=\"a1\"><b>Download the full framework and segment profiles</b></a>"
+msgstr ""
+
+msgctxt "direct_description"
+msgid ""
+"A sizeable chunk of the British population professes a preference for sustainable consumer products. But reaching this consumer base in an effective way requires more than just apt package "
+"labelling, reveals a new YouGov framework study. Using YouGov Profiles data, YouGov has created a framework designed to represent the ease with which marketers of sustainable products can cut "
+"through with consumers."
+msgstr ""
+
+msgctxt "direct_url"
+msgid "https://business.yougov.com/sectors/fmcg/brand-sustainability-and-authenticity-framework?marketo=download"
+msgstr ""
+
+msgctxt "direct_footer"
+msgid "Download the full framework"
+msgstr ""

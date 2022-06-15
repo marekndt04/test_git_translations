@@ -1,0 +1,43 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:39.171086+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: c006c91f-d413-4703-9ed0-4133ea6df186\n"
+
+msgctxt "title"
+msgid "YouGov Framework: Eco-investing in Britain"
+msgstr ""
+
+msgctxt "slug"
+msgid "eco-investing-framework"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Framework: Eco-investing in Britain"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "YouGov Framework: Eco-investing in Britain"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Ethical investing - a style of investing that focuses one’s investable universe on companies that meet certain ethical and moral standards is becoming increasingly popular in Britain and across the "
+"globe. Within the broader sphere of ethical investing, one of the most important screening criteria is a company’s commitment to sustainability goals and the environment."
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Who are the consumers driving the growing demand for this type of investing? This new YouGov framework study segments and profiles various consumer categories in Britain based on their willingness "
+"to invest and whether they view themselves as environmentalists."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=download"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Download full framework"
+msgstr ""

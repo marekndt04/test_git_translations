@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:29.239790+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: efd04cae-7f6c-47a7-b560-1e369ddbd9d2\n"
+
+msgctxt "title"
+msgid "Germany NRW"
+msgstr ""
+
+msgctxt "slug"
+msgid "germany-nrw"
+msgstr "deutschland-nrw"
+
+msgctxt "hero_title"
+msgid "Germany NRW"
+msgstr ""

@@ -1,0 +1,123 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:30.068589+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 09bd4f51-16c0-4299-beb2-56465eac5522\n"
+
+msgctxt "title"
+msgid "Automotive"
+msgstr "Automobilindustrie"
+
+msgctxt "slug"
+msgid "automotive"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Automotive News, Insights and Industry Trends"
+msgstr ""
+
+msgctxt "search_description"
+msgid ""
+"Get the latest in definitive consumer insights and industry trends for the Automotive sector from YouGov. We have over 10 years of audience intelligence, brand trackers, reports and articles for the"
+" industry."
+msgstr ""
+
+msgctxt "data_presentation_title"
+msgid "Explore the YouGov platform"
+msgstr "Entdecken Sie die YouGov-Plattform"
+
+msgctxt "data_presentation_description"
+msgid "Unlock powerful insights about your customers’ needs at every stage of your marketing funnel."
+msgstr "Gewinnen Sie in jeder Phase Ihres Marketing-Funnels wichtige Erkenntnisse über die Bedürfnisse Ihrer Kunden."
+
+msgctxt "download_content_label"
+msgid "Whitepaper"
+msgstr "Whitepaper"
+
+msgctxt "download_content_title"
+msgid "YouGov International Automotive Report 2021"
+msgstr "YouGov Internationaler Automobilbericht 2021"
+
+msgctxt "download_content_description"
+msgid ""
+"How has COVID-19 changed driving habits? What is the outlook for personal vehicle usage over the next 12 months? This report, conducted across 17 markets, reveals behavioral shifts in transport that"
+" will shape the future of mobility."
+msgstr ""
+"Wie hat COVID-19 die Fahrgewohnheiten verändert? Wie sind die Aussichten für die Nutzung von Privatfahrzeugen in den nächsten 12 Monaten? Dieser Bericht, der in 17 Märkten durchgeführt wurde, zeigt "
+"Verhaltensänderungen im Verkehr auf, die die Zukunft der Mobilität prägen werden."
+
+msgctxt "download_content_cta_text"
+msgid "Download now"
+msgstr "Jetzt herunterladen"
+
+msgctxt "download_content_cta_url"
+msgid "https://business.yougov.com/sectors/automotive/international-automotive-report-2021?marketo=download"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Automotive Intelligence"
+msgstr "Automobil-Intelligenz"
+
+msgctxt "hero_description"
+msgid "Understand your customers and competitors, tracking global consumer trends and sentiment towards automotive and mobility."
+msgstr "Verstehen Sie Ihre Kunden und Konkurrenten, verfolgen Sie globale Verbrauchertrends und die Einstellungen zu Automobilität und Mobilität."
+
+msgctxt "hero_url"
+msgid "?data=audience"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Explore YouGov data"
+msgstr "YouGov-Daten erkunden"
+
+msgctxt "hero_url_2"
+msgid "https://business.yougov.com/product/realtime?marketo=contact"
+msgstr "https://business.yougov.com/de/produkt/realtime?marketo=contact"
+
+msgctxt "hero_url_text_2"
+msgid "Launch a survey"
+msgstr "Starten Sie eine Umfrage"
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr "Lösungen &amp; Produkte"
+
+msgctxt "products_title"
+msgid "How we can help you"
+msgstr "Wie wir Ihnen helfen können"
+
+msgctxt "all_content_list_title"
+msgid "Unrivalled data insights"
+msgstr "Einzigartige Dateneinblicke"
+
+msgctxt "all_content_list_description"
+msgid "YouGov has over 15 years of living consumer intelligence on the Automotive sector. Take your business strategy to the next level by exploring the latest industry insights below."
+msgstr ""
+"YouGov verfügt über mehr als 15 Jahre umfassender Erkenntnisse über den Automobilsektor. Bringen Sie Ihre Geschäftsstrategie auf die nächste Stufe, indem Sie die neuesten Einblicke in die Branche "
+"weiter erkunden."
+
+msgctxt "cta_label"
+msgid "NEWSLETTER"
+msgstr "NEWSLETTER"
+
+msgctxt "cta_text"
+msgid "Subscribe to our Automotive Newsletter"
+msgstr "Abonnieren Sie unseren Automotive-Newsletter"
+
+msgctxt "cta_url"
+msgid "?marketo=newsletter"
+msgstr ""
+
+msgctxt "case_studies_title"
+msgid "Automotive success stories"
+msgstr "Erfolgsgeschichten aus der Automobilindustrie"
+
+msgctxt "case_studies_label"
+msgid "CASE STUDIES"
+msgstr "CASE STUDIES"
+
+msgctxt "case_studies_description"
+msgid "Our products and services help the world’s most recognised brands, media owners, and agencies."
+msgstr "Unsere Produkte und Dienstleistungen unterstützen die bekanntesten Marken, Medieninhaber und Agenturen der Welt."

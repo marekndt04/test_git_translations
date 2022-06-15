@@ -1,0 +1,137 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:30.202914+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 7e75472a-c076-4ce1-a782-039114126654\n"
+
+msgctxt "title"
+msgid "Re-Contact"
+msgstr ""
+
+msgctxt "slug"
+msgid "re-contact"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Re-Contact: Re-Target Past Survey Respondents"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Target previous respondents to any past survey with YouGov's Re-contact. Follow-up with audiences to understand the ‘why’ behind their responses."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "BENEFITS"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Deeper dives into your target audience"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Re-Contact"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Dive deeper into your target audience"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Re-target specific respondents to previous surveys, and uncover the “why” behind your target audience’s behaviors and attitudes."
+msgstr ""
+
+msgctxt "hero_url_2"
+msgid "/product/re-contact/?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text_2"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our connected living data solutions"
+msgstr ""
+
+msgctxt "benefit_items.14308e19-95ce-4183-b38a-7a0d5bbbc4a8.title"
+msgid "Target past respondents"
+msgstr ""
+
+msgctxt "benefit_items.14308e19-95ce-4183-b38a-7a0d5bbbc4a8.description"
+msgid "Access respondents from past surveys, thanks to our single-source data capabilities."
+msgstr ""
+
+msgctxt "benefit_items.be09aa15-2779-482d-bd51-7e883c0769a1.title"
+msgid "Custom questions"
+msgstr ""
+
+msgctxt "benefit_items.be09aa15-2779-482d-bd51-7e883c0769a1.description"
+msgid "Add bespoke questions designed by you or templated by YouGov researchers."
+msgstr ""
+
+msgctxt "benefit_items.da6d7fac-2263-4168-993f-e227cac5a7c9.title"
+msgid "Analyze easily"
+msgstr ""
+
+msgctxt "benefit_items.da6d7fac-2263-4168-993f-e227cac5a7c9.description"
+msgid "View your results in our powerful, user-friendly data visualization platform YouGov Crunch."
+msgstr ""
+
+msgctxt "content_image_items.3f2f84e9-99d3-4b4b-82ba-38e1d5bfdadf.title"
+msgid "Measure awareness &amp; perception"
+msgstr ""
+
+msgctxt "content_image_items.3f2f84e9-99d3-4b4b-82ba-38e1d5bfdadf.description"
+msgid ""
+"<b>YouGov Re-Contact</b> allows you to<b> re-engage a particular group of respondents</b> who gave a specific answer on a previous survey. <b>Integrate your research with continual follow-up "
+"surveys</b> from your tracking results, helping you to uncover deeper diagnostics on the “why” behind your target audience’s behaviors and attitudes."
+msgstr ""
+
+msgctxt "content_image_items.3f2f84e9-99d3-4b4b-82ba-38e1d5bfdadf.description"
+msgid ""
+"Our single-source, proprietary panel means you can connect to <a id=\"a1\"><b>YouGov BrandIndex</b></a> trackers and/or <a id=\"a2\"><b>YouGov Profiles</b></a> data as well as re-contacting "
+"respondents from any past survey."
+msgstr ""
+
+msgctxt "content_image_items.5fe99667-2dfa-46d5-bc0d-320da01f6fc4.title"
+msgid "Unpack your funnel metrics"
+msgstr ""
+
+msgctxt "content_image_items.5fe99667-2dfa-46d5-bc0d-320da01f6fc4.description"
+msgid ""
+"Re-contact respondents who have seen your advertising or heard buzz around your brand to understand on a greater level the specific <b>messages, communications and ads they recall and their "
+"impact</b>."
+msgstr ""
+
+msgctxt "content_image_items.5fe99667-2dfa-46d5-bc0d-320da01f6fc4.description"
+msgid "Get in touch with respondents who had a specific reaction to a brand’s value or quality and understand why they perceive a brand this way."
+msgstr ""
+
+msgctxt "content_image_items.761363e4-03d1-4739-a108-b44d8be50e21.title"
+msgid "Track recommendation &amp; satisfaction"
+msgstr ""
+
+msgctxt "content_image_items.761363e4-03d1-4739-a108-b44d8be50e21.description"
+msgid "Follow-up with respondents that had a specific satisfaction experience to <b>understand what drove their level of satisfaction.</b>"
+msgstr ""
+
+msgctxt "content_image_items.761363e4-03d1-4739-a108-b44d8be50e21.description"
+msgid "Re-contact recommenders and detractors for a better understanding of underlying experiences and beliefs."
+msgstr ""
+
+msgctxt "content_image_items.67605986-af56-4f16-8b06-aa182da85583.title"
+msgid "Get answers to your problems"
+msgstr ""
+
+msgctxt "content_image_items.67605986-af56-4f16-8b06-aa182da85583.description"
+msgid "Re-contact <b>brand users, non-users and switchers</b> to understand the drivers of their behavior and barriers to use for your product/brand."
+msgstr ""
+
+msgctxt "content_image_items.67605986-af56-4f16-8b06-aa182da85583.description"
+msgid "Discover <b>where your key loss points are</b>, and understand what drives loyal brand users through to purchase."
+msgstr ""

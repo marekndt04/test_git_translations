@@ -1,0 +1,24 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:39.765314+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Vauxhall"
+msgstr ""
+
+msgctxt "description"
+msgid ""
+"“With YouGov’s rapid pre-test capabilities we are able to gain a valuable understanding of consumer sentiment so we can make data-informed, strategic marketing decisions before the ad launches on "
+"TV.”"
+msgstr ""
+
+msgctxt "url"
+msgid "https://business.yougov.com/content/36650-vauxhall-direct-case-study"
+msgstr ""
+
+msgctxt "quote_author"
+msgid "<b>Clare White,</b> <b>Head of Marketing Communications </b>"
+msgstr ""

@@ -1,0 +1,75 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:43.026062+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: f8ea31f5-780b-4828-8d3a-83368bac4321\n"
+
+msgctxt "title"
+msgid "Global Media Outlook Report 2022 UK"
+msgstr ""
+
+msgctxt "slug"
+msgid "global-media-outlook-report-2022-uk"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Global Media Outlook Report 2022 UK"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Panel discussion on 5 April at 10:00 GMT / 11:00 CET, hosted by YouGov’s Jules Newby"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Panel discussion: Navigating an ever-evolving media landscape"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "On-demand panel discussion"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=request"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Watch now"
+msgstr ""
+
+msgctxt "video_items.868ffa11-99dc-4126-896a-35405acdb1f1"
+msgid ""
+"On Tuesday 5th April 2022, <b>Jules Newby</b>, Global Sector Head of Media at YouGov was joined by industry leaders, <b>Dan Hagen</b> (EVP, MD, Global Head of Mx Development, Havas Media Group), "
+"<b>Carina Moran</b> (Head of Strategy, Yahoo) and <b>Martin Greenbank</b> (Head of Advertising Research &amp; Development, Channel 4) to discuss how we navigate an ever-evolving media landscape."
+msgstr ""
+
+msgctxt "video_items.868ffa11-99dc-4126-896a-35405acdb1f1"
+msgid ""
+"Off the back of YouGov’s most recent media white paper, the <a id=\"a1\"><b>Global Media Outlook Report 2022</b></a><b>,</b> we discussed ever-evolving media consumption habits and media channel "
+"preferences, as well as key year-on-year trends. The panel also shed light on media growth opportunities for media planners and brand marketers alike, as well as exploring which media consumption "
+"habits and digital trends are likely to stick."
+msgstr ""
+
+msgctxt "video_items.868ffa11-99dc-4126-896a-35405acdb1f1"
+msgid "Watch the webinar on-demand now!"
+msgstr ""
+
+msgctxt "video_items.bdda2837-78dd-4051-84cf-bc50e9576c53.main_cta_text"
+msgid "Watch now"
+msgstr ""
+
+msgctxt "video_items.bdda2837-78dd-4051-84cf-bc50e9576c53.main_cta_url"
+msgid "?marketo=register"
+msgstr ""
+
+msgctxt "links_title"
+msgid "YouGov"
+msgstr ""
+
+msgctxt "links_description"
+msgid ""
+"YouGov is an international research, data and analytics group. We have been building an ever-growing source of consumer data for over 20 years, creating the most complete understanding of your "
+"customers’ complex lives. We call it living data. Understand what 17 million+ registered panel members in over 55 markets are thinking now, last week, or last year. Explore, plan, activate and track"
+" marketing activity with certainty, at speed, every time."
+msgstr ""

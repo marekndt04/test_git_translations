@@ -1,0 +1,69 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:28.636745+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 86d90ce7-7181-4ec1-900c-25f6124efa1b\n"
+
+msgctxt "title"
+msgid "International Telco Report 2021"
+msgstr ""
+
+msgctxt "slug"
+msgid "international-telco-report-2021"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "International Telco Report 2021"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "International Telco Report 2021"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Report"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Consumer adoption of 5G"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=download"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Download the report now"
+msgstr ""
+
+msgctxt "video_items.2e8845c9-f36f-4e8d-a795-5634ba482fc6"
+msgid ""
+"YouGov data shows that while 5G may be the future of connectivity, it has yet to catch on at scale, with massive variation in adoption and attitudes across global markets. Who are the dedicated, "
+"highly engaged early 5G adopters – and how can companies and brands effectively target them?"
+msgstr ""
+
+msgctxt "video_items.2e8845c9-f36f-4e8d-a795-5634ba482fc6"
+msgid "YouGov’s International Telco Report 2021 examines the demographics, behaviors, and preferences of this potentially lucrative group, and attitudes towards 5G products broadly."
+msgstr ""
+
+msgctxt "video_items.2e8845c9-f36f-4e8d-a795-5634ba482fc6"
+msgid "The study connects data from YouGov Profiles whilst also leveraging custom research across 17 global markets."
+msgstr ""
+
+msgctxt "video_items.4540bfb7-5f2b-45f9-b235-4d3bef11996f.main_cta_text"
+msgid "Download now"
+msgstr ""
+
+msgctxt "video_items.4540bfb7-5f2b-45f9-b235-4d3bef11996f.main_cta_url"
+msgid "?marketo=download"
+msgstr ""
+
+msgctxt "video_items.4540bfb7-5f2b-45f9-b235-4d3bef11996f.secondary_cta_text"
+msgid "Get in touch"
+msgstr ""
+
+msgctxt "video_items.4540bfb7-5f2b-45f9-b235-4d3bef11996f.secondary_cta_url"
+msgid "?marketo=contact"
+msgstr ""

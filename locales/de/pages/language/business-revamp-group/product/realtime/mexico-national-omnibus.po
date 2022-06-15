@@ -1,0 +1,165 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:33.052109+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: b398cd19-0f58-4ea8-ad53-4d20d79bceaf\n"
+
+msgctxt "title"
+msgid "Mexico National Omnibus"
+msgstr ""
+
+msgctxt "slug"
+msgid "mexico-national-omnibus"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Mexico National Omnibus"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Mexico National Omnibus"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Reach a nationally representative sample of 1,000+ Mexican residents aged 18+."
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"With no minimum question count, you can field a nationally representative survey fast, affordably, and with full research team support including consultation, questionnaire design, programming, "
+"fieldwork, and results."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "rates_title"
+msgid "National Omnibus rates"
+msgstr ""
+
+msgctxt "benefit_items.13bebe18-9f24-428a-b822-76bd311edab4.title"
+msgid "Representative sample"
+msgstr ""
+
+msgctxt "benefit_items.13bebe18-9f24-428a-b822-76bd311edab4.description"
+msgid "Reach a nationally representative sample of 1,000 adults aged 18+."
+msgstr ""
+
+msgctxt "benefit_items.29606d43-e28a-46c7-bd09-e128ac58e8a7.title"
+msgid "Daily surveys"
+msgstr ""
+
+msgctxt "benefit_items.29606d43-e28a-46c7-bd09-e128ac58e8a7.description"
+msgid "Surveys launch any business day."
+msgstr ""
+
+msgctxt "benefit_items.420cc5f3-8eca-4dae-b724-66a83b0eccbc.title"
+msgid "Fast results"
+msgstr ""
+
+msgctxt "benefit_items.420cc5f3-8eca-4dae-b724-66a83b0eccbc.description"
+msgid "Results delivered in a week, with full-service support and live reporting."
+msgstr ""
+
+msgctxt "rates_table_rows.0ab8b0d2-4fa1-4553-85b1-d423ad54ddfd.column_1"
+msgid "Entry Fee"
+msgstr ""
+
+msgctxt "rates_table_rows.0ab8b0d2-4fa1-4553-85b1-d423ad54ddfd.column_2"
+msgid "Book space on the nation’s market-leading omnibus"
+msgstr ""
+
+msgctxt "rates_table_rows.0ab8b0d2-4fa1-4553-85b1-d423ad54ddfd.column_3"
+msgid "$300"
+msgstr ""
+
+msgctxt "rates_table_rows.4986448e-f64b-4de6-b06f-dc577e76e222.column_1"
+msgid "Questions"
+msgstr ""
+
+msgctxt "rates_table_rows.4986448e-f64b-4de6-b06f-dc577e76e222.column_2"
+msgid "Single or multiple choice (up to 10 answers per question)"
+msgstr ""
+
+msgctxt "rates_table_rows.4986448e-f64b-4de6-b06f-dc577e76e222.column_3"
+msgid "$550"
+msgstr ""
+
+msgctxt "rates_table_rows.591009a4-884f-48fa-a679-dd10e750f897.column_1"
+msgid "Scale Questions"
+msgstr ""
+
+msgctxt "rates_table_rows.591009a4-884f-48fa-a679-dd10e750f897.column_2"
+msgid "Statements answered against a scale (per every 3 statements)"
+msgstr ""
+
+msgctxt "rates_table_rows.591009a4-884f-48fa-a679-dd10e750f897.column_3"
+msgid "$550"
+msgstr ""
+
+msgctxt "rates_table_rows.e3c30757-490f-4474-a25c-1c8de3a661a2.column_1"
+msgid "Open-ended"
+msgstr ""
+
+msgctxt "rates_table_rows.e3c30757-490f-4474-a25c-1c8de3a661a2.column_2"
+msgid "Full verbatim answers (no coding included)"
+msgstr ""
+
+msgctxt "rates_table_rows.e3c30757-490f-4474-a25c-1c8de3a661a2.column_3"
+msgid "$550"
+msgstr ""
+
+msgctxt "rates_table_rows.dc03ccc5-82bf-4a0f-a23a-f695045e54ad.column_1"
+msgid "Images"
+msgstr ""
+
+msgctxt "rates_table_rows.dc03ccc5-82bf-4a0f-a23a-f695045e54ad.column_2"
+msgid "Use images for a more engaging survey (video options available)"
+msgstr ""
+
+msgctxt "rates_table_rows.dc03ccc5-82bf-4a0f-a23a-f695045e54ad.column_3"
+msgid "FREE"
+msgstr ""
+
+msgctxt "rates_table_rows.7f4be742-245f-4df4-9b2c-c1464d157b4d.column_1"
+msgid "Videos"
+msgstr ""
+
+msgctxt "rates_table_rows.7f4be742-245f-4df4-9b2c-c1464d157b4d.column_2"
+msgid "Incorporate videos (per 30 seconds) into survey"
+msgstr ""
+
+msgctxt "rates_table_rows.7f4be742-245f-4df4-9b2c-c1464d157b4d.column_3"
+msgid "$550"
+msgstr ""
+
+msgctxt "rates_table_rows.268a8d6f-0bcb-499c-a2a0-fdf9569534db.column_1"
+msgid "Deliverables"
+msgstr ""
+
+msgctxt "rates_table_rows.268a8d6f-0bcb-499c-a2a0-fdf9569534db.column_2"
+msgid "Full Excel tables, SPSS file plus final results available via our interactive online analytics platform"
+msgstr ""
+
+msgctxt "rates_table_rows.268a8d6f-0bcb-499c-a2a0-fdf9569534db.column_3"
+msgid "INCLUDED"
+msgstr ""
+
+msgctxt "rates_table_rows.0f5847b8-a2c3-434f-aa73-dafaf17e9704.column_1"
+msgid "Time in field"
+msgstr ""
+
+msgctxt "rates_table_rows.0f5847b8-a2c3-434f-aa73-dafaf17e9704.column_2"
+msgid "Time spent gathering results"
+msgstr ""
+
+msgctxt "rates_table_rows.0f5847b8-a2c3-434f-aa73-dafaf17e9704.column_3"
+msgid "6-8 business days"
+msgstr ""

@@ -1,0 +1,120 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:42.242712+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Global Automotive Profiles"
+msgstr ""
+
+msgctxt "slug"
+msgid "global-automotive-profiles"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Global Automotive Profiles: Unlock Automotive Data"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Track brands, measure global consumer trends and understand sentiment towards automotive and mobility with YouGov Global Automotive Profiles."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "BENEFITS"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Forward-looking consumer intelligence"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Global Automotive Profiles"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Optimize your strategy with automotive intelligence"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Understand customers and competitors with in-depth insights. Track global consumer trends and sentiment towards automotive and mobility."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "/product/global-automotive-profiles/?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our connected living data solutions"
+msgstr ""
+
+msgctxt "benefit_items.e18adbaa-08e5-4606-b623-31417189fad1.title"
+msgid "Unparalleled auto insights"
+msgstr ""
+
+msgctxt "benefit_items.e18adbaa-08e5-4606-b623-31417189fad1.description"
+msgid "Discover the latest consumer behavior in the market and changing attitudes towards automotive brands and models"
+msgstr ""
+
+msgctxt "benefit_items.bbdc7d3f-3bff-4071-8c60-75c11057d870.title"
+msgid "Global and localized data"
+msgstr ""
+
+msgctxt "benefit_items.bbdc7d3f-3bff-4071-8c60-75c11057d870.description"
+msgid "Get consistent, reliable and actionable information across multiple markets in one dashboard"
+msgstr ""
+
+msgctxt "benefit_items.43f6aa5b-5294-4387-b28a-5f9186c7491b.title"
+msgid "Customer journey insights"
+msgstr ""
+
+msgctxt "benefit_items.43f6aa5b-5294-4387-b28a-5f9186c7491b.description"
+msgid "Unlock a 360° view of your target audience to inform your strategy, from purchase intent to barriers"
+msgstr ""
+
+msgctxt "content_image_items.0b3cc94e-f468-4b53-b179-41eeb22c3260.title"
+msgid "Auto consumers, in detail"
+msgstr ""
+
+msgctxt "content_image_items.0b3cc94e-f468-4b53-b179-41eeb22c3260.description"
+msgid "Track automotive brands for an instant overview of the market, including global consumer attitudes and behaviors."
+msgstr ""
+
+msgctxt "content_image_items.0b3cc94e-f468-4b53-b179-41eeb22c3260.description"
+msgid ""
+"Get insights on customers intending to buy a car. Understand their engine preference, mobility attitudes, online car purchase journey, media and social media consumption and key demographics – at "
+"both a brand and model level."
+msgstr ""
+
+msgctxt "content_image_items.0b3cc94e-f468-4b53-b179-41eeb22c3260.description"
+msgid "Available in <b>14</b> markets worldwide: Australia, Germany, India, US, UK, Canada, Denmark, France, Italy, Japan, Malaysia, Saudi Arabia, Spain, and Sweden."
+msgstr ""
+
+msgctxt "content_image_items.a47c396a-e436-433c-95ff-736cb576fba4.title"
+msgid "Fuel your marketing strategy"
+msgstr ""
+
+msgctxt "content_image_items.a47c396a-e436-433c-95ff-736cb576fba4.description"
+msgid ""
+"Capture the latest data around changing attitudes and auto trends, including mobility subscription services. Understand key drivers and barriers to customer purchase across all vehicle types: fuel, "
+"electric and hybrid."
+msgstr ""
+
+msgctxt "content_image_items.a47c396a-e436-433c-95ff-736cb576fba4.description"
+msgid ""
+"Tailor your marketing, advertising and communication campaigns with data-led strategic decisions, and <a id=\"a1\"><b>Re-Contact</b></a> your target audience segments to dive deeper into their "
+"responses."
+msgstr ""
+
+msgctxt "content_image_items.a47c396a-e436-433c-95ff-736cb576fba4.description"
+msgid "Connect to YouGov’s market-leading depth and breadth of living data for even more granular information on your target audience’s behavior."
+msgstr ""

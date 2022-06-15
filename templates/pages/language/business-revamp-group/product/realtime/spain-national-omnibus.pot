@@ -1,0 +1,144 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:41.965353+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Spanish National Omnibus"
+msgstr ""
+
+msgctxt "slug"
+msgid "spain-national-omnibus"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Spain National Omnibus"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Spanish National Omnibus"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Daily surveys of 1,000+ Spanish aged 18+."
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"With no minimum question count, you can field a nationally representative survey fast, affordably, and with full research team support including consultation, questionnaire design, programming, "
+"fieldwork, and results."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "rates_title"
+msgid "National Omnibus rates"
+msgstr ""
+
+msgctxt "benefit_items.8661f56f-bc61-4c5c-b7a8-4c82d1a85d8b.title"
+msgid "Representative sample"
+msgstr ""
+
+msgctxt "benefit_items.8661f56f-bc61-4c5c-b7a8-4c82d1a85d8b.description"
+msgid "Reach a nationally representative sample of 1,000 to 2,000 Spanish adults aged 18+."
+msgstr ""
+
+msgctxt "benefit_items.7dc21f96-16bf-4070-867b-621756cc1a5b.title"
+msgid "Weekly surveys"
+msgstr ""
+
+msgctxt "benefit_items.7dc21f96-16bf-4070-867b-621756cc1a5b.description"
+msgid "Surveys launch twice a week."
+msgstr ""
+
+msgctxt "benefit_items.d110f276-d7fc-4f74-815f-9323c2e989c0.title"
+msgid "Fast results"
+msgstr ""
+
+msgctxt "benefit_items.d110f276-d7fc-4f74-815f-9323c2e989c0.description"
+msgid "Results delivered in a week, with full-service support and live reporting."
+msgstr ""
+
+msgctxt "rates_table_rows.556bad35-d574-4f9a-acf7-6e775ca42dad.column_1"
+msgid "Entry Fee"
+msgstr ""
+
+msgctxt "rates_table_rows.556bad35-d574-4f9a-acf7-6e775ca42dad.column_2"
+msgid "Book space on the nation’s market-leading omnibus"
+msgstr ""
+
+msgctxt "rates_table_rows.556bad35-d574-4f9a-acf7-6e775ca42dad.column_3"
+msgid "Free"
+msgstr ""
+
+msgctxt "rates_table_rows.75835720-82ee-4461-9efb-d85062d75eb6.column_1"
+msgid "Questions"
+msgstr ""
+
+msgctxt "rates_table_rows.75835720-82ee-4461-9efb-d85062d75eb6.column_2"
+msgid "Single or multiple choice (up to 10 answers per question)"
+msgstr ""
+
+msgctxt "rates_table_rows.75835720-82ee-4461-9efb-d85062d75eb6.column_3"
+msgid "€490*"
+msgstr ""
+
+msgctxt "rates_table_rows.42c06735-bced-49ec-94ff-b5d40e03d113.column_1"
+msgid "Scale Questions"
+msgstr ""
+
+msgctxt "rates_table_rows.42c06735-bced-49ec-94ff-b5d40e03d113.column_2"
+msgid "Statements answered against a scale (per every 3 statements)"
+msgstr ""
+
+msgctxt "rates_table_rows.42c06735-bced-49ec-94ff-b5d40e03d113.column_3"
+msgid "€490*"
+msgstr ""
+
+msgctxt "rates_table_rows.9b13d33d-7c0c-4b33-899e-1c9474f3e79a.column_1"
+msgid "Open-ended"
+msgstr ""
+
+msgctxt "rates_table_rows.9b13d33d-7c0c-4b33-899e-1c9474f3e79a.column_2"
+msgid "Full verbatim answers (coding services also available)"
+msgstr ""
+
+msgctxt "rates_table_rows.9b13d33d-7c0c-4b33-899e-1c9474f3e79a.column_3"
+msgid "€980*"
+msgstr ""
+
+msgctxt "rates_table_rows.75715a15-a8ee-4123-883f-4ac05adce4b7.column_1"
+msgid "Images"
+msgstr ""
+
+msgctxt "rates_table_rows.75715a15-a8ee-4123-883f-4ac05adce4b7.column_2"
+msgid "Use images for a more engaging survey (video options available)"
+msgstr ""
+
+msgctxt "rates_table_rows.75715a15-a8ee-4123-883f-4ac05adce4b7.column_3"
+msgid "FREE"
+msgstr ""
+
+msgctxt "rates_table_rows.71377031-ef06-4c39-a10a-37089cbcc075.column_1"
+msgid "Deliverables"
+msgstr ""
+
+msgctxt "rates_table_rows.71377031-ef06-4c39-a10a-37089cbcc075.column_2"
+msgid "Full Excel(TM) tables, PowerPoint(TM) summary charts, plus live and final results available via our interactive online analytics platform"
+msgstr ""
+
+msgctxt "rates_table_rows.71377031-ef06-4c39-a10a-37089cbcc075.column_3"
+msgid "INCLUDED"
+msgstr ""
+
+msgctxt "rates_table_rows.db29d839-6b6f-4f58-9028-d87b2a875b7b.column_1"
+msgid "* A discount is given for three or more questions asked."
+msgstr ""

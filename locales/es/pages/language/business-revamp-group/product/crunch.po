@@ -1,0 +1,152 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:35.938132+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 89f2459f-9ca0-4f2a-8ff1-90f0a4910a2a\n"
+
+msgctxt "title"
+msgid "YouGov Crunch"
+msgstr ""
+
+msgctxt "slug"
+msgid "crunch"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Crunch:  Powerful  Panel Data Analytics"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Analyze your survey data quickly and easily with Crunch.io, our powerful data analysis tool for visualizing your research results."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "BENEFITS"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Power made simple"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "YouGov Crunch"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Analyze your survey data in one powerful, easy-to-use platform"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Crunch.io is the ultimate tool for granular data analysis - superfast, easy-to-use, and with the ability to combine with your third-party data. Visualize your data simply and quickly to help unpack "
+"and extract every insight it holds."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://crunch.io/?utm_campaign=yougov-b2b&amp;utm_source=web&amp;utm_medium=web"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our connected living data solutions"
+msgstr ""
+
+msgctxt "bullet_lists_label"
+msgid "Testimonials"
+msgstr ""
+
+msgctxt "bullet_lists_title"
+msgid "Client feedback"
+msgstr ""
+
+msgctxt "bullet_lists_description"
+msgid "You're in good company. The world's leading brands are empowered by YouGov Crunch."
+msgstr ""
+
+msgctxt "bullet_lists_description"
+msgid "“Crunch increases the value of your data investment. You will continue to find new insights. Data will not end up in the drawer.”"
+msgstr ""
+
+msgctxt "bullet_lists_description"
+msgid "“Crunch is outstanding. It gives customers the chance to play with data. It is a superb piece of equipment.“"
+msgstr ""
+
+msgctxt "bullet_lists_description"
+msgid ""
+"“Crunch has given life to the segments within the organization. It enables us to work with the segments and continuously get more nuances and more knowledge about them and test new hypotheses about "
+"each segment.\""
+msgstr ""
+
+msgctxt "bullet_lists_description"
+msgid "“Crunch is a good tool to deliver data in a new and more value-adding way … particularly when you, like us, have a very curious and exploratory approach to data.”"
+msgstr ""
+
+msgctxt "benefit_items.8ef7cbcd-e469-4911-8af7-69b4877f1dd9.title"
+msgid "Simplicity"
+msgstr ""
+
+msgctxt "benefit_items.8ef7cbcd-e469-4911-8af7-69b4877f1dd9.description"
+msgid "Easily prepare, analyze, visualize and deliver survey data and analysis.  Empower customers and clients to explore the data on their own with the intuitive drag-and-drop interface."
+msgstr ""
+
+msgctxt "benefit_items.8a64f4a9-c75f-42a1-93b1-ad38b4e2c868.title"
+msgid "Speed"
+msgstr ""
+
+msgctxt "benefit_items.8a64f4a9-c75f-42a1-93b1-ad38b4e2c868.description"
+msgid ""
+"Speed up data analysis and get quick turnaround answers to your questions. Analyze all your datasets, even ones with millions of respondents (rows), and thousands of variables (columns) with "
+"subsecond response."
+msgstr ""
+
+msgctxt "benefit_items.3e3cb93a-3996-4f98-ac93-14c40cde7620.title"
+msgid "Scalability"
+msgstr ""
+
+msgctxt "benefit_items.3e3cb93a-3996-4f98-ac93-14c40cde7620.description"
+msgid ""
+"Analyze all your data in Crunch.io, including both YouGov and other in-house data. Collaborate via the cloud with everyone analyzing the same data, while closely controlling who sees what, securely."
+msgstr ""
+
+msgctxt "content_image_items.656288d5-736e-4cd5-88f3-52c09a894ce7.title"
+msgid "Powerful results, made easy"
+msgstr ""
+
+msgctxt "content_image_items.656288d5-736e-4cd5-88f3-52c09a894ce7.description"
+msgid ""
+"With its simple, drag-and-drop, no-installation-required interface, YouGov Crunch is as accessible as it is powerful. No training required - empower anyone at any level to obtain the data "
+"intelligence they need, quickly."
+msgstr ""
+
+msgctxt "content_image_items.656288d5-736e-4cd5-88f3-52c09a894ce7.description"
+msgid "An intuitive interface empowers you to explore data on your own. Prepare, analyze, and"
+msgstr ""
+
+msgctxt "content_image_items.656288d5-736e-4cd5-88f3-52c09a894ce7.description"
+msgid "visualize your survey data and analyses, then easily build detailed custom reports and no-coding dashboards to share your findings externally or with your team."
+msgstr ""
+
+msgctxt "content_image_items.77fbf9c1-4e6e-4eca-bd12-3226b3953a02.title"
+msgid "Get seamless results"
+msgstr ""
+
+msgctxt "content_image_items.77fbf9c1-4e6e-4eca-bd12-3226b3953a02.description"
+msgid ""
+"Analyze all your datasets - even ones with millions of respondents and thousands of variables – in seconds. Easily dive deep into any data, including non-YouGov data, via Crunch’s intuitive drag-"
+"and-drop interface."
+msgstr ""
+
+msgctxt "content_image_items.77fbf9c1-4e6e-4eca-bd12-3226b3953a02.description"
+msgid ""
+"Crunch imports and prepares your datasets for you, so you can focus on analysis. Organize all your historical and current survey data neatly within labelled, easily searchable folders, with all your"
+" data stored securely in the Cloud, for easy whole-team access."
+msgstr ""

@@ -1,0 +1,185 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:35.566959+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: cff0aa57-2d1b-441d-8659-ba50abb0f02d\n"
+
+msgctxt "title"
+msgid "CharityIndex"
+msgstr ""
+
+msgctxt "slug"
+msgid "charityindex"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov CharityIndex: Brand Health Metrics for Charities"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Track public perception of the UK's top charities with daily insight on brand health, media coverage and lower funnel metrics with YouGov's CharityIndex."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "BENEFITS"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Actionable charity insights"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "CharityIndex"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Discover what the world thinks of your charity"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "YouGov CharityIndex is a powerful brand tracker specifically created for charities and Non-Governmental Organizations, leveraging attitudinal data from YouGov’s panel members in Great Britain."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "/product/brandindex/charityindex/?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Discover YouGov's other living data solutions"
+msgstr ""
+
+msgctxt "benefit_items.898d30ba-d708-49c1-a663-d9a25a306ac8.title"
+msgid "Daily tracking"
+msgstr ""
+
+msgctxt "benefit_items.898d30ba-d708-49c1-a663-d9a25a306ac8.description"
+msgid "Access the latest intelligence, daily, to monitor and model changing brand health."
+msgstr ""
+
+msgctxt "benefit_items.57b16014-af7d-4f5f-bcae-416f1a6964df.title"
+msgid "Custom questions"
+msgstr ""
+
+msgctxt "benefit_items.57b16014-af7d-4f5f-bcae-416f1a6964df.description"
+msgid "Add bespoke questions for your sector or brand on top of the existing survey to get customized data."
+msgstr ""
+
+msgctxt "benefit_items.a5fad979-2e1f-49a2-8067-7ed4f1754fb6.title"
+msgid "Multiple data formats"
+msgstr ""
+
+msgctxt "benefit_items.a5fad979-2e1f-49a2-8067-7ed4f1754fb6.description"
+msgid "Display data in multiple formats – line, bar, bubble and radar charts, ranking tables, and even spreadsheets to suit your analysis needs."
+msgstr ""
+
+msgctxt "content_image_items.1964f833-e0ba-4443-a2e0-a26f46cebea4.title"
+msgid "Daily and historical brand tracking"
+msgstr ""
+
+msgctxt "content_image_items.1964f833-e0ba-4443-a2e0-a26f46cebea4.description"
+msgid ""
+"Understand and monitor the performance of your brand before, during and after your campaigns, both now and historically, against 15+ years of living consumer intelligence. Customize the data to you "
+"by adding bespoke questions for your sector or brand on top of the existing survey."
+msgstr ""
+
+msgctxt "content_image_items.f3aabe27-aa15-4244-b7c9-09e0bcb79dce.title"
+msgid "Robust, accurate insights"
+msgstr ""
+
+msgctxt "content_image_items.f3aabe27-aa15-4244-b7c9-09e0bcb79dce.description"
+msgid "Access 16 key brand health, media focused and lower funnel metrics to inform your strategy, and ultimately give you the power to influence perception of your charity."
+msgstr ""
+
+msgctxt "content_image_items.f3aabe27-aa15-4244-b7c9-09e0bcb79dce.description"
+msgid "Media &amp; Comms"
+msgstr ""
+
+msgctxt "content_image_items.f3aabe27-aa15-4244-b7c9-09e0bcb79dce.description"
+msgid "What are people hearing and saying about a charity?"
+msgstr ""
+
+msgctxt "content_image_items.f3aabe27-aa15-4244-b7c9-09e0bcb79dce.description"
+msgid "Buzz"
+msgstr ""
+
+msgctxt "content_image_items.f3aabe27-aa15-4244-b7c9-09e0bcb79dce.description"
+msgid "Awareness"
+msgstr ""
+
+msgctxt "content_image_items.f3aabe27-aa15-4244-b7c9-09e0bcb79dce.description"
+msgid "Ad Awareness"
+msgstr ""
+
+msgctxt "content_image_items.f3aabe27-aa15-4244-b7c9-09e0bcb79dce.description"
+msgid "Attention"
+msgstr ""
+
+msgctxt "content_image_items.f3aabe27-aa15-4244-b7c9-09e0bcb79dce.description"
+msgid "Word of Mouth"
+msgstr ""
+
+msgctxt "content_image_items.f3aabe27-aa15-4244-b7c9-09e0bcb79dce.description"
+msgid "Perception"
+msgstr ""
+
+msgctxt "content_image_items.f3aabe27-aa15-4244-b7c9-09e0bcb79dce.description"
+msgid "What do people think and feel about a charity?"
+msgstr ""
+
+msgctxt "content_image_items.f3aabe27-aa15-4244-b7c9-09e0bcb79dce.description"
+msgid "Recommend"
+msgstr ""
+
+msgctxt "content_image_items.f3aabe27-aa15-4244-b7c9-09e0bcb79dce.description"
+msgid "Belief in cause"
+msgstr ""
+
+msgctxt "content_image_items.f3aabe27-aa15-4244-b7c9-09e0bcb79dce.description"
+msgid "Brand reputation"
+msgstr ""
+
+msgctxt "content_image_items.f3aabe27-aa15-4244-b7c9-09e0bcb79dce.description"
+msgid "Impact on cause"
+msgstr ""
+
+msgctxt "content_image_items.f3aabe27-aa15-4244-b7c9-09e0bcb79dce.description"
+msgid "Value"
+msgstr ""
+
+msgctxt "content_image_items.f3aabe27-aa15-4244-b7c9-09e0bcb79dce.description"
+msgid "Satisfaction"
+msgstr ""
+
+msgctxt "content_image_items.f3aabe27-aa15-4244-b7c9-09e0bcb79dce.description"
+msgid "Index"
+msgstr ""
+
+msgctxt "content_image_items.f3aabe27-aa15-4244-b7c9-09e0bcb79dce.description"
+msgid "Behaviour"
+msgstr ""
+
+msgctxt "content_image_items.f3aabe27-aa15-4244-b7c9-09e0bcb79dce.description"
+msgid "What charity are people planning to donate to, or are donating to currently?"
+msgstr ""
+
+msgctxt "content_image_items.f3aabe27-aa15-4244-b7c9-09e0bcb79dce.description"
+msgid "Donation consideration"
+msgstr ""
+
+msgctxt "content_image_items.f3aabe27-aa15-4244-b7c9-09e0bcb79dce.description"
+msgid "Donation intent"
+msgstr ""
+
+msgctxt "content_image_items.f3aabe27-aa15-4244-b7c9-09e0bcb79dce.description"
+msgid "Former donor"
+msgstr ""
+
+msgctxt "content_image_items.f3aabe27-aa15-4244-b7c9-09e0bcb79dce.description"
+msgid "Current donor"
+msgstr ""

@@ -1,0 +1,41 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:30.050505+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Sectors"
+msgstr ""
+
+msgctxt "slug"
+msgid "sectors"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Sector Pages"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Select from our 15 industry pages to explore for yourself the latest data intelligence on your sector, as well as YouGov's recent research, content and white papers."
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Insight on your industry"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Unpack the latest issues, rankings and events in your sector, and discover how YouGov can help boost your competitive advantage."
+msgstr ""
+
+msgctxt "products_title"
+msgid "Find your sector"
+msgstr ""
+
+msgctxt "products_description"
+msgid ""
+"YouGov has <b>unrivalled data</b> across a wealth of industries and sectors, <b>tracking brands for 10+ years</b>. Experience our audience intelligence, brand trackers, reports and articles – "
+"compiled using <b>25,000 data variables</b> from the YouGov Cube across our 15 key sectors below. You'll find our latest<b> industry-focused white papers and research</b>, <b>relevant products and "
+"solutions for your sector</b> and a live data experience where you can discover the intelligence we hold around brands, audiences and research for your sector."
+msgstr ""

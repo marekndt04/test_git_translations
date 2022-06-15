@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:40.828553+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 5aded78b-04cc-4c23-b52a-b0b23915133b\n"
+
+msgctxt "title"
+msgid "Academic, Political &amp; Public Affairs Research"
+msgstr ""
+
+msgctxt "description"
+msgid "Accurate, timely, and relevant polling on current political issues."
+msgstr ""
+
+msgctxt "url"
+msgid "/product/academic-political-public-affairs-research/"
+msgstr ""

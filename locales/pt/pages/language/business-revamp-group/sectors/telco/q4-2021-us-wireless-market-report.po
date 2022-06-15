@@ -1,0 +1,65 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:40.282946+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 2e32670e-8dcf-4791-93f8-0288500d978a\n"
+
+msgctxt "title"
+msgid "Q4 2021 US Wireless Market report"
+msgstr ""
+
+msgctxt "slug"
+msgid "q4-2021-us-wireless-market-report"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "YouGov's Q4 2021 US Wireless Market report"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Report"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=download"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Download the report now"
+msgstr ""
+
+msgctxt "video_items.45fd0936-14ec-4ebd-a81c-422547f89981"
+msgid ""
+"Increasing customer loyalty and reducing churn are key to enabling growth in the fiercely competitive wireless market. To help carrier and OEM brands gain a better understanding of their consumers’ "
+"upgrading and switching intentions, YouGov have created the first of a series of regular reports, starting with <a id=\"a1\">Q4 2021’s US Wireless Market report</a>."
+msgstr ""
+
+msgctxt "video_items.45fd0936-14ec-4ebd-a81c-422547f89981"
+msgid ""
+"This research provides a wireless market update based on data"
+"points such as carrier satisfaction and a historical view of national advertising recall over the last five years to allow carriers to track marketing effectiveness. We also profile a key in-market group of those planning to upgrade their handset within the next month."
+msgstr ""
+
+msgctxt "video_items.45fd0936-14ec-4ebd-a81c-422547f89981"
+msgid ""
+"With each quarterly report both carriers and handset manufacturers will be able to see how these type of business critical metrics change over time, and enhance their understanding of what’s driving"
+" this by pulling in additional data points from the <a id=\"a1\">YouGov Telco Profiles</a> tool."
+msgstr ""
+
+msgctxt "video_items.07fa43c5-2870-42dd-8f9b-3a25a602bf59.main_cta_text"
+msgid "Download now"
+msgstr ""
+
+msgctxt "video_items.07fa43c5-2870-42dd-8f9b-3a25a602bf59.main_cta_url"
+msgid "?marketo=download"
+msgstr ""
+
+msgctxt "video_items.07fa43c5-2870-42dd-8f9b-3a25a602bf59.secondary_cta_text"
+msgid "Get in touch"
+msgstr ""
+
+msgctxt "video_items.07fa43c5-2870-42dd-8f9b-3a25a602bf59.secondary_cta_url"
+msgid "?marketo=contact"
+msgstr ""

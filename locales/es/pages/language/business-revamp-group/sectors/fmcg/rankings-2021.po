@@ -1,0 +1,60 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:35.272391+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 68aa0910-057c-40f9-8275-62df8f25677f\n"
+
+msgctxt "title"
+msgid "Rankings 2021"
+msgstr ""
+
+msgctxt "slug"
+msgid "rankings-2021"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov’s FMCG/CPG Rankings 2021"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "FMCG/CPG Rankings 2021"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Rankings"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "YouGov’s FMCG/CPG Rankings 2021 reveals the top ranked consumer brands within the sector"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Get in touch"
+msgstr ""
+
+msgctxt "video_items.d65e5631-5a98-4148-a5cb-de5d25f20431"
+msgid ""
+"Amidst a year of changing consumer preferences and with consumer consumption habits having been in constant flux, discover which brands have navigated their way to the top spots in this year’s "
+"YouGov FMCG/CPG Rankings."
+msgstr ""
+
+msgctxt "video_items.d65e5631-5a98-4148-a5cb-de5d25f20431"
+msgid ""
+"Marking the first in our annual FMCG/CPG Rankings series, YouGov’s FMCG/CPG Rankings 2021 reveals the top ranked consumer brands within the sector. The Rankings are based on Index score from "
+"YouGov <a id=\"a1\">BrandIndex</a>, which is a measure of overall brand health calculated by taking the average of Impression, Quality, Value, Satisfaction, Recommend and Reputation over a period of"
+" 12 months."
+msgstr ""
+
+msgctxt "video_items.eb69e722-15b9-471f-8ae7-04dbd306c6d6.main_cta_text"
+msgid "Get in touch"
+msgstr ""
+
+msgctxt "video_items.eb69e722-15b9-471f-8ae7-04dbd306c6d6.main_cta_url"
+msgid "?marketo=contact"
+msgstr ""

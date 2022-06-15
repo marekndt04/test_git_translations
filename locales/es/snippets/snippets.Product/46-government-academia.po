@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:34.970848+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 3ed7f7ea-ef2d-45ff-bcd9-5b5887731735\n"
+
+msgctxt "title"
+msgid "Government"
+msgstr ""
+
+msgctxt "description"
+msgid "Monitor public opinion and social trends."
+msgstr ""
+
+msgctxt "url"
+msgid "/sectors/government/"
+msgstr ""

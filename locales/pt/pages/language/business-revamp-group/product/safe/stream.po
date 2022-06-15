@@ -1,0 +1,97 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:40.432978+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: b1727979-13fb-42a6-b54e-30403f4d4501\n"
+
+msgctxt "title"
+msgid "YouGov Stream"
+msgstr ""
+
+msgctxt "slug"
+msgid "stream"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Stream"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Connect reported attitudes, psychographics and demographics with verified SVOD &amp; AVOD viewership data across multiple global streaming services with YouGov Stream."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "BENEFITS"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Another level of streaming intelligence"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Stream"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Future-proof your viewership and streaming data"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Unlock an understanding of true streaming performance, benchmarking competitors and verifying potential platform growth. YouGov Stream combines verified global viewership data with thousands of "
+"surveyed demographic and behavioural attributes. Understand what users stream, when – from people who listen to rock music on a Tuesday to those who have re-watched Squid Game."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Get in touch"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our connected living data solutions"
+msgstr ""
+
+msgctxt "benefit_items.7f72e6b8-2b57-4688-956f-304b6b19add5.title"
+msgid "Zero-party data"
+msgstr ""
+
+msgctxt "benefit_items.7f72e6b8-2b57-4688-956f-304b6b19add5.description"
+msgid "Data collected is not self-reported but verified via a double opt-in consent – going above and beyond GDPR/CCPA requirements."
+msgstr ""
+
+msgctxt "benefit_items.ed1d0493-3071-4216-8b11-1940c0b490aa.title"
+msgid "Cross platform, cross device"
+msgstr ""
+
+msgctxt "benefit_items.ed1d0493-3071-4216-8b11-1940c0b490aa.description"
+msgid "Understand overlapping content demand across demographic groups."
+msgstr ""
+
+msgctxt "benefit_items.b4e7e3ec-c9fb-4c2a-ac48-d265fe6b6490.title"
+msgid "Panel scale"
+msgstr ""
+
+msgctxt "benefit_items.b4e7e3ec-c9fb-4c2a-ac48-d265fe6b6490.description"
+msgid "Backed by 160,000 activated accounts and the ability to connect to YouGov’s panel of 17million+ registered members."
+msgstr ""
+
+msgctxt "content_image_items.b6fb76d2-5e49-4f92-8dc9-16f78481070e.title"
+msgid "Stay on the pulse"
+msgstr ""
+
+msgctxt "content_image_items.b6fb76d2-5e49-4f92-8dc9-16f78481070e.description"
+msgid ""
+"Cross-reference audience viewership between different services to monitor streaming behaviour, season retention trends and episodic drop-off rates. Enhance self-reported survey data with verified "
+"user actions and easily segment for granular consumer-level intelligence."
+msgstr ""
+
+msgctxt "content_image_items.b6fb76d2-5e49-4f92-8dc9-16f78481070e.description"
+msgid ""
+"Drill down and target your advertising on a one-to-one level, with unrivalled seed marketing opportunities. Re-Contact specific respondents to get a deeper understanding of their actions and "
+"attitudes."
+msgstr ""

@@ -1,0 +1,61 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:40.097787+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 1883ecd5-e40b-48c3-9514-b3cfd149cddd\n"
+
+msgctxt "title"
+msgid "YouGov Framework: Attitudes to brand loyalty in the UK"
+msgstr ""
+
+msgctxt "slug"
+msgid "brand-loyalty-framework"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Framework: Attitudes to brand loyalty programmes in the UK"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "YouGov Framework: Attitudes to brand loyalty in the UK"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Loyalty programmes are one of the most common marketing instruments used by retail brands. While most schemes are built to incentivise repeat custom and capture data, we’ve also identified a strong "
+"side-benefit."
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"A significant proportion of customers say they are more likely to recommend a brand once they are a member of its loyalty programme. Using data from YouGov Profiles, YouGov has developed a framework"
+" to explore this tendency."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=download"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Download full framework"
+msgstr ""
+
+msgctxt "content_image_label"
+msgid "FRAMEWORK"
+msgstr ""
+
+msgctxt "content_image_title"
+msgid "What you'll discover"
+msgstr ""
+
+msgctxt "content_image_description"
+msgid ""
+"The framework drills deeper to understand the make-up and general traits of core consumer groups, which are defined on the basis of their likelihood to subscribe to loyalty programmes and to "
+"recommend brands."
+msgstr ""
+
+msgctxt "content_image_description"
+msgid "<a id=\"a1\"><b>Download the full framework and segment profiles</b></a>"
+msgstr ""

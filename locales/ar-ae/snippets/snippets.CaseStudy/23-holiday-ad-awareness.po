@@ -1,0 +1,21 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:28.388883+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 77ccd106-2a6f-4ae0-9d20-e37228a5d57c\n"
+
+msgctxt "title"
+msgid "Holiday ad awareness"
+msgstr ""
+
+msgctxt "description"
+msgid ""
+"YouGov fielded a study to assess interest and recall for relevant toy brands among children aged 6 to 12 and parents of children aged 3 to 12. The findings showed which toy brands were breaking "
+"through on awareness and highlighted key differences in channel effectiveness among children."
+msgstr ""
+
+msgctxt "url"
+msgid "https://today.yougov.com/topics/resources/articles-reports/2019/09/11/case-study-holiday-toy-advertising"
+msgstr ""

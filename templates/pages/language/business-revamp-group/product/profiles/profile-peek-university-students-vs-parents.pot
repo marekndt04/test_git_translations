@@ -1,0 +1,60 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:42.424717+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Profile Peek: University Students vs Parents"
+msgstr ""
+
+msgctxt "slug"
+msgid "profile-peek-university-students-vs-parents"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Profile Peek: University Students vs Parents"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Views of University Students vs Parents"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Profile Peek"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/product/profiles/profile-peek-university-students-vs-parents?marketo=download"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Download the full Profile Peek"
+msgstr ""
+
+msgctxt "video_items.b1dcda24-cfe3-4382-9880-e0e272661a4c"
+msgid ""
+"Have you ever wondered how university students’ views differ to those of parents? YouGov has recently developed a Profile Peek to take a closer look at how backgrounds, attitudes and top issues "
+"differ between university students and parents of children aged 16-17."
+msgstr ""
+
+msgctxt "video_items.b1dcda24-cfe3-4382-9880-e0e272661a4c"
+msgid ""
+"Download the Profile Peek and discover the results, including the universities they have the most positive impression of, the social networks they use and even the advertising channels they engage "
+"with most."
+msgstr ""
+
+msgctxt "video_items.b1dcda24-cfe3-4382-9880-e0e272661a4c"
+msgid "<a id=\"a1\"><b>Download the full Profile Peek now.</b></a>"
+msgstr ""
+
+msgctxt "video_items.b1dcda24-cfe3-4382-9880-e0e272661a4c"
+msgid "About Profile Peeks"
+msgstr ""
+
+msgctxt "video_items.b1dcda24-cfe3-4382-9880-e0e272661a4c"
+msgid ""
+"Drawing on data from across YouGov’s vast connected ecosystem, Profile Peeks are infographics that deep dive into a niche audience group segmented based on trending sector topics. Showcasing a range"
+" of behavioural and attitudinal insights they are designed to help brands and agencies get that little bit closer to the consumers they need to understand most."
+msgstr ""

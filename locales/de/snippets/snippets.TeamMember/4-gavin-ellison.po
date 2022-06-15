@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:29.648787+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: fcd79ce6-4fe0-42d0-98af-aadba7cc2a6f\n"
+
+msgctxt "name"
+msgid "Gavin Ellison"
+msgstr ""

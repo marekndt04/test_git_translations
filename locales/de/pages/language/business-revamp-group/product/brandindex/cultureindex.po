@@ -1,0 +1,191 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:32.483593+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 01e590e9-4996-4a8c-9e99-f84f04b0b8a4\n"
+
+msgctxt "title"
+msgid "CultureIndex"
+msgstr ""
+
+msgctxt "slug"
+msgid "cultureindex"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "CultureIndex: Brand Health For Cultural Attractions"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Track public perception of the UK's top cultural brands and attractions, measuring daily insight on brand health and media coverage metrics with YouGov's CultureIndex."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "BENEFITS"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Actionable insights for attractions, including:"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "CultureIndex"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Cultural brand and attraction metrics"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Continuously measures public perception of the UK’s most popular cultural hotspots, including The British Museum, Edinburgh Castle, London Eye, Madame Tussauds, Royal Botanic Gardens Kew and Tate "
+"Modern."
+msgstr ""
+
+msgctxt "hero_url_3"
+msgid "/product/brandindex/cultureindex/?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text_3"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our living data solutions"
+msgstr ""
+
+msgctxt "benefit_items.7ff31533-0dbd-4830-b3e3-e22f20f6a7a7.title"
+msgid "Daily tracking"
+msgstr ""
+
+msgctxt "benefit_items.7ff31533-0dbd-4830-b3e3-e22f20f6a7a7.description"
+msgid "Make sense of industry-specific data in real time to stay ahead of the competition"
+msgstr ""
+
+msgctxt "benefit_items.770c6322-9d6c-4443-b35e-fb0b03fd2bae.title"
+msgid "Custom questions"
+msgstr ""
+
+msgctxt "benefit_items.770c6322-9d6c-4443-b35e-fb0b03fd2bae.description"
+msgid "Add bespoke questions for your sector or brand to the existing survey to get customized data."
+msgstr ""
+
+msgctxt "benefit_items.c56c7845-c863-4160-8c91-e58538cd9647.title"
+msgid "Multiple Data Formats"
+msgstr ""
+
+msgctxt "benefit_items.c56c7845-c863-4160-8c91-e58538cd9647.description"
+msgid "Display data in multiple formats – line, bar, bubble and radar charts, ranking tables, and even spreadsheets – to suit your analysis needs."
+msgstr ""
+
+msgctxt "content_image_items.4e7580d1-087f-4aa8-b979-20931c677a11.title"
+msgid "Daily and historical brand tracking"
+msgstr ""
+
+msgctxt "content_image_items.4e7580d1-087f-4aa8-b979-20931c677a11.description"
+msgid ""
+"Understand and monitor the performance of your brand before, during and after your campaigns, both now and historically against 15+ years of historical living consumer intelligence. Add bespoke "
+"questions for your sector or brand on top of the existing survey to get customized data."
+msgstr ""
+
+msgctxt "content_image_items.8eb129cd-5409-462b-9af0-ac7b767b922b.title"
+msgid "Robust, accurate insights"
+msgstr ""
+
+msgctxt "content_image_items.8eb129cd-5409-462b-9af0-ac7b767b922b.description"
+msgid "Access 16 key brand health, media focused and lower funnel metrics to inform your strategy, and ultimately give you the power to influence perception of your attraction."
+msgstr ""
+
+msgctxt "content_image_items.8eb129cd-5409-462b-9af0-ac7b767b922b.description"
+msgid "Media &amp; Comms"
+msgstr ""
+
+msgctxt "content_image_items.8eb129cd-5409-462b-9af0-ac7b767b922b.description"
+msgid "What are people hearing and saying about a brand or attraction?"
+msgstr ""
+
+msgctxt "content_image_items.8eb129cd-5409-462b-9af0-ac7b767b922b.description"
+msgid "Buzz"
+msgstr ""
+
+msgctxt "content_image_items.8eb129cd-5409-462b-9af0-ac7b767b922b.description"
+msgid "Awareness"
+msgstr ""
+
+msgctxt "content_image_items.8eb129cd-5409-462b-9af0-ac7b767b922b.description"
+msgid "Ad Awareness"
+msgstr ""
+
+msgctxt "content_image_items.8eb129cd-5409-462b-9af0-ac7b767b922b.description"
+msgid "Attention"
+msgstr ""
+
+msgctxt "content_image_items.8eb129cd-5409-462b-9af0-ac7b767b922b.description"
+msgid "Word of Mouth"
+msgstr ""
+
+msgctxt "content_image_items.8eb129cd-5409-462b-9af0-ac7b767b922b.description"
+msgid "Perception"
+msgstr ""
+
+msgctxt "content_image_items.8eb129cd-5409-462b-9af0-ac7b767b922b.description"
+msgid "What do people think and feel about a brand or attraction?"
+msgstr ""
+
+msgctxt "content_image_items.8eb129cd-5409-462b-9af0-ac7b767b922b.description"
+msgid "Recommend"
+msgstr ""
+
+msgctxt "content_image_items.8eb129cd-5409-462b-9af0-ac7b767b922b.description"
+msgid "Impression"
+msgstr ""
+
+msgctxt "content_image_items.8eb129cd-5409-462b-9af0-ac7b767b922b.description"
+msgid "Corporate reputation"
+msgstr ""
+
+msgctxt "content_image_items.8eb129cd-5409-462b-9af0-ac7b767b922b.description"
+msgid "Quality"
+msgstr ""
+
+msgctxt "content_image_items.8eb129cd-5409-462b-9af0-ac7b767b922b.description"
+msgid "Value"
+msgstr ""
+
+msgctxt "content_image_items.8eb129cd-5409-462b-9af0-ac7b767b922b.description"
+msgid "Satisfaction"
+msgstr ""
+
+msgctxt "content_image_items.8eb129cd-5409-462b-9af0-ac7b767b922b.description"
+msgid "Index"
+msgstr ""
+
+msgctxt "content_image_items.8eb129cd-5409-462b-9af0-ac7b767b922b.description"
+msgid "Behaviour"
+msgstr ""
+
+msgctxt "content_image_items.8eb129cd-5409-462b-9af0-ac7b767b922b.description"
+msgid "What brands and attractions are people currently or planning on using/attending?"
+msgstr ""
+
+msgctxt "content_image_items.8eb129cd-5409-462b-9af0-ac7b767b922b.description"
+msgid "Consideration"
+msgstr ""
+
+msgctxt "content_image_items.8eb129cd-5409-462b-9af0-ac7b767b922b.description"
+msgid "Visit intent"
+msgstr ""
+
+msgctxt "content_image_items.8eb129cd-5409-462b-9af0-ac7b767b922b.description"
+msgid "Former visitor"
+msgstr ""
+
+msgctxt "content_image_items.8eb129cd-5409-462b-9af0-ac7b767b922b.description"
+msgid "Current visitor"
+msgstr ""

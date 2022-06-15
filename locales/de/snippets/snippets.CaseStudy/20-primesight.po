@@ -1,0 +1,21 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:30.188403+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 0a23271d-6d06-4c9e-b466-4847f2f1faff\n"
+
+msgctxt "title"
+msgid "Primesight"
+msgstr ""
+
+msgctxt "description"
+msgid ""
+"YouGov worked tirelessly at retrieving the usage data within a refined audience segment in order for us to make informed strategic decisions about not only it’s marketing, but more widely it’s "
+"development across the UK moving forward."
+msgstr ""
+
+msgctxt "url"
+msgid "https://yougov.co.uk/topics/resources/articles-reports/2019/05/29/gauging-perception-phone-boxes-future"
+msgstr ""

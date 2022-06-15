@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:29.360469+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 16b3de3c-bc3a-4b5e-922e-05077d723fc2\n"
+
+msgctxt "title"
+msgid "TikTok"
+msgstr ""
+
+msgctxt "description"
+msgid "How Allison+Partners used audience insights to inform TikTok’s campaign launch with YouGov RealTime"
+msgstr ""
+
+msgctxt "url"
+msgid "https://business.yougov.com/content/35698-tiktok-allison-partners-realtime-case-study"
+msgstr ""

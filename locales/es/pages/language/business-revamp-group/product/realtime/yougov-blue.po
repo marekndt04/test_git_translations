@@ -1,0 +1,99 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:37.754456+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: f11c5a8e-18b4-4525-97dd-07fd91d56650\n"
+
+msgctxt "title"
+msgid "Blue-Chip C-Suite Omnibus"
+msgstr ""
+
+msgctxt "slug"
+msgid "yougov-blue"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Blue-Chip C-Suite Omnibus"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Blue-Chip C-Suite Omnibus"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Interview 100 of the UK’s top C-Suite Executive Directors."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "rates_title"
+msgid "Blue-Chip C-Suite Omnibus rates"
+msgstr ""
+
+msgctxt "rates_description"
+msgid "Including survey design consultation, full-service support and full results analysis."
+msgstr ""
+
+msgctxt "rates_description"
+msgid "Buy as little as four questions to conduct your research, without having to commission an entire survey. The Omnibus runs four times a year."
+msgstr ""
+
+msgctxt "benefit_items.5ec2dc15-5873-404f-b6a5-e19db9d59357.title"
+msgid "100 Executive Directors, 1,000 firms"
+msgstr ""
+
+msgctxt "benefit_items.5ec2dc15-5873-404f-b6a5-e19db9d59357.description"
+msgid "Reach 100 executive directors recruited proportionately from the UK’s 1,000 largest corporations."
+msgstr ""
+
+msgctxt "benefit_items.8d576e43-6324-41b6-8b6a-2b735acbffbc.title"
+msgid "Quarterly surveys"
+msgstr ""
+
+msgctxt "benefit_items.8d576e43-6324-41b6-8b6a-2b735acbffbc.description"
+msgid "Reach UK FTSE 100, FTSE 250 and equivalent private firms four times a year."
+msgstr ""
+
+msgctxt "benefit_items.3fcea512-6c8e-434e-b935-6a64d830dc80.title"
+msgid "Results within six weeks"
+msgstr ""
+
+msgctxt "benefit_items.3fcea512-6c8e-434e-b935-6a64d830dc80.description"
+msgid "Conducted by telephone with results delivered within six weeks."
+msgstr ""
+
+msgctxt "rates_table_header.6e0fb097-fbf4-4dd8-bbc2-1909592c88c4.column_2"
+msgid "Respondents"
+msgstr ""
+
+msgctxt "rates_table_header.6e0fb097-fbf4-4dd8-bbc2-1909592c88c4.column_3"
+msgid "Entry"
+msgstr ""
+
+msgctxt "rates_table_header.6e0fb097-fbf4-4dd8-bbc2-1909592c88c4.column_4"
+msgid "Standard question"
+msgstr ""
+
+msgctxt "rates_table_rows.82003344-f55a-43ea-866c-bed3b3797102.column_1"
+msgid "Blue-Chip C-Suite Executive Directors"
+msgstr ""
+
+msgctxt "rates_table_rows.82003344-f55a-43ea-866c-bed3b3797102.column_2"
+msgid "100"
+msgstr ""
+
+msgctxt "rates_table_rows.82003344-f55a-43ea-866c-bed3b3797102.column_3"
+msgid "£350"
+msgstr ""
+
+msgctxt "rates_table_rows.82003344-f55a-43ea-866c-bed3b3797102.column_4"
+msgid "£2,450"
+msgstr ""

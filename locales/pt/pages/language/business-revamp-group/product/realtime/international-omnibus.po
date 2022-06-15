@@ -1,0 +1,155 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:39.389723+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 551da59e-1e72-460a-92c5-62af361d09e0\n"
+
+msgctxt "title"
+msgid "International Omnibus"
+msgstr ""
+
+msgctxt "slug"
+msgid "international-omnibus"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "International Omnibus"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Why YouGov?"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "International Omnibus"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Reach a global audience with representative or targeted research samples in over 70 markets. Boost your business with the most reliable and accurate research."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "rates_title"
+msgid "International Omnibus details"
+msgstr ""
+
+msgctxt "rates_description"
+msgid "<b>Full-service support</b>, including survey design and advice, plus multi-market project co-ordination."
+msgstr ""
+
+msgctxt "benefit_items.97c510dc-3db7-43e8-b6c3-655c8f3a53ad.title"
+msgid "Global reach"
+msgstr ""
+
+msgctxt "benefit_items.97c510dc-3db7-43e8-b6c3-655c8f3a53ad.description"
+msgid "Research representative samples, or target regional and niche audiences from across the world."
+msgstr ""
+
+msgctxt "benefit_items.1eb08f9b-c17f-41b5-bf38-adaabf05ac6d.title"
+msgid "Full support"
+msgstr ""
+
+msgctxt "benefit_items.1eb08f9b-c17f-41b5-bf38-adaabf05ac6d.description"
+msgid "Your researcher will handle your whole project, including survey design, translations, fieldwork and results."
+msgstr ""
+
+msgctxt "benefit_items.58365e57-8b48-45d4-a4be-54f8cf1ed0f5.title"
+msgid "Fast results"
+msgstr ""
+
+msgctxt "benefit_items.58365e57-8b48-45d4-a4be-54f8cf1ed0f5.description"
+msgid "We can deliver your multi-market insights within two weeks, often a lot sooner."
+msgstr ""
+
+msgctxt "rates_table_header.f61f7bfe-5ae0-4fbd-9625-7b53211d6d89.column_1"
+msgid "Market Location"
+msgstr ""
+
+msgctxt "rates_table_header.f61f7bfe-5ae0-4fbd-9625-7b53211d6d89.column_2"
+msgid "Timings"
+msgstr ""
+
+msgctxt "rates_table_header.f61f7bfe-5ae0-4fbd-9625-7b53211d6d89.column_3"
+msgid "Typical sample size (one wave)"
+msgstr ""
+
+msgctxt "rates_table_rows.df0a660a-df8a-4c3d-b793-ff225029e83a.column_1"
+msgid "Western Europe"
+msgstr ""
+
+msgctxt "rates_table_rows.df0a660a-df8a-4c3d-b793-ff225029e83a.column_2"
+msgid "c. 1 week or less"
+msgstr ""
+
+msgctxt "rates_table_rows.df0a660a-df8a-4c3d-b793-ff225029e83a.column_3"
+msgid "1,000/2,000 aged 18+ (16+ available in GB)"
+msgstr ""
+
+msgctxt "rates_table_rows.33ac9bac-2727-4c92-a85c-69c4161101ba.column_1"
+msgid "Rest of Europe"
+msgstr ""
+
+msgctxt "rates_table_rows.33ac9bac-2727-4c92-a85c-69c4161101ba.column_2"
+msgid "c. 1-15 weeks"
+msgstr ""
+
+msgctxt "rates_table_rows.33ac9bac-2727-4c92-a85c-69c4161101ba.column_3"
+msgid "Up to 1,000 aged 18+"
+msgstr ""
+
+msgctxt "rates_table_rows.a9ab287a-4c50-4406-8830-4090b0a4caa4.column_1"
+msgid "North America"
+msgstr ""
+
+msgctxt "rates_table_rows.a9ab287a-4c50-4406-8830-4090b0a4caa4.column_2"
+msgid "c. 1 week or less"
+msgstr ""
+
+msgctxt "rates_table_rows.a9ab287a-4c50-4406-8830-4090b0a4caa4.column_3"
+msgid "1,000/2,000 aged 18+"
+msgstr ""
+
+msgctxt "rates_table_rows.58b7eda8-a56f-4557-9ae7-3fbe3d314fa1.column_1"
+msgid "Middle East"
+msgstr ""
+
+msgctxt "rates_table_rows.58b7eda8-a56f-4557-9ae7-3fbe3d314fa1.column_2"
+msgid "c. 1.5 weeks"
+msgstr ""
+
+msgctxt "rates_table_rows.58b7eda8-a56f-4557-9ae7-3fbe3d314fa1.column_3"
+msgid "Up to 1,000 aged 18+"
+msgstr ""
+
+msgctxt "rates_table_rows.636a0d19-61a4-46b2-825f-a27c2f800afc.column_1"
+msgid "Asia-Pacific"
+msgstr ""
+
+msgctxt "rates_table_rows.636a0d19-61a4-46b2-825f-a27c2f800afc.column_2"
+msgid "c. 1 - 1.5 weeks"
+msgstr ""
+
+msgctxt "rates_table_rows.636a0d19-61a4-46b2-825f-a27c2f800afc.column_3"
+msgid "1,000 aged 18+"
+msgstr ""
+
+msgctxt "rates_table_rows.e511e62a-1e30-4b60-b3b1-8647d6a5a335.column_1"
+msgid "Rest of the world"
+msgstr ""
+
+msgctxt "rates_table_rows.e511e62a-1e30-4b60-b3b1-8647d6a5a335.column_2"
+msgid "c. 1 - 2 weeks"
+msgstr ""
+
+msgctxt "rates_table_rows.e511e62a-1e30-4b60-b3b1-8647d6a5a335.column_3"
+msgid "Up to 1,000 aged 18+"
+msgstr ""

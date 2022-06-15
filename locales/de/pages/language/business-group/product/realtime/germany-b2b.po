@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:29.217921+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 06b6aa26-b43a-42d9-b817-f35ac42739c7\n"
+
+msgctxt "title"
+msgid "Germany B2B"
+msgstr ""
+
+msgctxt "slug"
+msgid "germany-b2b"
+msgstr "deutschland-b2b"
+
+msgctxt "hero_title"
+msgid "Germany B2B"
+msgstr ""

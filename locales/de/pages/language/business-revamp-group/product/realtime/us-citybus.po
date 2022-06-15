@@ -1,0 +1,109 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:33.518409+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 491a4ab6-4712-4936-b357-2bfa3431fefc\n"
+
+msgctxt "title"
+msgid "US CityBus"
+msgstr ""
+
+msgctxt "slug"
+msgid "us-citybus"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "US CityBus"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Why YouGov?"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "US CityBus"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Get accurate, fast, and insightful results from residents in over 40 US and international cities. CityBuses are ideal for cost-effectively reaching out to adults in 40+ major US and international "
+"cities, quickly measuring campaign effectiveness, and accurately gauging time-sensitive public opinion on breaking news stories."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "rates_title"
+msgid "CityBus rates"
+msgstr ""
+
+msgctxt "rates_description"
+msgid "Including survey design, full-service support, and full results analysis. Reach your target group and get the answers you need."
+msgstr ""
+
+msgctxt "benefit_items.0274d48c-2564-4574-8e6d-08fd6b727dff.title"
+msgid "Representative sample"
+msgstr ""
+
+msgctxt "benefit_items.0274d48c-2564-4574-8e6d-08fd6b727dff.description"
+msgid "Target a representative sample of adults 18+ from over 40 US and international cities."
+msgstr ""
+
+msgctxt "benefit_items.c03d53f3-998c-4724-bed0-aaf728640291.title"
+msgid "Frequent surveys"
+msgstr ""
+
+msgctxt "benefit_items.c03d53f3-998c-4724-bed0-aaf728640291.description"
+msgid "Launch surveys on any business day."
+msgstr ""
+
+msgctxt "benefit_items.aaca09ab-288d-4721-8fa4-866d98a6f117.title"
+msgid "Fast results"
+msgstr ""
+
+msgctxt "benefit_items.aaca09ab-288d-4721-8fa4-866d98a6f117.description"
+msgid "Receive results within five to seven business days."
+msgstr ""
+
+msgctxt "rates_table_header.4553feb5-8249-4be5-b2a4-93cea800e4bc.column_2"
+msgid "Respondents"
+msgstr ""
+
+msgctxt "rates_table_header.4553feb5-8249-4be5-b2a4-93cea800e4bc.column_3"
+msgid "Entry"
+msgstr ""
+
+msgctxt "rates_table_header.4553feb5-8249-4be5-b2a4-93cea800e4bc.column_4"
+msgid "Standard question"
+msgstr ""
+
+msgctxt "rates_table_header.4553feb5-8249-4be5-b2a4-93cea800e4bc.column_5"
+msgid "Results"
+msgstr ""
+
+msgctxt "rates_table_rows.c3424f5b-0a00-4e62-8093-a0d6d9a56ab5.column_1"
+msgid "CityBus"
+msgstr ""
+
+msgctxt "rates_table_rows.c3424f5b-0a00-4e62-8093-a0d6d9a56ab5.column_2"
+msgid "Varies by market"
+msgstr ""
+
+msgctxt "rates_table_rows.c3424f5b-0a00-4e62-8093-a0d6d9a56ab5.column_3"
+msgid "$300"
+msgstr ""
+
+msgctxt "rates_table_rows.c3424f5b-0a00-4e62-8093-a0d6d9a56ab5.column_4"
+msgid "$600-$975 (sample size dependent)"
+msgstr ""
+
+msgctxt "rates_table_rows.c3424f5b-0a00-4e62-8093-a0d6d9a56ab5.column_5"
+msgid "5-7 business days"
+msgstr ""

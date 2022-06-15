@@ -1,0 +1,101 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:39.248814+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: ee2bf8cc-45a7-41af-9c41-9713f9b6ebaf\n"
+
+msgctxt "title"
+msgid "Test creatives, concepts and campaigns with YouGov Direct"
+msgstr ""
+
+msgctxt "slug"
+msgid "test-yougov-direct-webinar-on-demand"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Test creatives, concepts and campaigns with YouGov Direct"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Webinar on-demand hosted by YouGov Direct expert Federica Saletta, Client Services Manager"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Test creatives, concepts and campaigns with YouGov Direct"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Webinar on-demand"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Webinar on-demand hosted by YouGov Direct expert Federica Saletta, Client Services Manager"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=request"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Watch now"
+msgstr ""
+
+msgctxt "video_items.7191376d-391e-4549-b71d-e992f18cae59"
+msgid "Watch the webinar on-demand to learn how to:"
+msgstr ""
+
+msgctxt "video_items.7191376d-391e-4549-b71d-e992f18cae59"
+msgid "Run a test in minutes, with results in as quick as one hour"
+msgstr ""
+
+msgctxt "video_items.7191376d-391e-4549-b71d-e992f18cae59"
+msgid "Personalise templates with your brand, industry, and creative or concept"
+msgstr ""
+
+msgctxt "video_items.7191376d-391e-4549-b71d-e992f18cae59"
+msgid "Measure performance against your sector with benchmarking"
+msgstr ""
+
+msgctxt "video_items.7191376d-391e-4549-b71d-e992f18cae59"
+msgid "Create an interactive dashboard to highlight key insights"
+msgstr ""
+
+msgctxt "video_items.7191376d-391e-4549-b71d-e992f18cae59"
+msgid "Track click-through rates to see the real impact of your creative, concept or campaign"
+msgstr ""
+
+msgctxt "video_items.7191376d-391e-4549-b71d-e992f18cae59"
+msgid "<a id=\"a1\">Watch now</a>"
+msgstr ""
+
+msgctxt "video_items.7ab32336-4a9c-4a92-a63e-9a9c13c554a7"
+msgid "24/7 self-service research with exceptional speed"
+msgstr ""
+
+msgctxt "video_items.194f80c7-e0b2-4d89-94b3-c0e2dbfecc4c"
+msgid ""
+"The perfect tool for delivering your research with exceptional speed. Survey an engaged, fully opted-in panel for rapid audience intelligence as well as testing concepts, creative and more to "
+"understand consumer attitudes."
+msgstr ""
+
+msgctxt "video_items.194f80c7-e0b2-4d89-94b3-c0e2dbfecc4c"
+msgid "Build your survey in our self-service platform and start seeing results within minutes, enabling you to make fast, data-informed business decisions and ensure maximum impact."
+msgstr ""
+
+msgctxt "video_items.bdda2837-78dd-4051-84cf-bc50e9576c53.main_cta_text"
+msgid "Find out more"
+msgstr ""
+
+msgctxt "video_items.bdda2837-78dd-4051-84cf-bc50e9576c53.main_cta_url"
+msgid "https://business.yougov.com/product/direct"
+msgstr ""
+
+msgctxt "video_items.bdda2837-78dd-4051-84cf-bc50e9576c53.secondary_cta_text"
+msgid "Start your survey"
+msgstr ""
+
+msgctxt "video_items.bdda2837-78dd-4051-84cf-bc50e9576c53.secondary_cta_url"
+msgid "https://direct.yougov.com/client/home"
+msgstr ""

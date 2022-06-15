@@ -1,0 +1,184 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:39.526606+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Custom Research"
+msgstr ""
+
+msgctxt "slug"
+msgid "custom-research"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Custom Research: Bespoke Market Intelligence"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Get custom research tailored to your needs with YouGov’s Custom Research. Access unique data  optimized to solve your problems."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "BENEFITS"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Unique data solutions you can rely on"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Custom Research"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Bespoke market research and intelligence"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Full end-to-end service from YouGov experts, from sample framing to questionnaire design, analysis, and presentations. Combine the most accurate data with market-leading technology and expertise. "
+"Inform your strategy with deep dive research and customized data insights."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "/product/custom-research/?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Speak to an expert"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our connected solutions"
+msgstr ""
+
+msgctxt "case_studies_title"
+msgid "Why YouGov?"
+msgstr ""
+
+msgctxt "case_studies_label"
+msgid "CASE STUDIES"
+msgstr ""
+
+msgctxt "case_studies_description"
+msgid "You're in good company. Join the top brands that use our Custom Research solution."
+msgstr ""
+
+msgctxt "benefit_items.47893a72-b95b-43ea-a4f4-3c68e63b716a.title"
+msgid "Global reach"
+msgstr ""
+
+msgctxt "benefit_items.47893a72-b95b-43ea-a4f4-3c68e63b716a.description"
+msgid "Target hard-to-reach audiences in multiple markets with our proprietary panel of 17million+ registered members."
+msgstr ""
+
+msgctxt "benefit_items.c9df9763-f13d-4f13-8939-fc90ecf316c8.title"
+msgid "Accuracy"
+msgstr ""
+
+msgctxt "benefit_items.c9df9763-f13d-4f13-8939-fc90ecf316c8.description"
+msgid "YouGov “consistently outperforms competitors on accuracy.” We're trusted by the world’s biggest brands to get it right."
+msgstr ""
+
+msgctxt "benefit_items.412eb626-8459-4b27-a054-10fa4c8f28ad.title"
+msgid "Unique results"
+msgstr ""
+
+msgctxt "benefit_items.412eb626-8459-4b27-a054-10fa4c8f28ad.description"
+msgid "Receive custom reports designed by experts, tailored to your needs."
+msgstr ""
+
+msgctxt "content_image_items.77553adf-03a1-458f-b8da-fa5b082cfb47.title"
+msgid "Flexible to your needs"
+msgstr ""
+
+msgctxt "content_image_items.77553adf-03a1-458f-b8da-fa5b082cfb47.description"
+msgid ""
+"Our specialists analyze your request and find the most accurate, cost-effective way to reach the data you need, fast. Get industry and sub-sector specific advice from our experts in research "
+"methodology."
+msgstr ""
+
+msgctxt "content_image_items.77553adf-03a1-458f-b8da-fa5b082cfb47.description"
+msgid "YouGov Custom Research is part of an ever-growing source of constantly evolving, connected intelligence. We call it living data."
+msgstr ""
+
+msgctxt "content_image_items.77553adf-03a1-458f-b8da-fa5b082cfb47.description"
+msgid ""
+"Explore with Custom Research, then easily connect to YouGov's other solutions; <a id=\"a1\"><b>Plan</b></a> your strategy, <a id=\"a2\"><b>Activate</b></a> campaigns, <a id=\"a3\"><b>Track</b></a> "
+"brand health and more."
+msgstr ""
+
+msgctxt "content_image_items.77553adf-03a1-458f-b8da-fa5b082cfb47.description"
+msgid "Access advanced analytics and your unique results on our innovative platform, <a id=\"a1\"><b>YouGov Crunch</b></a>, or receive custom reports designed by our team."
+msgstr ""
+
+msgctxt "content_image_items.07160cb8-66cf-42a5-a8dc-69e219c1f527.title"
+msgid "Select your research solution"
+msgstr ""
+
+msgctxt "content_image_items.07160cb8-66cf-42a5-a8dc-69e219c1f527.description"
+msgid "Quantitative research (ad hoc and tracking)"
+msgstr ""
+
+msgctxt "content_image_items.07160cb8-66cf-42a5-a8dc-69e219c1f527.description"
+msgid "Qualitative research (in-person and online)"
+msgstr ""
+
+msgctxt "content_image_items.07160cb8-66cf-42a5-a8dc-69e219c1f527.description"
+msgid "Custom trackers"
+msgstr ""
+
+msgctxt "content_image_items.07160cb8-66cf-42a5-a8dc-69e219c1f527.description"
+msgid "Key driver analysis"
+msgstr ""
+
+msgctxt "content_image_items.07160cb8-66cf-42a5-a8dc-69e219c1f527.description"
+msgid "Dynamic segmentation"
+msgstr ""
+
+msgctxt "content_image_items.07160cb8-66cf-42a5-a8dc-69e219c1f527.description"
+msgid "Journey mapping and market flows"
+msgstr ""
+
+msgctxt "content_image_items.07160cb8-66cf-42a5-a8dc-69e219c1f527.description"
+msgid "Visual storytelling"
+msgstr ""
+
+msgctxt "content_image_items.07160cb8-66cf-42a5-a8dc-69e219c1f527.description"
+msgid "Advanced analytics"
+msgstr ""
+
+msgctxt "content_image_items.e6f06ba6-24c5-4f9c-8b20-8444ac6adf04.title"
+msgid "Get sector and industry expertise in:"
+msgstr ""
+
+msgctxt "content_image_items.e6f06ba6-24c5-4f9c-8b20-8444ac6adf04.description"
+msgid "Market opportunity"
+msgstr ""
+
+msgctxt "content_image_items.e6f06ba6-24c5-4f9c-8b20-8444ac6adf04.description"
+msgid "Brand positioning"
+msgstr ""
+
+msgctxt "content_image_items.e6f06ba6-24c5-4f9c-8b20-8444ac6adf04.description"
+msgid "Comms evaluation"
+msgstr ""
+
+msgctxt "content_image_items.e6f06ba6-24c5-4f9c-8b20-8444ac6adf04.description"
+msgid "Product development"
+msgstr ""
+
+msgctxt "content_image_items.e6f06ba6-24c5-4f9c-8b20-8444ac6adf04.description"
+msgid "Customer tracking"
+msgstr ""
+
+msgctxt "content_image_items.e6f06ba6-24c5-4f9c-8b20-8444ac6adf04.description"
+msgid "Brand health"
+msgstr ""

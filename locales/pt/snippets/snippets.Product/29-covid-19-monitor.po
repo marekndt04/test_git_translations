@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:40.531923+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 14217b45-b516-491c-9dfb-e84c2bc9e5f8\n"
+
+msgctxt "title"
+msgid "COVID-19 Monitor"
+msgstr ""
+
+msgctxt "description"
+msgid "See how COVID-19 impacts your business."
+msgstr ""
+
+msgctxt "url"
+msgid "/product/covid-19/"
+msgstr ""

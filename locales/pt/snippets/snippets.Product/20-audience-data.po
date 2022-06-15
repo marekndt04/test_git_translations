@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:39.636824+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 2ee58ad0-ebbc-497e-a9c0-cb3d1981aa5b\n"
+
+msgctxt "title"
+msgid "Audience Data"
+msgstr ""
+
+msgctxt "description"
+msgid "Meet objectives with addressable audiences made available for ad targeting."
+msgstr ""
+
+msgctxt "url"
+msgid "/product/audience-data/"
+msgstr ""

@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:40.818581+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 1df034ad-5c2c-4d9d-abc3-a936f1f809d0\n"
+
+msgctxt "title"
+msgid "Video Gaming &amp; Esports"
+msgstr ""
+
+msgctxt "description"
+msgid "Game-changing market intelligence and research."
+msgstr ""
+
+msgctxt "url"
+msgid "/sectors/gaming-esports/"
+msgstr ""

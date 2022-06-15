@@ -1,0 +1,107 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:38.831856+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 9d176296-8b09-464d-8bd3-be54cc4a60a0\n"
+
+msgctxt "title"
+msgid "Identify Audiences"
+msgstr ""
+
+msgctxt "slug"
+msgid "identify"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Identify and Define Audiences"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Identify your target audience to build rich portraits of their lives and attitudes and build audience funnels with YouGov solutions."
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Identify Your Audience"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Pinpoint your audience with unrivalled precision"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Put your customers at the centre of your brand. Powered by 20 years of Living Consumer Intelligence, our living data tools give you the flexibility to quickly define and refine your target audience "
+"with unrivalled precision, or explore deeper, bespoke insights with custom research tailored to your specific requirements."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our audience profiling solutions"
+msgstr ""
+
+msgctxt "content_image_items.be244dce-94ba-470a-965d-71a8d1b40f09.title"
+msgid "High level audience identification"
+msgstr ""
+
+msgctxt "content_image_items.be244dce-94ba-470a-965d-71a8d1b40f09.description"
+msgid "With <a id=\"a1\"><b>YouGov’s</b> <b>Audience Explorer</b></a>, it’s easy to discover what makes your audience unique."
+msgstr ""
+
+msgctxt "content_image_items.be244dce-94ba-470a-965d-71a8d1b40f09.description"
+msgid "Quickly build your audience using our wide range of attributes, unlocking powerful insights on media consumption, lifestyle preferences, hobbies and interests, advertising attitudes, and more."
+msgstr ""
+
+msgctxt "content_image_items.be244dce-94ba-470a-965d-71a8d1b40f09.description"
+msgid "All from one free, simple platform, in a PowerPoint-ready visual format that can be shared instantly."
+msgstr ""
+
+msgctxt "content_image_items.a3db070c-8e14-4446-be9c-6c4ebf249d0f.title"
+msgid "Identify your audience in depth"
+msgstr ""
+
+msgctxt "content_image_items.a3db070c-8e14-4446-be9c-6c4ebf249d0f.description"
+msgid ""
+"With nearly 2 billion global consumer data points, refreshed every week, YouGov’s advanced audience intelligence platform <a id=\"a1\"><b>YouGov Profiles</b></a> informs your strategic initiatives "
+"with the data you need to make a difference."
+msgstr ""
+
+msgctxt "content_image_items.a3db070c-8e14-4446-be9c-6c4ebf249d0f.description"
+msgid ""
+"Pick from nearly <b>2 billion</b> global consumer data points, refreshed every week, including brand usage and perception, current events and topics, media and social media consumption, and hobbies "
+"and interests."
+msgstr ""
+
+msgctxt "content_image_items.a3db070c-8e14-4446-be9c-6c4ebf249d0f.description"
+msgid ""
+"Whether it’s for business planning, media planning, or product, brand and marketing strategies, our clients use YouGov’s living data to deep-dive into their audience, enabling effective consumer "
+"outreach."
+msgstr ""
+
+msgctxt "content_image_items.6fda48b2-2e61-4ed2-8996-3297cbedecd9.title"
+msgid "Custom research for bespoke needs"
+msgstr ""
+
+msgctxt "content_image_items.6fda48b2-2e61-4ed2-8996-3297cbedecd9.description"
+msgid "Conduct 100% <a id=\"a1\"><b>Custom</b> <b>Research</b></a> for the most accurate and reliable consumer intelligence."
+msgstr ""
+
+msgctxt "content_image_items.6fda48b2-2e61-4ed2-8996-3297cbedecd9.description"
+msgid "Our team of specialist researchers provide end-to-end support, working with you to understand your unique requirements and deliver bespoke custom research for your audience."
+msgstr ""
+
+msgctxt "content_image_items.6fda48b2-2e61-4ed2-8996-3297cbedecd9.description"
+msgid "Tell us what you’re looking for, and we’ll deliver the intelligence you need."
+msgstr ""

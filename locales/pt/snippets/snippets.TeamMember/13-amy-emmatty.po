@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:40.606944+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 114f31c1-5251-4d6f-8caf-adf523514b5f\n"
+
+msgctxt "name"
+msgid "Amy Emmatty"
+msgstr ""

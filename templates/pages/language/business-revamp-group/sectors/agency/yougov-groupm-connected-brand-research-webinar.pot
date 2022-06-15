@@ -1,0 +1,66 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:42.076137+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "YouGov x GroupM Webinar"
+msgstr ""
+
+msgctxt "slug"
+msgid "yougov-groupm-connected-brand-research-webinar"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Webinar: Connected Brand Research"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Connected Brand Research"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "On-demand Webinar:"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "This exclusive webinar explores how the latest developments in martech are fuelling research by enabling YouGov to track digital behaviour from behind walled gardens like Google and Amazon."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/sectors/agency/yougov-groupm-connected-brand-research-webinar?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Get in touch"
+msgstr ""
+
+msgctxt "video_items.0dda405d-0b6f-4630-aada-60dba906558d"
+msgid "Exploring the key challenges facing agencies today:"
+msgstr ""
+
+msgctxt "video_items.0dda405d-0b6f-4630-aada-60dba906558d"
+msgid "Claimed data doesn’t always correlate with actual digital behaviour"
+msgstr ""
+
+msgctxt "video_items.0dda405d-0b6f-4630-aada-60dba906558d"
+msgid "Consumer brand perceptions change throughout the purchase funnel"
+msgstr ""
+
+msgctxt "video_items.0dda405d-0b6f-4630-aada-60dba906558d"
+msgid "Using a case study featuring RBS, YouGov demonstrates how our connected data allows agencies to address these challenges."
+msgstr ""
+
+msgctxt "video_items.0dda405d-0b6f-4630-aada-60dba906558d"
+msgid "The solution is underpinned by YouGov BrandIndex, our global brand tracking tool, and our new product, YouGov Safe, which allows us to track <b>real cross-device online behavioural data</b>."
+msgstr ""
+
+msgctxt "video_items.0dda405d-0b6f-4630-aada-60dba906558d"
+msgid "This webinar is designed to showcase the versatility of BrandIndex, as well as to highlight how our connected solution can help you unlock a whole new world of understanding."
+msgstr ""
+
+msgctxt "video_items.e556a2aa-9432-44f8-9253-15882a24c400.video_id"
+msgid "gQtKBnN59oE"
+msgstr ""

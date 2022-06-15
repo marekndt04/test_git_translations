@@ -1,0 +1,111 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:37.303160+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 4be7524d-5951-4326-af21-f38fccaf6f05\n"
+
+msgctxt "title"
+msgid "Custom Trackers"
+msgstr ""
+
+msgctxt "slug"
+msgid "custom-trackers"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Custom Trackers:  Real time Bespoke Tracking"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Custom research trackers offer dynamic and integrated performance monitoring to get continuous, reliable insights with bespoke data  delivered by  our experts."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "BENEFITS"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Unlock your competitive advantage"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Custom Trackers"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Dynamic, integrated performance monitoring"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Stay one step ahead. Analyze your brand and benchmark against your competitors by adding on custom ‘why’ questions to our continuous tracking to interpret data with accurate context. Get bespoke and"
+" comprehensive data, designed and delivered by our research experts using re-contact-based methodology."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our research solutions"
+msgstr ""
+
+msgctxt "benefit_items.9b71c1a3-1329-4590-9ecd-0b6a5ad94ffe.title"
+msgid "Consumer-led"
+msgstr ""
+
+msgctxt "benefit_items.9b71c1a3-1329-4590-9ecd-0b6a5ad94ffe.description"
+msgid "Make decisions grounded by responses from your target audience and the wider market."
+msgstr ""
+
+msgctxt "benefit_items.6e01b4b7-9c47-4394-ab00-8db63e976fde.title"
+msgid "Insight driven"
+msgstr ""
+
+msgctxt "benefit_items.6e01b4b7-9c47-4394-ab00-8db63e976fde.description"
+msgid "Drive investments with a highly tuned understanding of your brand and competitive advantage."
+msgstr ""
+
+msgctxt "benefit_items.a834e008-ca50-40b3-8988-76bf7d8b1972.title"
+msgid "Living data"
+msgstr ""
+
+msgctxt "benefit_items.a834e008-ca50-40b3-8988-76bf7d8b1972.description"
+msgid "React fast with robust, dynamic research augmented by the world’s biggest connected dataset."
+msgstr ""
+
+msgctxt "content_image_items.dbca8f2a-e1c4-4bc1-bf32-be315816c2c3.title"
+msgid "Brand health and reputation tracking"
+msgstr ""
+
+msgctxt "content_image_items.dbca8f2a-e1c4-4bc1-bf32-be315816c2c3.description"
+msgid "Monitor your brand and competitors with best-in-class intelligence. Supplement regular tracking with bespoke focused modules to dive deeper into key brand drivers."
+msgstr ""
+
+msgctxt "content_image_items.23a9c4db-2a60-4b0a-99a7-5750d9d32882.title"
+msgid "Campaign effectiveness tracking"
+msgstr ""
+
+msgctxt "content_image_items.23a9c4db-2a60-4b0a-99a7-5750d9d32882.description"
+msgid "Measure campaign effectiveness with multiple solutions – from emotional response to multi-channel brand and ad perception. Transform your communication strategy and inform channel investment."
+msgstr ""
+
+msgctxt "content_image_items.04e43166-911f-4bfc-8eba-4b58da8d33fd.title"
+msgid "Satisfaction tracking"
+msgstr ""
+
+msgctxt "content_image_items.04e43166-911f-4bfc-8eba-4b58da8d33fd.description"
+msgid ""
+"Identify and diagnose the true pain points of customer experience. Enhance customer advocacy at overall relationship and transactional levels. Get ahead of your competitors with market-wide "
+"performance measurement."
+msgstr ""

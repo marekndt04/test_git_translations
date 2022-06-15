@@ -1,0 +1,124 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:36.047927+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 255cf1e2-6e5d-4046-8221-c9dfd18ff20c\n"
+
+msgctxt "title"
+msgid "Purchase Funnel Diagnostics"
+msgstr ""
+
+msgctxt "slug"
+msgid "purchase-funnel"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Purchase Funnel Diagnostics"
+msgstr ""
+
+msgctxt "search_description"
+msgid ""
+"Understand the changing relationship of consumers with your sector and your brands over time. Unlock consumer insights, from frequency and reasons for purchasing to brand awareness, usage and "
+"relationship."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "BENEFITS"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Quality data"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Purchase Funnel Diagnostics"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Dynamic, end-to-end consumer journey targeting"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Reach consumers at the best possible time – in the middle of their journey. Purchase Funnel Diagnostics forms part of YouGov Consumer Journey Diagnostics, a cost-effective and time-efficient "
+"templated research approach. Unlock the customer buying journey to understand key market entry points, brand differentiation and share of mind."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our connected living data solutions"
+msgstr ""
+
+msgctxt "benefit_items.153186ed-7e9f-4520-9af0-10111520e0ad.title"
+msgid "Sampling efficiency"
+msgstr ""
+
+msgctxt "benefit_items.153186ed-7e9f-4520-9af0-10111520e0ad.description"
+msgid "Access a representative sample of customers, delivering engaged respondents."
+msgstr ""
+
+msgctxt "benefit_items.a0d7161f-681a-4b4d-8736-f46bafa5fa97.title"
+msgid "Dynamic samples"
+msgstr ""
+
+msgctxt "benefit_items.a0d7161f-681a-4b4d-8736-f46bafa5fa97.description"
+msgid "Choose from brand specific or sector specific sampling."
+msgstr ""
+
+msgctxt "benefit_items.28030f1d-07b3-42e5-81b8-52de67b5ae65.title"
+msgid "Any frequency, any time"
+msgstr ""
+
+msgctxt "benefit_items.28030f1d-07b3-42e5-81b8-52de67b5ae65.description"
+msgid "Commissioned on an ad-hoc basis or set to repeat for regular tracking."
+msgstr ""
+
+msgctxt "benefit_items.439e0fc0-5d28-4bf4-9faa-5eef3c4fc7ae.title"
+msgid "Tracking methodology"
+msgstr ""
+
+msgctxt "benefit_items.439e0fc0-5d28-4bf4-9faa-5eef3c4fc7ae.description"
+msgid "Re-contact audiences with focused surveys, powered by our daily tracking tool – YouGov BrandIndex."
+msgstr ""
+
+msgctxt "benefit_items.28181d41-b48c-473f-a7a8-a7f7598a3f4d.title"
+msgid "Customizable"
+msgstr ""
+
+msgctxt "benefit_items.28181d41-b48c-473f-a7a8-a7f7598a3f4d.description"
+msgid "Add your own open or closed questions to the survey."
+msgstr ""
+
+msgctxt "benefit_items.5db67116-6215-4967-8046-e4584ac32ab9.title"
+msgid "Data analysis"
+msgstr ""
+
+msgctxt "benefit_items.5db67116-6215-4967-8046-e4584ac32ab9.description"
+msgid "Analyze your data via a templated dashboard or commission a bespoke report for additional diagnostic power."
+msgstr ""
+
+msgctxt "content_image_items.2fa00992-69e4-45a6-84b1-bd07d42418f5.title"
+msgid "Complete funnel visibility"
+msgstr ""
+
+msgctxt "content_image_items.2fa00992-69e4-45a6-84b1-bd07d42418f5.description"
+msgid ""
+"Learn where the purchase funnel starts for your consumers, discover the relationship between brand and category behaviours, and communicate at key points in the purchase funnel to increase sales."
+msgstr ""
+
+msgctxt "content_image_items.2fa00992-69e4-45a6-84b1-bd07d42418f5.description"
+msgid "Our approach to measuring the customer journey, with an unparalleled historical depth of data, will help you understand the purchase funnel for your sector and brand."
+msgstr ""

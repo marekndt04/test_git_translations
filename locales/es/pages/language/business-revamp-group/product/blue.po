@@ -1,0 +1,131 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:37.417236+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 7783f306-1737-4ebb-b739-09d707f6638b\n"
+
+msgctxt "title"
+msgid "YouGov Blue"
+msgstr ""
+
+msgctxt "slug"
+msgid "blue"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Blue: Democratic Political Research"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Custom research for progressive and Democratic clients with YouGov Blue, staffed with experts from politics, survey research, and academia."
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Why YouGov Blue?"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "YouGov Blue"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Experts in political knowledge"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Staffed with experts from politics, survey research, and academia, <b>YouGov Blue</b> is a custom research division for progressive and Democratic clients who are interested in using the YouGov "
+"panel."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/product/blue/?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our connected living data solutions"
+msgstr ""
+
+msgctxt "benefit_items.f08854d2-9073-4ba1-9467-90c676137509.title"
+msgid "State-of-the-art"
+msgstr ""
+
+msgctxt "benefit_items.f08854d2-9073-4ba1-9467-90c676137509.description"
+msgid "We combine survey methodology and analytics with our unique highly-profiled online panel to answer your questions."
+msgstr ""
+
+msgctxt "benefit_items.4068739d-f145-471e-ba7d-0ecb9313774b.title"
+msgid "Experts in the field"
+msgstr ""
+
+msgctxt "benefit_items.4068739d-f145-471e-ba7d-0ecb9313774b.description"
+msgid "Committed to solving your challenges, our experts design research for large and small organizations."
+msgstr ""
+
+msgctxt "benefit_items.c007b6a3-3bd9-45a5-a55b-0e3b4fdb823d.title"
+msgid "Adaptable to your needs"
+msgstr ""
+
+msgctxt "benefit_items.c007b6a3-3bd9-45a5-a55b-0e3b4fdb823d.description"
+msgid "Research design and execution to meet your needs and budget."
+msgstr ""
+
+msgctxt "content_image_items.d7b607b5-5ee7-4b16-b2a3-38f233321e2a.title"
+msgid "Pioneering political intelligence"
+msgstr ""
+
+msgctxt "content_image_items.d7b607b5-5ee7-4b16-b2a3-38f233321e2a.description"
+msgid "YouGov Blue serves Democratic and progressive clients in the US. We work with think tanks, interest groups, unions, candidates, and analytics and polling firms."
+msgstr ""
+
+msgctxt "content_image_items.d7b607b5-5ee7-4b16-b2a3-38f233321e2a.description"
+msgid "Leverage YouGov’s panels, methodology, and technology infrastructure – including online survey tools, polling experience, and digital environment – to achieve your goals."
+msgstr ""
+
+msgctxt "content_image_items.d7b607b5-5ee7-4b16-b2a3-38f233321e2a.description"
+msgid "Gain key insights from our comprehensive research services, including questionnaire design, sampling design, survey fielding, weighting, reporting, and analysis."
+msgstr ""
+
+msgctxt "content_image_items.4625c65c-a9d2-4d26-ba8c-b13f4ed5f363.title"
+msgid "Enhanced survey analysis"
+msgstr ""
+
+msgctxt "content_image_items.4625c65c-a9d2-4d26-ba8c-b13f4ed5f363.description"
+msgid ""
+"We are matched to the major <b>voter files</b> and have expertise in using voter files to enhance survey analysis. Our team combines <b>academic</b> and <b>political experience</b> to ensure "
+"<b>methodological rigor</b>, while meeting the needs of our clients. We specialize in:"
+msgstr ""
+
+msgctxt "content_image_items.4625c65c-a9d2-4d26-ba8c-b13f4ed5f363.description"
+msgid "Innovative online survey techniques"
+msgstr ""
+
+msgctxt "content_image_items.4625c65c-a9d2-4d26-ba8c-b13f4ed5f363.description"
+msgid "Policy and candidate polling"
+msgstr ""
+
+msgctxt "content_image_items.4625c65c-a9d2-4d26-ba8c-b13f4ed5f363.description"
+msgid "Message and ad testing"
+msgstr ""
+
+msgctxt "content_image_items.4625c65c-a9d2-4d26-ba8c-b13f4ed5f363.description"
+msgid "Voter-file matched surveys"
+msgstr ""
+
+msgctxt "content_image_items.4625c65c-a9d2-4d26-ba8c-b13f4ed5f363.description"
+msgid "Online sampling and weighting"
+msgstr ""
+
+msgctxt "content_image_items.4625c65c-a9d2-4d26-ba8c-b13f4ed5f363.description"
+msgid "Survey analysis"
+msgstr ""

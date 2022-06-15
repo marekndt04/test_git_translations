@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:37.792735+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: ecb9471a-cb53-4acf-ae8e-25d8e8fd88fe\n"
+
+msgctxt "title"
+msgid "Hispanic &amp; African American Omnibus"
+msgstr ""
+
+msgctxt "slug"
+msgid "hispanic-african-american-omnibus"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Hispanic American &amp; African American Omnibus"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Reach Hispanic and African Americans through YouGov’s inclusive panel, to discover what these key groups think."
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Why YouGov?"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Hispanic &amp; African American Omnibus"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Reach Hispanic and African Americans through YouGov’s inclusive panel."
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"The YouGov Hispanic American &amp; African American Omnibuses use YouGov's inclusive panel of US citizens to measure attitudes, behaviors, and more regarding current affairs, news, and consumer "
+"issues<b>.</b>"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Discover how YouGov can help you"
+msgstr ""
+
+msgctxt "rates_title"
+msgid "Hispanic American &amp; African American Omnibus rates"
+msgstr ""
+
+msgctxt "rates_description"
+msgid "Including survey design, full-service support, and full results analysis. Reach your target group for the answers you need."
+msgstr ""
+
+msgctxt "rates_description"
+msgid "Four question minimum."
+msgstr ""
+
+msgctxt "benefit_items.0c3f33e8-343b-41ed-9882-ee51090bc625.title"
+msgid "National samples"
+msgstr ""
+
+msgctxt "benefit_items.0c3f33e8-343b-41ed-9882-ee51090bc625.description"
+msgid "Target representative samples of Hispanic American or African American respondents."
+msgstr ""
+
+msgctxt "benefit_items.0009289a-86e1-419b-bb1c-71c97196071c.title"
+msgid "Frequent surveys"
+msgstr ""
+
+msgctxt "benefit_items.0009289a-86e1-419b-bb1c-71c97196071c.description"
+msgid "Surveys run weekly."
+msgstr ""
+
+msgctxt "benefit_items.f9e07daa-5c2b-435f-ba17-e8fd3215f730.title"
+msgid "Fast results"
+msgstr ""
+
+msgctxt "benefit_items.f9e07daa-5c2b-435f-ba17-e8fd3215f730.description"
+msgid "Receive results within 1 week."
+msgstr ""
+
+msgctxt "rates_table_header.3660d571-cad4-43f6-8b79-199301472e92.column_2"
+msgid "Respondents"
+msgstr ""
+
+msgctxt "rates_table_header.3660d571-cad4-43f6-8b79-199301472e92.column_3"
+msgid "Entry"
+msgstr ""
+
+msgctxt "rates_table_header.3660d571-cad4-43f6-8b79-199301472e92.column_4"
+msgid "Standard question"
+msgstr ""
+
+msgctxt "rates_table_header.3660d571-cad4-43f6-8b79-199301472e92.column_5"
+msgid "Results"
+msgstr ""
+
+msgctxt "rates_table_rows.f60f8a7b-0579-4a4a-aa18-1d9c240dd3a1.column_1"
+msgid "Hispanic Americans"
+msgstr ""
+
+msgctxt "rates_table_rows.f60f8a7b-0579-4a4a-aa18-1d9c240dd3a1.column_2"
+msgid "500"
+msgstr ""
+
+msgctxt "rates_table_rows.f60f8a7b-0579-4a4a-aa18-1d9c240dd3a1.column_3"
+msgid "$300"
+msgstr ""
+
+msgctxt "rates_table_rows.f60f8a7b-0579-4a4a-aa18-1d9c240dd3a1.column_4"
+msgid "$750"
+msgstr ""
+
+msgctxt "rates_table_rows.f60f8a7b-0579-4a4a-aa18-1d9c240dd3a1.column_5"
+msgid "1 week"
+msgstr ""
+
+msgctxt "rates_table_rows.30f633e4-d7b9-4e6b-af19-b42d8f619d11.column_1"
+msgid "African Americans"
+msgstr ""
+
+msgctxt "rates_table_rows.30f633e4-d7b9-4e6b-af19-b42d8f619d11.column_2"
+msgid "500"
+msgstr ""
+
+msgctxt "rates_table_rows.30f633e4-d7b9-4e6b-af19-b42d8f619d11.column_3"
+msgid "$300"
+msgstr ""
+
+msgctxt "rates_table_rows.30f633e4-d7b9-4e6b-af19-b42d8f619d11.column_4"
+msgid "$750"
+msgstr ""
+
+msgctxt "rates_table_rows.30f633e4-d7b9-4e6b-af19-b42d8f619d11.column_5"
+msgid "1 week"
+msgstr ""

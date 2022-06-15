@@ -1,0 +1,63 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:40.272266+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 5ffc7cc6-1b93-4a91-87e4-9e9afb309b7d\n"
+
+msgctxt "title"
+msgid "Premium handset market report 2022"
+msgstr ""
+
+msgctxt "slug"
+msgid "uk-premium-handset-market-report-2022"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Understanding the UK premium handset market"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Report"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=download"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Download the report now"
+msgstr ""
+
+msgctxt "video_items.fad1f5c7-425c-4df0-adf3-72e2d01ba1fa"
+msgid ""
+"It’s widely acknowledged that the UK smartphone market today remains stagnant, with a perceived lack of innovation keeping consumers from upgrading. This has seen consumers keep hold of handsets for"
+" longer. In June 2021, 30% of smartphone owners had had their handset for 24 months or longer, up from 20% five years ago."
+msgstr ""
+
+msgctxt "video_items.fad1f5c7-425c-4df0-adf3-72e2d01ba1fa"
+msgid ""
+"YouGov’s Premium Handset Report 2022 provides a comprehensive view of premium handset owners. Download the report today to discover how manufacturers, retailers and operators seeking to maintain and"
+" win market share by understanding these owners in more detail."
+msgstr ""
+
+msgctxt "video_items.fad1f5c7-425c-4df0-adf3-72e2d01ba1fa"
+msgid "The study combines living data from multiple products, including YouGov Custom Research, with specific focus on the UK."
+msgstr ""
+
+msgctxt "video_items.20ba2e95-0014-4881-be1b-c9bc48de357a.main_cta_text"
+msgid "Download now"
+msgstr ""
+
+msgctxt "video_items.20ba2e95-0014-4881-be1b-c9bc48de357a.main_cta_url"
+msgid "?marketo=download"
+msgstr ""
+
+msgctxt "video_items.20ba2e95-0014-4881-be1b-c9bc48de357a.secondary_cta_text"
+msgid "Get in touch"
+msgstr ""
+
+msgctxt "video_items.20ba2e95-0014-4881-be1b-c9bc48de357a.secondary_cta_url"
+msgid "?marketo=contact"
+msgstr ""

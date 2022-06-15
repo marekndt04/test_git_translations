@@ -1,0 +1,69 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:31.804664+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 9785dd3e-d465-425e-8bff-ad7659e402af\n"
+
+msgctxt "title"
+msgid "Request your Free Biggest Movers Data - 2021 - India"
+msgstr ""
+
+msgctxt "slug"
+msgid "request-your-free-biggest-movers-data-2021-india"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Request your biggest movers data"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Consumers are reacting positively to your brand"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/product/brandindex/request-your-free-biggest-movers-data-2021-india?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Request your free biggest movers data"
+msgstr ""
+
+msgctxt "video_items.975801dc-ce80-4ce7-9863-bca5c6b744d4"
+msgid ""
+"For over a decade YouGov BrandIndex has been tracking daily consumer perception of thousands of brands and their campaigns worldwide, with critical insight on a brand’s performance against its "
+"competitors."
+msgstr ""
+
+msgctxt "video_items.975801dc-ce80-4ce7-9863-bca5c6b744d4"
+msgid "Between Q1 2021 and Q4 2021, there has been a <b>significant increase in positive consumer perception of your brand.</b> <a id=\"a1\">Get in touch and see how you compare to your competitors</a>."
+msgstr ""
+
+msgctxt "video_items.975801dc-ce80-4ce7-9863-bca5c6b744d4"
+msgid ""
+"Flipkart has claimed the top spot in the 2021 edition of YouGov’s Biggest Brand Movers in India. The e-commerce brand made marked improvements in 11 <a id=\"a1\">YouGov BrandIndex</a> metrics out of"
+" the 13 that are considered"
+msgstr ""
+
+msgctxt "links_title"
+msgid "What you'll discover"
+msgstr ""
+
+msgctxt "links_description"
+msgid ""
+"Your brand’s statistically significant positive gains among Indian consumers as determined by the media, brand health, and purchase funnel metrics tracked within YouGov BrandIndex between Q1 2021 "
+"and Q4 2021."
+msgstr ""
+
+msgctxt "links_description"
+msgid "<b>We’ll also present</b> <b>how your brand metric movement across the board compares</b> <b>against your competitors.</b>"
+msgstr ""
+
+msgctxt "links_description"
+msgid "Consistently understanding how consumers react to your brand is key to identifying where your marketing is making a short and long term impact, and how!"
+msgstr ""
+
+msgctxt "links_description"
+msgid "<a id=\"a1\">Request your free biggest movers data now.</a>"
+msgstr ""

@@ -1,0 +1,249 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:33.604910+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 4ec3eb70-98eb-4123-a442-dbfffd39b249\n"
+
+msgctxt "title"
+msgid "Global Travel Profiles"
+msgstr ""
+
+msgctxt "slug"
+msgid "global-travel-profiles"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Global Travel Profiles: Understand Travel Intentions"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Track daily consumer sentiment to travel and analyze how to best target your audience for growth with YouGov's Global Travel Profiles."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "BENEFITS"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Fly above your competitors"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Global Travel Profiles"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Understand your travel customer"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Track global consumer demand and attitudes towards travel, across the largest tourism markets. Survey consumers daily in 25 markets – identify who is ready to travel when, where they want to go and "
+"what kind of trip they are planning."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "/product/global-travel-profiles/?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our connected living data solutions"
+msgstr ""
+
+msgctxt "rates_label"
+msgid "MARKETS"
+msgstr ""
+
+msgctxt "rates_title"
+msgid "25 key global travel &amp; tourism markets"
+msgstr ""
+
+msgctxt "benefit_items.c12ce0a9-5201-4daa-b07a-c14ea882d19a.title"
+msgid "Daily data"
+msgstr ""
+
+msgctxt "benefit_items.c12ce0a9-5201-4daa-b07a-c14ea882d19a.description"
+msgid "Trend-spot with the latest attitudes on transport, accommodation and more."
+msgstr ""
+
+msgctxt "benefit_items.60e50647-1342-44e5-8878-3172d3d6805e.title"
+msgid "A user-friendly platform"
+msgstr ""
+
+msgctxt "benefit_items.60e50647-1342-44e5-8878-3172d3d6805e.description"
+msgid "Access the data you need, quickly and easily, from easy-to-use dashboards."
+msgstr ""
+
+msgctxt "benefit_items.a512b983-3f8a-44c0-829c-6137d9756758.title"
+msgid "Actionable Insights"
+msgstr ""
+
+msgctxt "benefit_items.a512b983-3f8a-44c0-829c-6137d9756758.description"
+msgid "Identify consumer attitudes and behaviors to inform strategic campaigns."
+msgstr ""
+
+msgctxt "content_image_items.2e6ca7ee-e512-42a9-b773-22b1823c8987.title"
+msgid "Global and local insights"
+msgstr ""
+
+msgctxt "content_image_items.2e6ca7ee-e512-42a9-b773-22b1823c8987.description"
+msgid "Get a holistic view of the travel market, including granular insights on brand consideration, preferred locations, booking methods, accommodation and transportation preferences."
+msgstr ""
+
+msgctxt "content_image_items.2e6ca7ee-e512-42a9-b773-22b1823c8987.description"
+msgid ""
+"Access travel-specific data from <b>25</b> markets and <b>130</b> destinations with over <b>32,000</b> surveys per market per year. Discover emerging trends on travel habits and behaviors for the "
+"next <b>12</b> months."
+msgstr ""
+
+msgctxt "content_image_items.2e6ca7ee-e512-42a9-b773-22b1823c8987.description"
+msgid "Understand traveler expectations in the current climate with daily data updates, and deliver global, regional, country, and state-level travel insights."
+msgstr ""
+
+msgctxt "content_image_items.a68a2af6-43bd-4f58-b6fc-67821be322b3.title"
+msgid "Connected data"
+msgstr ""
+
+msgctxt "content_image_items.a68a2af6-43bd-4f58-b6fc-67821be322b3.description"
+msgid ""
+"Learn more about your travel audience – YouGov’s living data helps you unpack more insights, from sports to social media. Make your strategic, operational and marketing decisions with the most up-"
+"to-date, cost-effective and robust data on changing attitudes to travel."
+msgstr ""
+
+msgctxt "content_image_items.a68a2af6-43bd-4f58-b6fc-67821be322b3.description"
+msgid ""
+"Track how customers or considerers of certain brands organize, plan and book their travel, when they intend to go and where, with connections to <b>16</b> key brand metrics via <a "
+"id=\"a1\"><b>YouGov DestinationIndex</b></a>."
+msgstr ""
+
+msgctxt "content_image_items.a68a2af6-43bd-4f58-b6fc-67821be322b3.description"
+msgid ""
+"Access the data you need in a user-friendly dashboard – with weekly, monthly, and quarterly trendlines, <a id=\"a1\"><b>Re-Contacting</b></a> your target audience segments to delve deeper into their"
+" responses."
+msgstr ""
+
+msgctxt "rates_table_header.55ea3d41-917a-4fc7-8614-c5b952b136d4.column_1"
+msgid "Europe:"
+msgstr ""
+
+msgctxt "rates_table_header.55ea3d41-917a-4fc7-8614-c5b952b136d4.column_2"
+msgid "Americas:"
+msgstr ""
+
+msgctxt "rates_table_header.55ea3d41-917a-4fc7-8614-c5b952b136d4.column_3"
+msgid "MENA:"
+msgstr ""
+
+msgctxt "rates_table_header.55ea3d41-917a-4fc7-8614-c5b952b136d4.column_4"
+msgid "Asia Pacific:"
+msgstr ""
+
+msgctxt "rates_table_rows.5c5d825f-35f5-4ed8-96c7-0924718b4c02.column_1"
+msgid "Denmark"
+msgstr ""
+
+msgctxt "rates_table_rows.5c5d825f-35f5-4ed8-96c7-0924718b4c02.column_2"
+msgid "Brazil"
+msgstr ""
+
+msgctxt "rates_table_rows.5c5d825f-35f5-4ed8-96c7-0924718b4c02.column_3"
+msgid "Egypt"
+msgstr ""
+
+msgctxt "rates_table_rows.5c5d825f-35f5-4ed8-96c7-0924718b4c02.column_4"
+msgid "Australia"
+msgstr ""
+
+msgctxt "rates_table_rows.91b83e22-f427-4803-866a-ad41483979b1.column_1"
+msgid "Finland"
+msgstr ""
+
+msgctxt "rates_table_rows.91b83e22-f427-4803-866a-ad41483979b1.column_2"
+msgid "Canada"
+msgstr ""
+
+msgctxt "rates_table_rows.91b83e22-f427-4803-866a-ad41483979b1.column_3"
+msgid "Saudi Arabia"
+msgstr ""
+
+msgctxt "rates_table_rows.91b83e22-f427-4803-866a-ad41483979b1.column_4"
+msgid "China"
+msgstr ""
+
+msgctxt "rates_table_rows.3c72e437-a40b-43f5-8abd-5e1258e18abb.column_1"
+msgid "France"
+msgstr ""
+
+msgctxt "rates_table_rows.3c72e437-a40b-43f5-8abd-5e1258e18abb.column_2"
+msgid "Mexico"
+msgstr ""
+
+msgctxt "rates_table_rows.3c72e437-a40b-43f5-8abd-5e1258e18abb.column_3"
+msgid "UAE"
+msgstr ""
+
+msgctxt "rates_table_rows.3c72e437-a40b-43f5-8abd-5e1258e18abb.column_4"
+msgid "Japan"
+msgstr ""
+
+msgctxt "rates_table_rows.1c7690a1-db55-4682-a409-f4a759ab0a62.column_1"
+msgid "Germany"
+msgstr ""
+
+msgctxt "rates_table_rows.1c7690a1-db55-4682-a409-f4a759ab0a62.column_2"
+msgid "USA"
+msgstr ""
+
+msgctxt "rates_table_rows.1c7690a1-db55-4682-a409-f4a759ab0a62.column_4"
+msgid "India"
+msgstr ""
+
+msgctxt "rates_table_rows.e711fb15-5ebc-4ef7-9c24-8787469029fe.column_1"
+msgid "Italy"
+msgstr ""
+
+msgctxt "rates_table_rows.e711fb15-5ebc-4ef7-9c24-8787469029fe.column_4"
+msgid "Indonesia"
+msgstr ""
+
+msgctxt "rates_table_rows.40a9baa7-b6bc-4503-9016-3f4e3ee90f6d.column_1"
+msgid "Norway"
+msgstr ""
+
+msgctxt "rates_table_rows.40a9baa7-b6bc-4503-9016-3f4e3ee90f6d.column_4"
+msgid "Malaysia"
+msgstr ""
+
+msgctxt "rates_table_rows.b3890040-3ef7-4016-b402-f7e13f61ebd4.column_1"
+msgid "Spain"
+msgstr ""
+
+msgctxt "rates_table_rows.b3890040-3ef7-4016-b402-f7e13f61ebd4.column_4"
+msgid "Philippines"
+msgstr ""
+
+msgctxt "rates_table_rows.d4b5c7ff-b674-4aab-bab5-c2ab03cc5402.column_1"
+msgid "Sweden"
+msgstr ""
+
+msgctxt "rates_table_rows.d4b5c7ff-b674-4aab-bab5-c2ab03cc5402.column_4"
+msgid "Thailand"
+msgstr ""
+
+msgctxt "rates_table_rows.d35bea19-fc0b-48b7-be3f-4abe5f0c352d.column_1"
+msgid "UK"
+msgstr ""
+
+msgctxt "rates_table_rows.d35bea19-fc0b-48b7-be3f-4abe5f0c352d.column_4"
+msgid "Singapore"
+msgstr ""

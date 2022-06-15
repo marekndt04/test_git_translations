@@ -1,0 +1,50 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:39.580757+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "YouGov’s report on social shopping in the Nordics"
+msgstr ""
+
+msgctxt "slug"
+msgid "social-shopping-report"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov’s report on social shopping in the Nordics"
+msgstr ""
+
+msgctxt "search_description"
+msgid "YouGov’s report examines the prevalence of social shopping in the Nordic region. Who is shopping via social media, and why are they doing it?"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "YouGov’s Nordic Social Shopping Report 2022"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Report"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "This report examines the prevalence of social shopping in the Nordic region"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=download"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Download the report now"
+msgstr ""
+
+msgctxt "video_items.05eb1eea-9263-4cd2-bcfc-fb4bc75ff939.main_cta_text"
+msgid "Download the report now"
+msgstr ""
+
+msgctxt "video_items.05eb1eea-9263-4cd2-bcfc-fb4bc75ff939.main_cta_url"
+msgid "?marketo=download"
+msgstr ""

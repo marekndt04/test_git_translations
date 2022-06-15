@@ -1,0 +1,123 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:40.754353+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: c59a188a-a163-4a2a-a58c-7637ba8f6d18\n"
+
+msgctxt "title"
+msgid "Creative Testing"
+msgstr ""
+
+msgctxt "slug"
+msgid "creative-testing"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Creative Testing"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Test and adapt your imagery and messaging at different stages of the customer journey to inform your strategy and make customer-led decisions."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "BENEFITS"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Quality data"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Creative Testing"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Discover what resonates with key audiences, when"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Fully understand the consumer journey and adapt your creative appropriately. Creative Testing forms part of YouGov Consumer Journey Diagnostics, a cost-effective templated research approach. "
+"Optimize your messaging and design elements based on real audience understanding."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our connected living data solutions"
+msgstr ""
+
+msgctxt "benefit_items.456846dd-b756-4b4e-aa67-8809c5ad0cf6.title"
+msgid "Sampling efficiency"
+msgstr ""
+
+msgctxt "benefit_items.456846dd-b756-4b4e-aa67-8809c5ad0cf6.description"
+msgid "Access a representative sample of customers, delivering engaged respondents."
+msgstr ""
+
+msgctxt "benefit_items.b4fbaa0d-0d88-4606-88d4-c4f31284d84c.title"
+msgid "Dynamic samples"
+msgstr ""
+
+msgctxt "benefit_items.b4fbaa0d-0d88-4606-88d4-c4f31284d84c.description"
+msgid "Choose from brand specific or sector specific sampling."
+msgstr ""
+
+msgctxt "benefit_items.522dca52-ba3b-4e61-9b2a-5e67dcde9c8f.title"
+msgid "Any frequency, any time"
+msgstr ""
+
+msgctxt "benefit_items.522dca52-ba3b-4e61-9b2a-5e67dcde9c8f.description"
+msgid "Commissioned on an ad-hoc basis or set to repeat for regular tracking."
+msgstr ""
+
+msgctxt "benefit_items.3343a188-17bb-4d4d-942a-acc9e2a8e709.title"
+msgid "Tracking methodology"
+msgstr ""
+
+msgctxt "benefit_items.3343a188-17bb-4d4d-942a-acc9e2a8e709.description"
+msgid "Re-contact audiences with focused surveys, powered by our daily tracking tool – YouGov BrandIndex."
+msgstr ""
+
+msgctxt "benefit_items.495131ac-7aae-4c2a-9069-0fe7663176f6.title"
+msgid "Customizable"
+msgstr ""
+
+msgctxt "benefit_items.495131ac-7aae-4c2a-9069-0fe7663176f6.description"
+msgid "Add your own open or closed questions to the survey."
+msgstr ""
+
+msgctxt "benefit_items.4431f87c-b1ee-4f02-a747-715b361e9f94.title"
+msgid "Data analysis"
+msgstr ""
+
+msgctxt "benefit_items.4431f87c-b1ee-4f02-a747-715b361e9f94.description"
+msgid "Analyze your data via a templated dashboard or commission a bespoke report for additional diagnostic power."
+msgstr ""
+
+msgctxt "content_image_items.da641acd-83f6-4309-9118-d42167cc19fc.title"
+msgid "Empower your creative"
+msgstr ""
+
+msgctxt "content_image_items.da641acd-83f6-4309-9118-d42167cc19fc.description"
+msgid ""
+"Reach consumers at each stage of the buying journey. Create initial awareness, build the right emotional connections with your brand, and provide the right call to actions at key buying "
+"opportunities."
+msgstr ""
+
+msgctxt "content_image_items.da641acd-83f6-4309-9118-d42167cc19fc.description"
+msgid "The questionnaires have been developed by research experts to produce digestible and actionable data. Connect your research to YouGov’s living data for additional depth."
+msgstr ""

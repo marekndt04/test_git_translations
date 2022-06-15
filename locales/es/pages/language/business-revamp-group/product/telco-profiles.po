@@ -1,0 +1,139 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:37.471904+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 6aa94eab-2c5b-429c-98b4-90c276e2dd6c\n"
+
+msgctxt "title"
+msgid "Telco Profiles"
+msgstr ""
+
+msgctxt "slug"
+msgid "telco-profiles"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Telco Profiles"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Track key drivers of choice &amp; satisfaction in the mobile market to understand loyalty and switching, providing insights to reduce churn and grow acquisition."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "Benefits"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Deepen your understanding:"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Telco Profiles"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Optimize your strategy with tailored cellphone intelligence"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Fully understand the cellphone market and how to reduce churn. Get detailed monthly insights on telco consumers; what they think, why they might switch provider, what they want in a new handset, and"
+" which networks and brands they’re considering."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our connected living data solutions"
+msgstr ""
+
+msgctxt "bullet_lists_label"
+msgid "Use cases"
+msgstr ""
+
+msgctxt "bullet_lists_title"
+msgid "Forward-looking, connected consumer intelligence:"
+msgstr ""
+
+msgctxt "bullet_lists_description"
+msgid ""
+"<b>Global reach:</b> Currently available in 18 markets: US, UK, Australia, Brazil, Canada, China, Denmark, France, Germany, India, Indonesia, Japan, Mexico, Saudi Arabia, Singapore, Spain, Sweden "
+"and Thailand."
+msgstr ""
+
+msgctxt "bullet_lists_description"
+msgid "<b>Market sizing:</b> Reach our proprietary owned panel of 17million+ registered consumers, enabling in-depth local understanding and global comparison."
+msgstr ""
+
+msgctxt "bullet_lists_description"
+msgid "<b>Relevant sample:</b> Identify those in the market who are open to switching handset or network."
+msgstr ""
+
+msgctxt "bullet_lists_description"
+msgid "<b>Deep profiling:</b> Get actionable data on key demographics, attitudes, social media and streaming habits, brand affinity and more."
+msgstr ""
+
+msgctxt "bullet_lists_description"
+msgid "<b>Monthly data:</b> Examine continuous, fresh data to monitor change and trends over time."
+msgstr ""
+
+msgctxt "bullet_lists_description"
+msgid "<b>Dashboard view:</b> Access and visualize the data you need quickly within our easyto- use dashboard."
+msgstr ""
+
+msgctxt "benefit_items.83d4b7fe-ad1d-40fc-8ee5-5fc1bbeae4c8.title"
+msgid "Track and analyze trends"
+msgstr ""
+
+msgctxt "benefit_items.83d4b7fe-ad1d-40fc-8ee5-5fc1bbeae4c8.description"
+msgid "Access the latest insights with monthly data delivery, enabling you to monitor changes in consumer behavior"
+msgstr ""
+
+msgctxt "benefit_items.dc5a2c9b-50a5-48a9-8f7b-8d25c5083ed8.title"
+msgid "Global and localized data"
+msgstr ""
+
+msgctxt "benefit_items.dc5a2c9b-50a5-48a9-8f7b-8d25c5083ed8.description"
+msgid "Get consistent, reliable and actionable information across multiple markets in one dashboard, or drill down to your local market"
+msgstr ""
+
+msgctxt "benefit_items.e679a577-209d-4672-a58f-4eb99adf27e0.title"
+msgid "Understand churn"
+msgstr ""
+
+msgctxt "benefit_items.e679a577-209d-4672-a58f-4eb99adf27e0.description"
+msgid "Pinpoint what drives loyalty and switching; get insights on how to reduce churn, grow acquisition and improve customer experience"
+msgstr ""
+
+msgctxt "content_image_items.6f22d3d4-5716-48ca-8d25-e42bd05eb32b.title"
+msgid "Get in-depth, global and localized insights"
+msgstr ""
+
+msgctxt "content_image_items.6f22d3d4-5716-48ca-8d25-e42bd05eb32b.description"
+msgid ""
+"Measure customer satisfaction and the influencing factors behind it. Monitor potential churn and understand how to target customers looking to switch their network or handset, with practical, "
+"actionable data."
+msgstr ""
+
+msgctxt "content_image_items.6f22d3d4-5716-48ca-8d25-e42bd05eb32b.description"
+msgid ""
+"Our worldwide panel enables deep consumer understanding. Track key drivers of choice, demographics, attitudes, social media and streaming habits, and brand affinity – at both a local and global "
+"level. Available in <b>18</b> markets: US, UK, Australia, Brazil, Canada, China, Denmark, France, Germany, India, Indonesia, Japan, Mexico, Saudi Arabia, Singapore, Spain, Sweden and Thailand."
+msgstr ""
+
+msgctxt "content_image_items.6f22d3d4-5716-48ca-8d25-e42bd05eb32b.description"
+msgid "Connect to YouGov’s market-leading depth and breadth of consumer data for even more granular information on your customers’ behavior."
+msgstr ""

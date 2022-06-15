@@ -1,0 +1,144 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:30.800655+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 45f39bc6-8f26-4483-ace5-02ebc9ad2259\n"
+
+msgctxt "title"
+msgid "Teen Profiles"
+msgstr ""
+
+msgctxt "slug"
+msgid "teen-profiles"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Teen Profiles: Authentic insights from 13-17-year-olds"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Understand how teenage demographics think, feel, and behave using Teen Profiles for bespoke insights to plan your marketing campaigns and strategy."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "BENEFITS"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Future-proof your strategy:"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Teen Profiles"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Authentic insights from 13–17-year-olds, as told by them"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Future-proof your marketing with valuable insights from US teenagers. Get actionable data on the current views and behaviors of young people, including media use, gaming, sports, retail, online "
+"habits, and more; the intelligence everything you need to optimize your campaigns for maximum effect."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our connected living data solutions"
+msgstr ""
+
+msgctxt "benefit_items.1c2903c3-304d-461b-a7b6-abd1c683760b.title"
+msgid "Direct responses"
+msgstr ""
+
+msgctxt "benefit_items.1c2903c3-304d-461b-a7b6-abd1c683760b.description"
+msgid "Teenagers are surveyed directly, answering questions spanning a broad, always-relevant, range of topics."
+msgstr ""
+
+msgctxt "benefit_items.3ba5d59a-d74b-4a9c-961c-18f8eecf7e62.title"
+msgid "Lead the way"
+msgstr ""
+
+msgctxt "benefit_items.3ba5d59a-d74b-4a9c-961c-18f8eecf7e62.description"
+msgid "Stay on top of rapidly changing cultural shifts, new trends, rising influencers and everything else young people care about."
+msgstr ""
+
+msgctxt "benefit_items.ae56d039-b10b-4f0a-a902-f1a6ed8d8174.title"
+msgid "Unlock actionable insights"
+msgstr ""
+
+msgctxt "benefit_items.ae56d039-b10b-4f0a-a902-f1a6ed8d8174.description"
+msgid "Inform your campaign strategy with robust, authentic data intelligence, on the approach that will best grab young people’s attention."
+msgstr ""
+
+msgctxt "benefit_items.a7aa6029-f16d-4f07-908b-f0814ad740da.title"
+msgid "On-the-pulse"
+msgstr ""
+
+msgctxt "benefit_items.a7aa6029-f16d-4f07-908b-f0814ad740da.description"
+msgid "YouGov Teen Profiles data is updated every month, so you can keep ahead of today's trends and see tomorrow's as they develop."
+msgstr ""
+
+msgctxt "benefit_items.8258f1fe-657b-4251-9b01-92464df50c37.title"
+msgid "Segment-relevant sample"
+msgstr ""
+
+msgctxt "benefit_items.8258f1fe-657b-4251-9b01-92464df50c37.description"
+msgid "Discover what’s driving the latest trends with key survey foci including attitudes towards brands, gaming, esports, digital media, influencers and sports."
+msgstr ""
+
+msgctxt "benefit_items.4c4aa306-8c9f-4043-a103-208bc9899517.title"
+msgid "Intuitive data analysis platform"
+msgstr ""
+
+msgctxt "benefit_items.4c4aa306-8c9f-4043-a103-208bc9899517.description"
+msgid "Easily access and dig deeply into your data within our easy-to-use, proprietary, powerful data analysis platform: YouGov Crunch."
+msgstr ""
+
+msgctxt "content_image_items.05b6da03-0e7c-403c-ae23-fc022fb0f096.title"
+msgid "Access quality, opt-in data"
+msgstr ""
+
+msgctxt "content_image_items.05b6da03-0e7c-403c-ae23-fc022fb0f096.description"
+msgid "Engage directly with 13-17-year-olds living in the US via their responses to a varied, age-appropriate survey covering everything that matters to them  – and you."
+msgstr ""
+
+msgctxt "content_image_items.05b6da03-0e7c-403c-ae23-fc022fb0f096.description"
+msgid "Powered by YouGov's proprietary messaging tech, <a id=\"a1\"><b>YouGov Chat</b></a>, meaning that respondents never have to leave their digital home turf."
+msgstr ""
+
+msgctxt "content_image_items.05b6da03-0e7c-403c-ae23-fc022fb0f096.description"
+msgid "Unlock valuable insights on how to reach your target teen audience in the right place at the right time, ensuring your campaigns land with impact."
+msgstr ""
+
+msgctxt "content_image_items.43f17423-7c5c-40af-9c41-502fb9db4388.title"
+msgid "Get ahead of the curve"
+msgstr ""
+
+msgctxt "content_image_items.43f17423-7c5c-40af-9c41-502fb9db4388.description"
+msgid "Get real answers to essential questions directly from young people – not 3rd party speculation."
+msgstr ""
+
+msgctxt "content_image_items.43f17423-7c5c-40af-9c41-502fb9db4388.description"
+msgid ""
+"Keep up with today’s hot topics and ensure your brand has a voice in the conversation. Get to know tomorrow’s tastemakers before they’re even on your competitors’ radar, with monthly data updates."
+msgstr ""
+
+msgctxt "content_image_items.43f17423-7c5c-40af-9c41-502fb9db4388.description"
+msgid ""
+"Discover what’s driving the latest trends, with key topics including attitudes towards brands, gaming, esports, digital media, influencers and sports.  All with fully opt-in, CCPA and GDPR compliant"
+" user data."
+msgstr ""

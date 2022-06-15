@@ -1,0 +1,18 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:43.082666+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Identify, understand and target audiences"
+msgstr ""
+
+msgctxt "description"
+msgid "Accurately identify audiences to plan targeted outreach."
+msgstr ""
+
+msgctxt "url"
+msgid "/solutions/audience/"
+msgstr ""

@@ -1,0 +1,21 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:38.161773+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: e736fdde-7bb8-47d1-be84-061a9964e852\n"
+
+msgctxt "title"
+msgid "Channel 4"
+msgstr ""
+
+msgctxt "description"
+msgid ""
+"What’s unique about YouGov’s RealTime offer is the speed of its response and the robustness of its data. As a department, we never know if we’re going to be asked ad hoc questions, so knowing that "
+"we can contact YouGov at a moment’s notice so that we can get the data and responses by the next day is a huge benefit to us."
+msgstr ""
+
+msgctxt "url"
+msgid "https://yougov.co.uk/topics/resources/articles-reports/2019/08/27/yougov-channel-4-advocacy"
+msgstr ""

@@ -1,0 +1,59 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:35.339836+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: dd40f85c-9ca0-47a2-ad4b-9bc394ed11e5\n"
+
+msgctxt "title"
+msgid "YouGov Framework: Attitudes to investing"
+msgstr ""
+
+msgctxt "slug"
+msgid "attitudes-to-investing-framework"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "YouGov Framework: British public attitudes to investing"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"As Britain emerges from the pandemic and consumer confidence starts to return, many consumers previously not willing or lacking in confidence to invest their savings may be tempted to look for "
+"better returns than current interest rates can deliver."
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Using YouGov Profiles data, YouGov has developed a framework designed to help marketers better understand the British population with investable assets and their varying propensity to invest."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=download"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Download full framework"
+msgstr ""
+
+msgctxt "content_image_label"
+msgid "FRAMEWORK"
+msgstr ""
+
+msgctxt "content_image_title"
+msgid "What you'll discover:"
+msgstr ""
+
+msgctxt "content_image_description"
+msgid ""
+"Using a total adult GB market size with investable assets (24 million GB adults), the British population has been segmented based on the value of the investable assets they have and the extent to "
+"which they look for profitable ways to invest money."
+msgstr ""
+
+msgctxt "content_image_description"
+msgid "The segments have then been profiled to reveal the attitudes and behavioural traits of each group."
+msgstr ""
+
+msgctxt "content_image_description"
+msgid "<a id=\"a1\"><b>Download the full framework and segment profiles.</b></a>"
+msgstr ""

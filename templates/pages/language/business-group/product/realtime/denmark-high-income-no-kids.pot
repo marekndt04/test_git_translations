@@ -1,0 +1,18 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:31.366545+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Denmark High income no kids"
+msgstr ""
+
+msgctxt "slug"
+msgid "denmark-high-income-no-kids"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Denmark High income no kids"
+msgstr ""

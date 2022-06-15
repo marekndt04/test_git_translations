@@ -1,0 +1,36 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:42.221576+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Sectors"
+msgstr ""
+
+msgctxt "slug"
+msgid "sectors"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Sector Pages"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Select from our 15 industry pages to explore for yourself the latest data intelligence on your sector, as well as YouGov's recent research, content and white papers."
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Find your sector"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"We empower brands and agencies to become market-leaders in their sector. Understand your audience in unrivalled depth and detail to unlock powerful industry insights with 20 years of living consumer"
+" intelligence across 15 key sectors."
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Lead the way in your sector by exploring our latest industry insights below."
+msgstr ""

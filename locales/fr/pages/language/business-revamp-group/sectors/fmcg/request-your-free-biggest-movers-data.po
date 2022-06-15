@@ -1,0 +1,51 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:38.134625+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 5cd8dd30-c56e-42bd-938c-9e2b80f07ee4\n"
+
+msgctxt "title"
+msgid "Request your Free Biggest Movers Data - May"
+msgstr "Demandez un rapport gratuit sur vos principales performances - Mai"
+
+msgctxt "slug"
+msgid "request-your-free-biggest-movers-data"
+msgstr "demander-un-rapport-gratuit-sur-vos-principales-performances-mai"
+
+msgctxt "hero_title"
+msgid "Request your Free Biggest Movers Data"
+msgstr "Demandez un rapport gratuit sur vos principales performances"
+
+msgctxt "hero_description"
+msgid ""
+"For over a decade YouGov BrandIndex has been tracking daily consumer perception of thousands of brands and their campaigns worldwide, with critical insight on a brand’s performance against its "
+"competitors. Discover how much the nation is reacting to your brand right now."
+msgstr ""
+"Depuis plus de dix ans, YouGov BrandIndex suit quotidiennement la perception qu’ont les consommateurs de milliers de marques et de leurs campagnes dans le monde entier, et fournit des informations "
+"essentielles sur les performances d’une marque par rapport à ses concurrents. Découvrez comment le pays réagit à votre marque en ce moment."
+
+msgctxt "hero_description"
+msgid "Consistently understanding how consumers react to your brand is key to identifying where your marketing is making an impact, and how!"
+msgstr "Comprendre en permanence comment les consommateurs réagissent à votre marque est essentiel pour identifier où votre marketing a un impact."
+
+msgctxt "hero_description"
+msgid ""
+"We’ll send you a report with your brand’s statistically significant positive movements among UK consumers across BrandIndex metrics compared to four of your closest competitors between March and "
+"April 2021."
+msgstr ""
+"Nous vous enverrons un rapport des mouvements positifs statistiquement significatifs de votre marque parmi les consommateurs britanniques sur tous les paramètres de BrandIndex par rapport à quatre "
+"de vos plus proches concurrents entre mars et avril 2021."
+
+msgctxt "hero_description"
+msgid "Simply <a id=\"a1\"><b>request your free biggest movers data</b></a> and reference the competitors you wish to be compared against in the message box."
+msgstr "Il vous suffit de demander votre rapport gratuit sur vos principales performances et de mentionner les concurrents auxquels vous souhaitez être comparé dans le champ de message."
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr "?marketo=contact"
+
+msgctxt "hero_url_text"
+msgid "Request your free biggest movers data"
+msgstr "Demandez un rapport gratuit sur vos principales performances"

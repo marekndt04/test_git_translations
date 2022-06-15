@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:41.661863+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 57fff18f-0a01-4492-a92f-78cb645d8114\n"
+
+msgctxt "title"
+msgid "YouGov Blue"
+msgstr ""
+
+msgctxt "description"
+msgid "Custom research division for progressive and Democratic US clients."
+msgstr ""
+
+msgctxt "url"
+msgid "/product/yougov-blue/"
+msgstr ""

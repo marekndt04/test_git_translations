@@ -1,0 +1,167 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:39.049926+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 573c0636-3890-4e6c-a7c1-b60a3e414546\n"
+
+msgctxt "title"
+msgid "Research"
+msgstr ""
+
+msgctxt "slug"
+msgid "research"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Market Research Solutions &amp; Services"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Discover the research solution for you, from in-depth custom research studies to fast turnaround surveys and polls, as well as ad and product concept testing."
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Explore and research"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Robust research, for every budget and timeline"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Market-leading research for data you can trust. According to <a id=\"a1\"><b>Pew</b> <b>Research</b></a><b>,</b> YouGov consistently outperformed competitors on accuracy. We make it easy for you to "
+"generate the insights you need, fast. Leverage 15+ years of living consumer intelligence in 55+ markets for a deeper understanding of consumers, brands, industries and more."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?cta=research"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Start your research now"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our research solutions"
+msgstr ""
+
+msgctxt "pricing_component.c8ecb5b4-5cbe-487c-a3e5-80dfc6b7e10a.label"
+msgid "Self-serve​"
+msgstr ""
+
+msgctxt "pricing_component.c8ecb5b4-5cbe-487c-a3e5-80dfc6b7e10a.title"
+msgid "Direct"
+msgstr ""
+
+msgctxt "pricing_component.c8ecb5b4-5cbe-487c-a3e5-80dfc6b7e10a.price.ae1e2386-5f4e-45ed-adc5-882b8491818e.currency"
+msgid "£"
+msgstr ""
+
+msgctxt "pricing_component.c8ecb5b4-5cbe-487c-a3e5-80dfc6b7e10a.description"
+msgid "24-7 self-service research"
+msgstr ""
+
+msgctxt "pricing_component.c8ecb5b4-5cbe-487c-a3e5-80dfc6b7e10a.cta_text"
+msgid "Build a survey"
+msgstr ""
+
+msgctxt "pricing_component.c8ecb5b4-5cbe-487c-a3e5-80dfc6b7e10a.cta_url"
+msgid "https://platform.yougov.com/register/direct?loginLink=https%3A%2F%2Fdirect.yougov.com%2Fclient%2Fyougov-login%3Fredirect_uri%3D%2Fclient%2Frun"
+msgstr ""
+
+msgctxt "pricing_component.3e3def34-3f6a-4a2c-808c-b6261f532f98.label"
+msgid "Research support"
+msgstr ""
+
+msgctxt "pricing_component.3e3def34-3f6a-4a2c-808c-b6261f532f98.title"
+msgid "RealTime"
+msgstr ""
+
+msgctxt "pricing_component.3e3def34-3f6a-4a2c-808c-b6261f532f98.price.42177047-1de1-418f-b77b-187e8fd5009d.currency"
+msgid "£"
+msgstr ""
+
+msgctxt "pricing_component.3e3def34-3f6a-4a2c-808c-b6261f532f98.description"
+msgid "Fast-turnaround Omnibus and targeted Field &amp; Tab"
+msgstr ""
+
+msgctxt "pricing_component.3e3def34-3f6a-4a2c-808c-b6261f532f98.cta_text"
+msgid "Get in touch"
+msgstr ""
+
+msgctxt "pricing_component.3e3def34-3f6a-4a2c-808c-b6261f532f98.cta_url"
+msgid "https://business.yougov.com/product/realtime?marketo=contact"
+msgstr ""
+
+msgctxt "pricing_component.16bd6cc0-4063-4044-adf6-11a1acda9105.label"
+msgid "End-to-end support"
+msgstr ""
+
+msgctxt "pricing_component.16bd6cc0-4063-4044-adf6-11a1acda9105.title"
+msgid "Custom Research"
+msgstr ""
+
+msgctxt "pricing_component.16bd6cc0-4063-4044-adf6-11a1acda9105.price.6da4edca-7c7f-4b70-8125-89dbb0c751fa"
+msgid "Custom"
+msgstr ""
+
+msgctxt "pricing_component.16bd6cc0-4063-4044-adf6-11a1acda9105.description"
+msgid "Unique and tailored solutions"
+msgstr ""
+
+msgctxt "pricing_component.16bd6cc0-4063-4044-adf6-11a1acda9105.cta_text"
+msgid "Speak to sales"
+msgstr ""
+
+msgctxt "pricing_component.16bd6cc0-4063-4044-adf6-11a1acda9105.cta_url"
+msgid "https://business.yougov.com/product/custom-research?marketo=contact"
+msgstr ""
+
+msgctxt "content_image_items.9e8db70b-a17e-4415-86d6-5b3dd90faadf.title"
+msgid "Fast surveys and polls"
+msgstr ""
+
+msgctxt "content_image_items.9e8db70b-a17e-4415-86d6-5b3dd90faadf.description"
+msgid ""
+"Build <a id=\"a1\"><b>fast surveys</b></a> and polls with expert support, or create your own  and see live results in minutes using our rapid, easy-to-use <a id=\"a2\"><b>self-service "
+"platform.</b></a>"
+msgstr ""
+
+msgctxt "content_image_items.9e8db70b-a17e-4415-86d6-5b3dd90faadf.description"
+msgid "Gain a deep understanding of the consumer landscape with our range of nationally representative <a id=\"a1\"><b>Omnibus</b> <b>surveys</b></a> <b>in</b> <b>70+</b> <b>markets</b>"
+msgstr ""
+
+msgctxt "content_image_items.9e8db70b-a17e-4415-86d6-5b3dd90faadf.description"
+msgid "Secure fast, accurate responses from your target audience, the way you want."
+msgstr ""
+
+msgctxt "content_image_items.712d3f33-7ba8-44ac-970c-cc67c83c9b23.title"
+msgid "In-depth, custom research"
+msgstr ""
+
+msgctxt "content_image_items.712d3f33-7ba8-44ac-970c-cc67c83c9b23.description"
+msgid ""
+"Get the gold standard in consumer, market and competitive intelligence with our Custom Research solutions. Our specialists analyze your requirements, using the smartest technology and research "
+"methods to uncover the data you need."
+msgstr ""
+
+msgctxt "content_image_items.712d3f33-7ba8-44ac-970c-cc67c83c9b23.description"
+msgid "Access market-leading technology, receive end-to-end support from sector experts, and <a id=\"a1\"><b>re-contact</b> <b>respondents</b></a> at any point to gain deeper insight into your audience."
+msgstr ""
+
+msgctxt "content_image_items.e97d6d48-4b4e-44d8-b139-fb54507a9d6c.title"
+msgid "Ad, creative and product concept testing"
+msgstr ""
+
+msgctxt "content_image_items.e97d6d48-4b4e-44d8-b139-fb54507a9d6c.description"
+msgid ""
+"Get ahead of the game: understand exactly how audiences will respond to your campaigns before you launch. <a id=\"a1\"><b>Test everything</b></a>: from concepts and price models to ad, creative and "
+"campaign messaging, to get critical feedback before launch."
+msgstr ""
+
+msgctxt "content_image_items.e97d6d48-4b4e-44d8-b139-fb54507a9d6c.description"
+msgid "Empower your decision-making with intelligence to inform strategy, enable successful launches and maximise ROI."
+msgstr ""

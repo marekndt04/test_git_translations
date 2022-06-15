@@ -1,0 +1,73 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:30.747788+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 84b30ca3-caae-4486-8be3-f27b4792c2f9\n"
+
+msgctxt "title"
+msgid "YouGov x Havas Webinar"
+msgstr ""
+
+msgctxt "slug"
+msgid "yougov-havas-connected-brand-research-webinar"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Webinar: Connected Brand Research"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Webinar: Connected Brand Research"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Exclusive webinar: Wednesday 13th October at 3pm"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"This exclusive webinar will explore how the latest developments in martech are fuelling research by enabling YouGov to track digital behaviour from behind walled gardens like Google and Amazon."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/sectors/agency/yougov-havas-connected-brand-research-webinar?marketo=register"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Register now"
+msgstr ""
+
+msgctxt "video_items.28e8ae7b-1974-4650-a429-8ad574a68d90"
+msgid "Exploring the key challenges facing agencies today:"
+msgstr ""
+
+msgctxt "video_items.28e8ae7b-1974-4650-a429-8ad574a68d90"
+msgid "Claimed data doesn’t always correlate with actual digital behaviour"
+msgstr ""
+
+msgctxt "video_items.28e8ae7b-1974-4650-a429-8ad574a68d90"
+msgid "Consumer brand perceptions change throughout the purchase funnel"
+msgstr ""
+
+msgctxt "video_items.28e8ae7b-1974-4650-a429-8ad574a68d90"
+msgid "Using a case study featuring RBS, YouGov will demonstrate how our connected data allows agencies to address these challenges."
+msgstr ""
+
+msgctxt "video_items.28e8ae7b-1974-4650-a429-8ad574a68d90"
+msgid ""
+"The solution will be underpinned by YouGov BrandIndex, our global brand tracking tool, and our new product, YouGov Safe, which allows us to track <b>real cross-device online behavioural data</b>."
+msgstr ""
+
+msgctxt "video_items.28e8ae7b-1974-4650-a429-8ad574a68d90"
+msgid "The solution is underpinned by YouGov BrandIndex, our global brand tracking tool, and our new product, YouGov Safe, which allows us to track real cross-device online behavioural data."
+msgstr ""
+
+msgctxt "video_items.28e8ae7b-1974-4650-a429-8ad574a68d90"
+msgid "Join us on Wednesday 13th October at 3pm."
+msgstr ""
+
+msgctxt "video_items.28e8ae7b-1974-4650-a429-8ad574a68d90"
+msgid "<a id=\"a1\"><b>Register now.</b></a> We look forward to seeing you there."
+msgstr ""

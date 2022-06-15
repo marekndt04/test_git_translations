@@ -1,0 +1,18 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:32.391797+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "France CityBus"
+msgstr ""
+
+msgctxt "slug"
+msgid "france-citybus"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "France CityBus"
+msgstr ""

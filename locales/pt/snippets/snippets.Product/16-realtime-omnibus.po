@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:39.759639+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 63018683-ba1c-4a76-9bc8-7d72f39df833\n"
+
+msgctxt "title"
+msgid "RealTime"
+msgstr ""
+
+msgctxt "description"
+msgid "Quick-turnaround, custom survey research services, including both Omnibus and targeted research."
+msgstr ""
+
+msgctxt "url"
+msgid "/product/realtime/"
+msgstr ""

@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:42.000030+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: c83388bc-5907-47fd-959a-0559acbcfab0\n"
+
+msgctxt "title"
+msgid "Qualitative Research"
+msgstr ""
+
+msgctxt "description"
+msgid "Identify what really matters and boost your business."
+msgstr ""
+
+msgctxt "url"
+msgid "/product/qualitative-research/"
+msgstr ""

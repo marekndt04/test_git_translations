@@ -1,0 +1,91 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:35.129916+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: ffa1d1ab-968c-4a3e-885d-3df59154af88\n"
+
+msgctxt "title"
+msgid "Global Media Outlook Report 2022 APAC"
+msgstr ""
+
+msgctxt "slug"
+msgid "global-media-outlook-report-2022-apac"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Global Media Outlook Report 2022 APAC"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Panel discussion on 7 April at 12:00 SGT, hosted by YouGov’s Ervin Ha"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Panel discussion: Navigating an ever-evolving media landscape"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "On-demand panel discussion"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=request"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Watch now"
+msgstr ""
+
+msgctxt "video_items.87eb5b3e-732c-4844-9be4-9436e6905ca6"
+msgid ""
+"YouGov’s most recent white paper, the <a id=\"a1\"><b>Global Media Outlook Report 2022</b></a> provides a comprehensive view on ever-evolving media consumption habits and media channel preferences, "
+"as well as key year-on-year trends. Utilizing global data, the study sheds light on media growth opportunities for media planners and brand marketers alike, as well as exploring which media "
+"consumption habits and digital trends are likely to stick."
+msgstr ""
+
+msgctxt "video_items.87eb5b3e-732c-4844-9be4-9436e6905ca6"
+msgid ""
+"We recently held a live online panel discussion with agency and media industry leaders, drawing on key insights from our Global Media Outlook Report, plus YouGov <a id=\"a1\">Profiles,</a> our "
+"propriety audience intelligence tool. We discussed how agencies, brands and media owners can navigate ever-evolving media consumption behaviors and habits."
+msgstr ""
+
+msgctxt "video_items.87eb5b3e-732c-4844-9be4-9436e6905ca6"
+msgid "Watch now to hear from <b>Ervin Ha</b>, Head of Commercial, YouGov Asia Pacific, as well as some industry leaders including:"
+msgstr ""
+
+msgctxt "video_items.87eb5b3e-732c-4844-9be4-9436e6905ca6"
+msgid "<b>Craig Harvey</b>, Head of Research, APAC, IPG Mediabrands"
+msgstr ""
+
+msgctxt "video_items.87eb5b3e-732c-4844-9be4-9436e6905ca6"
+msgid "<b>Richard Frampton</b>, Managing Director of Strategic Solutions for North Asia, Publicis Groupe"
+msgstr ""
+
+msgctxt "video_items.87eb5b3e-732c-4844-9be4-9436e6905ca6"
+msgid "<b>Linda Fagerlund</b>, Chief Strategy &amp; Marketing Officer, dentsu Media Australia"
+msgstr ""
+
+msgctxt "video_items.87eb5b3e-732c-4844-9be4-9436e6905ca6"
+msgid "<b>Olly Taylor</b>, Chief Strategy Officer, Havas Creative Group Australia"
+msgstr ""
+
+msgctxt "video_items.bdda2837-78dd-4051-84cf-bc50e9576c53.main_cta_text"
+msgid "Watch now"
+msgstr ""
+
+msgctxt "video_items.bdda2837-78dd-4051-84cf-bc50e9576c53.main_cta_url"
+msgid "?marketo=request"
+msgstr ""
+
+msgctxt "links_title"
+msgid "YouGov"
+msgstr ""
+
+msgctxt "links_description"
+msgid ""
+"YouGov is an international research, data and analytics group. We have been building an ever-growing source of consumer data for over 20 years, creating the most complete understanding of your "
+"customers’ complex lives. We call it living data. Understand what 20 million+ registered panel members in over 55 markets are thinking now, last week, or last year. Explore, plan, activate and track"
+" marketing activity with certainty, at speed, every time."
+msgstr ""

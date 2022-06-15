@@ -1,0 +1,15 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:39.553694+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: c08ba9e0-3de9-46d9-b585-7a89a27b5c6f\n"
+
+msgctxt "title"
+msgid "Business Revamp"
+msgstr ""
+
+msgctxt "slug"
+msgid "business-revamp-group"
+msgstr ""

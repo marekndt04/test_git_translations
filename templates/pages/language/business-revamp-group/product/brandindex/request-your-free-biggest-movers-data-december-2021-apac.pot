@@ -1,0 +1,58 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:41.026473+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Request your Free Biggest Movers Data - December 2021 - APAC"
+msgstr ""
+
+msgctxt "slug"
+msgid "request-your-free-biggest-movers-data-december-2021-apac"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Request your FREE APAC Biggest Brand Movers data (December 2021)"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Consumers are reacting positively to your brand"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/product/brandindex/request-your-free-biggest-movers-data-december-apac?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Request your FREE Biggest Brand Movers data in APAC"
+msgstr ""
+
+msgctxt "video_items.c21d9078-a62a-4edf-aac3-c39c473de8e2"
+msgid ""
+"YouGov is pleased to announce our first Biggest Brand Movers for APAC markets. Biggest Brand Movers is a feature highlighting the ten brands that have registered statistically significant month-on-"
+"month growth across most brand metrics amongst APAC consumers. It is determined across 13 metrics within media consumption, brand health, and purchase intent."
+msgstr ""
+
+msgctxt "video_items.c21d9078-a62a-4edf-aac3-c39c473de8e2"
+msgid "Between November and December 2021, there has been a <b>significant increase in positive consumer perception of your brand.</b> <a id=\"a1\">See how you compare to your competitors</a>."
+msgstr ""
+
+msgctxt "video_items.0433871c-f849-4027-8495-afcc7fc15849"
+msgid "What you'll discover"
+msgstr ""
+
+msgctxt "video_items.42a44f26-7d77-4b8a-96b8-19f0168c3543"
+msgid ""
+"You’ll find out across which media, brand health and purchase funnel metrics your brand has had a statistically significant positive movement in perception amongst APAC consumers between November "
+"and December 2021, according to YouGov BrandIndex."
+msgstr ""
+
+msgctxt "video_items.42a44f26-7d77-4b8a-96b8-19f0168c3543"
+msgid "We’ll also compare your movement to four of your closest competitors."
+msgstr ""
+
+msgctxt "video_items.42a44f26-7d77-4b8a-96b8-19f0168c3543"
+msgid "<a id=\"a1\">Fill out the contact form and reference the competitors you wish your brand to be compared against in the message box.</a>"
+msgstr ""

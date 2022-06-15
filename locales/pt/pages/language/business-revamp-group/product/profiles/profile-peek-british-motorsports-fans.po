@@ -1,0 +1,73 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:42.438585+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 246b50d0-c415-4559-8589-ea167ce3035f\n"
+
+msgctxt "title"
+msgid "Profile Peek: British Motorsports Fans"
+msgstr ""
+
+msgctxt "slug"
+msgid "profile-peek-british-motorsports-fans"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Profile Peek: British Motorsports Fans"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "British Motorsports Fans"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Profile Peek"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/product/profiles/profile-peek-british-motorsports-fans?marketo=download"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Download the full Profile Peek"
+msgstr ""
+
+msgctxt "video_items.ce64c894-2d06-4395-a7bb-c9908acc4bd8"
+msgid "We profiled British motorsports fans."
+msgstr ""
+
+msgctxt "video_items.ce64c894-2d06-4395-a7bb-c9908acc4bd8"
+msgid "Download YouGov's latest Sports Profile Peek and discover:"
+msgstr ""
+
+msgctxt "video_items.ce64c894-2d06-4395-a7bb-c9908acc4bd8"
+msgid "Their favourite Formula One teams"
+msgstr ""
+
+msgctxt "video_items.ce64c894-2d06-4395-a7bb-c9908acc4bd8"
+msgid "Their environmental concerns"
+msgstr ""
+
+msgctxt "video_items.ce64c894-2d06-4395-a7bb-c9908acc4bd8"
+msgid "The social networks they use most"
+msgstr ""
+
+msgctxt "video_items.ce64c894-2d06-4395-a7bb-c9908acc4bd8"
+msgid "Other sports they watch"
+msgstr ""
+
+msgctxt "video_items.ce64c894-2d06-4395-a7bb-c9908acc4bd8"
+msgid "<a id=\"a1\"><b>Download the full Profile Peek now.</b></a>"
+msgstr ""
+
+msgctxt "video_items.ce64c894-2d06-4395-a7bb-c9908acc4bd8"
+msgid "About Profile Peeks"
+msgstr ""
+
+msgctxt "video_items.ce64c894-2d06-4395-a7bb-c9908acc4bd8"
+msgid ""
+"Drawing on data from across YouGov’s vast connected ecosystem, Profile Peeks are infographics that deep dive into a niche audience group segmented based on trending sector topics. Showcasing a range"
+" of behavioural and attitudinal insights they are designed to help brands and agencies get that little bit closer to the consumers they need to understand most."
+msgstr ""

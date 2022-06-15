@@ -1,0 +1,71 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:31.429630+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 85987e10-fe1f-42e2-b243-a01aa4121eb5\n"
+
+msgctxt "title"
+msgid "Rankings 2021"
+msgstr ""
+
+msgctxt "slug"
+msgid "rankings-2021"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Finance Purchase Funnel Rankings 2021"
+msgstr ""
+
+msgctxt "search_description"
+msgid "YouGov's Finance Purchase Funnel Rankings 2021 reveal which finance brands are best at converting consumers through the purchase funnel."
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Finance Purchase Funnel Rankings 2021"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Rankings"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "YouGov’s Finance Purchase Funnel Rankings 2021 reveal the financial services brands that are best at converting consumers through the purchase funnel"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Get in touch"
+msgstr ""
+
+msgctxt "video_items.2b0b827d-ac74-48bc-9319-86b5db1ab9e4"
+msgid ""
+"With increasing media fragmentation and consumer choice over how to interact with advertising, it is becoming harder for financial services brands to reach their target consumers. Marketing is "
+"becoming more complex, and so is proving ROI."
+msgstr ""
+
+msgctxt "video_items.2b0b827d-ac74-48bc-9319-86b5db1ab9e4"
+msgid "YouGov’s Finance Purchase Funnel Rankings reveal the financial services brands that are best at converting consumers through the purchase funnel."
+msgstr ""
+
+msgctxt "video_items.2b0b827d-ac74-48bc-9319-86b5db1ab9e4"
+msgid ""
+"The Rankings are based on the Consideration score from YouGov BrandIndex among consumers who are Aware of each brand, over a period of 12 months. This allows us to show which brands are most "
+"successful at converting Aware consumers into ones that would consider the brand when next in-market."
+msgstr ""
+
+msgctxt "video_items.2b0b827d-ac74-48bc-9319-86b5db1ab9e4"
+msgid "Discover which brands made it to the top."
+msgstr ""
+
+msgctxt "video_items.505bdbd3-c0b0-463a-b966-aeccc3fec030.main_cta_text"
+msgid "Get in touch"
+msgstr ""
+
+msgctxt "video_items.505bdbd3-c0b0-463a-b966-aeccc3fec030.main_cta_url"
+msgid "?marketo=contact"
+msgstr ""

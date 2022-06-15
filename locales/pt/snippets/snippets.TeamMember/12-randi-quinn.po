@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:42.875690+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 6b6da1c9-138a-4583-bfb3-ae8d10554408\n"
+
+msgctxt "name"
+msgid "Randi Quinn"
+msgstr ""

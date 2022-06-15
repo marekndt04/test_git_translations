@@ -1,0 +1,67 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:42.137699+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "As Told by Teens: Showcasing YouGov's Latest Research"
+msgstr ""
+
+msgctxt "slug"
+msgid "as-told-by-teens-webinar"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "As Told By Teens: Showcasing YouGov's Latest Research"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "As Told By Teens: Showcasing YouGov's Latest Research"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Watch Lance Fraenkel and Ella Pardoe from YouGov as they unveil comprehensive new research into how teenagers see the current world and what they are looking for, based on anonymized and private "
+"surveys with teens themselves."
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Request our <b>free webinar</b> <b>As Told By Teens: Showcasing YouGov’s Latest Research</b> to learn exactly how young people in the US think and feel about the word around them."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=request"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Watch now"
+msgstr ""
+
+msgctxt "content_image_label"
+msgid "WEBINAR"
+msgstr ""
+
+msgctxt "content_image_title"
+msgid "What do Generation Z really think, feel, and want?"
+msgstr ""
+
+msgctxt "content_image_description"
+msgid ""
+"The first group of people raised almost entirely on screens, today’s teens have a completely different experience than any other group of adolescents in history. The yearning to belong remains, but "
+"it ironically manifests through a desire to be unique. More than any generation prior, teenagers form their identities around the media they curate, the creators they follow, and the entertainment "
+"they consume. They are completely different, but they have more in common with each other than with other generations."
+msgstr ""
+
+msgctxt "content_image_description"
+msgid ""
+"Register now for our <b>free webinar As Told By Teens: Showcasing YouGov’s Latest Research</b> on<b> 26th July at 10:00 PT/13:00 EST</b>, to learn exactly how young people in the US think and feel "
+"about the word around them."
+msgstr ""
+
+msgctxt "content_image_description"
+msgid ""
+"Compliant with CCPA and GDPR standards, this new research from YouGov Teen Profiles highlights brand new youth-focused insights on the future of media consumption, gaming, sports, retail, online "
+"habits, and more."
+msgstr ""

@@ -1,0 +1,73 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:36.730240+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: be296576-dbcc-4bbd-8405-cbc84d77275e\n"
+
+msgctxt "title"
+msgid "Profile Peek: Sustainable Shoppers"
+msgstr ""
+
+msgctxt "slug"
+msgid "profile-peek-sustainable-shoppers-us"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Profile Peek: Sustainable Shoppers US"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Sustainable Shoppers US"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Profile Peek"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Americans who say sustainability in retail is a top issue for them"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/product/profiles/profile-peek-sustainable-shoppers-us?marketo=download"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Download the full Profile Peek"
+msgstr ""
+
+msgctxt "video_items.7dc54a44-744d-46b4-9de1-a9cdc6828b30"
+msgid "11% of Americans say \"sustainability in retail\" is a top issue for them."
+msgstr ""
+
+msgctxt "video_items.7dc54a44-744d-46b4-9de1-a9cdc6828b30"
+msgid "Download YouGov's latest Profile Peek and discover:"
+msgstr ""
+
+msgctxt "video_items.7dc54a44-744d-46b4-9de1-a9cdc6828b30"
+msgid "How much their beliefs affect spending habits"
+msgstr ""
+
+msgctxt "video_items.7dc54a44-744d-46b4-9de1-a9cdc6828b30"
+msgid "The food, household, and retail brands that impress them most"
+msgstr ""
+
+msgctxt "video_items.7dc54a44-744d-46b4-9de1-a9cdc6828b30"
+msgid "Their media consumption habits"
+msgstr ""
+
+msgctxt "video_items.7dc54a44-744d-46b4-9de1-a9cdc6828b30"
+msgid "<a id=\"a1\"><b>Download the full Profile Peek now</b></a><a id=\"a2\"><b>.</b></a>"
+msgstr ""
+
+msgctxt "video_items.7dc54a44-744d-46b4-9de1-a9cdc6828b30"
+msgid "About Profile Peeks"
+msgstr ""
+
+msgctxt "video_items.7dc54a44-744d-46b4-9de1-a9cdc6828b30"
+msgid ""
+"Drawing on data from across YouGov’s vast connected ecosystem, Profile Peeks are infographics that deep dive into a niche audience group segmented based on trending sector topics. Showcasing a range"
+" of behavioral and attitudinal insights they are designed to help brands and agencies get that little bit closer to the consumers they need to understand most."
+msgstr ""

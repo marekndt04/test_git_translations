@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:34.925468+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: bd4b07b9-b510-4355-846a-43a27a3e4723\n"
+
+msgctxt "title"
+msgid "Global Automotive Profiles"
+msgstr ""
+
+msgctxt "description"
+msgid "Optimize your strategy with automotive intelligence."
+msgstr ""
+
+msgctxt "url"
+msgid "https://business.yougov.com/product/global-automotive-profiles"
+msgstr ""

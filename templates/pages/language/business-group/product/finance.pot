@@ -1,0 +1,119 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:30.014865+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "YouGov Finance"
+msgstr ""
+
+msgctxt "slug"
+msgid "finance"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Finance"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Track consumer transactions, spending habits and financial market trends with YouGov Finance, monitoring transactions from thousands of consumers in the UK and US."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "BENEFITS"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Unparalleled levels of accuracy"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "YouGov Finance"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "The power of financial data"
+msgstr ""
+
+msgctxt "products_label"
+msgid "OFFERING"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Unlock more audience data"
+msgstr ""
+
+msgctxt "direct_description"
+msgid ""
+"<b>YouGov Finance</b> aggregates transactions from thousands of consumers in the UK and US, creating a <b>rich, verified, connected dataset</b> to unlock understanding of consumer <b>spending "
+"habits</b> and <b>market trends</b> with an unparalleled level of accuracy."
+msgstr ""
+
+msgctxt "direct_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "direct_footer"
+msgid "Unlock financial data"
+msgstr ""
+
+msgctxt "benefit_items.68805b09-15ea-45f6-932f-f7a92a30bd29.title"
+msgid "Know your customer"
+msgstr ""
+
+msgctxt "benefit_items.68805b09-15ea-45f6-932f-f7a92a30bd29.description"
+msgid "Explore financial profiles on your customers and understand their shopping habits across brands and industries"
+msgstr ""
+
+msgctxt "benefit_items.7ae76e2b-5eb4-4ae6-b522-7c0d8d0a7fcf.title"
+msgid "Understand the competition"
+msgstr ""
+
+msgctxt "benefit_items.7ae76e2b-5eb4-4ae6-b522-7c0d8d0a7fcf.description"
+msgid "Discover your competitors’ strengths and weaknesses, benchmarking yourself within your industry"
+msgstr ""
+
+msgctxt "benefit_items.28baa0c6-64da-42f8-b0da-63138f895776.title"
+msgid "Get ahead"
+msgstr ""
+
+msgctxt "benefit_items.28baa0c6-64da-42f8-b0da-63138f895776.description"
+msgid "Use financial insights to target high growth markets and segments to future-proof your strategy"
+msgstr ""
+
+msgctxt "content_image_items.00d37d73-cd35-4694-b951-921609626240.title"
+msgid "Rich, verified, connected data"
+msgstr ""
+
+msgctxt "content_image_items.00d37d73-cd35-4694-b951-921609626240.description"
+msgid ""
+"Whenever a consumer makes a payment, either online or in store, their transaction creates a diverse array of <b>data points</b>: where the purchase was made; how much was paid; when was the purchase"
+" made.<b> YouGov Finance</b> aggregates this data to provide a complete picture on consumers, including their <b>loyalty journeys</b>, wider <b>spending habits</b> and <b>shopping behavior</b>."
+msgstr ""
+
+msgctxt "content_image_items.00d37d73-cd35-4694-b951-921609626240.description"
+msgid ""
+"Panel members can safely and securely connect their bank accounts in exchange for <b>compensation</b> – when doing so <b>YouGov Finance</b> receives two years of <b>verified transaction data</b> and"
+" the ability to track three months of <b>future transactions</b> in <b>real-time</b>."
+msgstr ""
+
+msgctxt "content_image_items.00d37d73-cd35-4694-b951-921609626240.description"
+msgid ""
+"Leverage this bank of knowledge to explore the <b>share of wallet</b> for the groups driving your growth, identify <b>in-market audiences</b> and analyze <b>market share</b> within your sector."
+msgstr ""
+
+msgctxt "content_image_items.c935ae81-a170-4ba4-80ef-37dac674acd2.title"
+msgid "Financial data solutions tailored to you"
+msgstr ""
+
+msgctxt "content_image_items.c935ae81-a170-4ba4-80ef-37dac674acd2.description"
+msgid ""
+"Solve your business needs with <b>bespoke financial data solutions</b> built for you, with standalone financial data tools including Campaign Success and Market Share Monitors currently in "
+"development."
+msgstr ""
+
+msgctxt "content_image_items.c935ae81-a170-4ba4-80ef-37dac674acd2.description"
+msgid "Data will be accessible via our portal or through access to our APIs upon request."
+msgstr ""

@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:33.778683+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 3260e62d-db4e-4d9b-ba68-e7210977a66c\n"
+
+msgctxt "title"
+msgid "Media &amp; Content"
+msgstr ""
+
+msgctxt "description"
+msgid "Maximise campaign investment and performance."
+msgstr ""
+
+msgctxt "url"
+msgid "/sectors/media-content/"
+msgstr ""

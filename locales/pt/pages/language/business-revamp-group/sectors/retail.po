@@ -1,0 +1,121 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:39.614096+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 2bd58e1d-2937-4371-854a-b87eff23ca5b\n"
+
+msgctxt "title"
+msgid "Retail"
+msgstr ""
+
+msgctxt "slug"
+msgid "retail"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Retail News, Industry Insights and Reports"
+msgstr ""
+
+msgctxt "search_description"
+msgid ""
+"Discover the latest Retail news and industry insights with YouGov's unrivalled data intelligence. Understand your audience, track brands and campaigns and read current and relevant research insights"
+" on the Retail sector."
+msgstr ""
+
+msgctxt "data_presentation_title"
+msgid "Explore the YouGov platform"
+msgstr ""
+
+msgctxt "data_presentation_description"
+msgid "Unlock powerful insights about your customers’ needs at every stage of your marketing funnel."
+msgstr ""
+
+msgctxt "download_content_label"
+msgid "White paper"
+msgstr ""
+
+msgctxt "download_content_title"
+msgid "International Omni-Channel Retail Report 2021: Shopping in the pandemic and the implications for the future"
+msgstr ""
+
+msgctxt "download_content_description"
+msgid ""
+"How has COVID-19 changed shopping  behaviors and attitudes? How will behaviours normalize post-pandemic? This report explores consumer trends shaping the future of retail and reveals opportunities "
+"for brands in the sector."
+msgstr ""
+
+msgctxt "download_content_cta_text"
+msgid "Download white paper"
+msgstr ""
+
+msgctxt "download_content_cta_url"
+msgid "https://business.yougov.com/sectors/retail/international-omni-channel-retail-report-2021"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Retail Intelligence"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "See how your campaigns affect consumer opinions, instantly. Make informed, strategic decisions that expand brand reach, drive consumer advocacy, and increase ROI."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?data=audience"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Explore YouGov data"
+msgstr ""
+
+msgctxt "hero_url_2"
+msgid "https://business.yougov.com/product/realtime?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text_2"
+msgid "Launch a survey"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "How we can help you"
+msgstr ""
+
+msgctxt "all_content_list_title"
+msgid "Unrivalled data insights"
+msgstr ""
+
+msgctxt "all_content_list_description"
+msgid ""
+"YouGov has over 15 years of living consumer intelligence on the Retail sector. Future-proof your strategy and keep pace with consumer shopping preferences by exploring our latest industry insights "
+"below."
+msgstr ""
+
+msgctxt "cta_label"
+msgid "NEWSLETTER"
+msgstr ""
+
+msgctxt "cta_text"
+msgid "Subscribe to our Retail Newsletter"
+msgstr ""
+
+msgctxt "cta_url"
+msgid "https://business.yougov.com/sectors/retail?marketo=newsletter"
+msgstr ""
+
+msgctxt "case_studies_title"
+msgid "Retail success stories"
+msgstr ""
+
+msgctxt "case_studies_label"
+msgid "CASE STUDIES"
+msgstr ""
+
+msgctxt "case_studies_description"
+msgid "Our products and services help the world’s most recognised brands, media owners, and agencies."
+msgstr ""

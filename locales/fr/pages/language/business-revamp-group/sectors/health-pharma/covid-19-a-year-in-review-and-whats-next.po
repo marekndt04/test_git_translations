@@ -1,0 +1,76 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:38.112203+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 3cf9edbe-5307-4bd8-94aa-685126fb8046\n"
+
+msgctxt "title"
+msgid "COVID-19: a year in review and what’s next"
+msgstr "COVID-19 : bilan de l’année écoulée et perspectives d’avenir"
+
+msgctxt "slug"
+msgid "covid-19-a-year-in-review-and-whats-next"
+msgstr "covid-19-bilan-annee-et-perspectives-d-avenir"
+
+msgctxt "seo_title"
+msgid "COVID-19: a year in review and what’s next"
+msgstr "COVID-19 : bilan de l’année écoulée et perspectives d’avenir"
+
+msgctxt "hero_title"
+msgid "COVID-19: a year in review and what’s next"
+msgstr "COVID-19 : bilan de l’année écoulée et perspectives d’avenir"
+
+msgctxt "hero_description"
+msgid "Exclusive on-demand webinar with Sarah P. Jones from the Institute of Global Health Innovation, Imperial College London, and Marcus Roberts, YouGov's International Projects Director."
+msgstr ""
+"Webinaire exclusif à la demande animé par Sarah P. Jones de l’Institute of Global Health Innovation, Imperial College London, et Marcus Roberts, directeur des projets internationaux de YouGov."
+
+msgctxt "hero_description"
+msgid "What you’ll hear about:"
+msgstr "Parmi les thèmes abordés, citons :"
+
+msgctxt "hero_description"
+msgid "How preventative behaviours, life satisfaction, and consumer trust have developed over time"
+msgstr "Comment les comportements préventifs, la satisfaction de la vie et la confiance des consommateurs ont évolué au fil du temps"
+
+msgctxt "hero_description"
+msgid "The latest attitudes towards COVID-19 vaccines across the globe"
+msgstr "Les dernières attitudes envers les vaccins COVID-19 à travers le monde"
+
+msgctxt "hero_description"
+msgid "How perception of certain brands and public sentiment towards the pharmaceutical industry shifted during the pandemic"
+msgstr "Comment la perception de certaines marques et le sentiment du public à l’égard de l’industrie pharmaceutique ont évolué pendant la pandémie"
+
+msgctxt "hero_description"
+msgid "Re-adjusting after COVID-19 – what measures will make consumers feel more comfortable as they return to normal life"
+msgstr "Réadaptation après le COVID-19 : quelles mesures permettront aux consommateurs de se sentir plus à l’aise lors de leur retour à la vie normale"
+
+msgctxt "hero_url"
+msgid "?marketo=request"
+msgstr "?marketo=request"
+
+msgctxt "hero_url_text"
+msgid "Request the webinar on-demand"
+msgstr "Demandez le webinaire à la demande"
+
+msgctxt "content_image_label"
+msgid "Report"
+msgstr "Rapport"
+
+msgctxt "content_image_title"
+msgid "COVID-19 Global Behaviours and Attitudes: The Year in Review"
+msgstr "Comportements et attitudes dans le monde dans le contexte du COVID-19 : bilan de l’année écoulée"
+
+msgctxt "content_image_description"
+msgid ""
+"Brought to you by a team of health behaviour and data experts at the Institute of Global Health Innovation (IGHI) at Imperial College London and YouGov, this latest report provides insights and "
+"trends in people’s changing behaviours and attitudes related to COVID-19 across 14 international markets."
+msgstr ""
+"Réalisé conjointement par une équipe d’experts en données et en comportements en matière de santé de l’Institute of Global Health Innovation (IGHI) de l’Imperial College de Londres et de YouGov, ce "
+"dernier rapport fournit des informations et des tendances sur l’évolution des comportements et des attitudes dans le contexte du COVID-19 sur 14 marchés internationaux."
+
+msgctxt "content_image_description"
+msgid "<a id=\"a1\"><b>Download the report here</b></a>"
+msgstr "<a id=\"a1\"><b>Cliquez ici pour télécharger le rapport</b></a>"

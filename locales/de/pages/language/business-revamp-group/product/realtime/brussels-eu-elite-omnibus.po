@@ -1,0 +1,113 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:29.686998+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: aa6147d1-8089-41e2-a21f-e9e725c63b15\n"
+
+msgctxt "title"
+msgid "Brussels EU Elite Omnibus"
+msgstr ""
+
+msgctxt "slug"
+msgid "brussels-eu-elite-omnibus"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Brussels EU Elite Omnibus"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Brussels EU Elite Omnibus"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Interview key opinion formers working in and around the EU's institutions"
+msgstr ""
+
+msgctxt "rates_title"
+msgid "Brussels EU Elite Omnibus rates"
+msgstr ""
+
+msgctxt "rates_description"
+msgid ""
+"The YouGov Omnibus approach allows organisations to buy as little as five questions to conduct their research, without having to commission an entire survey. Plus we have two ways to buy in using "
+"either our 200 or 100 respondent options."
+msgstr ""
+
+msgctxt "rates_description"
+msgid "Including survey design, full-service support, and full results analysis - <b>we are for you</b> and your business to help to reach out to your target group and find answers you need."
+msgstr ""
+
+msgctxt "benefit_items.98d5eabc-9d24-4515-9c36-fab92fac6617.title"
+msgid "200 EU Elite Stakeholders"
+msgstr ""
+
+msgctxt "benefit_items.98d5eabc-9d24-4515-9c36-fab92fac6617.description"
+msgid "Reach 200 Brussels EU Elite stakeholders"
+msgstr ""
+
+msgctxt "benefit_items.90a1c92d-4e4e-4c66-9f97-232597b47485.title"
+msgid "Variety of opinion formers"
+msgstr ""
+
+msgctxt "benefit_items.90a1c92d-4e4e-4c66-9f97-232597b47485.description"
+msgid "MEPs, EU institution staff, journalists, NGOs and other influencers"
+msgstr ""
+
+msgctxt "benefit_items.2ef684e8-2d72-4c15-b98c-814d0ec54f25.title"
+msgid "Results within six weeks"
+msgstr ""
+
+msgctxt "benefit_items.2ef684e8-2d72-4c15-b98c-814d0ec54f25.description"
+msgid "Receive full results with charts and data tables within six weeks."
+msgstr ""
+
+msgctxt "rates_table_header.d5acb15c-2c08-4453-b7e7-1b50594548a4.column_2"
+msgid "Respondents"
+msgstr ""
+
+msgctxt "rates_table_header.d5acb15c-2c08-4453-b7e7-1b50594548a4.column_3"
+msgid "Entry"
+msgstr ""
+
+msgctxt "rates_table_header.d5acb15c-2c08-4453-b7e7-1b50594548a4.column_4"
+msgid "Standard question"
+msgstr ""
+
+msgctxt "rates_table_rows.d1fe4d28-2a58-4785-afc2-b58effd3f7db.column_1"
+msgid "Brussels EU Elite 200"
+msgstr ""
+
+msgctxt "rates_table_rows.d1fe4d28-2a58-4785-afc2-b58effd3f7db.column_2"
+msgid "200"
+msgstr ""
+
+msgctxt "rates_table_rows.d1fe4d28-2a58-4785-afc2-b58effd3f7db.column_3"
+msgid "€350"
+msgstr ""
+
+msgctxt "rates_table_rows.d1fe4d28-2a58-4785-afc2-b58effd3f7db.column_4"
+msgid "€3,250"
+msgstr ""
+
+msgctxt "rates_table_rows.d2c04031-3562-422b-8b3f-adc8c3ea96ba.column_1"
+msgid "Brussels EU Elite 100"
+msgstr ""
+
+msgctxt "rates_table_rows.d2c04031-3562-422b-8b3f-adc8c3ea96ba.column_1"
+msgid "(Politicos and journalists only)"
+msgstr ""
+
+msgctxt "rates_table_rows.d2c04031-3562-422b-8b3f-adc8c3ea96ba.column_2"
+msgid "100"
+msgstr ""
+
+msgctxt "rates_table_rows.d2c04031-3562-422b-8b3f-adc8c3ea96ba.column_3"
+msgid "€350"
+msgstr ""
+
+msgctxt "rates_table_rows.d2c04031-3562-422b-8b3f-adc8c3ea96ba.column_4"
+msgid "€1,950"
+msgstr ""

@@ -1,0 +1,83 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:36.691383+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: be0e183e-c2a5-442a-a642-18d3aaa07ab4\n"
+
+msgctxt "title"
+msgid "Profile Peek: Live TV Viewers vs Streamers"
+msgstr ""
+
+msgctxt "slug"
+msgid "profile-peek-live-tv-vs-streamers"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Profile Peek: Live TV Only vs Streamers"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Live TV Viewers vs Streamers"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Profile Peek"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "The key behavioural differences among 18-34 year olds in the UK"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/product/profiles/profile-peek-live-tv-vs-streamers?marketo=download"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Download the full Profile Peek"
+msgstr ""
+
+msgctxt "video_items.8a551799-5761-4d56-b270-74ebf554f003"
+msgid ""
+"Content consumption surged in the UK as people spent more time at home in need of entertainment during the height of the pandemic and beyond. So, what does TV watching look like now, especially "
+"among younger consumers."
+msgstr ""
+
+msgctxt "video_items.8a551799-5761-4d56-b270-74ebf554f003"
+msgid "We looked at the key differences between 18-34 year olds who watch Live TV only versus those that stream TV."
+msgstr ""
+
+msgctxt "video_items.8a551799-5761-4d56-b270-74ebf554f003"
+msgid "Download YouGov’s latest Media Profile Peek and discover:"
+msgstr ""
+
+msgctxt "video_items.8a551799-5761-4d56-b270-74ebf554f003"
+msgid "Their trust in celebrities and newspapers"
+msgstr ""
+
+msgctxt "video_items.8a551799-5761-4d56-b270-74ebf554f003"
+msgid "How they access the news"
+msgstr ""
+
+msgctxt "video_items.8a551799-5761-4d56-b270-74ebf554f003"
+msgid "The social networks they use most"
+msgstr ""
+
+msgctxt "video_items.8a551799-5761-4d56-b270-74ebf554f003"
+msgid "Their opinions on hot topics such as celebrity culture and political correctness"
+msgstr ""
+
+msgctxt "video_items.8a551799-5761-4d56-b270-74ebf554f003"
+msgid "<a id=\"a1\"><b>Download the full Profile Peek now.</b></a>"
+msgstr ""
+
+msgctxt "video_items.8a551799-5761-4d56-b270-74ebf554f003"
+msgid "About Profile Peeks"
+msgstr ""
+
+msgctxt "video_items.8a551799-5761-4d56-b270-74ebf554f003"
+msgid ""
+"Drawing on data from across YouGov’s vast connected ecosystem, Profile Peeks are infographics that deep dive into a niche audience group segmented based on trending sector topics. Showcasing a range"
+" of behavioural and attitudinal insights they are designed to help brands and agencies get that little bit closer to the consumers they need to understand most."
+msgstr ""

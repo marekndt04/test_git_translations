@@ -1,0 +1,72 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:42.477664+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Profile Peek: Augmented Reality in Britain"
+msgstr ""
+
+msgctxt "slug"
+msgid "profile-peek-augmented-reality"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Profile Peek: Augmented Reality in Britain"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Augmented Reality in Britain"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Profile Peek"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Brits who say online shopping would be much more fun with Augmented Reality"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/product/profiles/profile-peek-augmented-reality?marketo=download"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Download the full Profile Peek"
+msgstr ""
+
+msgctxt "video_items.a7d84902-be11-4179-b4b2-91e335c8af95"
+msgid "We looked at the attitudes of Brits who think online shopping would be much more fun with Augmented Reality."
+msgstr ""
+
+msgctxt "video_items.a7d84902-be11-4179-b4b2-91e335c8af95"
+msgid "Download YouGov’s latest Tech Profile Peek and discover:"
+msgstr ""
+
+msgctxt "video_items.a7d84902-be11-4179-b4b2-91e335c8af95"
+msgid "The technologies they use most"
+msgstr ""
+
+msgctxt "video_items.a7d84902-be11-4179-b4b2-91e335c8af95"
+msgid "Their favourite brands"
+msgstr ""
+
+msgctxt "video_items.a7d84902-be11-4179-b4b2-91e335c8af95"
+msgid "The social networks they use most"
+msgstr ""
+
+msgctxt "video_items.a7d84902-be11-4179-b4b2-91e335c8af95"
+msgid "<a id=\"a1\"><b>Download the full Profile Peek now.</b></a>"
+msgstr ""
+
+msgctxt "video_items.a7d84902-be11-4179-b4b2-91e335c8af95"
+msgid "About Profile Peeks"
+msgstr ""
+
+msgctxt "video_items.a7d84902-be11-4179-b4b2-91e335c8af95"
+msgid ""
+"Drawing on data from across YouGov’s vast connected ecosystem, Profile Peeks are infographics that deep dive into a niche audience group segmented based on trending sector topics. Showcasing a range"
+" of behavioural and attitudinal insights they are designed to help brands and agencies get that little bit closer to the consumers they need to understand most."
+msgstr ""

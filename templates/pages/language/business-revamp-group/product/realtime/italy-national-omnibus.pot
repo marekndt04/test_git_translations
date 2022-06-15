@@ -1,0 +1,140 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:41.953198+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Italy National Omnibus"
+msgstr ""
+
+msgctxt "slug"
+msgid "italy-national-omnibus"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Italy National Omnibus"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Italy National Omnibus"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Daily surveys of 1,000+ Italians aged 18+."
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"With no minimum question count, you can field a nationally representative survey fast, affordably, and with full research team support including consultation, questionnaire design, programming, "
+"fieldwork, and results."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "rates_title"
+msgid "National Omnibus rates"
+msgstr ""
+
+msgctxt "benefit_items.a3a2202d-81d7-4fe3-9943-867ff0f2d5eb.title"
+msgid "Representative sample"
+msgstr ""
+
+msgctxt "benefit_items.a3a2202d-81d7-4fe3-9943-867ff0f2d5eb.description"
+msgid "Reach a nationally representative sample of 1,000 to 2,000 Italians adults aged 18+."
+msgstr ""
+
+msgctxt "benefit_items.99833540-8475-4fcf-a4fa-538879107828.title"
+msgid "Weekly surveys"
+msgstr ""
+
+msgctxt "benefit_items.99833540-8475-4fcf-a4fa-538879107828.description"
+msgid "Surveys launch twice a week."
+msgstr ""
+
+msgctxt "benefit_items.bc60fd90-cfa3-46bb-9dee-e94c72939e9d.title"
+msgid "Fast results"
+msgstr ""
+
+msgctxt "benefit_items.bc60fd90-cfa3-46bb-9dee-e94c72939e9d.description"
+msgid "Results delivered in a week, with full-service support and live reporting."
+msgstr ""
+
+msgctxt "rates_table_rows.4de0c4bf-7081-4d19-9de6-935142ddc33b.column_1"
+msgid "Entry Fee"
+msgstr ""
+
+msgctxt "rates_table_rows.4de0c4bf-7081-4d19-9de6-935142ddc33b.column_2"
+msgid "Book space on the nation’s market-leading omnibus"
+msgstr ""
+
+msgctxt "rates_table_rows.4de0c4bf-7081-4d19-9de6-935142ddc33b.column_3"
+msgid "Free"
+msgstr ""
+
+msgctxt "rates_table_rows.9efd478f-96ff-40b8-beb7-775fe1ed0926.column_1"
+msgid "Questions"
+msgstr ""
+
+msgctxt "rates_table_rows.9efd478f-96ff-40b8-beb7-775fe1ed0926.column_2"
+msgid "Single or multiple choice (up to 10 answers per question)"
+msgstr ""
+
+msgctxt "rates_table_rows.9efd478f-96ff-40b8-beb7-775fe1ed0926.column_3"
+msgid "€490"
+msgstr ""
+
+msgctxt "rates_table_rows.f1ac867e-54ff-48c5-8b26-6e062d81dddd.column_1"
+msgid "Scale Questions"
+msgstr ""
+
+msgctxt "rates_table_rows.f1ac867e-54ff-48c5-8b26-6e062d81dddd.column_2"
+msgid "Statements answered against a scale (per every 3 statements)"
+msgstr ""
+
+msgctxt "rates_table_rows.f1ac867e-54ff-48c5-8b26-6e062d81dddd.column_3"
+msgid "€490"
+msgstr ""
+
+msgctxt "rates_table_rows.6ebe0b74-0c57-4ded-b874-ada672141ba0.column_1"
+msgid "Open-ended"
+msgstr ""
+
+msgctxt "rates_table_rows.6ebe0b74-0c57-4ded-b874-ada672141ba0.column_2"
+msgid "Full verbatim answers (coding services also available)"
+msgstr ""
+
+msgctxt "rates_table_rows.6ebe0b74-0c57-4ded-b874-ada672141ba0.column_3"
+msgid "€980"
+msgstr ""
+
+msgctxt "rates_table_rows.8e89016f-3d44-4022-8b62-8fbfd0e62d4a.column_1"
+msgid "Images"
+msgstr ""
+
+msgctxt "rates_table_rows.8e89016f-3d44-4022-8b62-8fbfd0e62d4a.column_2"
+msgid "Use images for a more engaging survey (video options available)"
+msgstr ""
+
+msgctxt "rates_table_rows.8e89016f-3d44-4022-8b62-8fbfd0e62d4a.column_3"
+msgid "FREE"
+msgstr ""
+
+msgctxt "rates_table_rows.30f0eab3-e7a1-46b2-93f7-9edc45d57938.column_1"
+msgid "Deliverables"
+msgstr ""
+
+msgctxt "rates_table_rows.30f0eab3-e7a1-46b2-93f7-9edc45d57938.column_2"
+msgid "Full Excel(TM) tables, PowerPoint(TM) summary charts, plus live and final results available via our interactive online analytics platform"
+msgstr ""
+
+msgctxt "rates_table_rows.30f0eab3-e7a1-46b2-93f7-9edc45d57938.column_3"
+msgid "INCLUDED"
+msgstr ""

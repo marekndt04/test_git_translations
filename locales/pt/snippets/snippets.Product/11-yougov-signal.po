@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:41.886174+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: cbb1c55f-f6cd-483c-8a5e-015ff5578e33\n"
+
+msgctxt "title"
+msgid "YouGov Signal"
+msgstr ""
+
+msgctxt "description"
+msgid "Social listening platform that monitors conversation and sentiment on the web."
+msgstr ""
+
+msgctxt "url"
+msgid "/product/signal/"
+msgstr ""

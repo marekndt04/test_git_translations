@@ -1,0 +1,41 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:40.235478+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "The 5G opportunity: considerations for 2021 and beyond"
+msgstr ""
+
+msgctxt "slug"
+msgid "the-5g-opportunity"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Global telecommunications white paper"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "The 5G opportunity"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Considerations for 2021 and beyond"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Telcos have an opportunity to shape a new future for consumers on the strength of advanced wireless technologies such as 5G. Our latest report, based on <a id=\"a1\">YouGov Custom "
+"Research </a>and <a id=\"a2\">YouGov Profiles</a> data covering 17 markets around the world, provides a global consumer overview of who these engaged early 5G adopters are and how companies and "
+"brands can effectively target them."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=download"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Download now"
+msgstr ""

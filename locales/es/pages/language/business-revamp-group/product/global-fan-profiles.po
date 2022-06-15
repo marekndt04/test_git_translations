@@ -1,0 +1,119 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:37.319588+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: f0847623-e401-43e5-affd-a197c8de6bbe\n"
+
+msgctxt "title"
+msgid "Global Fan Profiles"
+msgstr ""
+
+msgctxt "slug"
+msgid "global-fan-profiles"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Global Fan Profiles: Understand Sports Fan Data"
+msgstr ""
+
+msgctxt "search_description"
+msgid ""
+"Discover an instant view of the size and make-up of fan bases around the globe with YouGov Global Fan Profiles, the perfect tool to analyse the size, make-up, attitudes and behaviors of fan bases "
+"for sport and esports."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "BENEFITS"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Get the winning edge, no matter what market"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Global Fan Profiles"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Sport and esports fan data at your fingertips."
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Discover everything you need to know about fan bases around the world. Get an instant view of the size, make-up, attitudes and behaviours of fan bases in 50+ markets."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "/product/global-fan-profiles/?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our connected living data solutions"
+msgstr ""
+
+msgctxt "benefit_items.e0b469d2-e735-4936-8b16-2a227bfafd04.title"
+msgid "All sports"
+msgstr ""
+
+msgctxt "benefit_items.e0b469d2-e735-4936-8b16-2a227bfafd04.description"
+msgid "No matter the sport, event, or market, we have the full picture on your fans to help you effectively reach them."
+msgstr ""
+
+msgctxt "benefit_items.b09b762f-c054-4f83-9192-a4b5eebcbfb6.title"
+msgid "Esports coverage"
+msgstr ""
+
+msgctxt "benefit_items.b09b762f-c054-4f83-9192-a4b5eebcbfb6.description"
+msgid "A steady flow of data at the game, league, event, and team level, delivering unmatched fan group analysis."
+msgstr ""
+
+msgctxt "benefit_items.47ff4b09-6b03-41c9-a01d-3c0181e2be53.title"
+msgid "Athlete marketing"
+msgstr ""
+
+msgctxt "benefit_items.47ff4b09-6b03-41c9-a01d-3c0181e2be53.description"
+msgid "Perception tracking on 500 of the world’s top athletes tells you what audiences they do and do not appeal to."
+msgstr ""
+
+msgctxt "content_image_items.d6000d4b-4540-4895-ad38-9d11c3e932d1.title"
+msgid "Understand your fans in depth"
+msgstr ""
+
+msgctxt "content_image_items.d6000d4b-4540-4895-ad38-9d11c3e932d1.description"
+msgid "Discover precisely how big a fan base is, who the fans are and how they consume content."
+msgstr ""
+
+msgctxt "content_image_items.d6000d4b-4540-4895-ad38-9d11c3e932d1.description"
+msgid ""
+"Access market-specific fan data across <b>200</b> leagues, <b>50</b> events, <b>45+</b> game titles, <b>500</b> athletes and <b>2,000</b> teams, with the latest data from more than <b>300,000</b> "
+"interviews."
+msgstr ""
+
+msgctxt "content_image_items.d6000d4b-4540-4895-ad38-9d11c3e932d1.description"
+msgid "Align this with the thousands of brands and audience trends YouGov tracks daily to evaluate sponsorship opportunities, win pitches and stand out from your competitors."
+msgstr ""
+
+msgctxt "content_image_items.5bb8fac6-c833-40bd-8097-4e99d5fb4384.title"
+msgid "Data-led decisions"
+msgstr ""
+
+msgctxt "content_image_items.5bb8fac6-c833-40bd-8097-4e99d5fb4384.description"
+msgid ""
+"Inform your strategic plans and decisions – assess international market differences in fan base size and make-up. You can even track esports properties and compare individual game titles, leagues, "
+"events, tournaments, and team fan bases."
+msgstr ""
+
+msgctxt "content_image_items.5bb8fac6-c833-40bd-8097-4e99d5fb4384.description"
+msgid ""
+"Evaluate sponsorship opportunities and create compelling propositions, using real data on your fans and how they align with the brand you’re pitching to. Prove the growth and composition of your fan"
+" base to support broadcast negotiations."
+msgstr ""

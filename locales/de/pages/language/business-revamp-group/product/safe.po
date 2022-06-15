@@ -1,0 +1,127 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:32.798500+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 4ef07a74-4540-45a1-8717-60e674781f79\n"
+
+msgctxt "title"
+msgid "YouGov Safe"
+msgstr "YouGov Safe"
+
+msgctxt "slug"
+msgid "safe"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Safe"
+msgstr ""
+
+msgctxt "search_description"
+msgid ""
+"Customer profiling on another level with YouGov Safe, a fully opt-in cross-device tracker that allows YouGov panellist's to upload their online behavioral data including streaming, gaming, shopping,"
+" search and more."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "BENEFITS"
+msgstr "VORTEILE"
+
+msgctxt "benefits_title"
+msgid "Another level of audience intelligence"
+msgstr "Eine weitere Ebene der Publikumsintelligenz"
+
+msgctxt "hero_title"
+msgid "Safe"
+msgstr "Safe"
+
+msgctxt "hero_label"
+msgid "Unlock online consumer behaviour"
+msgstr "Entschlüsseln Sie das Online-Verbraucherverhalten"
+
+msgctxt "hero_description"
+msgid ""
+"Take customer profiling to another level. Get fully permissioned and verified data on what consumers really do online across each of their devices – from search queries to social media interactions,"
+" streaming behavior to shopping purchases."
+msgstr ""
+"Bringen Sie die Erstellung von Kundenprofilen auf eine neue Ebene. Erhalten Sie vollständig genehmigte und verifizierte Daten darüber, was Verbraucher wirklich online über jedes ihrer Geräte tun - "
+"von Suchanfragen über Interaktionen in sozialen Medien und Streaming-Verhalten bis hin zu Einkäufen."
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr "Kontaktieren Sie uns"
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr "Lösungen &amp; Produkte"
+
+msgctxt "products_title"
+msgid "Explore our connected living data solutions"
+msgstr "Entdecken Sie unsere verknüpften Datenlösungen"
+
+msgctxt "benefit_items.e739e3bd-e6e7-4ec0-b583-213c6c5b38dc.title"
+msgid "Zero-party data"
+msgstr "Null-Parteien Daten"
+
+msgctxt "benefit_items.e739e3bd-e6e7-4ec0-b583-213c6c5b38dc.description"
+msgid "Data collected is not self-reported but verified via a double opt-in consent – going above and beyond GDPR/CCPA requirements."
+msgstr "Die gesammelten Daten werden nicht selbst gemeldet, sondern durch eine doppelte Zustimmung verifiziert, was über die GDPR/CCPA-Anforderungen hinausgeht."
+
+msgctxt "benefit_items.9442d20f-0eb9-40f0-932b-802ea9378d4b.title"
+msgid "Connected and customizable"
+msgstr "Vernetzt und anpassbar"
+
+msgctxt "benefit_items.9442d20f-0eb9-40f0-932b-802ea9378d4b.description"
+msgid "Integrate with YouGov’s wider ecosystem of living data, linked by PMX ID to panellists, cross-referencing reported opinions with verified actions."
+msgstr "Integration in das breitere YouGov-Ökosystem mit aktuellen Daten, die über die PMX-ID mit den Befragten verknüpft sind, um die gemeldeten Meinungen mit verifizierten Handlungen abzugleichen."
+
+msgctxt "benefit_items.3eafec45-1c2f-46bd-ae60-23ab76342db4.title"
+msgid "Global reach"
+msgstr "Globale Reichweite"
+
+msgctxt "benefit_items.3eafec45-1c2f-46bd-ae60-23ab76342db4.description"
+msgid "Available in 8 key markets: US, UK, Australia, Canada, France, Germany, Spain and Italy."
+msgstr "Verfügbar in 8 Schlüsselmärkten: USA, Großbritannien, Australien, Kanada, Frankreich, Deutschland, Spanien und Italien."
+
+msgctxt "content_image_items.872a879d-1b4b-479e-ae65-eece078a0a50.title"
+msgid "Rethink what's possible"
+msgstr "Überdenken Sie, was möglich ist"
+
+msgctxt "content_image_items.872a879d-1b4b-479e-ae65-eece078a0a50.description"
+msgid ""
+"Unlock the intelligence you need to understand your audience completely. Access granular user data in the marketplace, with the option to drill down further and target your ideal consumer one-to-"
+"one: take a unique email address and discover what they’re listening to, their latest tweet and even what they bought for breakfast."
+msgstr ""
+"Schöpfen Sie die Informationen aus, die Sie benötigen, um Ihre Zielgruppe vollständig zu verstehen. Greifen Sie auf detaillierte Nutzerdaten auf dem Marktplatz zu, mit der Option, diese weiter "
+"aufzuschlüsseln und Ihre idealen Kunden eins zu eins anzusprechen: Nehmen Sie eine eindeutige E-Mail-Adresse und entdecken Sie, was sie hören, ihren letzten Tweet und sogar, was sie zum Frühstück "
+"gekauft haben.Übersetzt mit www.DeepL.com/Translator (kostenlose Version)"
+
+msgctxt "content_image_items.872a879d-1b4b-479e-ae65-eece078a0a50.description"
+msgid "Access your results in our easy-to-use data tools or commission our expert team to design a custom project."
+msgstr "Greifen Sie auf Ihre Ergebnisse in unseren benutzerfreundlichen Datentools zu oder beauftragen Sie unser Expertenteam mit der Entwicklung eines individuellen Projekts."
+
+msgctxt "content_image_items.53b076af-9946-46a0-90f5-b61e0e00efce.title"
+msgid "360° consumer intelligence"
+msgstr "360° consumer intelligence"
+
+msgctxt "content_image_items.53b076af-9946-46a0-90f5-b61e0e00efce.description"
+msgid ""
+"Connect authentic behavioral data with reported survey insights in <a id=\"a1\"><b>YouGov Profiles</b></a> for the full picture. Build your target audience and connect to our living data for cross-"
+"tab analysis or to run hyper-targeted audience surveys. <a id=\"a2\"><b>Re-Contact</b></a> the same audience over time or drill down into smaller subsets to gain key insights."
+msgstr ""
+"Verbinden Sie authentische Verhaltensdaten mit Umfrageergebnissen in YouGov Profiles, um ein vollständiges Bild zu erhalten. Bauen Sie Ihre Zielgruppe auf und stellen Sie eine Verbindung zu unseren "
+"laufenden Daten her, um Cross-Tab-Analysen oder Umfragen für eine sehr gezielte Zielgruppe durchzuführen. Kontaktieren Sie dieselbe Zielgruppe im Laufe der Zeit erneut oder gehen Sie in kleinere "
+"Untergruppen, um wichtige Erkenntnisse zu gewinnen."
+
+msgctxt "content_image_items.53b076af-9946-46a0-90f5-b61e0e00efce.description"
+msgid ""
+"View aggregated social media conversation and search summaries with <a id=\"a1\"><b>YouGov Signal</b></a>, or dive into cross-platform viewership metrics with our newest product <a "
+"id=\"a2\"><b>YouGov Stream</b></a><b>.</b>"
+msgstr ""
+"Sehen Sie sich mit YouGov Signal aggregierte Social-Media-Konversationen und Suchzusammenfassungen an, oder tauchen Sie mit unserem neuesten Produkt YouGov Stream in plattformübergreifende "
+"Zuschauerzahlen ein."

@@ -1,0 +1,24 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:40.325878+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "University of Manchester"
+msgstr ""
+
+msgctxt "description"
+msgid ""
+"\"YouGov has collected data for us since we started the study in 2014. We have always been extremely satisfied with the service, price and quality of data. They deliver large samples and high wave-"
+"on-wave response rates.\""
+msgstr ""
+
+msgctxt "url"
+msgid "https://business.yougov.com/content/40516-university-manchester-custom-research-case-study"
+msgstr ""
+
+msgctxt "quote_author"
+msgid "Prof. Edward Fieldhouse, Professor of Social and Political Science"
+msgstr ""

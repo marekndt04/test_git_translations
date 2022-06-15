@@ -1,0 +1,27 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:38.990717+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 3f5131a5-8365-4bc0-9c7c-e44a51a09c93\n"
+
+msgctxt "title"
+msgid "Select"
+msgstr ""
+
+msgctxt "slug"
+msgid "select"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "EXPLORE OUR 360° DATA"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Access audience intelligence, brand tracking and research about your sector"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Visit your sector page"
+msgstr ""

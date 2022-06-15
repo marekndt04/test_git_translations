@@ -1,0 +1,80 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:38.889827+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Target Audiences"
+msgstr ""
+
+msgctxt "slug"
+msgid "target-audience"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Target Audiences"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Discover the most effective way to target your audience with YouGov's solutions and products for audience targeting."
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Target your audience"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Reach the right people, in the right place, at the right time"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Target your audience with campaigns and messaging in the right locations, with messaging that will resonate most, with YouGov’s unrivalled and accurate audience intelligence on   media consumption "
+"habits. Build your target audience to discover how to reach them, and scale lookalike audiences to expand your reach further."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our connected living data solutions"
+msgstr ""
+
+msgctxt "content_image_items.f3363281-c7d9-4539-9036-5539bb677448.title"
+msgid "Targeted advertising"
+msgstr ""
+
+msgctxt "content_image_items.f3363281-c7d9-4539-9036-5539bb677448.description"
+msgid "With 20 million+ registered panellists, YouGov’s platform enables you to access the audience insights you need with exceptional speed to help target your advertising."
+msgstr ""
+
+msgctxt "content_image_items.f3363281-c7d9-4539-9036-5539bb677448.description"
+msgid ""
+"Use <a id=\"a1\"><b>YouGov Direct</b></a> to credibly test ads and media, and demonstrate clear ROI by monitoring survey click-throughs, or build and scale targeted audiences made for all "
+"addressable channels with <a id=\"a2\"><b>YouGov Audience Data</b></a>."
+msgstr ""
+
+msgctxt "content_image_items.888a086b-5582-4ea4-85e4-a88794541a7c.title"
+msgid "Deeper targeting intelligence"
+msgstr ""
+
+msgctxt "content_image_items.888a086b-5582-4ea4-85e4-a88794541a7c.description"
+msgid "We make it easy to understand the audience that matters most to you with <a id=\"a1\"><b>YouGov Profiles</b></a>."
+msgstr ""
+
+msgctxt "content_image_items.888a086b-5582-4ea4-85e4-a88794541a7c.description"
+msgid ""
+"Know what impacts and influences your target audience with our ever-growing source of Living Consumer Intelligence, then re-target previous respondents with <a id=\"a1\"><b>YouGov Re-"
+"Contact,</b></a> asking the ‘why’ behind their responses to unlock deeper insights about their behaviors and attitudes."
+msgstr ""

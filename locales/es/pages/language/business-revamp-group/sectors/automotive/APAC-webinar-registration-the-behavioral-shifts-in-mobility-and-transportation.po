@@ -1,0 +1,51 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:36.140788+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 521242f7-4286-4aca-9db5-7665902385b8\n"
+
+msgctxt "title"
+msgid "APAC Webinar registration the behavioural shifts in mobility and transportation"
+msgstr ""
+
+msgctxt "slug"
+msgid "APAC-webinar-registration-the-behavioral-shifts-in-mobility-and-transportation"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov's automotive webinar on consumer-behavior shifts"
+msgstr ""
+
+msgctxt "search_description"
+msgid "YouGov's Global Sector Head of Automotive hosted an exclusive webinar on how consumers have altered their behaviors and shopping preferences."
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Consumer-behavior shifts: What is driving decisions on mobility and transportation?"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "WEBINAR"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "How consumers have altered their behaviors"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=request"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Request the webinar on-demand"
+msgstr ""
+
+msgctxt "video_items.71497ce2-0bb1-4682-b688-91c1344386ab.main_cta_text"
+msgid "Request the webinar on-demand"
+msgstr ""
+
+msgctxt "video_items.71497ce2-0bb1-4682-b688-91c1344386ab.main_cta_url"
+msgid "?marketo=request"
+msgstr ""

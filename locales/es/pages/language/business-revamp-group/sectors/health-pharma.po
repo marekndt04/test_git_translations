@@ -1,0 +1,107 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:35.524329+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 0f0b6f8e-77ac-49a2-bb74-913bc06bc051\n"
+
+msgctxt "title"
+msgid "Health &amp; Pharma"
+msgstr ""
+
+msgctxt "slug"
+msgid "health-pharma"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Medical Statistics and Healthcare Industry Insights"
+msgstr ""
+
+msgctxt "search_description"
+msgid ""
+"Uncover the latest in medical statistics and healthcare industry insights with YouGov's latest research. Discover a breadth and depth of data intelligence on Pharmaceutical and Health businesses, "
+"with the latest reports and articles."
+msgstr ""
+
+msgctxt "data_presentation_title"
+msgid "Explore the YouGov platform"
+msgstr ""
+
+msgctxt "download_content_label"
+msgid "REPORT"
+msgstr ""
+
+msgctxt "download_content_title"
+msgid "COVID-19 Global Behaviours and Attitudes: The Year in Review"
+msgstr ""
+
+msgctxt "download_content_description"
+msgid ""
+"Brought to you by a team of health behaviour and data experts, Imperial College London and YouGov's latest report provides insights into people’s changing behaviours related to COVID-19 across 14 "
+"international markets."
+msgstr ""
+
+msgctxt "download_content_cta_text"
+msgid "Download report"
+msgstr ""
+
+msgctxt "download_content_cta_url"
+msgid "https://business.yougov.com/content/35699-covid-19-one-year-overview-report?marketo=download"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Health &amp; Pharma Intelligence"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Get bespoke research that helps you identify patients’ changing needs to make customer-centric business decisions."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?data=audience"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Explore YouGov data"
+msgstr ""
+
+msgctxt "hero_url_2"
+msgid "https://business.yougov.com/product/realtime?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text_2"
+msgid "Launch a survey"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "How we can help you"
+msgstr ""
+
+msgctxt "products_description"
+msgid "Unlock powerful insights about your customers’ needs at every stage of your marketing funnel."
+msgstr ""
+
+msgctxt "all_content_list_title"
+msgid "Unrivalled data insights"
+msgstr ""
+
+msgctxt "all_content_list_description"
+msgid "YouGov has over 15 years of living consumer intelligence on the Health &amp; Pharma sector. Sta ahead of the curve by exploring our latest industry insights below."
+msgstr ""
+
+msgctxt "cta_label"
+msgid "NEWSLETTER"
+msgstr ""
+
+msgctxt "cta_text"
+msgid "Subscribe to our Health &amp; Pharma Newsletter"
+msgstr ""
+
+msgctxt "cta_url"
+msgid "?marketo=newsletter"
+msgstr ""

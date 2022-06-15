@@ -1,0 +1,47 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:40.119666+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 33f5bdfa-a0be-4a17-b152-436820f5153c\n"
+
+msgctxt "title"
+msgid "Request your Free Biggest Movers Data - May"
+msgstr ""
+
+msgctxt "slug"
+msgid "request-your-free-biggest-movers-data"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Request your Free Biggest Movers Data"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"For over a decade YouGov BrandIndex has been tracking daily consumer perception of thousands of brands and their campaigns worldwide, with critical insight on a brand’s performance against its "
+"competitors. Discover how much the nation is reacting to your brand right now."
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Consistently understanding how consumers react to your brand is key to identifying where your marketing is making an impact, and how!"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"We’ll send you a report with your brand’s statistically significant positive movements among UK consumers across BrandIndex metrics compared to four of your closest competitors between March and "
+"April 2021."
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Simply <a id=\"a1\"><b>request your free biggest movers data</b></a> and reference the competitors you wish to be compared against in the message box."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Request your free biggest movers data"
+msgstr ""

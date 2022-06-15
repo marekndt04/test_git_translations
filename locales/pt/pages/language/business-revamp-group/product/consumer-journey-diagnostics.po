@@ -1,0 +1,115 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:40.900107+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 813f4c83-cb30-43d9-a794-048cdace3219\n"
+
+msgctxt "title"
+msgid "Consumer Journey Diagnostics"
+msgstr ""
+
+msgctxt "slug"
+msgid "consumer-journey-diagnostics"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Consumer Journey Diagnostics"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Discover how brands fit into your consumers’ lives and research across a number of stages in the customer lifecycle with YouGov’s new cost-effective, templated brand research approaches."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "BENEFITS"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Speak to the right people at the right times"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Consumer Journey Diagnostics"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Ask the right questions to the right people at the right times"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Understand and address each stage of the customer lifecycle with cost-effective, templated questionnaires designed for key stages in the consumer funnel: Brand Values Tracking, Creative Testing, New"
+" Concept Testing, Brand Loyalty &amp; Switching Diagnostics and Purchase Funnel Diagnostics."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore the customer lifecycle"
+msgstr ""
+
+msgctxt "benefit_items.1a207781-8465-41d5-8e88-bfb6257b1703.title"
+msgid "Quality data"
+msgstr ""
+
+msgctxt "benefit_items.1a207781-8465-41d5-8e88-bfb6257b1703.description"
+msgid "Be confident that you have the full picture on the consumer journey and what’s driving it."
+msgstr ""
+
+msgctxt "benefit_items.e30cfbe5-8b13-4768-9300-b0714dbc4e80.title"
+msgid "Targeting efficiency"
+msgstr ""
+
+msgctxt "benefit_items.e30cfbe5-8b13-4768-9300-b0714dbc4e80.description"
+msgid "Identify people and brands at any phase of the consumer journey."
+msgstr ""
+
+msgctxt "benefit_items.f99027a5-f1e4-4170-96bb-4f83b803a49b.title"
+msgid "Sampling methodology"
+msgstr ""
+
+msgctxt "benefit_items.f99027a5-f1e4-4170-96bb-4f83b803a49b.description"
+msgid "Access a representative sample of customers, delivering engaged respondents."
+msgstr ""
+
+msgctxt "content_image_items.1641aa63-8e17-4212-9dda-c5ed44b38b64.title"
+msgid "Measure what matters"
+msgstr ""
+
+msgctxt "content_image_items.1641aa63-8e17-4212-9dda-c5ed44b38b64.description"
+msgid "Understanding the consumer journey is key to brand advertising and brand research. It matters what you ask, who you ask and when you ask it."
+msgstr ""
+
+msgctxt "content_image_items.1641aa63-8e17-4212-9dda-c5ed44b38b64.description"
+msgid ""
+"Target respondents as they move from brand awareness to consideration, through to intention to purchase and actual consumption. Understand the reasons behind loyalty and lapsed purchasers and "
+"loyalty, discovering how to win them back."
+msgstr ""
+
+msgctxt "content_image_items.0c1d0ea3-ba26-435e-b84e-f547cc1a9c21.title"
+msgid "Tailored to your needs"
+msgstr ""
+
+msgctxt "content_image_items.0c1d0ea3-ba26-435e-b84e-f547cc1a9c21.description"
+msgid "Save time and resource using quick-turnaround, pre-designed questionnaires, with the option to tailor your research by including additional custom questions."
+msgstr ""
+
+msgctxt "content_image_items.0c1d0ea3-ba26-435e-b84e-f547cc1a9c21.description"
+msgid "Unlock an unrivalled understanding of the customer lifecycle: conduct surveys continuously for regular tracking, or single investigations and uncover the reason behind NPS™."
+msgstr ""
+
+msgctxt "content_image_items.0c1d0ea3-ba26-435e-b84e-f547cc1a9c21.description"
+msgid "Interpret data easily in a dashboard, providing better depth, breadth and context of results"
+msgstr ""

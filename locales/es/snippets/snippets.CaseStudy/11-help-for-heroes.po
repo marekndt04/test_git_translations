@@ -1,0 +1,21 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:34.028065+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: d3bd138b-4a01-49b3-8bf5-720a23ee0157\n"
+
+msgctxt "title"
+msgid "Help for Heroes"
+msgstr ""
+
+msgctxt "description"
+msgid ""
+"Without YouGov Profiles and CharityIndex we would not be able to make evidence-based decisions or devise robust marketing strategies. The tools allow us to understand the market, stay on top of "
+"changing trends and be as effective as we can be with our budgets."
+msgstr ""
+
+msgctxt "url"
+msgid "https://yougov.co.uk/topics/resources/articles-reports/2018/08/01/how-does-leading-military-charity-develop-marketin"
+msgstr ""

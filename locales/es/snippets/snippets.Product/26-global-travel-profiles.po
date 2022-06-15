@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:36.390957+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 35769e98-0c86-4158-b8fe-e8d364770371\n"
+
+msgctxt "title"
+msgid "Global Travel Profiles"
+msgstr ""
+
+msgctxt "description"
+msgid "Understand current sentiment and attitudes towards travel."
+msgstr ""
+
+msgctxt "url"
+msgid "/product/global-travel-profiles/"
+msgstr ""

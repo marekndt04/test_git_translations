@@ -1,0 +1,74 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:35.096406+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: ba8de6c9-078c-44e2-a0bf-b65673a2e6a9\n"
+
+msgctxt "title"
+msgid "My Audience: Public Transport Commuters in Britain"
+msgstr ""
+
+msgctxt "slug"
+msgid "public-transport-commuters-in-britain"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Public Transport Commuters in Britain"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Video: Public Transport Commuters in Britain"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "YouGov Video Deep Dive"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "YouGov profiled Brits who use public transport to get to work. Discover their media habits, the ads they notice, and how they occupy their time in winter."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=audience"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Request your free audience profile"
+msgstr ""
+
+msgctxt "video_items.dab64b16-3c45-40e0-a641-30d529793469"
+msgid "Watch Now"
+msgstr ""
+
+msgctxt "video_items.2f217648-51b0-4128-a9e0-973956b27d18.video_id"
+msgid "eRLxCN3m4Yo"
+msgstr ""
+
+msgctxt "video_items.ef5ea8e3-2ac4-4422-9be5-35868302d09a"
+msgid "What audience matters most to you?"
+msgstr ""
+
+msgctxt "video_items.8bc04a85-2bba-4c8e-8b0e-dfd7bb94dad3"
+msgid ""
+"YouGov’s vast connected ecosystem means we have an unrivalled source of rich, on-demand actual and attitudinal consumer data. From the top to the bottom of the funnel, we have insight that some "
+"clients didn’t even know they needed to help them better understand the audience that matters most to them."
+msgstr ""
+
+msgctxt "video_items.8bc04a85-2bba-4c8e-8b0e-dfd7bb94dad3"
+msgid "Simply request an Audience Profile and describe your audience. We’ll get in touch to <b>present what we know about them right now for free</b>, directly within our syndicated data tools."
+msgstr ""
+
+msgctxt "video_items.8bc04a85-2bba-4c8e-8b0e-dfd7bb94dad3"
+msgid ""
+"If we don’t have exactly what you’re looking for, we’ll present the closest data we have and, on request, we can get more answers as soon as the next day via our YouGov RealTime research service."
+msgstr ""
+
+msgctxt "video_items.8bc04a85-2bba-4c8e-8b0e-dfd7bb94dad3"
+msgid "Let’s get you even closer to the audience that matters most to you."
+msgstr ""
+
+msgctxt "video_items.8bc04a85-2bba-4c8e-8b0e-dfd7bb94dad3"
+msgid "<a id=\"a1\"><b>Request an Audience Profile now</b></a>"
+msgstr ""

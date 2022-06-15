@@ -1,0 +1,121 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:40.142196+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 670b822d-9051-4b1a-96d4-4378d851d506\n"
+
+msgctxt "title"
+msgid "FMCG"
+msgstr ""
+
+msgctxt "slug"
+msgid "fmcg"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "FMCG Industry Insights, Research and Market Trends"
+msgstr ""
+
+msgctxt "search_description"
+msgid ""
+"Discover the latest insights on everything FMCG. Learn what your consumers are thinking, market trends and how your brand performs across the fast moving consumer goods industry with the latest "
+"sector research."
+msgstr ""
+
+msgctxt "data_presentation_title"
+msgid "Explore the YouGov platform"
+msgstr ""
+
+msgctxt "data_presentation_description"
+msgid "Unlock powerful insights about your customers’ needs at every stage of your marketing funnel."
+msgstr ""
+
+msgctxt "download_content_label"
+msgid "WHITE PAPER"
+msgstr ""
+
+msgctxt "download_content_title"
+msgid "International FMCG/CPG Report 2021: Consumer goods in a crisis"
+msgstr ""
+
+msgctxt "download_content_description"
+msgid ""
+"How have shopping habits changed as a result of COVID-19? Which FMCG categories have prospered and which have suffered? This report explores consumer trends shaping the future of FMCG and reveals "
+"opportunities for businesses in the sector."
+msgstr ""
+
+msgctxt "download_content_cta_text"
+msgid "Download white paper"
+msgstr ""
+
+msgctxt "download_content_cta_url"
+msgid "https://business.yougov.com/content/35160-International-FMCG-CPG-Report-2021"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "FMCG Intelligence"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Get the complete picture of your customers so you can make faster, strategic decisions for ground-breaking campaigns."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?data=audience"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Explore YouGov data"
+msgstr ""
+
+msgctxt "hero_url_2"
+msgid "https://business.yougov.com/product/realtime?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text_2"
+msgid "Launch a survey"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "How we can help you"
+msgstr ""
+
+msgctxt "all_content_list_title"
+msgid "Unrivalled data insights"
+msgstr ""
+
+msgctxt "all_content_list_description"
+msgid ""
+"YouGov has over 15 years of living consumer intelligence on the FMCG sector. Ensure your brand stands out in the market with a highly targeted business strategy informed by the latest industry "
+"insights below."
+msgstr ""
+
+msgctxt "cta_label"
+msgid "NEWSLETTER"
+msgstr ""
+
+msgctxt "cta_text"
+msgid "Subscribe to our FMCG Newsletter"
+msgstr ""
+
+msgctxt "cta_url"
+msgid "?marketo=newsletter"
+msgstr ""
+
+msgctxt "case_studies_title"
+msgid "FMCG success stories"
+msgstr ""
+
+msgctxt "case_studies_label"
+msgid "CASE STUDIES"
+msgstr ""
+
+msgctxt "case_studies_description"
+msgid "Our products and services help the world’s most recognised brands, media owners, and agencies."
+msgstr ""

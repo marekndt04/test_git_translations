@@ -1,0 +1,115 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:30.425550+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 0e2e756d-1231-46ac-8ac2-e2968b80ee69\n"
+
+msgctxt "title"
+msgid "YouGov Chat"
+msgstr ""
+
+msgctxt "slug"
+msgid "chat"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Chat:  Engage with Your Community"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Chat to your community directly and recontact them with targeted surveys, polls, quizzes, news and more. YouGov Chat is the future of personalized audience engagement."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "BENEFITS"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "The first chat platform dedicated to community engagement"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Chat"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Nurture communities and survey niche audiences"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Instantly message your audience, fans and customers. YouGov Chat facilitates meaningful engagement between you and your audience via a simple, intuitive platform. Start conversations, receive "
+"feedback, and offer exclusive content like polls, quizzes, and product offers."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://www.yougov.chat/"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our connected living data solutions"
+msgstr ""
+
+msgctxt "benefit_items.d14198a7-c869-4340-a7c3-19c0c98f50bc.title"
+msgid "Reach the people who matter most"
+msgstr ""
+
+msgctxt "benefit_items.d14198a7-c869-4340-a7c3-19c0c98f50bc.description"
+msgid "Directly interact with and survey your target audience, with flexible hosting options"
+msgstr ""
+
+msgctxt "benefit_items.17497ee1-3241-403e-9502-a89f4b0a4be1.title"
+msgid "Nurture your audience"
+msgstr ""
+
+msgctxt "benefit_items.17497ee1-3241-403e-9502-a89f4b0a4be1.description"
+msgid "Create and share tailored content and exclusive promotions, ensuring you’re always front of mind"
+msgstr ""
+
+msgctxt "benefit_items.614875dc-5e87-4be9-9d07-f89708980652.title"
+msgid "Strengthen your marketing"
+msgstr ""
+
+msgctxt "benefit_items.614875dc-5e87-4be9-9d07-f89708980652.description"
+msgid "Develop your brand in real time, in line with direct feedback"
+msgstr ""
+
+msgctxt "content_image_items.73ab5baa-bb7c-4254-9d0a-6e3410df0815.title"
+msgid "Build your community"
+msgstr ""
+
+msgctxt "content_image_items.73ab5baa-bb7c-4254-9d0a-6e3410df0815.description"
+msgid "Have private, personalised and worthwhile conversations with your audience, at scale, enabled by our chatbot technology with editorial flare."
+msgstr ""
+
+msgctxt "content_image_items.73ab5baa-bb7c-4254-9d0a-6e3410df0815.description"
+msgid "Create conversations to get to know your community better and to hear what they have to say. Engage with the people that matter most by communicating with them directly."
+msgstr ""
+
+msgctxt "content_image_items.73ab5baa-bb7c-4254-9d0a-6e3410df0815.description"
+msgid "Talk to your audience wherever they are; run your chat community on the <a id=\"a1\"><b>YouGov Chat website</b></a>, your own website or via your mobile app."
+msgstr ""
+
+msgctxt "content_image_items.d5ac1ddf-303e-4a5b-a79b-5d1f235f968d.title"
+msgid "Engage, discover and reward"
+msgstr ""
+
+msgctxt "content_image_items.d5ac1ddf-303e-4a5b-a79b-5d1f235f968d.description"
+msgid ""
+"Interact directly with the people who matter most to your business. Send them polls, quizzes, news, opinions, surveys and marketing promotions, and get valuable, first-hand feedback in real-time on "
+"what your audience really wants."
+msgstr ""
+
+msgctxt "content_image_items.d5ac1ddf-303e-4a5b-a79b-5d1f235f968d.description"
+msgid "Incentivize and reward your audience to encourage regular participation."
+msgstr ""

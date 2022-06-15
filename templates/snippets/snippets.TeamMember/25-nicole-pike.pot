@@ -1,0 +1,14 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:38.724509+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "name"
+msgid "Nicole Pike"
+msgstr ""
+
+msgctxt "position"
+msgid "Global Sector Head of Esports and Gaming"
+msgstr ""

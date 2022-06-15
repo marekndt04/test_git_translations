@@ -1,0 +1,65 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:38.092809+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 3ff0cdb0-d931-4adc-a293-0ccd89f0aae5\n"
+
+msgctxt "title"
+msgid "YouGov Framework: Attitudes to investing"
+msgstr "Étude-cadre YouGov : Lumière sur les attitudes à l’égard de l’investissement"
+
+msgctxt "slug"
+msgid "attitudes-to-investing-framework"
+msgstr "etude-cadre-attitudes-investissement"
+
+msgctxt "hero_title"
+msgid "YouGov Framework: British public attitudes to investing"
+msgstr "Étude-cadre YouGov : Lumière sur les attitudes du public britannique à l’égard des investissements"
+
+msgctxt "hero_description"
+msgid ""
+"As Britain emerges from the pandemic and consumer confidence starts to return, many consumers previously not willing or lacking in confidence to invest their savings may be tempted to look for "
+"better returns than current interest rates can deliver."
+msgstr ""
+"Alors que la Grande-Bretagne sort de la pandémie et que la confiance des consommateurs commence à revenir, de nombreux consommateurs qui n’étaient pas disposés à investir leurs économies ou "
+"hésitants pourraient être tentés de rechercher de meilleurs rendements que ceux que les taux d’intérêt peuvent actuellement offrir."
+
+msgctxt "hero_description"
+msgid "Using YouGov Profiles data, YouGov has developed a framework designed to help marketers better understand the British population with investable assets and their varying propensity to invest."
+msgstr ""
+"En utilisant les données de YouGov Profiles, YouGov a mis au point une étude-cadre conçue pour aider les spécialistes du marketing à mieux comprendre la population britannique disposant d’actifs "
+"investissables et leur propension variable à investir."
+
+msgctxt "hero_url"
+msgid "?marketo=download"
+msgstr "?marketo=download"
+
+msgctxt "hero_url_text"
+msgid "Download full framework"
+msgstr "Télécharger l’étude-cadre complète"
+
+msgctxt "content_image_label"
+msgid "FRAMEWORK"
+msgstr "ÉTUDE-CADRE"
+
+msgctxt "content_image_title"
+msgid "What you'll discover:"
+msgstr "Ce que vous allez découvrir :"
+
+msgctxt "content_image_description"
+msgid ""
+"Using a total adult GB market size with investable assets (24 million GB adults), the British population has been segmented based on the value of the investable assets they have and the extent to "
+"which they look for profitable ways to invest money."
+msgstr ""
+"En exploitant la taille totale du marché des adultes britanniques disposant d’actifs investissables (soit 24 millions d’adultes britanniques), la population britannique a été segmentée en fonction "
+"de la valeur des actifs investissables dont elle dispose et de la mesure dans laquelle elle recherche des moyens rentables d’investir."
+
+msgctxt "content_image_description"
+msgid "The segments have then been profiled to reveal the attitudes and behavioural traits of each group."
+msgstr "Les segments ont ensuite été profilés pour déterminer les attitudes et les traits comportementaux de chaque groupe."
+
+msgctxt "content_image_description"
+msgid "<a id=\"a1\"><b>Download the full framework and segment profiles.</b></a>"
+msgstr "<a id=\"a1\"><b>Téléchargez l’étude-cadre complète et les profils des segments.</b></a>"

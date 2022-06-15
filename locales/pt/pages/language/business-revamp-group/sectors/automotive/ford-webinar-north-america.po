@@ -1,0 +1,57 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:41.311087+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 3cedb378-3399-4485-b20a-fc711ddbb0cf\n"
+
+msgctxt "title"
+msgid "Ford webinar: How to win the sustainability race"
+msgstr ""
+
+msgctxt "slug"
+msgid "ford-webinar-north-america"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Ford webinar by YouGov: How to win the sustainability race"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Join us and learn how Ford can maintain and continue to grow its foothold on the North American market with electric vehicles"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Ford webinar: How to win the sustainability race"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Webinar: Wednesday, January 19, 1:00 pm EST"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"In this webinar designed exclusively for Ford, YouGov’s Global Sector Head of Automotive, Suzanna Mitrovich, will discuss how Ford – the definitive automotive brand of the 20th century – can "
+"maintain and continue to grow its foothold on the North American market with electric vehicles."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=register"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Register now"
+msgstr ""
+
+msgctxt "page_sections.b7bda03a-1c7f-4eea-b067-87aa03de5c3b.label"
+msgid "WEBINAR"
+msgstr ""
+
+msgctxt "video_items.71497ce2-0bb1-4682-b688-91c1344386ab.main_cta_text"
+msgid "Register now"
+msgstr ""
+
+msgctxt "video_items.71497ce2-0bb1-4682-b688-91c1344386ab.main_cta_url"
+msgid "?marketo=register"
+msgstr ""

@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:39.300945+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: a42d97c8-7f7b-41db-8f38-f65a434af45a\n"
+
+msgctxt "title"
+msgid "Brand Loyalty and Switching Diagnostics"
+msgstr ""
+
+msgctxt "description"
+msgid "Understand consumer loyalty and weigh up competition."
+msgstr ""
+
+msgctxt "url"
+msgid "/product/consumer-journey-diagnostics/brand-loyalty-and-switching-diagnostics/"
+msgstr ""

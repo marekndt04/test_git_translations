@@ -1,0 +1,18 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:38.839962+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Retail"
+msgstr ""
+
+msgctxt "description"
+msgid "Detailed consumer intelligence on the retail industry."
+msgstr ""
+
+msgctxt "url"
+msgid "/sectors/retail/"
+msgstr ""

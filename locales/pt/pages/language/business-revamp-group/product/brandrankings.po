@@ -1,0 +1,138 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:40.861545+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: e3dd8510-86b1-4566-b2dd-6d07515c3b59\n"
+
+msgctxt "title"
+msgid "Brand Rankings"
+msgstr ""
+
+msgctxt "slug"
+msgid "brandrankings"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Brand Rankings: Discover Top Ranked Brands"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Explore the most popular brands in your industry according to their brand health, understanding what brands have the highest ‘Buzz’ score in our flagship tool, YouGov BrandIndex."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "BENEFITS"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "A constant eye on brand performance"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Brand Rankings"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Discover top-performing brands"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Explore the most popular organisations in each sector according to their brand health, understanding what brands have the highest ‘Buzz’ score in our flagship tool, <b>YouGov</b> <b>BrandIndex.</b>"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://platform.yougov.com/register/rankings?loginLink=https:%2F%2Fplatform.yougov.com%2Flogin%2F%3FredirectPath%3Dbrand-rankings"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "See the latest Brand Rankings"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our brand tracking solutions"
+msgstr ""
+
+msgctxt "benefit_items.f2e97239-f774-4674-8b4e-f90e9b4ccfb5.title"
+msgid "Understand your sector"
+msgstr ""
+
+msgctxt "benefit_items.f2e97239-f774-4674-8b4e-f90e9b4ccfb5.description"
+msgid "Be certain of your brand position in relation to your sector, local, and global competitors"
+msgstr ""
+
+msgctxt "benefit_items.80d7a78a-8ec9-4171-844a-22098b5dfc0e.title"
+msgid "Benchmark effectively"
+msgstr ""
+
+msgctxt "benefit_items.80d7a78a-8ec9-4171-844a-22098b5dfc0e.description"
+msgid "Compare your brand’s year-on year performance across its current markets, and see which territories have white space"
+msgstr ""
+
+msgctxt "benefit_items.d81eb538-6dad-4e85-9c32-d1ccf2a98b71.title"
+msgid "Share quickly and easily"
+msgstr ""
+
+msgctxt "benefit_items.d81eb538-6dad-4e85-9c32-d1ccf2a98b71.description"
+msgid "Instantly download a professional snapshot of your rankings, ready for internal reports or external comms"
+msgstr ""
+
+msgctxt "content_image_items.d8362e40-6595-42b6-88d6-2bb34b6809f0.title"
+msgid "Understand your Buzz score"
+msgstr ""
+
+msgctxt "content_image_items.d8362e40-6595-42b6-88d6-2bb34b6809f0.description"
+msgid ""
+"Buzz is a measure of whether consumers have heard positive things about a brand in the last two weeks. The score can range from 100 to -100 and is compiled by subtracting negative feedback from "
+"positive."
+msgstr ""
+
+msgctxt "content_image_items.d8362e40-6595-42b6-88d6-2bb34b6809f0.description"
+msgid ""
+"A zero score means equal positive and negative feedback. It is just one of 16 brand health metrics continuously tracked by <a id=\"a1\"><b>YouGov BrandIndex</b></a> across thousands of brands and "
+"hundreds of sectors, globally, with historical data ranging back over 15 years."
+msgstr ""
+
+msgctxt "content_image_items.dc5bfc32-dd69-4a81-b7dd-3388e29420a1.title"
+msgid "Build a rankings table"
+msgstr ""
+
+msgctxt "content_image_items.dc5bfc32-dd69-4a81-b7dd-3388e29420a1.description"
+msgid "Select a market and industry"
+msgstr ""
+
+msgctxt "content_image_items.dc5bfc32-dd69-4a81-b7dd-3388e29420a1.description"
+msgid "Choose an audience filter, like gender or age group"
+msgstr ""
+
+msgctxt "content_image_items.dc5bfc32-dd69-4a81-b7dd-3388e29420a1.description"
+msgid "Your rankings lists will automatically appear, within seconds"
+msgstr ""
+
+msgctxt "content_image_items.dc5bfc32-dd69-4a81-b7dd-3388e29420a1.description"
+msgid "Monitor which brands have risen and fallen in rank, and who are the competitors to watch. Create custom rankings or view the most popular brands in your market across different industries."
+msgstr ""
+
+msgctxt "content_image_items.7666952e-c219-4da2-8c61-929d082f1d0a.title"
+msgid "Access additional brand data"
+msgstr ""
+
+msgctxt "content_image_items.7666952e-c219-4da2-8c61-929d082f1d0a.description"
+msgid "Unlock more data points with <b>YouGov</b> <b>BrandIndex</b>"
+msgstr ""
+
+msgctxt "content_image_items.7666952e-c219-4da2-8c61-929d082f1d0a.description"
+msgid ""
+"The data in Brand Rankings tables is a snapshot from YouGov BrandIndex — a powerful daily brand and competitor tracker monitoring 16 key metrics, giving brand owners the insights they need to create"
+" unbeatable strategies and stay ahead of their competition."
+msgstr ""
+
+msgctxt "content_image_items.7666952e-c219-4da2-8c61-929d082f1d0a.description"
+msgid "YouGov has been tracking brands across industries and markets with consistent KPIs for 15+ years, resulting in the largest system of connected living data."
+msgstr ""

@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:38.376779+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 2245bc8f-81c7-4359-8075-ba69434f9a05\n"
+
+msgctxt "name"
+msgid "James Mundell"
+msgstr ""

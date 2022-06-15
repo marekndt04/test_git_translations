@@ -1,0 +1,22 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:41.667060+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Deutsche Telekom"
+msgstr ""
+
+msgctxt "description"
+msgid "\"We aspire to be the leading European telecommunications provider. YouGov BrandIndex provides essential insights for making the right decisions for expanding the brand.”"
+msgstr ""
+
+msgctxt "url"
+msgid "https://business.yougov.com/content/38007-deutsche-telekom-brandindex-case-study"
+msgstr ""
+
+msgctxt "quote_author"
+msgid "Ulrich Klenke, <b>Chief Brand Officer at Deutsche Telekom</b>"
+msgstr ""

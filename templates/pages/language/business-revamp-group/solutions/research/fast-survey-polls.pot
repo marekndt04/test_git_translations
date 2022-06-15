@@ -1,0 +1,124 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:39.059070+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Fast Surveys &amp; Polls"
+msgstr ""
+
+msgctxt "slug"
+msgid "fast-survey-polls"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Fast Market Research: Quick Turn-Around Surveys &amp; Polls"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Get fast, reliable and flexible data intelligence with YouGov's cost-effective survey and poll services."
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Fast Surveys &amp; Polls"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Cost-effective and reliable research"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Accuracy, speed, and expertise. Whether self-service or using the support of our research team, get fast-turnaround data for consumer-led decisions."
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Use our rapid <a id=\"a1\"><b>self-service platform</b></a> to build and launch your own polls, or get nationally representative survey results as soon as the next day with our full-service "
+"<b>Omnibus range.</b> We have infinite ways to deliver the intelligence you need."
+msgstr ""
+
+msgctxt "hero_url_3"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text_3"
+msgid "Start your research"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our research solutions"
+msgstr ""
+
+msgctxt "content_image_items.cbf59b12-8cfe-4db3-a7c1-8ab944f9b3d9.title"
+msgid "Rich, flexible Omnibus research"
+msgstr ""
+
+msgctxt "content_image_items.cbf59b12-8cfe-4db3-a7c1-8ab944f9b3d9.description"
+msgid "Fast, cost-effective data from the s most quoted research company in the UK and second most quoted in the world."
+msgstr ""
+
+msgctxt "content_image_items.cbf59b12-8cfe-4db3-a7c1-8ab944f9b3d9.description"
+msgid ""
+"Choose from Nationally Representative or niche audiences with <a id=\"a1\"><b>YouGov RealTime</b></a>, our industry-leading Omnibus and targeted research solution. All research data is delivered by "
+"<a id=\"a2\"><b>YouGov Crunch</b></a>, our modern platform for survey data analysis. Get your insights with speed and simplicity."
+msgstr ""
+
+msgctxt "content_image_items.cbf59b12-8cfe-4db3-a7c1-8ab944f9b3d9.description"
+msgid "Win pitches, plan campaigns, develop products, and generate media coverage backed by our first-in-class technology and research expertise."
+msgstr ""
+
+msgctxt "content_image_items.4d1d2801-4bb2-4f58-8726-95ece0276153.title"
+msgid "Benefit from fast, accurate data"
+msgstr ""
+
+msgctxt "content_image_items.4d1d2801-4bb2-4f58-8726-95ece0276153.description"
+msgid "Quality and accuracy:"
+msgstr ""
+
+msgctxt "content_image_items.4d1d2801-4bb2-4f58-8726-95ece0276153.description"
+msgid "Clients praise our robust data, market acumen, and attention to detail."
+msgstr ""
+
+msgctxt "content_image_items.4d1d2801-4bb2-4f58-8726-95ece0276153.description"
+msgid "Speed and reach:"
+msgstr ""
+
+msgctxt "content_image_items.4d1d2801-4bb2-4f58-8726-95ece0276153.description"
+msgid "Get accurate, representative, actionable survey results within days. The size and depth of our panel means you will reach highly niche groups and have infinite ways to cut your data."
+msgstr ""
+
+msgctxt "content_image_items.4d1d2801-4bb2-4f58-8726-95ece0276153.description"
+msgid "Responsiveness and expertise:"
+msgstr ""
+
+msgctxt "content_image_items.4d1d2801-4bb2-4f58-8726-95ece0276153.description"
+msgid "Our team of researchers are standing by to make sure questions are fielded quickly and follow best practices."
+msgstr ""
+
+msgctxt "content_image_items.49547123-274c-44bd-8ab1-76510c5d4449.title"
+msgid "Fast, self-serve survey results"
+msgstr ""
+
+msgctxt "content_image_items.49547123-274c-44bd-8ab1-76510c5d4449.description"
+msgid "Our self-service platform <a id=\"a1\"><b>YouGov Direct</b></a> was built to help advertisers, media agencies and publishers <b>precisely target specific audiences, fast</b>."
+msgstr ""
+
+msgctxt "content_image_items.49547123-274c-44bd-8ab1-76510c5d4449.description"
+msgid "Set up an account in 5 minutes, <b>create targeted surveys within 10 minutes</b> and watch real-time results roll in, completing your results in as fast as an hour."
+msgstr ""
+
+msgctxt "content_image_items.49547123-274c-44bd-8ab1-76510c5d4449.description"
+msgid ""
+"With 180+ profiling variables, the unrivaled granularity helps our clients easily analyze their data intelligence in an easy-to-use platform. Run <b>ad and product concept testing</b> on an opt-in, "
+"fraud-free platform that’s underpinned by Blockchain technology."
+msgstr ""
+
+msgctxt "content_image_items.49547123-274c-44bd-8ab1-76510c5d4449.main_CTA_text"
+msgid "Build your survey now"
+msgstr ""
+
+msgctxt "content_image_items.49547123-274c-44bd-8ab1-76510c5d4449.main_CTA_link"
+msgid "https://business.yougov.com/product/direct"
+msgstr ""

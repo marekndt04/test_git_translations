@@ -1,0 +1,73 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:42.395607+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: e7e86a34-2fda-4206-90ac-e42efca4ed86\n"
+
+msgctxt "title"
+msgid "Profile Peeks: Car Buyers in Singapore"
+msgstr ""
+
+msgctxt "slug"
+msgid "profile-peek-car-buyers-singapore"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Profile Peek: Car Buyers in Singapore"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Car Buyers in Singapore"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Profile Peek"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Who are the car buyers in Singapore and how to reach out to them?"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/product/profiles/profile-peek-car-buyers-singapore?marketo=download"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Download the full Profile Peeks"
+msgstr ""
+
+msgctxt "video_items.609301c4-0be9-4524-9eaa-1a22581da8e4"
+msgid ""
+"Many industries in Singapore recorded year-on-year declines in sales in August 2021. <a id=\"a1\">According to the Retail Sales Index and Food &amp; Beverage Service Index published by Singapore "
+"Department of Statistics in August, 2021</a>, the sales of motor vehicles have even seen a drop of 17.5%, which might be influenced by the lower Certificate of Entitlement (COE) quota this year. In "
+"order to win in the more challenging business environment, it is crucial for the industry players to fully understand who the target customers are and how to reach out to them."
+msgstr ""
+
+msgctxt "video_items.609301c4-0be9-4524-9eaa-1a22581da8e4"
+msgid ""
+"YouGov has recently investigated the persona of car buyers in Singapore. Interestingly, this segment is more likely than the public to have a management (17% vs 9%) or an IT role (11% vs 6%). When "
+"being asked about their preference on the vehicle type, over half (58%) say they would consider a petrol vehicle (vs 31% of the NatRep) in their next purchase. Having said that, 73% believe electric"
+" cars are the future of the motor industry (vs 68% of NatRep)."
+msgstr ""
+
+msgctxt "video_items.609301c4-0be9-4524-9eaa-1a22581da8e4"
+msgid ""
+"Check out our Profile Peeks to learn about the demographics of the car buyers in Singapore, their attitudes towards car ownership, advertisement, the most preferred vehicle types and brands, and "
+"more."
+msgstr ""
+
+msgctxt "video_items.609301c4-0be9-4524-9eaa-1a22581da8e4"
+msgid "<a id=\"a1\">Download the full Profile Peeks now</a>"
+msgstr ""
+
+msgctxt "video_items.609301c4-0be9-4524-9eaa-1a22581da8e4"
+msgid "About Profile Peeks"
+msgstr ""
+
+msgctxt "video_items.609301c4-0be9-4524-9eaa-1a22581da8e4"
+msgid ""
+"Drawing on data from across YouGov’s vast connected ecosystem, Profile Peeks are infographics that deep dive into a niche audience group segmented based on trending sector topics. Showcasing a range"
+" of behavioural and attitudinal insights they are designed to help brands and agencies get that little bit closer to the consumers they need to understand most."
+msgstr ""

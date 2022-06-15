@@ -1,0 +1,149 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:31.625694+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 25419b40-fa36-4704-ba19-93aa51995ca8\n"
+
+msgctxt "title"
+msgid "Telco Profiles"
+msgstr "Telco Profiles"
+
+msgctxt "slug"
+msgid "telco-profiles"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Telco Profiles"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Track key drivers of choice &amp; satisfaction in the mobile market to understand loyalty and switching, providing insights to reduce churn and grow acquisition."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "Benefits"
+msgstr "Vorteile"
+
+msgctxt "benefits_title"
+msgid "Deepen your understanding:"
+msgstr "Vertiefen Sie Ihr Verständnis:"
+
+msgctxt "hero_title"
+msgid "Telco Profiles"
+msgstr "Telco Profiles"
+
+msgctxt "hero_label"
+msgid "Optimize your strategy with tailored cellphone intelligence"
+msgstr "Optimieren Sie Ihre Strategie mit gezielter Handy-Intelligenz"
+
+msgctxt "hero_description"
+msgid ""
+"Fully understand the cellphone market and how to reduce churn. Get detailed monthly insights on telco consumers; what they think, why they might switch provider, what they want in a new handset, and"
+" which networks and brands they’re considering."
+msgstr ""
+"Verstehen Sie den Mobilfunkmarkt genau und erfahren Sie, wie Sie die Kundenabwanderung verringern können. Erhalten Sie detaillierte monatliche Einblicke in die Telekommunikationskunden: was sie "
+"denken, warum sie den Anbieter wechseln könnten, was sie sich von einem neuen Mobiltelefon wünschen und welche Netze und Marken sie in Betracht ziehen."
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr "Kontaktieren Sie uns"
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr "Lösungen &amp; Produkte"
+
+msgctxt "products_title"
+msgid "Explore our connected living data solutions"
+msgstr "Entdecken Sie unsere vernetzten Datenlösungen  "
+
+msgctxt "bullet_lists_label"
+msgid "Use cases"
+msgstr "Anwendungsbereiche"
+
+msgctxt "bullet_lists_title"
+msgid "Forward-looking, connected consumer intelligence:"
+msgstr "Zukunftsorientierte, vernetzte Verbraucherinformationen:"
+
+msgctxt "bullet_lists_description"
+msgid ""
+"<b>Global reach:</b> Currently available in 18 markets: US, UK, Australia, Brazil, Canada, China, Denmark, France, Germany, India, Indonesia, Japan, Mexico, Saudi Arabia, Singapore, Spain, Sweden "
+"and Thailand."
+msgstr ""
+"<b>Globale Reichweite:</b> Derzeit in 18 Märkten verfügbar: USA, Großbritannien, Australien, Brasilien, Kanada, China, Dänemark, Frankreich, Deutschland, Indien, Indonesien, Japan, Mexiko, Saudi-"
+"Arabien, Singapur, Spanien, Schweden und Thailand."
+
+msgctxt "bullet_lists_description"
+msgid "<b>Market sizing:</b> Reach our proprietary owned panel of 17million+ registered consumers, enabling in-depth local understanding and global comparison."
+msgstr "<b>Marktanalyse:</b> Erreichen Sie unser eigenes Panel mit mehr als 17 Millionen registrierten Verbrauchern, das ein tiefes lokales Verständnis und einen globalen Vergleich ermöglicht."
+
+msgctxt "bullet_lists_description"
+msgid "<b>Relevant sample:</b> Identify those in the market who are open to switching handset or network."
+msgstr "<b>Relevante Stichprobe:</b> Identifizieren Sie diejenigen auf dem Markt, die bereit sind, das Mobiltelefon oder das Netz zu wechseln."
+
+msgctxt "bullet_lists_description"
+msgid "<b>Deep profiling:</b> Get actionable data on key demographics, attitudes, social media and streaming habits, brand affinity and more."
+msgstr ""
+"<b>Tiefgreifende Profilerstellung:</b> Erhalten Sie verwertbare Daten zu wichtigen demografischen Daten, Einstellungen, Gewohnheiten in sozialen Medien und beim Streaming, Markenaffinität und mehr."
+
+msgctxt "bullet_lists_description"
+msgid "<b>Monthly data:</b> Examine continuous, fresh data to monitor change and trends over time."
+msgstr "<b>Monatliche Daten:</b> Untersuchen Sie kontinuierliche, aktuelle Daten, um Veränderungen und Trends im Laufe der Zeit zu beobachten."
+
+msgctxt "bullet_lists_description"
+msgid "<b>Dashboard view:</b> Access and visualize the data you need quickly within our easyto- use dashboard."
+msgstr "<b>Dashboard-Ansicht:</b> Greifen Sie auf die Daten zu, die Sie benötigen, und visualisieren Sie sie schnell in unserem benutzerfreundlichen Dashboard."
+
+msgctxt "benefit_items.83d4b7fe-ad1d-40fc-8ee5-5fc1bbeae4c8.title"
+msgid "Track and analyze trends"
+msgstr "Verfolgen und Analysieren von Trends"
+
+msgctxt "benefit_items.83d4b7fe-ad1d-40fc-8ee5-5fc1bbeae4c8.description"
+msgid "Access the latest insights with monthly data delivery, enabling you to monitor changes in consumer behavior"
+msgstr "Zugriff auf die neuesten Erkenntnisse durch monatliche Datenlieferung, die es Ihnen ermöglicht, Veränderungen im Verbraucherverhalten zu beobachten"
+
+msgctxt "benefit_items.dc5a2c9b-50a5-48a9-8f7b-8d25c5083ed8.title"
+msgid "Global and localized data"
+msgstr "Globale und lokalisierte Daten"
+
+msgctxt "benefit_items.dc5a2c9b-50a5-48a9-8f7b-8d25c5083ed8.description"
+msgid "Get consistent, reliable and actionable information across multiple markets in one dashboard, or drill down to your local market"
+msgstr "Erhalten Sie konsistente, zuverlässige und umsetzbare Informationen über mehrere Märkte in einem Dashboard, oder gehen Sie bis zu Ihrem lokalen Markt."
+
+msgctxt "benefit_items.e679a577-209d-4672-a58f-4eb99adf27e0.title"
+msgid "Understand churn"
+msgstr "Verstehen Sie die Abwanderung"
+
+msgctxt "benefit_items.e679a577-209d-4672-a58f-4eb99adf27e0.description"
+msgid "Pinpoint what drives loyalty and switching; get insights on how to reduce churn, grow acquisition and improve customer experience"
+msgstr "Ermitteln Sie, was die Loyalität und den Wechsel fördert; erhalten Sie Einblicke, wie Sie die Abwanderung verringern, die Akquise steigern und die Kundenerfahrung verbessern können."
+
+msgctxt "content_image_items.6f22d3d4-5716-48ca-8d25-e42bd05eb32b.title"
+msgid "Get in-depth, global and localized insights"
+msgstr "Erhalten Sie detaillierte, globale und lokalisierte Einblicke"
+
+msgctxt "content_image_items.6f22d3d4-5716-48ca-8d25-e42bd05eb32b.description"
+msgid ""
+"Measure customer satisfaction and the influencing factors behind it. Monitor potential churn and understand how to target customers looking to switch their network or handset, with practical, "
+"actionable data."
+msgstr ""
+"Messen Sie die Kundenzufriedenheit und die Faktoren, die sie beeinflussen. Überwachen Sie die potenzielle Abwanderung und verstehen Sie, wie Sie Kunden ansprechen können, die ihr Netz oder ihr Handy"
+" wechseln möchten - mit praktischen, verwertbaren Daten."
+
+msgctxt "content_image_items.6f22d3d4-5716-48ca-8d25-e42bd05eb32b.description"
+msgid ""
+"Our worldwide panel enables deep consumer understanding. Track key drivers of choice, demographics, attitudes, social media and streaming habits, and brand affinity – at both a local and global "
+"level. Available in <b>18</b> markets: US, UK, Australia, Brazil, Canada, China, Denmark, France, Germany, India, Indonesia, Japan, Mexico, Saudi Arabia, Singapore, Spain, Sweden and Thailand."
+msgstr ""
+"Unser weltweites Panel ermöglicht ein tiefes Verständnis für den Verbraucher. Verfolgen Sie die wichtigsten Entscheidungsfaktoren, demografische Daten, Einstellungen, Social Media- und Streaming-"
+"Gewohnheiten sowie die Markenaffinität - sowohl auf lokaler als auch auf globaler Ebene.  Verfügbar in <b>18</b> Märkten: USA, Großbritannien, Australien, Brasilien, Kanada, China, Dänemark, "
+"Frankreich, Deutschland, Indien, Indonesien, Japan, Mexiko, Saudi-Arabien, Singapur, Spanien, Schweden und Thailand."
+
+msgctxt "content_image_items.6f22d3d4-5716-48ca-8d25-e42bd05eb32b.description"
+msgid "Connect to YouGov’s market-leading depth and breadth of consumer data for even more granular information on your customers’ behavior."
+msgstr "Verbinden Sie sich mit YouGovs marktführender Tiefe und Breite an Verbraucherdaten, um noch detailliertere Informationen über das Verhalten Ihrer Kunden zu erhalten."

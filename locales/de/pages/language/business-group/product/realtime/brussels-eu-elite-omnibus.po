@@ -1,0 +1,137 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:29.465155+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: ca73e428-66a0-4a52-921b-3a319a4a37f6\n"
+
+msgctxt "title"
+msgid "Brussels EU Elite Omnibus"
+msgstr ""
+
+msgctxt "slug"
+msgid "brussels-eu-elite-omnibus"
+msgstr "brussels-eu-elite-omnibus"
+
+msgctxt "seo_title"
+msgid "Brussels EU Elite Omnibus"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Brussels EU Elite Omnibus"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Interview key opinion formers working in and around the EU's institutions"
+msgstr ""
+
+msgctxt "rates_title"
+msgid "Brussels EU Elite Omnibus rates"
+msgstr ""
+
+msgctxt "rates_description"
+msgid ""
+"The YouGov Omnibus approach allows organisations to buy as little as five questions to conduct their research, without having to commission an entire survey. Plus we have two ways to buy in using "
+"either our 200 or 100 respondent options."
+msgstr ""
+
+msgctxt "rates_description"
+msgid "Including survey design, full-service support, and full results analysis - <b>we are for you</b> and your business to help to reach out to your target group and find answers you need."
+msgstr ""
+
+msgctxt "single_content_list_title"
+msgid "You're in good company."
+msgstr ""
+
+msgctxt "single_content_list_description"
+msgid "See our latest RealTime research and check out how we can help you to achieve your goals."
+msgstr ""
+
+msgctxt "single_content_list_description"
+msgid "<b>Do you need more details?</b> Contact us directly to get more custom information."
+msgstr ""
+
+msgctxt "direct_description"
+msgid "The most reliable and accurate research, which helps you to boost your business. <b>Move your business to the next level with YouGov.</b>"
+msgstr ""
+
+msgctxt "direct_url"
+msgid "https://business.yougov.com/product/realtime/brussels-eu-elite-omnibus?marketo=contact"
+msgstr ""
+
+msgctxt "direct_footer"
+msgid "Contact us to get more details"
+msgstr ""
+
+msgctxt "benefit_items.3b039079-4495-444b-a9f0-13ecac26accd.title"
+msgid "200 EU Elite Stakeholders"
+msgstr ""
+
+msgctxt "benefit_items.3b039079-4495-444b-a9f0-13ecac26accd.description"
+msgid "Reach 200 Brussels EU Elite stakeholders"
+msgstr ""
+
+msgctxt "benefit_items.d327f518-caaa-4a30-81e6-37431b268eee.title"
+msgid "Variety of opinion formers"
+msgstr ""
+
+msgctxt "benefit_items.d327f518-caaa-4a30-81e6-37431b268eee.description"
+msgid "MEPs, EU institution staff, journalists, NGOs and other influencers"
+msgstr ""
+
+msgctxt "benefit_items.7bf4be22-36be-4cb4-ac19-eef1381ea748.title"
+msgid "Results within six weeks"
+msgstr ""
+
+msgctxt "benefit_items.7bf4be22-36be-4cb4-ac19-eef1381ea748.description"
+msgid "Receive full results with charts and data tables within six weeks."
+msgstr ""
+
+msgctxt "rates_table_header.4cd411be-8144-45db-bb67-1343df168317.column_2"
+msgid "Respondents"
+msgstr ""
+
+msgctxt "rates_table_header.4cd411be-8144-45db-bb67-1343df168317.column_3"
+msgid "Entry"
+msgstr ""
+
+msgctxt "rates_table_header.4cd411be-8144-45db-bb67-1343df168317.column_4"
+msgid "Standard question"
+msgstr ""
+
+msgctxt "rates_table_rows.e697c18b-9c32-4af3-8759-37bec8a97d4f.column_1"
+msgid "Brussels EU Elite 200"
+msgstr ""
+
+msgctxt "rates_table_rows.e697c18b-9c32-4af3-8759-37bec8a97d4f.column_2"
+msgid "200"
+msgstr ""
+
+msgctxt "rates_table_rows.e697c18b-9c32-4af3-8759-37bec8a97d4f.column_3"
+msgid "€350"
+msgstr ""
+
+msgctxt "rates_table_rows.e697c18b-9c32-4af3-8759-37bec8a97d4f.column_4"
+msgid "€3,250"
+msgstr ""
+
+msgctxt "rates_table_rows.cc636e41-f43f-4882-8d4b-11325134caf6.column_1"
+msgid "Brussels EU Elite 100"
+msgstr ""
+
+msgctxt "rates_table_rows.cc636e41-f43f-4882-8d4b-11325134caf6.column_1"
+msgid "(Politicos and journalists only)"
+msgstr ""
+
+msgctxt "rates_table_rows.cc636e41-f43f-4882-8d4b-11325134caf6.column_2"
+msgid "100"
+msgstr ""
+
+msgctxt "rates_table_rows.cc636e41-f43f-4882-8d4b-11325134caf6.column_3"
+msgid "€350"
+msgstr ""
+
+msgctxt "rates_table_rows.cc636e41-f43f-4882-8d4b-11325134caf6.column_4"
+msgid "€1,950"
+msgstr ""

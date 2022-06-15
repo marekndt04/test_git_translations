@@ -1,0 +1,68 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:41.161035+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Request your Free Biggest Movers Data - February- UK"
+msgstr ""
+
+msgctxt "slug"
+msgid "request-your-free-biggest-movers-data-february-uk"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Request your biggest movers data"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Consumers are reacting positively to your brand"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/product/brandindex/request-your-free-biggest-movers-data-february-uk?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Request your free biggest movers data"
+msgstr ""
+
+msgctxt "video_items.cc0622d9-6276-40fd-93fa-c21e520116ce"
+msgid "For over a decade YouGov BrandIndex has been tracking daily consumer perception of brands and their campaigns worldwide, with critical insight on their competitive performance."
+msgstr ""
+
+msgctxt "video_items.cc0622d9-6276-40fd-93fa-c21e520116ce"
+msgid ""
+"Between December 2021 and January 2022, hundreds of UK brands have experienced statistically significant positive movement among consumers across YouGov BrandIndex metrics - <b>is your brand one of "
+"them?</b> <a id=\"a1\">See how you compare against your competitors</a>."
+msgstr ""
+
+msgctxt "video_items.a567f985-5da9-4ef9-a7e4-149aba3c04fc"
+msgid "What you'll discover"
+msgstr ""
+
+msgctxt "video_items.5069154c-a00f-47c9-a915-dd4095dfc497"
+msgid ""
+"Your brand’s statistically significant positive gains among UK consumers as determined by the media, brand health, and purchase funnel metrics tracked within YouGov BrandIndex between December 2021 "
+"and January 2022."
+msgstr ""
+
+msgctxt "video_items.5069154c-a00f-47c9-a915-dd4095dfc497"
+msgid ""
+"<b>We’ll also present</b> <b>how your brand metric movement across the board compares</b> <b>against four competitors of your choice.</b> Simply reference the competitors you wish your brand to be "
+"compared against in the form’s open message box."
+msgstr ""
+
+msgctxt "video_items.5069154c-a00f-47c9-a915-dd4095dfc497"
+msgid "<a id=\"a1\">Request your free biggest movers data.</a>"
+msgstr ""
+
+msgctxt "video_items.0cc01521-209b-44f0-b8d0-a9f6ae33d73a"
+msgid "YouGov Biggest Movers - February 2022"
+msgstr ""
+
+msgctxt "video_items.46712946-c63f-46c2-bb03-6d3bf34b77a5.description"
+msgid "Comparing YouGov BrandIndex metrics from December 2021 and January 2022."
+msgstr ""

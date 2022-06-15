@@ -1,0 +1,131 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:39.090085+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 50163a9d-f086-496a-a343-7db28cdd10f3\n"
+
+msgctxt "title"
+msgid "GB 50+ Omnibus"
+msgstr ""
+
+msgctxt "slug"
+msgid "gb-50-omnibus"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "GB 50+ Omnibus"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Why YouGov?"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "GB 50+ Omnibus"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Research adults aged 50 and over to understand this key group's opinions, behaviours and attitudes. Move your business to the next level with reliable and accurate research."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_title"
+msgid "What are your needs?"
+msgstr ""
+
+msgctxt "products_description"
+msgid "<b>Do you need more information?</b> Contact us directly to get more custom information."
+msgstr ""
+
+msgctxt "products_description"
+msgid "<b>Would you like to reach out to a different target group?</b> Get in touch to find out about options to sample other specific age groups."
+msgstr ""
+
+msgctxt "rates_title"
+msgid "50+ Omnibus rates"
+msgstr ""
+
+msgctxt "rates_description"
+msgid "Full-service support, including survey design and advice, plus live reporting of your results."
+msgstr ""
+
+msgctxt "benefit_items.7b3bee6d-642c-4ffa-9efc-d65a21ded400.title"
+msgid "Robust research"
+msgstr ""
+
+msgctxt "benefit_items.7b3bee6d-642c-4ffa-9efc-d65a21ded400.description"
+msgid "Target representative samples of 1,000 or 2,000 adults aged 50 and over in GB or UK."
+msgstr ""
+
+msgctxt "benefit_items.d58e2f2b-0c7a-4613-9fbb-7bb4a8f55531.title"
+msgid "Frequent surveys"
+msgstr ""
+
+msgctxt "benefit_items.d58e2f2b-0c7a-4613-9fbb-7bb4a8f55531.description"
+msgid "The 50+ omnibus runs every weekday."
+msgstr ""
+
+msgctxt "benefit_items.22e420a9-ad63-4ebd-ba04-606b39972a10.title"
+msgid "Live results"
+msgstr ""
+
+msgctxt "benefit_items.22e420a9-ad63-4ebd-ba04-606b39972a10.description"
+msgid "Full results in as little as two working days. Now access live data during fieldwork."
+msgstr ""
+
+msgctxt "rates_table_header.0b488c84-e4e8-4018-a7b7-ac8a405fbe66.column_1"
+msgid "Respondents"
+msgstr ""
+
+msgctxt "rates_table_header.0b488c84-e4e8-4018-a7b7-ac8a405fbe66.column_2"
+msgid "Entry"
+msgstr ""
+
+msgctxt "rates_table_header.0b488c84-e4e8-4018-a7b7-ac8a405fbe66.column_3"
+msgid "Standard question / Open-ended"
+msgstr ""
+
+msgctxt "rates_table_header.0b488c84-e4e8-4018-a7b7-ac8a405fbe66.column_4"
+msgid "Results"
+msgstr ""
+
+msgctxt "rates_table_rows.76fa3619-cea3-4b8c-8d76-2707e495b2f1.column_1"
+msgid "1000"
+msgstr ""
+
+msgctxt "rates_table_rows.76fa3619-cea3-4b8c-8d76-2707e495b2f1.column_2"
+msgid "£200"
+msgstr ""
+
+msgctxt "rates_table_rows.76fa3619-cea3-4b8c-8d76-2707e495b2f1.column_3"
+msgid "£350 / £375"
+msgstr ""
+
+msgctxt "rates_table_rows.76fa3619-cea3-4b8c-8d76-2707e495b2f1.column_4"
+msgid "2 working days"
+msgstr ""
+
+msgctxt "rates_table_rows.55b8acc8-a3f4-4f5f-b4c9-ac2f7d6a6968.column_1"
+msgid "2000"
+msgstr ""
+
+msgctxt "rates_table_rows.55b8acc8-a3f4-4f5f-b4c9-ac2f7d6a6968.column_2"
+msgid "£200"
+msgstr ""
+
+msgctxt "rates_table_rows.55b8acc8-a3f4-4f5f-b4c9-ac2f7d6a6968.column_3"
+msgid "£500 / £550"
+msgstr ""
+
+msgctxt "rates_table_rows.55b8acc8-a3f4-4f5f-b4c9-ac2f7d6a6968.column_4"
+msgid "3 working days"
+msgstr ""

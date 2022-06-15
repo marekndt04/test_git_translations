@@ -1,0 +1,76 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:42.557761+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Profile Peek: Online shopping with Augmented Reality"
+msgstr ""
+
+msgctxt "slug"
+msgid "online-shopping-with-augmented-reality"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Profile Peek: Online shopping with Augmented Reality"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Online shopping with Augmented Reality"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Profile Peek"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Americans who think Augmented Reality would make online shopping more fun"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/product/profiles/online-shopping-with-augmented-reality?marketo=download"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Download the full Profile Peek"
+msgstr ""
+
+msgctxt "video_items.1ab6a280-3c5b-444e-aaf2-a74e4d7b7339"
+msgid "34% of Americans think Augmented Reality would make online shopping more fun."
+msgstr ""
+
+msgctxt "video_items.1ab6a280-3c5b-444e-aaf2-a74e4d7b7339"
+msgid "Download YouGov's latest Profile Peek and discover:"
+msgstr ""
+
+msgctxt "video_items.1ab6a280-3c5b-444e-aaf2-a74e4d7b7339"
+msgid "Their technology consumption"
+msgstr ""
+
+msgctxt "video_items.1ab6a280-3c5b-444e-aaf2-a74e4d7b7339"
+msgid "The retail brands that impress them most"
+msgstr ""
+
+msgctxt "video_items.1ab6a280-3c5b-444e-aaf2-a74e4d7b7339"
+msgid "Their media consumption habits"
+msgstr ""
+
+msgctxt "video_items.1ab6a280-3c5b-444e-aaf2-a74e4d7b7339"
+msgid "The social networks they use"
+msgstr ""
+
+msgctxt "video_items.1ab6a280-3c5b-444e-aaf2-a74e4d7b7339"
+msgid "<a id=\"a1\"><b>Download the full Profile Peek now.</b></a>"
+msgstr ""
+
+msgctxt "video_items.1ab6a280-3c5b-444e-aaf2-a74e4d7b7339"
+msgid "About Profile Peeks"
+msgstr ""
+
+msgctxt "video_items.1ab6a280-3c5b-444e-aaf2-a74e4d7b7339"
+msgid ""
+"Drawing on data from across YouGov’s vast connected ecosystem, Profile Peeks are infographics that deep dive into a niche audience group segmented based on trending sector topics. Showcasing a range"
+" of behavioral and attitudinal insights they are designed to help brands and agencies get that little bit closer to the consumers they need to understand most."
+msgstr ""

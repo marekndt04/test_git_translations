@@ -1,0 +1,100 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:38.977359+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Customer and Competitor Satisfaction"
+msgstr ""
+
+msgctxt "slug"
+msgid "satisfaction"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Customer &amp; Competitor Satisfaction Analysis"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Monitor customer satisfaction rates for your brand and your competitors' with YouGov solutions. Understand the meaning behind your Net Promoter Score and monitor sentiment for your brand."
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Customer and competitor satisfaction"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Track what’s driving loyalty"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Get the full picture of what’s driving customer and competitor satisfaction – and the right data intelligence to prove it."
+msgstr ""
+
+msgctxt "hero_description"
+msgid "With 15+ years of living data on consumer experience and NPS™, you can diagnose any issues affecting your brand health and take meaningful actions to change the narrative for the better."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our customer satisfaction solutions"
+msgstr ""
+
+msgctxt "content_image_items.32f79831-e14a-4623-a156-1c058a16a706.title"
+msgid "High level recommendation tracking"
+msgstr ""
+
+msgctxt "content_image_items.32f79831-e14a-4623-a156-1c058a16a706.description"
+msgid "Use our Recommend score in our flagship brand tracking tool <a id=\"a1\"><b>YouGov BrandIndex</b></a> to monitor whether customers are likely to recommend a brand."
+msgstr ""
+
+msgctxt "content_image_items.32f79831-e14a-4623-a156-1c058a16a706.description"
+msgid "We screen thousands of brands to get their Recommend score by asking the question: “Would you recommend the brand to a friend or colleague?”."
+msgstr ""
+
+msgctxt "content_image_items.32f79831-e14a-4623-a156-1c058a16a706.description"
+msgid "Monitor customer satisfaction and benchmark against competitors to keep your finger on the pulse."
+msgstr ""
+
+msgctxt "content_image_items.4fbd4854-31a0-4cf8-8554-17a5f901f7c4.title"
+msgid "In-depth recommendation tracking"
+msgstr ""
+
+msgctxt "content_image_items.4fbd4854-31a0-4cf8-8554-17a5f901f7c4.description"
+msgid "Be confident you have the full picture of what’s driving brand recommendations with <a id=\"a1\"><b>YouGov Recommend+</b></a>, our always-on NPS™ tracking service."
+msgstr ""
+
+msgctxt "content_image_items.4fbd4854-31a0-4cf8-8554-17a5f901f7c4.description"
+msgid "Understand and evaluate the importance of factors such as customer experience, brand image, brand values, and more."
+msgstr ""
+
+msgctxt "content_image_items.4fbd4854-31a0-4cf8-8554-17a5f901f7c4.description"
+msgid "With access to an ever-expanding source of living data, develop smarter, data-informed strategies that improve product and brand communications for greater consumer advocacy."
+msgstr ""
+
+msgctxt "content_image_items.6f1f0636-9d4f-44a2-acd5-75830e171727.title"
+msgid "Brand loyalty &amp; switching diagnostics"
+msgstr ""
+
+msgctxt "content_image_items.6f1f0636-9d4f-44a2-acd5-75830e171727.description"
+msgid ""
+"How loyal are your customers? What are their relationships with competitors? Measure <a id=\"a1\"><b>loyalty, retention and loss</b></a> with easy <a id=\"a2\"><b>templated questions</b></a> "
+"designed to address key stages in the consumer funnel."
+msgstr ""
+
+msgctxt "content_image_items.6f1f0636-9d4f-44a2-acd5-75830e171727.description"
+msgid "Discover when and why consumers change brands, then develop future-thinking strategies to protect your business."
+msgstr ""

@@ -1,0 +1,231 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:39.355378+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 2830b1ef-9cd5-4636-b2f1-7212c2fd25d8\n"
+
+msgctxt "title"
+msgid "B2B Omnibus"
+msgstr ""
+
+msgctxt "slug"
+msgid "b2b-omnibus"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "B2B Omnibus"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Why YouGov RealTime?"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "B2B Omnibus"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Fast, cost effective B2B research solutions. The most reliable and accurate research, which helps you to boost your business. Move your business to the next level with YouGov."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "rates_title"
+msgid "Business Omnibus rates"
+msgstr ""
+
+msgctxt "rates_description"
+msgid "Full-service support, including survey design and full results analysis. Reach your target group and find the answers you need."
+msgstr ""
+
+msgctxt "benefit_items.caa8851d-9a8a-423f-87de-4774f5c79fc0.title"
+msgid "Tailored samples"
+msgstr ""
+
+msgctxt "benefit_items.caa8851d-9a8a-423f-87de-4774f5c79fc0.description"
+msgid "Target your sample or choose from one of our decision makers Omnibus solutions below."
+msgstr ""
+
+msgctxt "benefit_items.70cafc16-84cf-4e1b-af1e-667a5d0a9ef9.title"
+msgid "GB or global"
+msgstr ""
+
+msgctxt "benefit_items.70cafc16-84cf-4e1b-af1e-667a5d0a9ef9.description"
+msgid "Key markets from the Americas, Asia and Europe available."
+msgstr ""
+
+msgctxt "benefit_items.917b873e-a823-4705-9046-fd60b746993e.title"
+msgid "Live results"
+msgstr ""
+
+msgctxt "benefit_items.917b873e-a823-4705-9046-fd60b746993e.description"
+msgid "Now access live data during fieldwork."
+msgstr ""
+
+msgctxt "rates_table_header.1e0d14f9-6821-4e0a-a109-485a94dc67a9.column_1"
+msgid "Service"
+msgstr ""
+
+msgctxt "rates_table_header.1e0d14f9-6821-4e0a-a109-485a94dc67a9.column_2"
+msgid "Respondents"
+msgstr ""
+
+msgctxt "rates_table_header.1e0d14f9-6821-4e0a-a109-485a94dc67a9.column_3"
+msgid "Entry"
+msgstr ""
+
+msgctxt "rates_table_header.1e0d14f9-6821-4e0a-a109-485a94dc67a9.column_4"
+msgid "Standard question"
+msgstr ""
+
+msgctxt "rates_table_header.1e0d14f9-6821-4e0a-a109-485a94dc67a9.column_5"
+msgid "Results"
+msgstr ""
+
+msgctxt "rates_table_rows.e939257b-46af-4fe6-ba92-4a9d3676fa94.column_1"
+msgid "<b>Micro Business Omnibus</b> (&lt;10 employees), <b>Small Business Omnibus</b> (&lt;50 employees), <b>SME Omnibus</b> (&lt;250 employees), <b>B2B Omnibus</b> (All business sizes)"
+msgstr ""
+
+msgctxt "rates_table_rows.e939257b-46af-4fe6-ba92-4a9d3676fa94.column_2"
+msgid "500"
+msgstr ""
+
+msgctxt "rates_table_rows.e939257b-46af-4fe6-ba92-4a9d3676fa94.column_3"
+msgid "£400"
+msgstr ""
+
+msgctxt "rates_table_rows.e939257b-46af-4fe6-ba92-4a9d3676fa94.column_4"
+msgid "£750"
+msgstr ""
+
+msgctxt "rates_table_rows.e939257b-46af-4fe6-ba92-4a9d3676fa94.column_5"
+msgid "4-5 working days"
+msgstr ""
+
+msgctxt "rates_table_rows.63317eff-9c2f-4f87-9c76-8b168908f81b.column_1"
+msgid "<b>Micro Business Omnibus</b> (&lt;10 employees), <b>Small Business Omnibus</b> (&lt;50 employees), <b>SME Omnibus</b> (&lt;250 employees), <b>B2B Omnibus</b> (All business sizes)"
+msgstr ""
+
+msgctxt "rates_table_rows.63317eff-9c2f-4f87-9c76-8b168908f81b.column_2"
+msgid "1,000"
+msgstr ""
+
+msgctxt "rates_table_rows.63317eff-9c2f-4f87-9c76-8b168908f81b.column_3"
+msgid "£400"
+msgstr ""
+
+msgctxt "rates_table_rows.63317eff-9c2f-4f87-9c76-8b168908f81b.column_4"
+msgid "£950"
+msgstr ""
+
+msgctxt "rates_table_rows.63317eff-9c2f-4f87-9c76-8b168908f81b.column_5"
+msgid "6-7 working days"
+msgstr ""
+
+msgctxt "rates_table_rows.1b232a26-091a-49ed-83a6-cfeda187620c.column_1"
+msgid "<b>Micro Business Omnibus</b> (&lt;10 employees), <b>Small Business Omnibus</b> (&lt;50 employees), <b>SME Omnibus</b> (&lt;250 employees), <b>B2B Omnibus</b> (All business sizes)"
+msgstr ""
+
+msgctxt "rates_table_rows.1b232a26-091a-49ed-83a6-cfeda187620c.column_2"
+msgid "2,000"
+msgstr ""
+
+msgctxt "rates_table_rows.1b232a26-091a-49ed-83a6-cfeda187620c.column_3"
+msgid "£400"
+msgstr ""
+
+msgctxt "rates_table_rows.1b232a26-091a-49ed-83a6-cfeda187620c.column_4"
+msgid "£1,250"
+msgstr ""
+
+msgctxt "rates_table_rows.1b232a26-091a-49ed-83a6-cfeda187620c.column_5"
+msgid "8-10 working days"
+msgstr ""
+
+msgctxt "rates_table_rows.ab66fdb3-5970-49f2-a28b-a4409f53fae9.column_1"
+msgid "HR, IT, Marketing or Financial Decision Makers"
+msgstr ""
+
+msgctxt "rates_table_rows.ab66fdb3-5970-49f2-a28b-a4409f53fae9.column_2"
+msgid "500"
+msgstr ""
+
+msgctxt "rates_table_rows.ab66fdb3-5970-49f2-a28b-a4409f53fae9.column_3"
+msgid "£400"
+msgstr ""
+
+msgctxt "rates_table_rows.ab66fdb3-5970-49f2-a28b-a4409f53fae9.column_4"
+msgid "£750"
+msgstr ""
+
+msgctxt "rates_table_rows.ab66fdb3-5970-49f2-a28b-a4409f53fae9.column_5"
+msgid "4-5 working days"
+msgstr ""
+
+msgctxt "rates_table_rows.aba82c6a-c3c5-4da5-90f7-39ece7cb4ea7.column_1"
+msgid "HR, IT, Marketing or Financial Decision Makers"
+msgstr ""
+
+msgctxt "rates_table_rows.aba82c6a-c3c5-4da5-90f7-39ece7cb4ea7.column_2"
+msgid "1,000"
+msgstr ""
+
+msgctxt "rates_table_rows.aba82c6a-c3c5-4da5-90f7-39ece7cb4ea7.column_3"
+msgid "£400"
+msgstr ""
+
+msgctxt "rates_table_rows.aba82c6a-c3c5-4da5-90f7-39ece7cb4ea7.column_4"
+msgid "£950"
+msgstr ""
+
+msgctxt "rates_table_rows.aba82c6a-c3c5-4da5-90f7-39ece7cb4ea7.column_5"
+msgid "8-10 working days"
+msgstr ""
+
+msgctxt "rates_table_rows.5b6ff2f5-630e-49db-b268-855580f12c5c.column_1"
+msgid "Employees Omnibus"
+msgstr ""
+
+msgctxt "rates_table_rows.5b6ff2f5-630e-49db-b268-855580f12c5c.column_2"
+msgid "1,000"
+msgstr ""
+
+msgctxt "rates_table_rows.5b6ff2f5-630e-49db-b268-855580f12c5c.column_3"
+msgid "£200"
+msgstr ""
+
+msgctxt "rates_table_rows.5b6ff2f5-630e-49db-b268-855580f12c5c.column_4"
+msgid "£350"
+msgstr ""
+
+msgctxt "rates_table_rows.5b6ff2f5-630e-49db-b268-855580f12c5c.column_5"
+msgid "4-5 working days"
+msgstr ""
+
+msgctxt "rates_table_rows.30dd3926-e295-4167-ba7a-c053f3cf8062.column_1"
+msgid "Employees Omnibus"
+msgstr ""
+
+msgctxt "rates_table_rows.30dd3926-e295-4167-ba7a-c053f3cf8062.column_2"
+msgid "2,000"
+msgstr ""
+
+msgctxt "rates_table_rows.30dd3926-e295-4167-ba7a-c053f3cf8062.column_3"
+msgid "£200"
+msgstr ""
+
+msgctxt "rates_table_rows.30dd3926-e295-4167-ba7a-c053f3cf8062.column_4"
+msgid "£500"
+msgstr ""
+
+msgctxt "rates_table_rows.30dd3926-e295-4167-ba7a-c053f3cf8062.column_5"
+msgid "5-7 working days"
+msgstr ""

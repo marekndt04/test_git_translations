@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:33.768264+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 3461b7d3-c6e6-48a7-ad5f-ea1dc433a196\n"
+
+msgctxt "title"
+msgid "Technology"
+msgstr ""
+
+msgctxt "description"
+msgid "Future-thinking technology research and insights."
+msgstr ""
+
+msgctxt "url"
+msgid "/sectors/technology/"
+msgstr ""

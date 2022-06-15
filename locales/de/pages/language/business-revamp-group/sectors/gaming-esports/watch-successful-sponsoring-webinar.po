@@ -1,0 +1,57 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:29.127641+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 620d0267-783d-4e64-8bcf-401949a67a0d\n"
+
+msgctxt "title"
+msgid "Watch YouGov's webinar on Successful Sponsoring"
+msgstr ""
+
+msgctxt "slug"
+msgid "watch-successful-sponsoring-webinar"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Watch YouGov's Successful Sponsoring Webinar"
+msgstr ""
+
+msgctxt "search_description"
+msgid ""
+"Sponsorship in sports is great business! But what makes some sponsorships so successful? Watch our webinar and learn from Giorgio Le Foche, Research &amp; Insights Manager from AS Roma, Tim "
+"McLoughlin, Sponsorship Director at TM Brand Consulting and YouGov Sport’s Commercial Director, Charlie Dundas."
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Successful Sponsoring: How data and insights drive sponsorship ROI"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Watch our webinar"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Sponsorship in sports is great business! But what makes some sponsorships so successful? Watch our webinar and learn from Giorgio Le Foche, Research &amp; Insights Manager from AS Roma, Tim "
+"McLoughlin, Sponsorship Director at TM Brand Consulting and YouGov Sport’s Commercial Director, Charlie Dundas."
+msgstr ""
+
+msgctxt "page_sections.db257f48-aba1-46f3-898e-06871850a7b2.video_id"
+msgid "VX9gmjhWU44"
+msgstr ""
+
+msgctxt "video_items.bfc32228-c74e-4d14-873b-1bd2189a2e51"
+msgid ""
+"Understand your audience – the fans and how to reach them Track and compare the brand health of sports properties (clubs/competitors) and sponsorship companies Create compelling narratives to "
+"enhance sales pitches Build confidence amongst internal stakeholders and external stakeholders Participate in a live Q&amp;A"
+msgstr ""
+
+msgctxt "video_items.3dc89b82-f9e7-401f-beb8-b4f2fd246d52.main_cta_text"
+msgid "Get in contact"
+msgstr ""
+
+msgctxt "video_items.3dc89b82-f9e7-401f-beb8-b4f2fd246d52.main_cta_url"
+msgid "?marketo=contact"
+msgstr ""

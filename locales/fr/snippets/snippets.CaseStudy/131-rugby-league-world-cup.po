@@ -1,0 +1,24 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:38.684205+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 917d6a96-38c7-4174-a94e-ed4cd5e0d23d\n"
+
+msgctxt "title"
+msgid "Rugby League World Cup"
+msgstr ""
+
+msgctxt "description"
+msgid ""
+"“YouGov tools allowed us to add an extra layer of depth to our partnership proposals and helped us sign meaningful sponsors by demonstrating the value that brands can achieve by working with us.”"
+msgstr ""
+
+msgctxt "url"
+msgid "https://business.yougov.com/content/37653-rlwc21-profiles-case-study"
+msgstr ""
+
+msgctxt "quote_author"
+msgid "Jonathan Neill, <b>Commercial Director</b>"
+msgstr ""

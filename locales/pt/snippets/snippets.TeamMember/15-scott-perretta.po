@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:42.792619+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: ba3c6ab6-402b-4541-abae-60e3bd480ce0\n"
+
+msgctxt "name"
+msgid "Scott Perretta"
+msgstr ""

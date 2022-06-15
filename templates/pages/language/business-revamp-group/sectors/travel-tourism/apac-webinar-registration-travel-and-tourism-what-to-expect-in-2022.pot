@@ -1,0 +1,50 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:40.706982+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "APAC Travel and Tourism webinar: What to expect in 2022"
+msgstr ""
+
+msgctxt "slug"
+msgid "apac-webinar-registration-travel-and-tourism-what-to-expect-in-2022"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov APAC Travel and Tourism Webinar: What to expect in 2022"
+msgstr ""
+
+msgctxt "search_description"
+msgid "YouGov’s Global Head of Travel &amp; Tourism, Eva Stewart, will present the most recent consumer and travel insights pulling from thousands of new traveller surveys in the region."
+msgstr ""
+
+msgctxt "hero_title"
+msgid "APAC Travel and Tourism webinar: What to expect in 2022"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "WEBINAR-ON-DEMAND"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "YouGov’s Global Head of Travel &amp; Tourism, Eva Stewart, will present the most recent consumer and travel insights pulling from thousands of new traveller surveys in the region."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=request"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Request the webinar on-demand"
+msgstr ""
+
+msgctxt "video_items.b68032a3-e034-451b-95fe-8889c93b3539.main_cta_text"
+msgid "Request the webinar on-demand"
+msgstr ""
+
+msgctxt "video_items.b68032a3-e034-451b-95fe-8889c93b3539.main_cta_url"
+msgid "?marketo=request"
+msgstr ""

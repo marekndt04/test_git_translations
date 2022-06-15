@@ -1,0 +1,59 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:32.083191+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 08fec602-16ca-4f86-aac4-d8f0b38eb17a\n"
+
+msgctxt "title"
+msgid "Best Brand Rankings US 2021 - Webinar"
+msgstr ""
+
+msgctxt "slug"
+msgid "best-brand-rankings-us-2021-webinar"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Webinar: Best Brand Rankings US"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Today's Top Brands: Strategies Sparking Spikes in Sentiment"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Webinar: Thursday, December 16 at 12:00 pm EST"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "<b>Register today and learn</b> <b>what’s fueling today’s most resonant brands.</b>"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/product/brandindex/best-brand-rankings-us-2021-webinar?marketo=register"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Register now"
+msgstr ""
+
+msgctxt "video_items.111082e6-f02c-42b5-8575-9537e8feb3fe"
+msgid "You'll learn:"
+msgstr ""
+
+msgctxt "video_items.111082e6-f02c-42b5-8575-9537e8feb3fe"
+msgid "Which brands ranked"
+msgstr ""
+
+msgctxt "video_items.111082e6-f02c-42b5-8575-9537e8feb3fe"
+msgid "Why they ranked"
+msgstr ""
+
+msgctxt "video_items.111082e6-f02c-42b5-8575-9537e8feb3fe"
+msgid "What you can emulate"
+msgstr ""
+
+msgctxt "video_items.111082e6-f02c-42b5-8575-9537e8feb3fe"
+msgid "<a id=\"a1\"><b>Register today and learn why brands are resonating with consumers</b></a>"
+msgstr ""

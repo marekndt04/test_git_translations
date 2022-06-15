@@ -1,0 +1,127 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:35.578568+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 7aeccc26-0c7b-412d-a043-dcc5a58de1b7\n"
+
+msgctxt "title"
+msgid "DestinationIndex"
+msgstr ""
+
+msgctxt "slug"
+msgid "destinationindex"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "DestinationIndex: Metrics for Destination Marketers"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Track public perception of the world's most popular travel locations with daily insight on travel audiences from YouGov's sector-specific DestinationIndex."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "BENEFITS"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Go above and beyond your competitors"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "DestinationIndex"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Daily destination metrics, for travel and tourism marketers"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Track public perception of the world's most popular hotspots with YouGov's always-on destination brand tracker. Get answers to your most important questions. What do people really think of your "
+"destination? Who are your most likely visitors? And crucially, what’s the best way to reach them?"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/product/brandindex/destinationindex?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our connected living data solutions"
+msgstr ""
+
+msgctxt "bullet_lists_label"
+msgid "USE CASES"
+msgstr ""
+
+msgctxt "bullet_lists_title"
+msgid "Actionable insights"
+msgstr ""
+
+msgctxt "bullet_lists_description"
+msgid "<b>Rank</b> your status of prestige, quality and value compared to other destinations"
+msgstr ""
+
+msgctxt "bullet_lists_description"
+msgid "<b>Track</b> long-term visitor trends and understand their underlying causes"
+msgstr ""
+
+msgctxt "bullet_lists_description"
+msgid "<b>Quantify</b> the effect that events, even crises, have on destination appeal"
+msgstr ""
+
+msgctxt "bullet_lists_description"
+msgid "<b>Target</b> big-spenders by ensuring you understand their perceptions"
+msgstr ""
+
+msgctxt "bullet_lists_description"
+msgid "<b>Re-Contact</b> particular respondents with bespoke follow-up questions"
+msgstr ""
+
+msgctxt "benefit_items.a877494d-b25b-40ff-bcee-c6f93e16d97e.title"
+msgid "Gauge performance"
+msgstr ""
+
+msgctxt "benefit_items.a877494d-b25b-40ff-bcee-c6f93e16d97e.description"
+msgid "Monitor public perception of 130+ travel destinations and 25 key tourism markets daily, across 16 vital brand health metrics."
+msgstr ""
+
+msgctxt "benefit_items.14c78535-d280-4d8d-826c-d14e43e38568.title"
+msgid "Activate strategy"
+msgstr ""
+
+msgctxt "benefit_items.14c78535-d280-4d8d-826c-d14e43e38568.description"
+msgid "Launch highly informed and targeted campaigns backed by robust, daily consumer perception data for your brand."
+msgstr ""
+
+msgctxt "benefit_items.f433f695-162e-43b2-8cf2-3334543b88a6.title"
+msgid "Empower your data"
+msgstr ""
+
+msgctxt "benefit_items.f433f695-162e-43b2-8cf2-3334543b88a6.description"
+msgid "Filter to see the views of thousands of audience segments, view data in multiple formats and export in a range of formats to suit your needs."
+msgstr ""
+
+msgctxt "content_image_items.938355c4-75c3-461f-b142-157535c5e71b.title"
+msgid "Optimize your strategy"
+msgstr ""
+
+msgctxt "content_image_items.938355c4-75c3-461f-b142-157535c5e71b.description"
+msgid ""
+"Daily data enables you to spot sentiment changes in real-time and take action, whilst measuring how you and your competitors are performing. Get the data you need to track your brand health, inform "
+"strategy, and ultimately influence travelers’ perception of your destination."
+msgstr ""
+
+msgctxt "content_image_items.938355c4-75c3-461f-b142-157535c5e71b.description"
+msgid "Analyze the cut-through of marketing campaigns and adjust accordingly, targeting markets where your destination has the most appeal."
+msgstr ""

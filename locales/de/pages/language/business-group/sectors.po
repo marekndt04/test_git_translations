@@ -1,0 +1,46 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:30.053875+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 2dba87af-081b-4022-9227-cb95ddf51075\n"
+
+msgctxt "title"
+msgid "Sectors"
+msgstr "Sektoren"
+
+msgctxt "slug"
+msgid "sectors"
+msgstr "sektoren"
+
+msgctxt "seo_title"
+msgid "YouGov Sector Pages"
+msgstr "YouGov Sektoren"
+
+msgctxt "search_description"
+msgid "Select from our 15 industry pages to explore for yourself the latest data intelligence on your sector, as well as YouGov's recent research, content and white papers."
+msgstr "Besuchen Sie unsere 15 Branchenseiten und entdecken Sie unsere neuesten Analysen Ihrer Branche sowie die neuesten Trends, Inhalte und White Paper von YouGov."
+
+msgctxt "hero_title"
+msgid "Insight on your industry"
+msgstr "INSIGHTS ZU IHRER BRANCHE"
+
+msgctxt "hero_description"
+msgid "Unpack the latest issues, rankings and events in your sector, and discover how YouGov can help boost your competitive advantage."
+msgstr "Identifizieren Sie die neuesten Themen, Rankings und Ereignisse in Ihrer Branche und entdecken Sie, wie YouGov Ihnen helfen kann, Ihren Wettbewerbsvorteil zu optimieren."
+
+msgctxt "products_title"
+msgid "Find your sector"
+msgstr "Finden Sie Ihre Branche"
+
+msgctxt "products_description"
+msgid ""
+"YouGov has <b>unrivalled data</b> across a wealth of industries and sectors, <b>tracking brands for 10+ years</b>. Experience our audience intelligence, brand trackers, reports and articles – "
+"compiled using <b>25,000 data variables</b> from the YouGov Cube across our 15 key sectors below. You'll find our latest<b> industry-focused white papers and research</b>, <b>relevant products and "
+"solutions for your sector</b> and a live data experience where you can discover the intelligence we hold around brands, audiences and research for your sector."
+msgstr ""
+"YouGov verfügt über einzigartige Daten zu einer großen Vielzahl von Industrien und Branchen, für die wir seit mehr als 10 Jahren Marken verfolgen. Entdecken Sie unsere Zielgruppen-Informationen, "
+"Marken-Tracker, Berichte und Artikel – zusammengestellt mithilfe von 25.000 Datenvariablen aus dem YouGov Cube aus allen unten aufgeführten 15 Hauptbranchen. Sehen Sie sich unsere neuesten "
+"branchenorientierten Whitepaper und Studien, relevante Produkte und Lösungen für Ihre Branche sowie ein Livedaten-Erlebnis an, um zu entdecken, welches Wissen wir über Ihre Branche zu den Themen "
+"Marken, Zielgruppen und Forschung haben."

@@ -1,0 +1,95 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:28.804259+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "YouGov US: My Audience"
+msgstr ""
+
+msgctxt "slug"
+msgid "us-audience"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov US: My Audience"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Tell us your most critical audience right now"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "We’ll tell you something you didn’t know about them to help you convert them in the best way you know how."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/product/profiles/my-audience?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Request an Audience Profile"
+msgstr ""
+
+msgctxt "video_items.2efe3646-8cd6-41e2-97c8-554c5972688a"
+msgid ""
+"YouGov’s vast connected ecosystem means we have an unrivaled source of rich, on-demand actual and attitudinal consumer data. From the top to the bottom of the funnel, we have insight that some "
+"clients didn’t even know they needed - to help them convert their most critical audiences when they need them most."
+msgstr ""
+
+msgctxt "video_items.2efe3646-8cd6-41e2-97c8-554c5972688a"
+msgid ""
+"<b>Simply click the link to request an Audience Profile and describe your audience.</b> We’ll get in touch to <b>present what we know about them right now for free</b>, directly within our "
+"syndicated data tools."
+msgstr ""
+
+msgctxt "video_items.2efe3646-8cd6-41e2-97c8-554c5972688a"
+msgid ""
+"If we don’t have exactly what you’re looking for, we’ll present the closest data we have and, on request, we can get more answers as soon as the next day via our YouGov RealTime research service."
+msgstr ""
+
+msgctxt "video_items.2efe3646-8cd6-41e2-97c8-554c5972688a"
+msgid "Let’s get you even closer to the audience you need most."
+msgstr ""
+
+msgctxt "video_items.2efe3646-8cd6-41e2-97c8-554c5972688a"
+msgid "<a id=\"a1\">Request an Audience Profile now</a>"
+msgstr ""
+
+msgctxt "video_items.48a913b7-e1c8-4615-af85-db97476a8804"
+msgid "Explore more YouGov Audience Videos"
+msgstr ""
+
+msgctxt "video_items.1b48513f-34be-418c-8411-cb8866ae2ed2"
+msgid "Air travelers"
+msgstr ""
+
+msgctxt "video_items.fd0df179-d4f0-4118-b73e-fc3c1525e0e6.video_id"
+msgid "VjVdJauRGP4"
+msgstr ""
+
+msgctxt "video_items.77bd8ced-0d61-4d35-8059-bf2ce954791f"
+msgid "Cryptocurrency Investors"
+msgstr ""
+
+msgctxt "video_items.0c0ddbe7-b0a1-4797-b1df-0e523e7df434.video_id"
+msgid "ZlfLiSmBXpA"
+msgstr ""
+
+msgctxt "video_items.79cf180c-b11e-4ced-98e6-ea551a56b85e"
+msgid "New car buyers"
+msgstr ""
+
+msgctxt "video_items.77882b26-970e-4031-81cf-3d1724815f93.video_id"
+msgid "wIq0-tF8BoY"
+msgstr ""
+
+msgctxt "video_items.fc4fa860-a4c0-430c-b51a-7aabb94fa748"
+msgid "NFL fans"
+msgstr ""
+
+msgctxt "video_items.1d9d4e11-cca3-4050-adce-efa839706930.video_id"
+msgid "ahTxPJtlTl8"
+msgstr ""

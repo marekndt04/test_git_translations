@@ -1,0 +1,55 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:36.110456+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 47b65e33-ad62-4885-b2cd-555e37b6094a\n"
+
+msgctxt "title"
+msgid "YouGov Framework: US Car-driver attitudes to fuel consumption and engine power"
+msgstr ""
+
+msgctxt "slug"
+msgid "us-car-driver-attitudes-to-fuel-consumption-and-engine-power"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Framework: US Car-driver attitudes to fuel consumption and engine power"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "YouGov Framework: US Car-driver attitudes to fuel consumption and engine power"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"A sizable chunk of drivers in the United States consider their carbon footprint when shopping for a new automobile. But a new YouGov framework study reveals that fuel consumption is not the only "
+"factor that affects decisions. Using YouGov Profiles data, YouGov has created a framework designed to represent how car brands and manufacturers can segment and connect with their consumers."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=download"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Download full framework"
+msgstr ""
+
+msgctxt "content_image_label"
+msgid "FRAMEWORK"
+msgstr ""
+
+msgctxt "content_image_title"
+msgid "What you'll discover:"
+msgstr ""
+
+msgctxt "content_image_description"
+msgid ""
+"Using a total US car-driver market size of 202.4m, YouGov segmented the US population by their differing attitudes towards fuel consumption and engine power. The segments were then profiled and "
+"dissected to reveal the attitudes and behavioral traits of each group."
+msgstr ""
+
+msgctxt "content_image_description"
+msgid "<a id=\"a1\"><b>Download the full framework and segment profiles</b></a>"
+msgstr ""

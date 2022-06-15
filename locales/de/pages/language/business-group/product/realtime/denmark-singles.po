@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:31.609800+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 1c2566eb-39ae-45b6-9664-111283360377\n"
+
+msgctxt "title"
+msgid "Denmark Singles"
+msgstr ""
+
+msgctxt "slug"
+msgid "denmark-singles"
+msgstr "daenemark-singles"
+
+msgctxt "hero_title"
+msgid "Denmark Singles"
+msgstr ""

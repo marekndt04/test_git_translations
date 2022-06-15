@@ -1,0 +1,51 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:35.735883+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 354591eb-6f8b-462d-b922-35b1ffc6bc81\n"
+
+msgctxt "title"
+msgid "Global Best Brand Rankings 2021"
+msgstr ""
+
+msgctxt "slug"
+msgid "global-best-brand-rankings-2021-home"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Global Best Brand Rankings 2021"
+msgstr ""
+
+msgctxt "content_image_label"
+msgid "Global Best Brand Rankings 2021"
+msgstr ""
+
+msgctxt "content_image_title"
+msgid "Our data:"
+msgstr ""
+
+msgctxt "content_image_description"
+msgid "The YouGov Global Best Brand Rankings 2021 are calculated using the Index score from our flagship <a id=\"a1\"><b>YouGov</b> <b>BrandIndex</b></a> tool."
+msgstr ""
+
+msgctxt "content_image_description"
+msgid ""
+"YouGov BrandIndex tracks every brand’s performance daily against a range of metrics, with our Index score comprising the average score of 6 key brand health metrics: Impression, Quality, Value, "
+"Satisfaction, Recommend and Reputation."
+msgstr ""
+
+msgctxt "content_image_description"
+msgid ""
+"YouGov BrandIndex draws data from interviews with our 17 million+ registered panel members across 40 sectors and more than 55 countries globally. This year’s ranking includes consumer views from "
+"across 54 markets, including USA, China, Germany, India and the UK, and many more."
+msgstr ""
+
+msgctxt "content_image_description"
+msgid "Want to see how other markets compare? Our annual rankings highlights the top 10 recommended brands across 54 markets and top 10 most improved brands across 40 markets."
+msgstr ""
+
+msgctxt "content_image_description"
+msgid "<a id=\"a1\"><b>Get in touch to find out if YouGov is tracking your brand</b></a>"
+msgstr ""

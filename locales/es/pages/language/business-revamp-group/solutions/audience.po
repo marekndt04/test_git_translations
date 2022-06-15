@@ -1,0 +1,163 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:34.176809+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 2bc681d2-9ee1-4a65-a343-993b8d1a297b\n"
+
+msgctxt "title"
+msgid "Audience Intelligence"
+msgstr ""
+
+msgctxt "slug"
+msgid "audience"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Audience Insights, Data and Research"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Identify your audience, understand consumer behaviours and target your audience effectively with YouGov's audience solutions."
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Audience Intelligence"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Know, with speed and certainty, who your target audience is."
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Equip yourself with the knowledge to deliver more successful campaigns. With over 17 million registered panel members worldwide, YouGov’s Living Consumer Intelligence helps you build the most "
+"complete picture of your customers’ complex lives. Our market-leading audience intelligence platform has over one million unique data points to choose from in <b>49 markets</b> – and it’s growing "
+"every day."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/solutions/audience/?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our audience solutions"
+msgstr ""
+
+msgctxt "pricing_component.bb7ce3c9-e7be-4da7-afa7-40034050b21a.label"
+msgid "Self-serve​"
+msgstr ""
+
+msgctxt "pricing_component.bb7ce3c9-e7be-4da7-afa7-40034050b21a.title"
+msgid "Audience Explorer"
+msgstr ""
+
+msgctxt "pricing_component.bb7ce3c9-e7be-4da7-afa7-40034050b21a.price.f87f2991-7fc9-4692-b1db-8ab358005f8a"
+msgid "Free"
+msgstr ""
+
+msgctxt "pricing_component.bb7ce3c9-e7be-4da7-afa7-40034050b21a.description"
+msgid "Create a free portrait of your target audience and explore their behaviors​"
+msgstr ""
+
+msgctxt "pricing_component.bb7ce3c9-e7be-4da7-afa7-40034050b21a.cta_text"
+msgid "Explore your audience"
+msgstr ""
+
+msgctxt "pricing_component.bb7ce3c9-e7be-4da7-afa7-40034050b21a.cta_url"
+msgid "https://platform.yougov.com/register/audience?loginLink=https:%2F%2Fplatform.yougov.com%2Flogin%2F%3FredirectPath%3Daudience"
+msgstr ""
+
+msgctxt "pricing_component.64091c19-e620-48b0-81af-186f1314de8c.label"
+msgid "Flagship"
+msgstr ""
+
+msgctxt "pricing_component.64091c19-e620-48b0-81af-186f1314de8c.title"
+msgid "Profiles"
+msgstr ""
+
+msgctxt "pricing_component.64091c19-e620-48b0-81af-186f1314de8c.price.f400618a-5018-4e5d-a4d2-28f91555c89c"
+msgid "Enterprise"
+msgstr ""
+
+msgctxt "pricing_component.64091c19-e620-48b0-81af-186f1314de8c.description"
+msgid "Audience intelligence and targeting"
+msgstr ""
+
+msgctxt "pricing_component.64091c19-e620-48b0-81af-186f1314de8c.cta_text"
+msgid "Speak to sales"
+msgstr ""
+
+msgctxt "pricing_component.64091c19-e620-48b0-81af-186f1314de8c.cta_url"
+msgid "https://business.yougov.com/product/profiles?marketo=contact"
+msgstr ""
+
+msgctxt "content_image_items.90bd1e05-3492-4ed2-8dbe-00a6966c20a0.label"
+msgid "IDENTIFY"
+msgstr ""
+
+msgctxt "content_image_items.90bd1e05-3492-4ed2-8dbe-00a6966c20a0.title"
+msgid "Place consumers at the heart of your strategy"
+msgstr ""
+
+msgctxt "content_image_items.90bd1e05-3492-4ed2-8dbe-00a6966c20a0.description"
+msgid "With over twenty years of accurate consumer data, we make it easy for you to <a id=\"a1\"><b>find your audience,</b> <b>fast.</b></a>"
+msgstr ""
+
+msgctxt "content_image_items.90bd1e05-3492-4ed2-8dbe-00a6966c20a0.description"
+msgid ""
+"Discover exactly what your target audience thinks and feels in minutes. Build your complete audience portrait with demographics, attitudes, psychographics – and much more. Stay relevant with data-"
+"informed decisions."
+msgstr ""
+
+msgctxt "content_image_items.6373fe5b-6b28-4c35-b18f-ac6d5d8dcda9.label"
+msgid "UNDERSTAND"
+msgstr ""
+
+msgctxt "content_image_items.6373fe5b-6b28-4c35-b18f-ac6d5d8dcda9.title"
+msgid "Build rich personas with depth and detail"
+msgstr ""
+
+msgctxt "content_image_items.6373fe5b-6b28-4c35-b18f-ac6d5d8dcda9.description"
+msgid "YouGov stands for more than just data. We call it Living Consumer Intelligence."
+msgstr ""
+
+msgctxt "content_image_items.6373fe5b-6b28-4c35-b18f-ac6d5d8dcda9.description"
+msgid ""
+"<a id=\"a1\"><b>Understand your audience</b></a> with unrivalled granularity, building the most complete picture of your customers’ lives and how their tastes, perceptions and habits connect to form"
+" behaviors. With data updated weekly, choose from hundreds of thousands of fresh consumer data points – including brand perception, hobbies and interests, and media consumption – essential insights "
+"to inform how you tailor your campaigns."
+msgstr ""
+
+msgctxt "content_image_items.9181ec44-dcc1-415c-b287-af91297cef2a.label"
+msgid "TARGET"
+msgstr ""
+
+msgctxt "content_image_items.9181ec44-dcc1-415c-b287-af91297cef2a.title"
+msgid "Target and reach your audience with precision"
+msgstr ""
+
+msgctxt "content_image_items.9181ec44-dcc1-415c-b287-af91297cef2a.description"
+msgid "Reach the right people, in the right place, at the right time."
+msgstr ""
+
+msgctxt "content_image_items.9181ec44-dcc1-415c-b287-af91297cef2a.description"
+msgid "<a id=\"a1\"><b>Target your audience</b></a> with tailored messaging in the places they’re most receptive. Remain ever-present – and relevant – at every stage of the marketing funnel."
+msgstr ""
+
+msgctxt "content_image_items.9181ec44-dcc1-415c-b287-af91297cef2a.description"
+msgid "Re-Contact specific respondents to ask further questions, digging deeper into the reasons behind their answers to further your insights."
+msgstr ""
+
+msgctxt "content_image_items.9181ec44-dcc1-415c-b287-af91297cef2a.description"
+msgid "Execute campaigns against the target audiences you build to <a id=\"a1\"><b>expand reach and refine your digital advertising</b></a>."
+msgstr ""

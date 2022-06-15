@@ -1,0 +1,133 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:30.175335+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: a4e4d441-79f6-4635-a760-c63fed43e70a\n"
+
+msgctxt "title"
+msgid "Qualitative Research"
+msgstr ""
+
+msgctxt "slug"
+msgid "qualitative-research"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Qualitative Research"
+msgstr ""
+
+msgctxt "search_description"
+msgid ""
+"YouGov Qualitative Research digs deeper into what people think, do and say to really get behind the ‘why’. Expert researched will help you discover the human stories that will empower your business "
+"to be grow."
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Why YouGov?"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Qualitative Research"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Go beyond the obvious, identify what really matters and boost your business"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"YouGov Qualitative Research digs deeper into what people think, do and say to really get behind the ‘why’. Our experts will help you discover the human stories that will empower your business to be "
+"bolder and sharper in addressing future challenges."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our connected living data solutions"
+msgstr ""
+
+msgctxt "benefit_items.c765ef91-8399-4f22-8c4b-1d25dda54c0e.title"
+msgid "Integrated insights"
+msgstr ""
+
+msgctxt "benefit_items.c765ef91-8399-4f22-8c4b-1d25dda54c0e.description"
+msgid "YouGov’s connected solutions, including quantitative research, Omnibus and data products, ensure we deliver you the best insights and reports."
+msgstr ""
+
+msgctxt "benefit_items.6313c906-3120-4bc8-985c-d3ebb48a44f5.title"
+msgid "Living data"
+msgstr ""
+
+msgctxt "benefit_items.6313c906-3120-4bc8-985c-d3ebb48a44f5.description"
+msgid "We store everything we learn from our global online community. This means we can include profile data to case studies and reports, including voting intention, media consumption and income."
+msgstr ""
+
+msgctxt "benefit_items.337c6a4a-2a03-4813-94e3-41845ed27def.title"
+msgid "Global community"
+msgstr ""
+
+msgctxt "benefit_items.337c6a4a-2a03-4813-94e3-41845ed27def.description"
+msgid "YouGov operates an online panel of 17 million+ registered members worldwide. We showcase their opinions to help engage your stakeholders and customers."
+msgstr ""
+
+msgctxt "content_image_items.e86c5c53-9a98-4d1b-a892-773311a3d07a.title"
+msgid "Rich, detailed insights"
+msgstr ""
+
+msgctxt "content_image_items.e86c5c53-9a98-4d1b-a892-773311a3d07a.description"
+msgid "Explore the opinions and behaviours of a diverse range of people, no matter how niche the audience: from C-Suite executives to students, and opinion formers to vulnerable groups."
+msgstr ""
+
+msgctxt "content_image_items.e86c5c53-9a98-4d1b-a892-773311a3d07a.description"
+msgid "We conduct campaigns, communications and ideas testing, brand health measurement and can help you develop new products and services across all sectors."
+msgstr ""
+
+msgctxt "content_image_items.e86c5c53-9a98-4d1b-a892-773311a3d07a.description"
+msgid "For the most relevant research, our teams use classic face-to-face methods and innovative online approaches, harnessing the power of our panel to answer questions and solve problems."
+msgstr ""
+
+msgctxt "content_image_items.263b9eed-f35e-4e71-8f2d-7834f510ee47.title"
+msgid "Targeted sampling"
+msgstr ""
+
+msgctxt "content_image_items.263b9eed-f35e-4e71-8f2d-7834f510ee47.description"
+msgid ""
+"Access real-time insight into what people actually think and do from our millions of panellists around the world. Our qualitative outputs bring meaning to the living data we hold on panellists, "
+"providing clients with rich and detailed insights."
+msgstr ""
+
+msgctxt "content_image_items.263b9eed-f35e-4e71-8f2d-7834f510ee47.description"
+msgid "The YouGov panel allows us to recruit on the basis of what people do, see or buy over time, minimizing the established problems of claimed behavior that can hinder traditional research."
+msgstr ""
+
+msgctxt "content_image_items.263b9eed-f35e-4e71-8f2d-7834f510ee47.description"
+msgid ""
+"We have thousands of data points on each person, whether it’s TV viewing, the charities they support, their shopping habits or websites they visit, allowing us to find the most relevant participants"
+" for any project."
+msgstr ""
+
+msgctxt "content_image_items.0134e9fb-eef4-4c6c-bcce-4fa14963003d.title"
+msgid "Anticipate trends"
+msgstr ""
+
+msgctxt "content_image_items.0134e9fb-eef4-4c6c-bcce-4fa14963003d.description"
+msgid "Through continuous panel engagement we are pioneering real-time responses. We can do this qualitatively through apps, online forums and focus groups."
+msgstr ""
+
+msgctxt "content_image_items.0134e9fb-eef4-4c6c-bcce-4fa14963003d.description"
+msgid ""
+"We regularly conduct online and face-to-face focus groups on topical issues to feed into public debate. Spot the patterns to inform your future strategy, put you ahead of your competitors, and dive "
+"deeper into key topics."
+msgstr ""

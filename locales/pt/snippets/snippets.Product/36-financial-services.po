@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:41.587308+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: f7ec7f36-3e3c-4870-9906-7244a474203e\n"
+
+msgctxt "title"
+msgid "Banking &amp; Insurance"
+msgstr ""
+
+msgctxt "description"
+msgid "Boost growth, monitor your brand and reach target audiences."
+msgstr ""
+
+msgctxt "url"
+msgid "/sectors/banking-insurance/"
+msgstr ""

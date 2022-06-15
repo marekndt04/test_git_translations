@@ -1,0 +1,31 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:30.783557+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: d81112b0-cab0-4431-a720-4276983e911b\n"
+
+msgctxt "title"
+msgid "Thank you - Contact"
+msgstr "Dankeschön – Kontakt"
+
+msgctxt "slug"
+msgid "thank-you-contact"
+msgstr "danke-kontakt"
+
+msgctxt "seo_title"
+msgid "YouGov | Contact us confirmation"
+msgstr "YouGov | Kontaktbestätigung"
+
+msgctxt "search_description"
+msgid "At YouGov, we provide you with the best panel, the best data, the best tools. Contact us to find out more."
+msgstr "Wir von YouGov bieten Ihnen das beste Panel, die besten Daten und die besten Tools. Kontaktieren Sie uns, um mehr zu erfahren."
+
+msgctxt "hero_title"
+msgid "Thank you"
+msgstr "Dankeschön"
+
+msgctxt "hero_description"
+msgid "Thanks for contacting us to find out more. We’ll be in touch shortly to discuss how YouGov can help you."
+msgstr "Vielen Dank, dass Sie sich mit uns in Verbindung gesetzt haben, um mehr zu erfahren. Wir melden uns in Kürze bei Ihnen, um zu besprechen, wie YouGov Ihnen helfen kann."

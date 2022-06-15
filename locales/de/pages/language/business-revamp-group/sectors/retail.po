@@ -1,0 +1,127 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:29.300678+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: d47590e0-fff8-481b-9165-4b6d18fa3c65\n"
+
+msgctxt "title"
+msgid "Retail"
+msgstr "Einzelhandel"
+
+msgctxt "slug"
+msgid "retail"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Retail News, Industry Insights and Reports"
+msgstr ""
+
+msgctxt "search_description"
+msgid ""
+"Discover the latest Retail news and industry insights with YouGov's unrivalled data intelligence. Understand your audience, track brands and campaigns and read current and relevant research insights"
+" on the Retail sector."
+msgstr ""
+
+msgctxt "data_presentation_title"
+msgid "Explore the YouGov platform"
+msgstr "Entdecken Sie die YouGov-Plattform"
+
+msgctxt "data_presentation_description"
+msgid "Unlock powerful insights about your customers’ needs at every stage of your marketing funnel."
+msgstr "Gewinnen Sie in jeder Phase Ihres Marketing-Funnels wichtige Erkenntnisse über die Bedürfnisse Ihrer Kunden."
+
+msgctxt "download_content_label"
+msgid "White paper"
+msgstr "White paper"
+
+msgctxt "download_content_title"
+msgid "International Omni-Channel Retail Report 2021: Shopping in the pandemic and the implications for the future"
+msgstr "Internationaler Omni-Channel-Einzelhandelsbericht 2021: Einkaufen in der Pandemie und die Auswirkungen auf die Zukunft"
+
+msgctxt "download_content_description"
+msgid ""
+"How has COVID-19 changed shopping  behaviors and attitudes? How will behaviours normalize post-pandemic? This report explores consumer trends shaping the future of retail and reveals opportunities "
+"for brands in the sector."
+msgstr ""
+"Wie hat COVID-19 das Einkaufsverhalten und die Einstellungen verändert? Wie werden sich die Verhaltensweisen nach der Pandemie normalisieren? Dieser Bericht untersucht die Verbrauchertrends, die die"
+" Zukunft des Einzelhandels prägen, und zeigt Möglichkeiten für Marken in diesem Sektor auf."
+
+msgctxt "download_content_cta_text"
+msgid "Download white paper"
+msgstr "Whitepaper herunterladen"
+
+msgctxt "download_content_cta_url"
+msgid "https://business.yougov.com/sectors/retail/international-omni-channel-retail-report-2021"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Retail Intelligence"
+msgstr "Intelligenz im Einzelhandel"
+
+msgctxt "hero_description"
+msgid "See how your campaigns affect consumer opinions, instantly. Make informed, strategic decisions that expand brand reach, drive consumer advocacy, and increase ROI."
+msgstr ""
+"Sehen Sie sofort, wie Ihre Kampagnen die Meinungen der Verbraucher beeinflussen. Treffen Sie fundierte, strategische Entscheidungen, die die Markenreichweite erhöhen, die Verbraucherfürsprache "
+"fördern und den ROI steigern."
+
+msgctxt "hero_url"
+msgid "?data=audience"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Explore YouGov data"
+msgstr "YouGov-Daten erforschen"
+
+msgctxt "hero_url_2"
+msgid "https://business.yougov.com/product/realtime?marketo=contact"
+msgstr "https://business.yougov.com/de/produkt/realtime?marketo=contact"
+
+msgctxt "hero_url_text_2"
+msgid "Launch a survey"
+msgstr "Starten Sie eine Umfrage"
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr "Lösungen &amp; Produkte"
+
+msgctxt "products_title"
+msgid "How we can help you"
+msgstr "Wie wir Ihnen helfen können"
+
+msgctxt "all_content_list_title"
+msgid "Unrivalled data insights"
+msgstr "Einzigartige Dateneinblicke"
+
+msgctxt "all_content_list_description"
+msgid ""
+"YouGov has over 15 years of living consumer intelligence on the Retail sector. Future-proof your strategy and keep pace with consumer shopping preferences by exploring our latest industry insights "
+"below."
+msgstr ""
+"YouGov verfügt über mehr als 15 Jahre fundierter Erkenntnisse über den Einzelhandelssektor. Machen Sie Ihre Strategie zukunftssicher und halten Sie mit den Einkaufsgewohnheiten der Verbraucher "
+"Schritt, indem Sie sich unsere neuesten Branchenerkenntnisse ansehen."
+
+msgctxt "cta_label"
+msgid "NEWSLETTER"
+msgstr "NEWSLETTER"
+
+msgctxt "cta_text"
+msgid "Subscribe to our Retail Newsletter"
+msgstr "Abonnieren Sie unseren Retail Newsletter"
+
+msgctxt "cta_url"
+msgid "https://business.yougov.com/sectors/retail?marketo=newsletter"
+msgstr ""
+
+msgctxt "case_studies_title"
+msgid "Retail success stories"
+msgstr "Erfolgsgeschichten im Einzelhandel"
+
+msgctxt "case_studies_label"
+msgid "CASE STUDIES"
+msgstr "CASE STUDIES"
+
+msgctxt "case_studies_description"
+msgid "Our products and services help the world’s most recognised brands, media owners, and agencies."
+msgstr "Unsere Produkte und Dienstleistungen unterstützen die bekanntesten Marken, Medieninhaber und Agenturen der Welt."

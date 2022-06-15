@@ -1,0 +1,21 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:38.178401+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: ee924a15-41b9-456a-ba5c-c3a172954c89\n"
+
+msgctxt "title"
+msgid "YouGov US for WE Communications"
+msgstr ""
+
+msgctxt "description"
+msgid ""
+"When it comes to my own research and my firm’s research I would have a choice of anybody to work with, and I’m choosing to work with YouGov because I believe so strongly in the product and in what "
+"they’re offering."
+msgstr ""
+
+msgctxt "url"
+msgid "https://today.yougov.com/topics/resources/articles-reports/2019/02/13/find-out-why-yougov-omnibus-research-so-important-"
+msgstr ""

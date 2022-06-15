@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:30.644275+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 9e4486fa-19e8-4d72-9267-e5e383e4f3c1\n"
+
+msgctxt "name"
+msgid "Kristen Harmeling"
+msgstr ""

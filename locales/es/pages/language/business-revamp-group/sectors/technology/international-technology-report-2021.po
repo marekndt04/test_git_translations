@@ -1,0 +1,69 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:34.674396+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 09166391-2704-40f6-8b0e-5124ca08409e\n"
+
+msgctxt "title"
+msgid "YouGov’s International Technology Report 2021"
+msgstr ""
+
+msgctxt "slug"
+msgid "international-technology-report-2021"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov’s International Technology Report 2021"
+msgstr ""
+
+msgctxt "search_description"
+msgid "YouGov’s International Technology Report 2021 is a 17-market study explores consumer sentiment and perceptions towards AI and automation."
+msgstr ""
+
+msgctxt "hero_title"
+msgid "YouGov’s International Technology Report 2021"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Report"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "YouGov’s 17-market study explores consumer sentiment and perceptions towards AI and automation."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=download"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Download the report now"
+msgstr ""
+
+msgctxt "video_items.d04b9a3a-0142-41a6-8da9-a48953e88e20"
+msgid ""
+"Artificial intelligence is arguably the most transformative technology humanity has ever developed. The technology is used to help tackle climate change, explore space, and develop treatments for "
+"cancer. But how do consumers really feel about AI?"
+msgstr ""
+
+msgctxt "video_items.d04b9a3a-0142-41a6-8da9-a48953e88e20"
+msgid ""
+"<b>YouGov’s</b> <a id=\"a1\"><b>International Technology Report 2021</b></a><b> is a global study that provides a holistic, comprehensive view of the current state of consumer beliefs toward AI and "
+"automation to help private and public sector organizations plan, while acknowledging and empathizing with human aspirations and concerns.</b>"
+msgstr ""
+
+msgctxt "video_items.d04b9a3a-0142-41a6-8da9-a48953e88e20"
+msgid ""
+"<b>The content draws on syndicated survey data from</b> <a id=\"a1\"><b>YouGov Profiles</b></a><b> and</b> <a id=\"a2\"><b>YouGov BrandIndex</b></a><b> in tandem with deep dive</b> <a "
+"id=\"a3\"><b>YouGov Custom Research</b></a><b> across 17 global markets.</b>"
+msgstr ""
+
+msgctxt "video_items.05eb1eea-9263-4cd2-bcfc-fb4bc75ff939.main_cta_text"
+msgid "Download the report now"
+msgstr ""
+
+msgctxt "video_items.05eb1eea-9263-4cd2-bcfc-fb4bc75ff939.main_cta_url"
+msgid "?marketo=download"
+msgstr ""

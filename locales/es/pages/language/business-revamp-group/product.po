@@ -1,0 +1,99 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:34.883432+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 4f4c32bf-d466-4b60-a1a2-bf1996799bdf\n"
+
+msgctxt "title"
+msgid "All Products &amp; Services"
+msgstr ""
+
+msgctxt "slug"
+msgid "product"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Products &amp; Services"
+msgstr ""
+
+msgctxt "search_description"
+msgid "See a full list of YouGov's products and services - groundbreaking research solutions using the best panel, best data and best tools for unrivaled results."
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Better intelligence, smarter decisions"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"We offer a large range of market-leading products for your research needs. Inform key strategies and drive ROI with confidence by leveraging our registered panel of 17 million+ members. We’ll help "
+"you understand exactly what your audience is thinking."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_groups.2edc1c37-3997-4940-acca-324039bf3031.title"
+msgid "Explore: Research"
+msgstr ""
+
+msgctxt "products_groups.2edc1c37-3997-4940-acca-324039bf3031.description"
+msgid ""
+"<b>Market-leading research from intelligence you can trust.</b> As the second most quoted research group in the world, get the credible, in-depth and accurate research you need – with exceptional "
+"speed – to make more impactful business decisions, every time."
+msgstr ""
+
+msgctxt "products_groups.5f39d99f-b131-4100-877c-7300c233c923.title"
+msgid "Plan: Audience Intelligence"
+msgstr ""
+
+msgctxt "products_groups.5f39d99f-b131-4100-877c-7300c233c923.description"
+msgid ""
+"<b>Build the most complete picture of your customers lives with unparalleled precision.</b> With millions of consumer data points, get a truly 360° view of your audience to enable innovative "
+"strategies, ground-breaking campaigns, and more successful products."
+msgstr ""
+
+msgctxt "products_groups.98f97518-1ecf-495a-9531-f0a73f8aac83.title"
+msgid "Track: Brands &amp; Campaigns"
+msgstr ""
+
+msgctxt "products_groups.98f97518-1ecf-495a-9531-f0a73f8aac83.description"
+msgid ""
+"<b>The most powerful way to measure brands and campaigns.</b> Access all the brand health metrics you need across every stage of the marketing funnel. Measure the impact of your campaigns – as they "
+"happen – with daily data"
+msgstr ""
+
+msgctxt "products_groups.8717ef0b-e441-41ea-9659-7b428da841a5.title"
+msgid "Activate: Campaign Activation"
+msgstr ""
+
+msgctxt "products_groups.8717ef0b-e441-41ea-9659-7b428da841a5.description"
+msgid "Supercharge advertising with precision data and unmissable media."
+msgstr ""
+
+msgctxt "products_groups.76ecc8c8-8906-4c93-aa56-1b77fd72d058.title"
+msgid "Sector Solutions"
+msgstr ""
+
+msgctxt "products_groups.76ecc8c8-8906-4c93-aa56-1b77fd72d058.description"
+msgid "Unlock the latest industry insights and identify opportunities for your business with our sector-specific solutions."
+msgstr ""
+
+msgctxt "products_groups.2c6d4642-f500-4f80-b71b-e724f7945513.title"
+msgid "Data Analysis"
+msgstr ""
+
+msgctxt "products_groups.2c6d4642-f500-4f80-b71b-e724f7945513.description"
+msgid "<b>Easy-to-use, powerful platforms.</b> Discover leading technology to help you access the insights you need, in the format that works for you."
+msgstr ""

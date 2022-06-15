@@ -1,0 +1,66 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:40.593538+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "YouGov x Independent Agencies Webinar"
+msgstr ""
+
+msgctxt "slug"
+msgid "yougov-independent-agencies-connected-brand-research-webinar"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Webinar: Connected Brand Research"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Connected Brand Research"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "On-demand Webinar:"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "This exclusive webinar explores how the latest developments in martech are fuelling research by enabling YouGov to track digital behaviour from behind walled gardens like Google and Amazon."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/sectors/agency/yougov-independent-agencies-connected-brand-research-webinar?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Get in touch"
+msgstr ""
+
+msgctxt "video_items.938aa1a0-2e62-4dbc-bdc3-9f56620bd1ef"
+msgid "Exploring the key challenges facing agencies today:"
+msgstr ""
+
+msgctxt "video_items.938aa1a0-2e62-4dbc-bdc3-9f56620bd1ef"
+msgid "Claimed data doesn’t always correlate with actual digital behaviour"
+msgstr ""
+
+msgctxt "video_items.938aa1a0-2e62-4dbc-bdc3-9f56620bd1ef"
+msgid "Consumer brand perceptions change throughout the purchase funnel"
+msgstr ""
+
+msgctxt "video_items.938aa1a0-2e62-4dbc-bdc3-9f56620bd1ef"
+msgid "Using a case study featuring RBS, YouGov demonstrates how our connected data allows agencies to address these challenges."
+msgstr ""
+
+msgctxt "video_items.938aa1a0-2e62-4dbc-bdc3-9f56620bd1ef"
+msgid "The solution is underpinned by YouGov BrandIndex, our global brand tracking tool, and our new product, YouGov Safe, which allows us to track <b>real cross-device online behavioural data</b>."
+msgstr ""
+
+msgctxt "video_items.938aa1a0-2e62-4dbc-bdc3-9f56620bd1ef"
+msgid "This webinar is designed to showcase the versatility of BrandIndex, as well as to highlight how our connected solution can help you unlock a whole new world of understanding."
+msgstr ""
+
+msgctxt "video_items.f4897093-ed89-4d24-a25a-c57ecc6e658d.video_id"
+msgid "gQtKBnN59oE"
+msgstr ""

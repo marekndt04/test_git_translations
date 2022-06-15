@@ -1,0 +1,152 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:37.833606+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 10370d56-db6a-4cf6-840d-8867a219a8e0\n"
+
+msgctxt "title"
+msgid "US Youth Omnibus"
+msgstr ""
+
+msgctxt "slug"
+msgid "us-youth-omnibus"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "US Youth Omnibus"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Why YouGov?"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "US Youth Omnibus"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Find out what the US youth think. Reach age groups you need among youths 6 to 19."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "rates_title"
+msgid "Youth Omnibus rates"
+msgstr ""
+
+msgctxt "rates_description"
+msgid ""
+"Including survey design, full-service support, and full results analysis. Rates are shown for US only, please contact us for rates in global markets. Five age group minimum, four question minimum."
+msgstr ""
+
+msgctxt "benefit_items.1ccaa805-eee6-4949-be09-b264d1725f8f.title"
+msgid "Representative samples"
+msgstr ""
+
+msgctxt "benefit_items.1ccaa805-eee6-4949-be09-b264d1725f8f.description"
+msgid "Select the age range you need among youths."
+msgstr ""
+
+msgctxt "benefit_items.1c7a601e-b35a-442d-bb30-c9cfb8fa5e7b.title"
+msgid "Frequent surveys"
+msgstr ""
+
+msgctxt "benefit_items.1c7a601e-b35a-442d-bb30-c9cfb8fa5e7b.description"
+msgid "Launch surveys on any business day."
+msgstr ""
+
+msgctxt "benefit_items.60cbd547-8d36-4fd3-8480-b1f16854f365.title"
+msgid "Fast results"
+msgstr ""
+
+msgctxt "benefit_items.60cbd547-8d36-4fd3-8480-b1f16854f365.description"
+msgid "Receive results within five to seven business days."
+msgstr ""
+
+msgctxt "rates_table_header.f34bc3a7-5c77-460f-91bf-c05ab151d23a.column_1"
+msgid "Number of age groups"
+msgstr ""
+
+msgctxt "rates_table_header.f34bc3a7-5c77-460f-91bf-c05ab151d23a.column_2"
+msgid "Respondents"
+msgstr ""
+
+msgctxt "rates_table_header.f34bc3a7-5c77-460f-91bf-c05ab151d23a.column_3"
+msgid "Entry"
+msgstr ""
+
+msgctxt "rates_table_header.f34bc3a7-5c77-460f-91bf-c05ab151d23a.column_4"
+msgid "Standard question"
+msgstr ""
+
+msgctxt "rates_table_header.f34bc3a7-5c77-460f-91bf-c05ab151d23a.column_5"
+msgid "Results"
+msgstr ""
+
+msgctxt "rates_table_rows.8e1772d0-6b98-4439-a062-000f7b6001fb.column_1"
+msgid "5"
+msgstr ""
+
+msgctxt "rates_table_rows.8e1772d0-6b98-4439-a062-000f7b6001fb.column_2"
+msgid "100 per age group"
+msgstr ""
+
+msgctxt "rates_table_rows.8e1772d0-6b98-4439-a062-000f7b6001fb.column_3"
+msgid "$600"
+msgstr ""
+
+msgctxt "rates_table_rows.8e1772d0-6b98-4439-a062-000f7b6001fb.column_4"
+msgid "$600"
+msgstr ""
+
+msgctxt "rates_table_rows.8e1772d0-6b98-4439-a062-000f7b6001fb.column_5"
+msgid "5-7 business days"
+msgstr ""
+
+msgctxt "rates_table_rows.f7fa1495-0719-4683-ba94-0c52e0ad5373.column_1"
+msgid "6-9"
+msgstr ""
+
+msgctxt "rates_table_rows.f7fa1495-0719-4683-ba94-0c52e0ad5373.column_2"
+msgid "100 per age group"
+msgstr ""
+
+msgctxt "rates_table_rows.f7fa1495-0719-4683-ba94-0c52e0ad5373.column_3"
+msgid "$600"
+msgstr ""
+
+msgctxt "rates_table_rows.f7fa1495-0719-4683-ba94-0c52e0ad5373.column_4"
+msgid "$800"
+msgstr ""
+
+msgctxt "rates_table_rows.f7fa1495-0719-4683-ba94-0c52e0ad5373.column_5"
+msgid "5-7 business days"
+msgstr ""
+
+msgctxt "rates_table_rows.da93bd92-3472-46ab-8d0d-d1aefdff5bcc.column_1"
+msgid "10+"
+msgstr ""
+
+msgctxt "rates_table_rows.da93bd92-3472-46ab-8d0d-d1aefdff5bcc.column_2"
+msgid "100 per age group"
+msgstr ""
+
+msgctxt "rates_table_rows.da93bd92-3472-46ab-8d0d-d1aefdff5bcc.column_3"
+msgid "$600"
+msgstr ""
+
+msgctxt "rates_table_rows.da93bd92-3472-46ab-8d0d-d1aefdff5bcc.column_4"
+msgid "$1000"
+msgstr ""
+
+msgctxt "rates_table_rows.da93bd92-3472-46ab-8d0d-d1aefdff5bcc.column_5"
+msgid "5-7 business days"
+msgstr ""

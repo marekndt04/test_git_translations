@@ -1,0 +1,23 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:41.749076+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 8f7df379-1cfd-425b-96c4-23680325605a\n"
+
+msgctxt "title"
+msgid "Business of Fashion"
+msgstr ""
+
+msgctxt "description"
+msgid "\"It was a delight to work with the YouGov team. Any inaugural report from a new division would be a high-pressure task, but the YouGov team succeeded with an incredible amount of grace.\""
+msgstr ""
+
+msgctxt "url"
+msgid "https://business.yougov.com/content/40008-realtime-direct-business-fashion-case-study"
+msgstr ""
+
+msgctxt "quote_author"
+msgid "Diana Lee, Director of Research &amp; Analysis"
+msgstr ""

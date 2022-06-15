@@ -1,0 +1,72 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:29.909166+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "COVID-19: a year in review and what’s next"
+msgstr ""
+
+msgctxt "slug"
+msgid "covid-19-a-year-in-review-and-whats-next"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "COVID-19: a year in review and what’s next"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "<b>COVID-19: a year in review and what’s</b> <b>next</b>"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Exclusive on-demand webinar with Sarah P. Jones from the Institute of Global Health Innovation, Imperial College London, and Marcus Roberts, YouGov's International Projects Director."
+msgstr ""
+
+msgctxt "content_image_label"
+msgid "Report"
+msgstr ""
+
+msgctxt "content_image_title"
+msgid "COVID-19 Global Behaviours and Attitudes: The Year in Review"
+msgstr ""
+
+msgctxt "content_image_description"
+msgid ""
+"Brought to you by a team of health behaviour and data experts at the Institute of Global Health Innovation (IGHI) at Imperial College London and YouGov, this latest report provides insights and "
+"trends in people’s changing behaviours and attitudes related to COVID-19 across 14 international markets."
+msgstr ""
+
+msgctxt "content_image_description"
+msgid "<a id=\"a1\"><b>Download the report here</b></a>"
+msgstr ""
+
+msgctxt "direct_description"
+msgid "What you’ll hear about:"
+msgstr ""
+
+msgctxt "direct_description"
+msgid "How preventative behaviours, life satisfaction, and consumer trust have developed over time"
+msgstr ""
+
+msgctxt "direct_description"
+msgid "The latest attitudes towards COVID-19 vaccines across the globe"
+msgstr ""
+
+msgctxt "direct_description"
+msgid "How perception of certain brands and public sentiment towards the pharmaceutical industry shifted during the pandemic"
+msgstr ""
+
+msgctxt "direct_description"
+msgid "Re-adjusting after COVID-19 – what measures will make consumers feel more comfortable as they return to normal life"
+msgstr ""
+
+msgctxt "direct_url"
+msgid "https://business.yougov.com/sectors/health-pharma/covid-19-a-year-in-review-and-whats-next?marketo=request"
+msgstr ""
+
+msgctxt "direct_footer"
+msgid "Request the webinar on-demand"
+msgstr ""

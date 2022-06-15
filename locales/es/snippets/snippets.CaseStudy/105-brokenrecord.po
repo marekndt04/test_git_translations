@@ -1,0 +1,23 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:37.480792+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 02cefb89-c407-4766-934a-6d43826eb68e\n"
+
+msgctxt "title"
+msgid "#BrokenRecord"
+msgstr ""
+
+msgctxt "description"
+msgid "\"YouGov provided incredibly useful data about consumer experience of streaming and their awareness of artist remuneration. It also gave kudos and legitimacy to our fledgling campaign.\""
+msgstr ""
+
+msgctxt "url"
+msgid "https://business.yougov.com/content/39674-brokenrecord-realtime-case-study"
+msgstr ""
+
+msgctxt "quote_author"
+msgid "Tom Gray, Founder of the #BrokenRecord campaign"
+msgstr ""

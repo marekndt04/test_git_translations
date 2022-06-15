@@ -1,0 +1,47 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:28.722401+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 5f9e94c3-610a-4da8-abf0-f7e942345ed6\n"
+
+msgctxt "title"
+msgid "us-on-demand-webinar-the-global-rise-of-gaming-influencers-2021"
+msgstr ""
+
+msgctxt "slug"
+msgid "us-on-demand-webinar-the-global-rise-of-gaming-influencers-2021"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Webinar: The global rise of gaming influencers in 2021 and beyond"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Watch our webinar on-demand to get the latest gaming industry insights for APAC markets"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "The global rise of gaming influencers in 2021 and beyond"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Webinar on-demand"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "The gaming influencer landscape in the US and around the world"
+msgstr ""
+
+msgctxt "page_sections.2e8fba67-1525-4014-a4a1-729214394f55.label"
+msgid "WEBINAR"
+msgstr ""
+
+msgctxt "video_items.6dd3d36c-8606-4030-a977-2bddbe4320f1"
+msgid "Watch the recording to learn exclusive insights from our industry leader to plan your data-informed strategy!"
+msgstr ""
+
+msgctxt "video_items.f2e6c0a9-f6ee-41a2-80f4-83ed1ece5095.video_id"
+msgid "4Bw-03gMb1s"
+msgstr ""

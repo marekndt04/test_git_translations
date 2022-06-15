@@ -1,0 +1,67 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:29.898960+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 619b74c9-4405-43d3-90d1-145685960d51\n"
+
+msgctxt "title"
+msgid "International Omni-Channel Retail Report 2021"
+msgstr "International Omni-Channel Retail Report 2021"
+
+msgctxt "slug"
+msgid "international-omni-channel-retail-report-2021"
+msgstr "international-omni-channel-retail-report-2021"
+
+msgctxt "seo_title"
+msgid "International Omni-Channel Retail Report 2021"
+msgstr "International Omni-Channel Retail Report 2021"
+
+msgctxt "search_description"
+msgid "International Omni-Channel Retail Report 2021: Shopping in the pandemic and the implications for the future"
+msgstr "International Omni-Channel Retail Report 2021: Shopping in the pandemic and the implications for the future"
+
+msgctxt "hero_title"
+msgid "International Omni-Channel Retail Report 2021"
+msgstr "International Omni-Channel Retail Report 2021"
+
+msgctxt "hero_description"
+msgid "<b>Shopping in the pandemic</b> <b>and the</b> <b>implications for the future</b>"
+msgstr "<b>Einkaufen in der Pandemie</b> <b>und die</b> <b>zukünftigen Auswirkungen</b>"
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/sectors/retail/international-omni-channel-retail-report-2021?marketo=download"
+msgstr "https://business.yougov.com/de/sektoren/einzelhandel/international-omni-channel-retail-report-2021?marketo=download"
+
+msgctxt "hero_url_text"
+msgid "Download the report now"
+msgstr "Studie jetzt herunterladen"
+
+msgctxt "direct_description"
+msgid ""
+"Now more than ever it is crucial for retailers and brands to understand the dynamics at play influencing shoppers within the retail industry. No single event has had a more profound impact on "
+"shopping attitudes and behaviors globally than COVID-19, raising the stakes for retailers and manufacturers to better understand direct competitive forces, cross channel interplay between online and"
+" brick-and-mortar outlets, and the certainty around how behaviors will normalize post-pandemic."
+msgstr ""
+"Kein anderes Ereignis der letzten Jahre hatte so tiefgreifende Auswirkungen auf das Einkaufsverhalten weltweit wie die COVID-19-Pandemie.Händler, Marken und Hersteller stehen vor der "
+"Herausforderung, die hinter den Veränderungen liegenden Dynamiken zu erkennen, um auf gegenwärtige Entwicklungen zu reagieren und das Cross-Channel-Zusammenspiel zwischen Online- und stationärem "
+"Handel auf dem Weg hin ins „New-Normal“ nach der Pandemie besser zu verstehen."
+
+msgctxt "direct_description"
+msgid ""
+"YouGov’s latest retail report analyzes custom RealTime research executed across 17 global markets, linked to YouGov Profiles. The insights allow retailers, and the brands that compete within, to "
+"focus on what matters most - excelling within the largest benefit spaces and overcoming barriers to drive greater penetration and trip visits."
+msgstr ""
+"Für den International Omni-Channel Retail Report 2021 wurden mit dem YouGov Omnibus Verbraucher in 17 Märkten weltweit befragt. Anschließend wurden die Umfragedaten mit unserer mehr als 160.000 "
+"Datenpunkte umfassenden Datenbank verknüpft und mit YouGov Profiles, unserem Zielgruppen-Segmentierungs-Tool, analysiert.Die im Report vorgestellten Daten und Ergebnisse ermöglichen Einzelhändlern "
+"und Marken anhand von Informationen zu Barrieren und Treibern, die Wachstumsbereiche und passende Inhalte zur Kundenansprache zu identifizieren. Füllen Sie jetzt das nebenstehende Formular aus, um "
+"den Report kostenlos zu erhalten."
+
+msgctxt "direct_url"
+msgid "https://business.yougov.com/sectors/retail/international-omni-channel-retail-report-2021?marketo=download"
+msgstr "https://business.yougov.com/de/sektoren/einzelhandel/international-omni-channel-retail-report-2021?marketo=download"
+
+msgctxt "direct_footer"
+msgid "Download the report now."
+msgstr "Studie jetzt herunterladen"

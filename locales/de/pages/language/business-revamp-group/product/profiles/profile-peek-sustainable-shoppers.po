@@ -1,0 +1,77 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:28.841914+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: c9a0e050-69f1-4a17-bd4b-707f992191ab\n"
+
+msgctxt "title"
+msgid "Profile Peek: Sustainable Shoppers"
+msgstr ""
+
+msgctxt "slug"
+msgid "profile-peek-sustainable-shoppers"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Profile Peek: Sustainable Shoppers"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Sustainable Shoppers"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Profile Peek"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Brits who say sustainability in retail is a top issue for them"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/product/profiles/profile-peek-sustainable-shoppers?marketo=download"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Download the full Profile Peek"
+msgstr ""
+
+msgctxt "video_items.a7460dc8-797e-4fff-8156-581e295d29cc"
+msgid "12% of Brits say sustainability in retail is a top issue for them."
+msgstr ""
+
+msgctxt "video_items.a7460dc8-797e-4fff-8156-581e295d29cc"
+msgid "Download YouGov's latest Profile Peek and discover:"
+msgstr ""
+
+msgctxt "video_items.a7460dc8-797e-4fff-8156-581e295d29cc"
+msgid "Their favourite influencers"
+msgstr ""
+
+msgctxt "video_items.a7460dc8-797e-4fff-8156-581e295d29cc"
+msgid "Their media consumption habits"
+msgstr ""
+
+msgctxt "video_items.a7460dc8-797e-4fff-8156-581e295d29cc"
+msgid "The social networks they use"
+msgstr ""
+
+msgctxt "video_items.a7460dc8-797e-4fff-8156-581e295d29cc"
+msgid "The brands that impress them most"
+msgstr ""
+
+msgctxt "video_items.a7460dc8-797e-4fff-8156-581e295d29cc"
+msgid "<a id=\"a1\"><b>Download the full Profile Peek now.</b></a>"
+msgstr ""
+
+msgctxt "video_items.a7460dc8-797e-4fff-8156-581e295d29cc"
+msgid "About Profile Peeks"
+msgstr ""
+
+msgctxt "video_items.a7460dc8-797e-4fff-8156-581e295d29cc"
+msgid ""
+"Drawing on data from across YouGov’s vast connected ecosystem, Profile Peeks are infographics that deep dive into a niche audience group segmented based on trending sector topics. Showcasing a range"
+" of behavioural and attitudinal insights they are designed to help brands and agencies get that little bit closer to the consumers they need to understand most."
+msgstr ""

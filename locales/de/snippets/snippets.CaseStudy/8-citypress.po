@@ -1,0 +1,21 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:29.517774+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 6f1de172-a4ff-4995-9c1b-bfce69911258\n"
+
+msgctxt "title"
+msgid "Citypress"
+msgstr ""
+
+msgctxt "description"
+msgid ""
+"The best thing about using YouGov was the very tight turnaround time. YouGov research allowed us to have credibility in the information we produced. We secured 55 pieces of tier one national and "
+"major news items."
+msgstr ""
+
+msgctxt "url"
+msgid "https://yougov.co.uk/topics/resources/articles-reports/2018/08/01/yougov-citypress-testimony"
+msgstr ""

@@ -1,0 +1,23 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:42.906674+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 72cef9c5-b8bf-4e98-b4c6-dc8ff5a70f30\n"
+
+msgctxt "title"
+msgid "Virgin Money"
+msgstr ""
+
+msgctxt "description"
+msgid "“This was a great collaboration between MFUSE and YouGov Direct. The speed with which the project was delivered was unprecedented and ensured we could deliver to a very tight client timetable.\""
+msgstr ""
+
+msgctxt "url"
+msgid "https://business.yougov.com/content/36309-case-study-direct-virgin-money"
+msgstr ""
+
+msgctxt "quote_author"
+msgid "<b>Neil Shah,</b> <b>Partner of Digital Media and Technology at MFUSE</b>"
+msgstr ""

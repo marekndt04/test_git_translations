@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:42.914935+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 8fe206fe-0dc4-4258-8773-6edd382a107f\n"
+
+msgctxt "name"
+msgid "Lisa Carter"
+msgstr ""

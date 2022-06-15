@@ -1,0 +1,77 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:29.062516+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 446d7408-61ef-456b-8d99-d273ec90df50\n"
+
+msgctxt "title"
+msgid "Profile Peek: Flexitarians in the Nordics"
+msgstr ""
+
+msgctxt "slug"
+msgid "profile-peek-flexitarians"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Profile Peek: Flexitarians in the Nordics"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Flexitarians in the Nordics"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Profile Peek"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Across the Nordics 15% describe themselves as flexitarians, but who are they and how do their attitudes regarding consumption and health differ from the nation?"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/product/profiles/profile-peek-flexitarians?marketo=download"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Download the full Profile Peek"
+msgstr ""
+
+msgctxt "video_items.19b6bfc3-95e0-4c22-86d2-b770fa5da4eb"
+msgid "Download these free Profile Peeks of the Danish, Swedish, Norwegian, and the Finnish flexitarians for unique insights, including:"
+msgstr ""
+
+msgctxt "video_items.19b6bfc3-95e0-4c22-86d2-b770fa5da4eb"
+msgid "Demographics"
+msgstr ""
+
+msgctxt "video_items.19b6bfc3-95e0-4c22-86d2-b770fa5da4eb"
+msgid "Consumption attitudes"
+msgstr ""
+
+msgctxt "video_items.19b6bfc3-95e0-4c22-86d2-b770fa5da4eb"
+msgid "Health and exercise"
+msgstr ""
+
+msgctxt "video_items.19b6bfc3-95e0-4c22-86d2-b770fa5da4eb"
+msgid "Media use"
+msgstr ""
+
+msgctxt "video_items.19b6bfc3-95e0-4c22-86d2-b770fa5da4eb"
+msgid "And much more"
+msgstr ""
+
+msgctxt "video_items.19b6bfc3-95e0-4c22-86d2-b770fa5da4eb"
+msgid "<a id=\"a1\"><b>Download the full Profile Peek now</b></a>"
+msgstr ""
+
+msgctxt "video_items.19b6bfc3-95e0-4c22-86d2-b770fa5da4eb"
+msgid "About Profile Peeks"
+msgstr ""
+
+msgctxt "video_items.19b6bfc3-95e0-4c22-86d2-b770fa5da4eb"
+msgid ""
+"Drawing on data from across YouGov’s vast connected ecosystem, Profile Peeks are infographics that deep dive into a niche audience group segmented based on trending sector topics. Showcasing a range"
+" of behavioural and attitudinal insights they are designed to help brands and agencies get that little bit closer to the consumers they need to understand most."
+msgstr ""

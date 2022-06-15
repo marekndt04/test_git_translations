@@ -1,0 +1,55 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:34.631413+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: a8a12485-acb0-41fc-bc9b-31d4adfcfc7b\n"
+
+msgctxt "title"
+msgid "Successful Sponsoring webinar: On-Demand"
+msgstr ""
+
+msgctxt "slug"
+msgid "successful-sponsoring-webinar-on-demand"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Request YouGov's Successful Sponsoring Webinar"
+msgstr ""
+
+msgctxt "search_description"
+msgid ""
+"Sponsorship in sports is great business! But what makes some sponsorships so successful? Watch our webinar and learn from Giorgio Le Foche, Research &amp; Insights Manager from AS Roma, Tim "
+"McLoughlin, Sponsorship Director at TM Brand Consulting and YouGov Sport’s Commercial Director, Charlie Dundas."
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Successful Sponsoring: How data and insights drive sponsorship ROI"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "On-Demand Webinar"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Sponsorship in sports is great business! But what makes some sponsorships so successful? Watch our webinar and learn from our panel of experts: Giorgio Le Foche, Research &amp; Insights Manager from"
+" AS Roma, Tim McLoughlin, Sponsorship Director at TM Brand Consulting and YouGov Sport’s Commercial Director, Charlie Dundas."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=request"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Request On-Demand Webinar"
+msgstr ""
+
+msgctxt "video_items.3dc89b82-f9e7-401f-beb8-b4f2fd246d52.main_cta_text"
+msgid "Request On-Demand Webinar"
+msgstr ""
+
+msgctxt "video_items.3dc89b82-f9e7-401f-beb8-b4f2fd246d52.main_cta_url"
+msgid "?marketo=request"
+msgstr ""

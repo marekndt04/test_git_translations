@@ -1,0 +1,83 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:37.009430+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: ca6012c4-d1ff-4c4a-bf7a-fec837811832\n"
+
+msgctxt "title"
+msgid "8 tips to get the most out of YouGov Direct"
+msgstr ""
+
+msgctxt "slug"
+msgid "8-tips-yougov-direct"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "8 tips to get the most out of YouGov Direct"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Exclusive live webinar hosted by YouGov Direct expert Federica Saletta, Client Services Manager"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "8 tips to get the most out ofYouGov Direct"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Webinar on-demand"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Exclusive webinar on-demand hosted by YouGov Direct expert Federica Saletta, Client Services Manager"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=request"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Register now"
+msgstr ""
+
+msgctxt "video_items.6f334e8e-ca67-40d4-8c33-b9879bbc10dc"
+msgid "Don't miss out on our top tips to build your own surveys!"
+msgstr ""
+
+msgctxt "video_items.6f334e8e-ca67-40d4-8c33-b9879bbc10dc"
+msgid ""
+"Watch now to learn how to make best use of the platform and find out about a range of tips and tricks, including YouGov Direct’s A/B Testing capabilities, our unique CTA button and how to run multi-"
+"market campaigns."
+msgstr ""
+
+msgctxt "video_items.7ab32336-4a9c-4a92-a63e-9a9c13c554a7"
+msgid "24/7 self-service research with exceptional speed"
+msgstr ""
+
+msgctxt "video_items.194f80c7-e0b2-4d89-94b3-c0e2dbfecc4c"
+msgid ""
+"The perfect tool for delivering your research with exceptional speed. Survey an engaged, fully opted-in panel for rapid audience intelligence as well as testing concepts, creative and more to "
+"understand consumer attitudes."
+msgstr ""
+
+msgctxt "video_items.194f80c7-e0b2-4d89-94b3-c0e2dbfecc4c"
+msgid "Build your survey in our self-service platform and start seeing results within minutes, enabling you to make fast, data-informed business decisions and ensure maximum impact."
+msgstr ""
+
+msgctxt "video_items.bdda2837-78dd-4051-84cf-bc50e9576c53.main_cta_text"
+msgid "Register now"
+msgstr ""
+
+msgctxt "video_items.bdda2837-78dd-4051-84cf-bc50e9576c53.main_cta_url"
+msgid "?marketo=request"
+msgstr ""
+
+msgctxt "video_items.bdda2837-78dd-4051-84cf-bc50e9576c53.secondary_cta_text"
+msgid "Start your survey"
+msgstr ""
+
+msgctxt "video_items.bdda2837-78dd-4051-84cf-bc50e9576c53.secondary_cta_url"
+msgid "https://direct.yougov.com/client/home"
+msgstr ""

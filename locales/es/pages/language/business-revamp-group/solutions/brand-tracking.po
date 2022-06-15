@@ -1,0 +1,144 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:34.246877+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: d381156e-22f2-474e-a0ab-9e126e4fc328\n"
+
+msgctxt "title"
+msgid "Brand and Campaign Tracking"
+msgstr ""
+
+msgctxt "slug"
+msgid "brand-tracking"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Brand and Campaign Tracking"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Measure brand health, monitor your competitors and track your campaign performance with YouGov's brand and campaign tracking solutions."
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Brand and campaign tracking"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Deeper brand and campaign intelligence"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Know - with absolute certainty - what people feel about your brand and campaigns to make smarter, more impactful business decisions. The most powerful way to measure brands. With access to thousands"
+" of brands in 45 sectors, YouGov offers unparalleled brand and campaign measurement across industries and markets – updated daily."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our brand tracking solutions"
+msgstr ""
+
+msgctxt "pricing_component.d1b2cf1f-0ad5-4ee2-a885-6e4e489f60ed.label"
+msgid "Self-serve​"
+msgstr ""
+
+msgctxt "pricing_component.d1b2cf1f-0ad5-4ee2-a885-6e4e489f60ed.title"
+msgid "Brand Rankings​"
+msgstr ""
+
+msgctxt "pricing_component.d1b2cf1f-0ad5-4ee2-a885-6e4e489f60ed.price.93bd4887-0328-4703-b2df-605758f14d71"
+msgid "Free"
+msgstr ""
+
+msgctxt "pricing_component.d1b2cf1f-0ad5-4ee2-a885-6e4e489f60ed.description"
+msgid "Monthly Buzz rankings​"
+msgstr ""
+
+msgctxt "pricing_component.d1b2cf1f-0ad5-4ee2-a885-6e4e489f60ed.cta_text"
+msgid "Get started now"
+msgstr ""
+
+msgctxt "pricing_component.d1b2cf1f-0ad5-4ee2-a885-6e4e489f60ed.cta_url"
+msgid "https://platform.yougov.com/register/rankings?loginLink=https:%2F%2Fplatform.yougov.com%2Flogin%2F%3FredirectPath%3Dbrand-rankings"
+msgstr ""
+
+msgctxt "pricing_component.d3d6d9c4-46ac-4ffe-ace1-9ded6d597f56.label"
+msgid "Flagship"
+msgstr ""
+
+msgctxt "pricing_component.d3d6d9c4-46ac-4ffe-ace1-9ded6d597f56.title"
+msgid "BrandIndex​"
+msgstr ""
+
+msgctxt "pricing_component.d3d6d9c4-46ac-4ffe-ace1-9ded6d597f56.price.a6c8970d-368c-4167-b4c6-1a40effb7cfd"
+msgid "Enterprise"
+msgstr ""
+
+msgctxt "pricing_component.d3d6d9c4-46ac-4ffe-ace1-9ded6d597f56.description"
+msgid "Global daily brand tracking data ​"
+msgstr ""
+
+msgctxt "pricing_component.d3d6d9c4-46ac-4ffe-ace1-9ded6d597f56.cta_text"
+msgid "Get in touch"
+msgstr ""
+
+msgctxt "pricing_component.d3d6d9c4-46ac-4ffe-ace1-9ded6d597f56.cta_url"
+msgid "https://business.yougov.com/product/brandindex?marketo=contact"
+msgstr ""
+
+msgctxt "content_image_items.b74e24ee-c8d9-4eec-9a59-ee11d77948c2.title"
+msgid "Build a complete picture of your brand"
+msgstr ""
+
+msgctxt "content_image_items.b74e24ee-c8d9-4eec-9a59-ee11d77948c2.description"
+msgid ""
+"Track all the <a id=\"a1\"><b>brand health metrics</b></a> you need across every stage of the marketing funnel. Know exactly what the world thinks about your brand, in unrivalled depth, at any given"
+" moment."
+msgstr ""
+
+msgctxt "content_image_items.b74e24ee-c8d9-4eec-9a59-ee11d77948c2.description"
+msgid ""
+"Benchmark your success using both the very latest intelligence and historical data to identify long-term trends. Track daily changes in brand perception to <a id=\"a1\"><b>understand the impact of "
+"your campaigns</b></a><b>.</b> React quickly to short-term brand health changes and make the right long-term strategic decisions with daily data on metrics that matter."
+msgstr ""
+
+msgctxt "content_image_items.9359cf13-5d4c-4954-8b2a-b11ea4df0883.title"
+msgid "Understand online opinion on social media"
+msgstr ""
+
+msgctxt "content_image_items.9359cf13-5d4c-4954-8b2a-b11ea4df0883.description"
+msgid "Discover what people are saying about your brand in real-time, with a 360 ̊ view of online sentiment using our advanced <a id=\"a1\"><b>social listening capabilities.</b></a>"
+msgstr ""
+
+msgctxt "content_image_items.9359cf13-5d4c-4954-8b2a-b11ea4df0883.description"
+msgid ""
+"Understand how to optimize your campaigns, sponsorship and content, tracking more than 46 digital sources in over 40 markets, enabling insights into online engagement, opinion and brand affinities."
+msgstr ""
+
+msgctxt "content_image_items.c34c4b94-b52d-4933-8020-ae87296b1008.title"
+msgid "Track customer and competitor satisfaction"
+msgstr ""
+
+msgctxt "content_image_items.c34c4b94-b52d-4933-8020-ae87296b1008.description"
+msgid "Understand what drives brand reputation and loyalty with key metrics such as customer experience, brand image, and brand values."
+msgstr ""
+
+msgctxt "content_image_items.c34c4b94-b52d-4933-8020-ae87296b1008.description"
+msgid ""
+"Our in-depth intelligence on <a id=\"a1\"><b>customer satisfaction scores</b></a> empowers you with the knowledge to increase advocacy and brand loyalty. From bespoke custom projects to templated "
+"research across the consumer journey, we’ll unlock insights into optimizing customer satisfaction and reducing churn."
+msgstr ""

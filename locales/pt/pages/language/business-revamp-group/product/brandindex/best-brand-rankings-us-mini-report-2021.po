@@ -1,0 +1,42 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:40.975783+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 3fb8aa42-2aaa-44ee-aeb8-fcee6b0bde08\n"
+
+msgctxt "title"
+msgid "Top Improved US Brands 2021: Mini-Report"
+msgstr ""
+
+msgctxt "slug"
+msgid "best-brand-rankings-us-mini-report-2021"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "US Top Improved Brands 2021"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Discover the most improved US brands in 2021, and what they did right"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/product/brandindex/best-brand-rankings-us-mini-report-2021?marketo=download"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Get the mini report"
+msgstr ""
+
+msgctxt "video_items.6c58d1fb-44f1-46e5-9b17-557837efbc48"
+msgid ""
+"YouGov regularly speaks with hundreds of thousands of consumers about thousands of brands globally, connecting their varying perspectives to paint the most accurate portrait of the consumer world."
+msgstr ""
+
+msgctxt "video_items.6c58d1fb-44f1-46e5-9b17-557837efbc48"
+msgid ""
+"Following the 2021 Best Brand Rankings in the US, YouGov created a <a id=\"a1\">mini report for marketers</a> analyzing the top most improved brands to briefly understand the strategies fueling "
+"their growth, and what trends drove staggering results for them."
+msgstr ""

@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:34.461082+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 57cc67d6-c37f-4767-9a6c-ca91e77c69d9\n"
+
+msgctxt "title"
+msgid "FMCG"
+msgstr ""
+
+msgctxt "description"
+msgid "Track and monitor FMCG brands and understand current audience mindsets."
+msgstr ""
+
+msgctxt "url"
+msgid "/sectors/fmcg/"
+msgstr ""

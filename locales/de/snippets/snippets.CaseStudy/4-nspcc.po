@@ -1,0 +1,21 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:29.494224+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: ca3e3fe1-4630-48aa-9d00-0e2f81df45dd\n"
+
+msgctxt "title"
+msgid "NSPCC"
+msgstr ""
+
+msgctxt "description"
+msgid ""
+"Working with YouGov is great; they make the process so simple for us. Because YouGov have such a massive panel, we were able to find parents that met our really specific criteria which we couldn’t "
+"have really found elsewhere."
+msgstr ""
+
+msgctxt "url"
+msgid "https://yougov.co.uk/topics/resources/articles-reports/2018/08/01/yougov-nspcc"
+msgstr ""

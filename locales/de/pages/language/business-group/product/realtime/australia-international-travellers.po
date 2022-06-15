@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:32.971811+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: c378416c-a451-482f-93ff-86ec03247017\n"
+
+msgctxt "title"
+msgid "Australia International Travellers"
+msgstr ""
+
+msgctxt "slug"
+msgid "australia-international-travellers"
+msgstr "australien-internationale-reisende"
+
+msgctxt "hero_title"
+msgid "Australia International Travellers"
+msgstr ""

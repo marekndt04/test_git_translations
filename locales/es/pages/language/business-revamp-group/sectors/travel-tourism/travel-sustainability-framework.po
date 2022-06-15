@@ -1,0 +1,71 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:36.289585+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 5eb442c2-57e9-496b-8567-cf74cbc11f48\n"
+
+msgctxt "title"
+msgid "YouGov Framework: Attitudes to travel and sustainability"
+msgstr ""
+
+msgctxt "slug"
+msgid "travel-sustainability-framework"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Framework: Travel and Sustainability"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "YouGov Framework:"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"As pandemic-enforced restrictions are lifted and demand for travel picks up, this YouGov Framework explores the attitudes of those planning a holiday and how their destinations might be influenced "
+"by their attitudes towards sustainability."
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"The study, which focuses exclusively on Brits intending to go on holiday in the next year, segments groups of consumers based on their sustainability attitudes and whether they plan to go on an "
+"overseas or domestic trip."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=download"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Download full framework"
+msgstr ""
+
+msgctxt "content_image_label"
+msgid "FRAMEWORK"
+msgstr ""
+
+msgctxt "content_image_title"
+msgid "What you'll discover"
+msgstr ""
+
+msgctxt "content_image_description"
+msgid ""
+"The sustainability quotient is derived from the YouGov proprietary Sustainability Segmentation within YouGov Profiles, which categorises consumers on a scale from Planet Protectors to Green "
+"Rejecters."
+msgstr ""
+
+msgctxt "content_image_description"
+msgid ""
+"The nature of the holiday destination is based on the question: “Which, if any, of the following trips are you planning to take in the next 12 months?”. All data is from the year up to 13th June "
+"2021."
+msgstr ""
+
+msgctxt "content_image_description"
+msgid "This Framework analyses a selection of audience segments, which represent a mix of the biggest and most interesting consumer groups."
+msgstr ""
+
+msgctxt "content_image_description"
+msgid "<a id=\"a1\"><b>Download the full framework and segment profiles</b></a>"
+msgstr ""

@@ -1,0 +1,113 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:32.575076+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: b9846af9-b378-47a7-b45a-6e509dc4c38d\n"
+
+msgctxt "title"
+msgid "Video Gaming &amp; Esports"
+msgstr "Videospiele &amp; Esports"
+
+msgctxt "slug"
+msgid "gaming-esports"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Gaming Trends and Video Game Industry Statistics"
+msgstr ""
+
+msgctxt "search_description"
+msgid ""
+"Discover the latest in Gaming trends with YouGov's unrivalled data intelligence on Video Gaming and E-Sports. Understand your audience, track brands and campaigns, and read current articles, reports"
+" and research on the Video Game industry."
+msgstr ""
+
+msgctxt "data_presentation_title"
+msgid "Explore the YouGov platform"
+msgstr "Entdecken Sie die YouGov-Plattform"
+
+msgctxt "data_presentation_description"
+msgid "Unlock powerful insights about your customers’ needs at every stage of your marketing funnel."
+msgstr "Gewinnen Sie in jeder Phase Ihres Marketing-Funnels wichtige Erkenntnisse über die Bedürfnisse Ihrer Kunden."
+
+msgctxt "download_content_label"
+msgid "White paper"
+msgstr "White paper"
+
+msgctxt "download_content_title"
+msgid "Game-changers: the power of gaming influencers"
+msgstr "Game-Changer: Die Macht der Gaming-Influencer"
+
+msgctxt "download_content_description"
+msgid ""
+"What is the short- and long-term impact of COVID-19 on gaming? How will the rise of Esports and gaming content affect the future of the industry? This report explores the expanding influence of "
+"gaming as a force in worldwide entertainment and reveals opportunities for businesses in the sector."
+msgstr ""
+"Welche kurz- und langfristigen Auswirkungen hat COVID-19 auf die Spieleindustrie? Wie wird sich der Aufstieg von Esports und Spielinhalten auf die Zukunft der Branche auswirken? Dieser Bericht "
+"untersucht den wachsenden Einfluss des Glücksspiels als eine treibende Kraft in der weltweiten Unterhaltung und zeigt Möglichkeiten für Unternehmen in diesem Sektor auf."
+
+msgctxt "download_content_cta_text"
+msgid "Download white paper"
+msgstr "Whitepaper herunterladen"
+
+msgctxt "download_content_cta_url"
+msgid "https://business.yougov.com/content/38826-international-gaming-report-2021"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Video Gaming &amp; Esports Intelligence"
+msgstr "Videospiele &amp; Esports Intelligence"
+
+msgctxt "hero_description"
+msgid "Instantly access the latest insights to grow your brand in the rapidly evolving games industry."
+msgstr "Greifen Sie sofort auf die neuesten Erkenntnisse zu, um Ihre Marke in der sich schnell entwickelnden Spieleindustrie zu stärken."
+
+msgctxt "hero_url"
+msgid "?data=audience"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Explore YouGov data"
+msgstr "YouGov-Daten erkunden"
+
+msgctxt "hero_url_2"
+msgid "https://business.yougov.com/product/realtime?marketo=contact"
+msgstr "https://business.yougov.com/de/produkt/realtime?marketo=contact"
+
+msgctxt "hero_url_text_2"
+msgid "Launch a survey"
+msgstr "Starten Sie eine Umfrage"
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr "Lösungen &amp; Produkte"
+
+msgctxt "products_title"
+msgid "How we can help you"
+msgstr "Wie wir Ihnen helfen können"
+
+msgctxt "all_content_list_title"
+msgid "Unrivalled data insights"
+msgstr "Einzigartige Dateneinblicke"
+
+msgctxt "all_content_list_description"
+msgid ""
+"YouGov has over 15 years of living consumer intelligence on the Video Gaming &amp; Esports sector. Lead the way and take your business to the next level by exploring our latest industry insights "
+"below."
+msgstr ""
+"YouGov verfügt über mehr als 15 Jahre fundierter Erkenntnisse über den Videospiele- und Esportsektor. Gehen Sie voran und bringen Sie Ihr Unternehmen auf die nächste Stufe, indem Sie unsere neuesten"
+" Einblicke in die Branche erkunden."
+
+msgctxt "cta_label"
+msgid "NEWSLETTER"
+msgstr "NEWSLETTER"
+
+msgctxt "cta_text"
+msgid "Subscribe to our Video Gaming Newsletter"
+msgstr "Abonnieren Sie unseren Video Gaming Newsletter"
+
+msgctxt "cta_url"
+msgid "?marketo=newsletter"
+msgstr ""

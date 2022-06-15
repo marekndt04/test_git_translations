@@ -1,0 +1,75 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:29.914936+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: bb531681-ed55-4342-b859-b59c475e1e3f\n"
+
+msgctxt "title"
+msgid "COVID-19: a year in review and what’s next"
+msgstr "COVID-19: a year in review and what’s next"
+
+msgctxt "slug"
+msgid "covid-19-a-year-in-review-and-whats-next"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "COVID-19: a year in review and what’s next"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "<b>COVID-19: a year in review and what’s</b> <b>next</b>"
+msgstr "<b>COVID-19: a year in review and what’s</b> <b>next</b>"
+
+msgctxt "hero_description"
+msgid "Exclusive on-demand webinar with Sarah P. Jones from the Institute of Global Health Innovation, Imperial College London, and Marcus Roberts, YouGov's International Projects Director."
+msgstr "Exklusives On-Demand-Webinar mit Sarah P. Jones vom Institute of Global Health Innovation, Imperial College London, und Marcus Roberts, YouGov's International Projects Director."
+
+msgctxt "content_image_label"
+msgid "Report"
+msgstr "Report"
+
+msgctxt "content_image_title"
+msgid "COVID-19 Global Behaviours and Attitudes: The Year in Review"
+msgstr "COVID-19 Global Behaviours and Attitudes: The Year in Review"
+
+msgctxt "content_image_description"
+msgid ""
+"Brought to you by a team of health behaviour and data experts at the Institute of Global Health Innovation (IGHI) at Imperial College London and YouGov, this latest report provides insights and "
+"trends in people’s changing behaviours and attitudes related to COVID-19 across 14 international markets."
+msgstr ""
+"Dieser aktuelle Bericht, der von einem Team aus Experten für Gesundheitsverhalten und Daten am Institute of Global Health Innovation (IGHI) am Imperial College London und YouGov erstellt wurde, "
+"bietet Einblicke und Trends zu den sich ändernden Verhaltensweisen und Einstellungen der Menschen in Bezug auf COVID-19 in 14 internationalen Märkten."
+
+msgctxt "content_image_description"
+msgid "<a id=\"a1\"><b>Download the report here</b></a>"
+msgstr "<a id=\"a1\"><b>Studie hier herunterladen</b></a>"
+
+msgctxt "direct_description"
+msgid "What you’ll hear about:"
+msgstr "Inhalt des Webinars:"
+
+msgctxt "direct_description"
+msgid "How preventative behaviours, life satisfaction, and consumer trust have developed over time"
+msgstr "Wie sich Präventionsverhalten, Lebenszufriedenheit und Verbrauchervertrauen im Laufe der Zeit entwickelt haben"
+
+msgctxt "direct_description"
+msgid "The latest attitudes towards COVID-19 vaccines across the globe"
+msgstr "Die neuesten Einstellungen zu COVID-19-Impfstoffen auf der ganzen Welt"
+
+msgctxt "direct_description"
+msgid "How perception of certain brands and public sentiment towards the pharmaceutical industry shifted during the pandemic"
+msgstr "Wie sich die Wahrnehmung bestimmter Marken und die öffentliche Stimmung gegenüber der Pharmaindustrie während der Pandemie veränderte"
+
+msgctxt "direct_description"
+msgid "Re-adjusting after COVID-19 – what measures will make consumers feel more comfortable as they return to normal life"
+msgstr "Anpassung nach COVID-19 - welche Maßnahmen sorgen dafür, dass sich die Verbraucher bei der Rückkehr ins normale Leben wohler fühlen"
+
+msgctxt "direct_url"
+msgid "https://business.yougov.com/sectors/health-pharma/covid-19-a-year-in-review-and-whats-next?marketo=request"
+msgstr "https://business.yougov.com/sectors/health-pharma/covid-19-a-year-in-review-and-whats-next?marketo=request"
+
+msgctxt "direct_footer"
+msgid "Request the webinar on-demand"
+msgstr "On-Demand Webinar anfragen"

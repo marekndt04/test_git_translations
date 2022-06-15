@@ -1,0 +1,21 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:39.644712+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: ba3cbad6-0e54-4881-8e68-1897c91a4c46\n"
+
+msgctxt "title"
+msgid "Dignity in Dying"
+msgstr ""
+
+msgctxt "description"
+msgid ""
+"The YouGov team was exceptional in helping us gather the voices of people living with terminal and advanced illness in a robust and sensitive way so that our call for a change in the law and culture"
+" around death and dying is truly evidence-based and person-centred."
+msgstr ""
+
+msgctxt "url"
+msgid "https://yougov.co.uk/topics/resources/articles-reports/2019/11/25/gathering-views-people-range-advanced-or-terminal-"
+msgstr ""

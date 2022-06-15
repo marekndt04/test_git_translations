@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:32.005836+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 091122a2-1606-4d7b-a58d-0c42e322493b\n"
+
+msgctxt "title"
+msgid "Egypt Pet Owners"
+msgstr ""
+
+msgctxt "slug"
+msgid "egypt-pet-owners"
+msgstr "aegypten-haustierbesitzer"
+
+msgctxt "hero_title"
+msgid "Egypt Pet Owners"
+msgstr ""

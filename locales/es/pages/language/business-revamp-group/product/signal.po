@@ -1,0 +1,149 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:35.961562+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 4f4f2e99-2282-4fb8-9d0f-35ec007dd44b\n"
+
+msgctxt "title"
+msgid "YouGov Signal"
+msgstr ""
+
+msgctxt "slug"
+msgid "signal"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Signal: Digital Diagnostics And Social Tracking"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Analyze sentiment and online opinion with YouGov Signal, our social listening product. Capture aggregated digital data across social media, search and news platforms."
+msgstr ""
+
+msgctxt "benefits_description"
+msgid "With access to 6 distinct modules, <b>YouGov Signal</b> services clients in all sectors, depending on your needs."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "MODULES"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "6 distinct modules"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "YouGov Signal"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "360˚ view of online sentiment"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Deliver powerful social insights. YouGov Signal searches 46+ digital sources in 40+ markets for consumer reactions, sector insights, brand affinities and everything else you need. Track online "
+"conversation, viewership stats, and every other key metric for thousands of brands, products, movies and TV shows."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore living data"
+msgstr ""
+
+msgctxt "products_description"
+msgid ""
+"Connect data from YouGov Signal to audience insights from <b>YouGov Profiles</b> and brand health data from <b>YouGov BrandIndex</b> for a holistic analysis of your target audience and brand, with "
+"general and sector-specific data gathered daily from YouGov’s panel members worldwide."
+msgstr ""
+
+msgctxt "benefit_items.2e079127-7763-421f-a2d6-ee2ec9e9de03.title"
+msgid "Television"
+msgstr ""
+
+msgctxt "benefit_items.2e079127-7763-421f-a2d6-ee2ec9e9de03.description"
+msgid "Apply 36 different metrics across 40+ geographies to track appetite and impact of airing episodes."
+msgstr ""
+
+msgctxt "benefit_items.f420adfd-8bb3-4589-a5e2-dd77ae9b4acc.title"
+msgid "Talent and People"
+msgstr ""
+
+msgctxt "benefit_items.f420adfd-8bb3-4589-a5e2-dd77ae9b4acc.description"
+msgid "Track interest and sentiment toward individuals and key brand ambassadors."
+msgstr ""
+
+msgctxt "benefit_items.d98778b0-01ab-4abb-9dcc-c26a2802bf2b.title"
+msgid "Movie"
+msgstr ""
+
+msgctxt "benefit_items.d98778b0-01ab-4abb-9dcc-c26a2802bf2b.description"
+msgid "Designed for theatrical marketers and researchers."
+msgstr ""
+
+msgctxt "benefit_items.ed2a7613-3963-4a74-9998-42aeb6ea0a23.title"
+msgid "Brands"
+msgstr ""
+
+msgctxt "benefit_items.ed2a7613-3963-4a74-9998-42aeb6ea0a23.description"
+msgid "Track interest and sentiment surrounding individual products."
+msgstr ""
+
+msgctxt "benefit_items.835d9e17-ad54-4a93-af1e-61b8d7100823.title"
+msgid "Custom reporting"
+msgstr ""
+
+msgctxt "benefit_items.835d9e17-ad54-4a93-af1e-61b8d7100823.description"
+msgid "We do the searching for you. Work with our team of expert data scientists and use custom reporting to meet your particular needs."
+msgstr ""
+
+msgctxt "benefit_items.e5b5f557-9d09-4e07-824f-b4a9bdfad57c.title"
+msgid "API/raw data feed"
+msgstr ""
+
+msgctxt "benefit_items.e5b5f557-9d09-4e07-824f-b4a9bdfad57c.description"
+msgid "Access our data in whatever format or frequency you require for your own in-house processing."
+msgstr ""
+
+msgctxt "content_image_items.507e3ef7-ece5-45dc-b9c7-9010499bfef2.title"
+msgid "Analyze online opinion"
+msgstr ""
+
+msgctxt "content_image_items.507e3ef7-ece5-45dc-b9c7-9010499bfef2.description"
+msgid "Track real-time digital expression of opinions using our state-of-the-art natural language processing with 93% sentiment accuracy."
+msgstr ""
+
+msgctxt "content_image_items.507e3ef7-ece5-45dc-b9c7-9010499bfef2.description"
+msgid ""
+"Monitor social activity and organic online sentiment from your audience, enriching your understanding of what makes them tick. Discover content that correlates with strong social buzz and "
+"engagement, learning what your audience best responds to enable content strategies guaranteed to hit home."
+msgstr ""
+
+msgctxt "content_image_items.c5de1ee7-4466-49bd-8ae3-da582a7ca68a.title"
+msgid "Diagnostic digital analytics"
+msgstr ""
+
+msgctxt "content_image_items.c5de1ee7-4466-49bd-8ae3-da582a7ca68a.description"
+msgid "Access an enormous range of digital and social data, including all social media, search, Wikipedia and news articles."
+msgstr ""
+
+msgctxt "content_image_items.c5de1ee7-4466-49bd-8ae3-da582a7ca68a.description"
+msgid "Use YouGov’s extensive reach to rank, compare, and contrast any brand’s online performance in your sector, on a micro or macro level."
+msgstr ""
+
+msgctxt "content_image_items.c5de1ee7-4466-49bd-8ae3-da582a7ca68a.description"
+msgid "Track content and brand affinities, discovering brands and content that frequently overlap, and which are most discussed by your audiences."
+msgstr ""

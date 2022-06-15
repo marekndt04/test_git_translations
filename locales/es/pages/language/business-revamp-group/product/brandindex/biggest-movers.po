@@ -1,0 +1,49 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:35.602751+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: af01d036-fbc9-4b7d-8756-1372d5707d52\n"
+
+msgctxt "title"
+msgid "Request your Free Biggest Movers Data"
+msgstr ""
+
+msgctxt "slug"
+msgid "biggest-movers"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Request your free biggest movers data"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Check if your brand is a big mover"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/product/brandindex/biggest-movers?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Request your free biggest movers data"
+msgstr ""
+
+msgctxt "content_image_title"
+msgid "What you'll discover:"
+msgstr ""
+
+msgctxt "content_image_description"
+msgid ""
+"<a id=\"a1\">Request your free biggest movers data</a> and, if we’re tracking your brand, we’ll deliver statistically significant positive movement among UK consumers towards your brand across 13 "
+"media, brand health and purchase funnel metrics according to YouGov BrandIndex."
+msgstr ""
+
+msgctxt "content_image_description"
+msgid "<b>We’ll also compare your data to four of your closest competitors between October and November 2021</b>. Simply reference the competitors you wish to be compared against in the message box."
+msgstr ""
+
+msgctxt "content_image_description"
+msgid "<a id=\"a1\"><b>Request your free biggest movers data</b></a>"
+msgstr ""

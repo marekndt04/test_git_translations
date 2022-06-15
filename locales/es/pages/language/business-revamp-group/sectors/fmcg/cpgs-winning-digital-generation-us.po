@@ -1,0 +1,71 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:35.304943+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 981766f2-b3b8-42e6-a6b8-52e8bd257b8b\n"
+
+msgctxt "title"
+msgid "America's Next Top Brands: CPGs Winning The Digital Generations"
+msgstr ""
+
+msgctxt "slug"
+msgid "cpgs-winning-digital-generation-us"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Report: Top CPG Brands for Gen X, Gen Y, and Gen Z"
+msgstr ""
+
+msgctxt "search_description"
+msgid "See the CPG brands resonating most with Gen X, Gen Y, and Gen Z in 2021."
+msgstr ""
+
+msgctxt "hero_title"
+msgid "America's Next Top Brands: CPGs Winning The Digital Generations"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "REPORT"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/sectors/fmcg/cpgs-winning-digital-generation-us?marketo=download"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Download now"
+msgstr ""
+
+msgctxt "video_items.7764d5e3-ee27-4f66-9402-55db5ebadca8"
+msgid "Gen X and Gen Y are quickly catching up to Baby Boomers among consumer segments wielding the most economic power."
+msgstr ""
+
+msgctxt "video_items.7764d5e3-ee27-4f66-9402-55db5ebadca8"
+msgid "Building on its Global Best Brand Rankings 2021, YouGov conducted custom research to identify the brands most resonant with the emergent digital generations in the US."
+msgstr ""
+
+msgctxt "video_items.7764d5e3-ee27-4f66-9402-55db5ebadca8"
+msgid "Understand which brands are winning over Gen X, Gen Y and Gen Z, and learn what you can do to get in on the action. Download the full report to:"
+msgstr ""
+
+msgctxt "video_items.7764d5e3-ee27-4f66-9402-55db5ebadca8"
+msgid "Analyze cross-generational research on the most recommended CPG brands in the US today"
+msgstr ""
+
+msgctxt "video_items.7764d5e3-ee27-4f66-9402-55db5ebadca8"
+msgid "Understand which brands are being recommended by Gen X, Gen Y, and Gen Z, both as a collective and individual cohorts"
+msgstr ""
+
+msgctxt "video_items.7764d5e3-ee27-4f66-9402-55db5ebadca8"
+msgid "Explore the differences and similarities in media consumption and advertising preferences for each generation"
+msgstr ""
+
+msgctxt "video_items.356d633a-0b9a-48c6-acdc-a5fede20454a.main_cta_text"
+msgid "Download now"
+msgstr ""
+
+msgctxt "video_items.356d633a-0b9a-48c6-acdc-a5fede20454a.main_cta_url"
+msgid "?marketo=download"
+msgstr ""

@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:42.866741+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 922c5ac0-23a8-41c8-9940-9bbca6ef41a7\n"
+
+msgctxt "name"
+msgid "Anthony Wells"
+msgstr ""

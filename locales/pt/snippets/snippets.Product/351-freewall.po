@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:43.015370+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: d2077270-59f0-4429-be21-97cb2b40e97e\n"
+
+msgctxt "title"
+msgid "FreeWall"
+msgstr ""
+
+msgctxt "description"
+msgid "Engagement-led digital advertising."
+msgstr ""
+
+msgctxt "url"
+msgid "/product/freewall/"
+msgstr ""

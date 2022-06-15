@@ -1,0 +1,140 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:41.046722+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Denmark National Omnibus"
+msgstr ""
+
+msgctxt "slug"
+msgid "denmark-national-omnibus"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Denmark National Omnibus"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Denmark National Omnibus"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Daily surveys of 1,000+ Danes aged 18+."
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"With no minimum question count, you can field a nationally representative survey fast, affordably, and with full research team support including consultation, questionnaire design, programming, "
+"fieldwork, and results."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "rates_title"
+msgid "National Omnibus rates"
+msgstr ""
+
+msgctxt "benefit_items.d751e395-b36d-4ad1-91fa-c9569e1cab12.title"
+msgid "Representative sample"
+msgstr ""
+
+msgctxt "benefit_items.d751e395-b36d-4ad1-91fa-c9569e1cab12.description"
+msgid "Reach a nationally representative sample of 1,000 to 2,000 Danish adults aged 18+."
+msgstr ""
+
+msgctxt "benefit_items.5c5b1176-e59d-4e8a-b5be-fa928c5e2c62.title"
+msgid "Daily surveys"
+msgstr ""
+
+msgctxt "benefit_items.5c5b1176-e59d-4e8a-b5be-fa928c5e2c62.description"
+msgid "Surveys launch every business day."
+msgstr ""
+
+msgctxt "benefit_items.d6605737-7227-4b2c-842a-5ccdcdfa383b.title"
+msgid "Fast results"
+msgstr ""
+
+msgctxt "benefit_items.d6605737-7227-4b2c-842a-5ccdcdfa383b.description"
+msgid "Results delivered in a week, with full-service support and live reporting."
+msgstr ""
+
+msgctxt "rates_table_rows.bd44435f-b042-4630-ac9b-760277cc5127.column_1"
+msgid "Entry Fee"
+msgstr ""
+
+msgctxt "rates_table_rows.bd44435f-b042-4630-ac9b-760277cc5127.column_2"
+msgid "Book space on the nation’s market-leading omnibus"
+msgstr ""
+
+msgctxt "rates_table_rows.bd44435f-b042-4630-ac9b-760277cc5127.column_3"
+msgid "3500 DKK"
+msgstr ""
+
+msgctxt "rates_table_rows.f30e407d-2a00-491d-97d5-f45ec7fbe587.column_1"
+msgid "Questions"
+msgstr ""
+
+msgctxt "rates_table_rows.f30e407d-2a00-491d-97d5-f45ec7fbe587.column_2"
+msgid "Single or multiple choice (up to 10 answers per question)"
+msgstr ""
+
+msgctxt "rates_table_rows.f30e407d-2a00-491d-97d5-f45ec7fbe587.column_3"
+msgid "2000 DKK"
+msgstr ""
+
+msgctxt "rates_table_rows.d3623f66-411e-4a6b-9e26-652df731e2d6.column_1"
+msgid "Scale Questions"
+msgstr ""
+
+msgctxt "rates_table_rows.d3623f66-411e-4a6b-9e26-652df731e2d6.column_2"
+msgid "Statements answered against a scale (per every 3 statements)"
+msgstr ""
+
+msgctxt "rates_table_rows.d3623f66-411e-4a6b-9e26-652df731e2d6.column_3"
+msgid "2000 DKK"
+msgstr ""
+
+msgctxt "rates_table_rows.e717aa30-7861-445b-97c6-dd5cd4d95979.column_1"
+msgid "Open-ended"
+msgstr ""
+
+msgctxt "rates_table_rows.e717aa30-7861-445b-97c6-dd5cd4d95979.column_2"
+msgid "Full verbatim answers (coding services also available)"
+msgstr ""
+
+msgctxt "rates_table_rows.e717aa30-7861-445b-97c6-dd5cd4d95979.column_3"
+msgid "4000 DKK"
+msgstr ""
+
+msgctxt "rates_table_rows.0cf5ade4-3c7a-4095-a689-abc1faf62eaf.column_1"
+msgid "Images"
+msgstr ""
+
+msgctxt "rates_table_rows.0cf5ade4-3c7a-4095-a689-abc1faf62eaf.column_2"
+msgid "Use images for a more engaging survey (video options available)"
+msgstr ""
+
+msgctxt "rates_table_rows.0cf5ade4-3c7a-4095-a689-abc1faf62eaf.column_3"
+msgid "FREE"
+msgstr ""
+
+msgctxt "rates_table_rows.9ccfde4c-236c-47c6-b12f-567fb5ff7a25.column_1"
+msgid "Deliverables"
+msgstr ""
+
+msgctxt "rates_table_rows.9ccfde4c-236c-47c6-b12f-567fb5ff7a25.column_2"
+msgid "Full Excel(TM) tables, PowerPoint(TM) summary charts, plus live and final results available via our interactive online analytics platform"
+msgstr ""
+
+msgctxt "rates_table_rows.9ccfde4c-236c-47c6-b12f-567fb5ff7a25.column_3"
+msgid "INCLUDED"
+msgstr ""

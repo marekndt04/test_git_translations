@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:29.425166+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 1e68e02a-183e-41f8-abcc-9f79a7640454\n"
+
+msgctxt "title"
+msgid "Denmark OmniTracker"
+msgstr ""
+
+msgctxt "slug"
+msgid "denmark-omnitracker"
+msgstr "daenemark-omnitracker"
+
+msgctxt "hero_title"
+msgid "Denmark OmniTracker"
+msgstr ""

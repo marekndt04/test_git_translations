@@ -1,0 +1,131 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:36.499186+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: c5549d35-f16e-4ef0-9c05-5edfc827907e\n"
+
+msgctxt "title"
+msgid "Recommend+"
+msgstr ""
+
+msgctxt "slug"
+msgid "recommend-plus"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Recommend Plus: NPS Performance Tracking"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Track  customer satisfaction and understand what drives NPS performance with YouGov Recommend Plus. Benchmark your brand and measure key emotion and values-based drivers."
+msgstr ""
+
+msgctxt "benefits_label"
+msgid "BENEFITS"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Depth and breadth of data"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Recommend+"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "How brand attributes and customer experience drive NPS™"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Determine how likely your customers are to recommend your brand. YouGov Recommend+ is a highly cost-effective NPS™ diagnostics approach. Recommendation is a powerful thing. Understand what drives it"
+" by speaking directly to those customers who recommend your brand."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our connected living data solutions"
+msgstr ""
+
+msgctxt "benefit_items.93218243-9e7a-483f-8f7e-96597d1968dc.title"
+msgid "Quality insights"
+msgstr ""
+
+msgctxt "benefit_items.93218243-9e7a-483f-8f7e-96597d1968dc.description"
+msgid "Be confident you have the full picture on what’s driving brand recommendation."
+msgstr ""
+
+msgctxt "benefit_items.f6cdaa57-f750-45df-a211-c1c7c9a55bab.title"
+msgid "Living data"
+msgstr ""
+
+msgctxt "benefit_items.f6cdaa57-f750-45df-a211-c1c7c9a55bab.description"
+msgid "YouGov has been assessing consumer recommendation of brands for 20+ years in 40+ markets, delivering unrivalled insights."
+msgstr ""
+
+msgctxt "benefit_items.ab53f7bf-87bd-46aa-b855-75f7c2093160.title"
+msgid "Sampling methodology"
+msgstr ""
+
+msgctxt "benefit_items.ab53f7bf-87bd-46aa-b855-75f7c2093160.description"
+msgid "Access a representative sample of customers, delivering engaged respondents."
+msgstr ""
+
+msgctxt "content_image_items.cd6689d9-6bd6-43c4-92d6-cdb250e02b49.title"
+msgid "Next-level brand measurement"
+msgstr ""
+
+msgctxt "content_image_items.cd6689d9-6bd6-43c4-92d6-cdb250e02b49.description"
+msgid ""
+"The process is simple. Our daily brand tracking identifies your customers, we then Re-Contact them, asking the usual NPS™ questions and your custom additions. The result? The full picture on the "
+"reasons behind brand recommendation and consumer advocacy."
+msgstr ""
+
+msgctxt "content_image_items.cd6689d9-6bd6-43c4-92d6-cdb250e02b49.description"
+msgid "<b>Measure</b> brand health diagnostics and NPS™"
+msgstr ""
+
+msgctxt "content_image_items.cd6689d9-6bd6-43c4-92d6-cdb250e02b49.description"
+msgid "<b>Understand</b> the emotional and values-based drivers behind your NPS™"
+msgstr ""
+
+msgctxt "content_image_items.cd6689d9-6bd6-43c4-92d6-cdb250e02b49.description"
+msgid "<b>Connect</b> drivers to rich consumer personality data"
+msgstr ""
+
+msgctxt "content_image_items.cd6689d9-6bd6-43c4-92d6-cdb250e02b49.description"
+msgid "<b>Add</b> your own customer experience measurement"
+msgstr ""
+
+msgctxt "content_image_items.cd6689d9-6bd6-43c4-92d6-cdb250e02b49.description"
+msgid "<b>Analyze</b> your data in our powerful data visualization tool"
+msgstr ""
+
+msgctxt "content_image_items.13054747-e67c-4f30-bcba-16729a197b49.title"
+msgid "Join the dots"
+msgstr ""
+
+msgctxt "content_image_items.13054747-e67c-4f30-bcba-16729a197b49.description"
+msgid "Integrate your values-based research with <a id=\"a1\"><b>YouGov BrandIndex</b></a> to unlock brand health metrics on thousands of global brands."
+msgstr ""
+
+msgctxt "content_image_items.13054747-e67c-4f30-bcba-16729a197b49.description"
+msgid "Use <a id=\"a1\"><b>YouGov Profiles</b></a> to deep dive into the personalities, behaviors and needs of specific audiences, helping you to plan effective channel activations."
+msgstr ""
+
+msgctxt "content_image_items.13054747-e67c-4f30-bcba-16729a197b49.description"
+msgid "Understand how your brand performs, benchmark against your competitors and take meaningful action."
+msgstr ""

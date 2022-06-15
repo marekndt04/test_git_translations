@@ -1,0 +1,139 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:42.111968+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: dba13d54-3d8d-4157-8591-ea4e92f02fe2\n"
+
+msgctxt "title"
+msgid "Social Change Monitor"
+msgstr ""
+
+msgctxt "slug"
+msgid "social-change"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Social Change Monitor"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Understand consumer attitudes about social change, perceived economic opportunity, civic participation, changing consumer purchasing behavior with YouGov Social Change Monitor."
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Why YouGov?"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Social Change Monitor"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Understand how social change is affecting your customers"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Easily track consumer attitudes about social change, perceived economic opportunity, civic participation and changing consumer purchasing behavior. Be ready to meet the changing needs and build the "
+"strategy that works."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "/product/social-change/?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our connected living data solutions"
+msgstr ""
+
+msgctxt "benefit_items.8ca33fe4-2238-4bea-b3ed-7cd3b774f373.title"
+msgid "Monitor civic engagement"
+msgstr ""
+
+msgctxt "benefit_items.8ca33fe4-2238-4bea-b3ed-7cd3b774f373.description"
+msgid "Keep tabs on which groups are engaged in civic activities and which issues or values motivate their purchasing behavior."
+msgstr ""
+
+msgctxt "benefit_items.af762e96-ff6a-42e5-b2ce-9c37cbc85cde.title"
+msgid "Connected data"
+msgstr ""
+
+msgctxt "benefit_items.af762e96-ff6a-42e5-b2ce-9c37cbc85cde.description"
+msgid "Connect to YouGov Profiles, our audience intelligence tool, for a comprehensive view of your customers."
+msgstr ""
+
+msgctxt "benefit_items.c667b2cc-5030-44f2-b7eb-ed65cb456d2d.title"
+msgid "Social media perceptions"
+msgstr ""
+
+msgctxt "benefit_items.c667b2cc-5030-44f2-b7eb-ed65cb456d2d.description"
+msgid "Identify platforms that are doing well or poorly in responding to social change through the eyes of consumers."
+msgstr ""
+
+msgctxt "benefit_items.fd14a557-85db-4a84-930a-f3e67d0d5ad8.title"
+msgid "Global online community"
+msgstr ""
+
+msgctxt "benefit_items.fd14a557-85db-4a84-930a-f3e67d0d5ad8.description"
+msgid "YouGov's panel of 17 million+ registered people are incentivized to share their opinions."
+msgstr ""
+
+msgctxt "benefit_items.f2479b9b-0847-4f5d-935e-cb97eb402ab0.title"
+msgid "Advanced analytics"
+msgstr ""
+
+msgctxt "benefit_items.f2479b9b-0847-4f5d-935e-cb97eb402ab0.description"
+msgid "Navigate, analyze, visualize and present your research findings in one simple, intuitive online platform."
+msgstr ""
+
+msgctxt "benefit_items.0b5741f2-3fb7-4f2b-acdc-4a63c95a04c6.title"
+msgid "Living data"
+msgstr ""
+
+msgctxt "benefit_items.0b5741f2-3fb7-4f2b-acdc-4a63c95a04c6.description"
+msgid "We store everything we learn from a continuous conversation with our global online community."
+msgstr ""
+
+msgctxt "content_image_items.cbbfb606-ea3a-4982-99e8-eec9122bfb03.title"
+msgid "Social movements create uncertainty"
+msgstr ""
+
+msgctxt "content_image_items.cbbfb606-ea3a-4982-99e8-eec9122bfb03.description"
+msgid "Should your company take a public stand on a social issue? How will your customers respond to a mission-driven message or campaign? Are your customers motivated by values?"
+msgstr ""
+
+msgctxt "content_image_items.cbbfb606-ea3a-4982-99e8-eec9122bfb03.description"
+msgid ""
+"Answer these questions by combining information about <b>social change</b> with <b>consumer purchasing behaviors</b>. Keep up-to-date with changing trends in activism and civic engagement, respond "
+"to social issues as they arise, and address opportunities to engage with consumers."
+msgstr ""
+
+msgctxt "content_image_items.e89c416b-bf5f-4c5e-8d97-875664fa9441.title"
+msgid "Advantages and benefits"
+msgstr ""
+
+msgctxt "content_image_items.e89c416b-bf5f-4c5e-8d97-875664fa9441.description"
+msgid "<b>Bi-weekly tracking:</b> Take frequent measurements of consumer attitudes and behaviors"
+msgstr ""
+
+msgctxt "content_image_items.e89c416b-bf5f-4c5e-8d97-875664fa9441.description"
+msgid "<b>YouGov panel:</b> Look at inequality beliefs, civic participation, issues-motivated purchasing and more"
+msgstr ""
+
+msgctxt "content_image_items.e89c416b-bf5f-4c5e-8d97-875664fa9441.description"
+msgid "<b>Data analysis:</b> Export charts and data in a range of formats for use in your own reports or further analysis"
+msgstr ""
+
+msgctxt "content_image_items.e89c416b-bf5f-4c5e-8d97-875664fa9441.description"
+msgid "<b>Dashboard view:</b> Fully interactive, customize preset views to display multiple analyses, with bi-weekly updates"
+msgstr ""
+
+msgctxt "content_image_items.e89c416b-bf5f-4c5e-8d97-875664fa9441.description"
+msgid "<b>Custom reports:</b> Our team is available to customize reports to your needs and help inform your strategy"
+msgstr ""

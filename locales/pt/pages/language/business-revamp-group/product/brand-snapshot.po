@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:41.992373+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 0ede5d4b-ee1e-4a11-82c1-4baa6022cf46\n"
+
+msgctxt "title"
+msgid "Brand Snapshot"
+msgstr ""
+
+msgctxt "slug"
+msgid "brand-snapshot"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Evaluate brand ranking and health data"
+msgstr ""

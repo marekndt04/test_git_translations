@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:40.626663+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 8f221045-a475-40db-a5f6-8f89a3d51e1d\n"
+
+msgctxt "title"
+msgid "Automotive"
+msgstr ""
+
+msgctxt "description"
+msgid "Definitive consumer data on the Auto industry."
+msgstr ""
+
+msgctxt "url"
+msgid "/sectors/automotive/"
+msgstr ""

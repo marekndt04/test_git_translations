@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:38.284028+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 73b14575-36f0-401e-9c4c-864a139f5a0e\n"
+
+msgctxt "name"
+msgid "Oliver Rowe"
+msgstr ""

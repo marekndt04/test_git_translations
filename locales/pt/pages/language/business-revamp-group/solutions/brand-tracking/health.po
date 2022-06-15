@@ -1,0 +1,90 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:38.918239+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 8baf4ea6-0704-4d81-99a7-66252c0d4358\n"
+
+msgctxt "title"
+msgid "Brand Health &amp; Tracking"
+msgstr ""
+
+msgctxt "slug"
+msgid "health"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Brand Health Insights and Brand Lift Studies"
+msgstr ""
+
+msgctxt "search_description"
+msgid ""
+"Track your brand health and that of your competitors daily, with YouGov's solutions. Continuously monitor 16 brand metrics or build bespoke custom trackers and re-contact target groups for deeper "
+"insight and brand lift studies."
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Brand health and tracking"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Measure brand performance, daily."
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Help your brand grow, with instant access to historical and up-to-the-minute insights, built on 15+ years of living data."
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"Our flagship <a id=\"a1\"><b>brand intelligence platform</b></a> is the definitive measure of brand perception. Access daily brand health tracking data to benchmark against competitors and react "
+"quickly to short-term changes."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr ""
+
+msgctxt "products_title"
+msgid "Explore our brand tracking solutions"
+msgstr ""
+
+msgctxt "content_image_items.44b4bf48-860c-436e-b075-d2704a07d9af.title"
+msgid "Get brand tracking in unrivalled detail"
+msgstr ""
+
+msgctxt "content_image_items.44b4bf48-860c-436e-b075-d2704a07d9af.description"
+msgid "Understand what the world thinks of your brand – and your competitors’ – at any given moment, with 16 key brand health metrics in <a id=\"a1\"><b>YouGov BrandIndex.</b></a>"
+msgstr ""
+
+msgctxt "content_image_items.44b4bf48-860c-436e-b075-d2704a07d9af.description"
+msgid "Track shifts in perception, monitor brand health across multiple markets, and analyse and benchmark success against goals, competition in your sector, and the entire market."
+msgstr ""
+
+msgctxt "content_image_items.44b4bf48-860c-436e-b075-d2704a07d9af.description"
+msgid "Data is updated daily, with 15 years of historical data to identify long and short-term trends."
+msgstr ""
+
+msgctxt "content_image_items.2792b1cc-3b42-4e1c-aaf6-26ef1e86dd25.title"
+msgid "Strategize growth with our reinvented trackers"
+msgstr ""
+
+msgctxt "content_image_items.2792b1cc-3b42-4e1c-aaf6-26ef1e86dd25.description"
+msgid ""
+"Forget infrequent reporting and long, costly interviews. Get instant access to our ever-growing depth of living data with <a id=\"a1\"><b>YouGov Custom Trackers</b></a>. Track thousands of data "
+"points around your brand and see the freshest results in real-time. No more guessing at the thinking behind responses – add on “why” questions for key respondents to interpret your data with "
+"additional, accurate context."
+msgstr ""
+
+msgctxt "content_image_items.2792b1cc-3b42-4e1c-aaf6-26ef1e86dd25.description"
+msgid "Or use <a id=\"a1\"><b>YouGov Re-Contact</b></a> to commission tailored research to your tracked audience, with services such as bespoke sampling and custom questionnaires."
+msgstr ""

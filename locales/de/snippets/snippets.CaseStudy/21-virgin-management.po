@@ -1,0 +1,20 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:30.634318+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: f688ffa2-77d3-4cb0-9e41-a45e43088b6c\n"
+
+msgctxt "title"
+msgid "Virgin Management"
+msgstr ""
+
+msgctxt "description"
+msgid ""
+"Virgin Management and Big Change used the YouGov Children’s and Parents’ Omnibus services to understand opinions of secondary school children and their parents on the current state of education."
+msgstr ""
+
+msgctxt "url"
+msgid "https://yougov.co.uk/topics/resources/articles-reports/2019/07/01/gauging-opinion-uks-current-educational-system"
+msgstr ""

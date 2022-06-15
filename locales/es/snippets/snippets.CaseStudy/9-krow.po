@@ -1,0 +1,21 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:33.808807+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 4f2084c9-c5db-43a7-99d1-8cd2e7d396a8\n"
+
+msgctxt "title"
+msgid "Krow"
+msgstr ""
+
+msgctxt "description"
+msgid ""
+"Research is a really important part of how we go about pitching for new business. It gives us a real advantage, you can see in the room, when we reveal we’ve done our own research, the mood changes."
+" We call it our secret weapon."
+msgstr ""
+
+msgctxt "url"
+msgid "https://yougov.co.uk/topics/resources/articles-reports/2018/08/01/yougov-krow-advocacy"
+msgstr ""

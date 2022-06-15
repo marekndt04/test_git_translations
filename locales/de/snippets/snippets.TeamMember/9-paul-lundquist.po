@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:28.585988+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 08323507-34d8-4403-a526-085f13af25f9\n"
+
+msgctxt "name"
+msgid "Paul Lundquist"
+msgstr ""

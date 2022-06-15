@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:36.934707+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 577ac435-ca86-456a-a652-f985388eedae\n"
+
+msgctxt "title"
+msgid "Custom Research"
+msgstr ""
+
+msgctxt "description"
+msgid "Commission 100% custom consumer, market, and competitor research."
+msgstr ""
+
+msgctxt "url"
+msgid "/product/custom-research/"
+msgstr ""

@@ -1,0 +1,93 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:36.509947+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 1fd5e72d-07a3-4b71-999e-ec4dcedd3a10\n"
+
+msgctxt "title"
+msgid "Recommend Rankings"
+msgstr ""
+
+msgctxt "slug"
+msgid "recommend-rankings-2021"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Recommend Rankings 2021"
+msgstr ""
+
+msgctxt "search_description"
+msgid "The rankings are based on YouGov BrandIndex’s positive Recommend score, which measures the percentage of a brand’s customers who would recommend it to a friend or colleague."
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Recommend Rankings 2021"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"The rankings are based on <a id=\"a1\"><b>YouGov</b> <b>BrandIndex</b></a><b>'</b>s positive Recommend score, which measures the percentage of a brand’s customers who would recommend it to a friend "
+"or colleague. The rankings data can be further developed with <a id=\"a2\"><b>YouGov</b> <b>Recommend+</b></a><b>,</b> a fresh approach to understanding consumer advocacy."
+msgstr ""
+
+msgctxt "hero_description"
+msgid "To see your brand’s <b>Recommend</b> ranking please get in touch with one of our experts."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Access your brand data"
+msgstr ""
+
+msgctxt "hero_url_2"
+msgid "https://business.yougov.com/product/recommend-plus/recommend-rankings-2021?marketo=download"
+msgstr ""
+
+msgctxt "hero_url_text_2"
+msgid "Download the annual rankings"
+msgstr ""
+
+msgctxt "content_image_items.5c3f20b0-181a-4d3c-8640-0ccabc5c4b58.label"
+msgid "Recommend Rankings 2021"
+msgstr ""
+
+msgctxt "content_image_items.5c3f20b0-181a-4d3c-8640-0ccabc5c4b58.title"
+msgid "Methodology"
+msgstr ""
+
+msgctxt "content_image_items.5c3f20b0-181a-4d3c-8640-0ccabc5c4b58.description"
+msgid ""
+"The YouGov Recommend Rankings 2021 are calculated using data we collect from members of the public in markets around the globe every day, from our flagship <a id=\"a1\"><b>YouGov</b> "
+"<b>BrandIndex</b></a> tool."
+msgstr ""
+
+msgctxt "content_image_items.5c3f20b0-181a-4d3c-8640-0ccabc5c4b58.description"
+msgid ""
+"Every brand’s performance is tracked daily against a range of metrics, and our Recommend ranking measures the percentage of a brand’s customers who would recommend it to a friend or colleague. The "
+"rankings data can be further developed with <a id=\"a1\"><b>YouGov</b> <b>Recommend+</b></a> a fresh approach to understanding consumer advocacy."
+msgstr ""
+
+msgctxt "content_image_items.63df1c96-d108-4d81-8534-a4b1788feff2.title"
+msgid "Living Consumer Intelligence"
+msgstr ""
+
+msgctxt "content_image_items.63df1c96-d108-4d81-8534-a4b1788feff2.description"
+msgid ""
+"YouGov Recommend+ is a highly cost-effective NPS® diagnostics approach that gives marketers the full picture on what drives existing and potential promoters by speaking directly to those customers "
+"who recommend your brand."
+msgstr ""
+
+msgctxt "content_image_items.63df1c96-d108-4d81-8534-a4b1788feff2.description"
+msgid ""
+"YouGov BrandIndex draws data from interviews with our 15 million registered panel members across 40 sectors and more than 55 countries globally. This year’s ranking includes consumer views from "
+"across 33 markets, including USA, China, Germany, India and the UK, and many more."
+msgstr ""
+
+msgctxt "content_image_items.63df1c96-d108-4d81-8534-a4b1788feff2.description"
+msgid "Want to see how other markets compare? Our annual rankings highlights the top 10 recommended brands across 33 markets and top 10 most improved brands across 29 markets."
+msgstr ""

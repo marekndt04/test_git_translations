@@ -1,0 +1,49 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:40.261952+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: eb2073d9-98e8-41e3-8171-e5df12bd26f2\n"
+
+msgctxt "title"
+msgid "YouGov Framework: Mobile Phone Network Switchers"
+msgstr ""
+
+msgctxt "slug"
+msgid "mobile-phone-network-switchers-framework"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Framework: Mobile Phone Network Switchers"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "YouGov Framework: Mobile Phone Network Switchers"
+msgstr ""
+
+msgctxt "hero_description"
+msgid ""
+"While customer churn represents one of the biggest challenges for mobile network operators, it’s also a perpetual opportunity for competitors who play the game well to grab a larger slice of the "
+"pie. ​"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "In our latest framework, we dissect the group of customers who plan to switch their network provider in the next 12 months – looking specifically at: ​"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Switchers who are loyal to a particular handset brand ​"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Switchers who are not faithful to any particular manufacturer"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=download"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Download full framework"
+msgstr ""

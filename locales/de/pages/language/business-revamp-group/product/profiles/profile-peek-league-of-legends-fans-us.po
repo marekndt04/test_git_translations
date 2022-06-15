@@ -1,0 +1,69 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:28.925379+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 0d18efcf-c630-40c7-a2ca-1fee99cf3e6e\n"
+
+msgctxt "title"
+msgid "Profile Peek: League of Legends Esport Fans in America"
+msgstr ""
+
+msgctxt "slug"
+msgid "profile-peek-league-of-legends-fans-us"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Profile Peek: League of Legends Esport Fans in America"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "League of Legends Esport Fans in America"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Profile Peek"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/product/profiles/profile-peek-league-of-legends-fans-us?marketo=download"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Download the full Profile Peek"
+msgstr ""
+
+msgctxt "video_items.70ef0a9f-1a79-45cc-b06e-a8022d5e144b"
+msgid "<b>We profiled</b> <b><i>League of Legends</i></b><b> Esport Fans in the US.</b> Download YouGov's latest Esports &amp; Gaming Profile Peek and discover:"
+msgstr ""
+
+msgctxt "video_items.70ef0a9f-1a79-45cc-b06e-a8022d5e144b"
+msgid "Their gaming identities &amp; atititudes"
+msgstr ""
+
+msgctxt "video_items.70ef0a9f-1a79-45cc-b06e-a8022d5e144b"
+msgid "Which other esports they follow"
+msgstr ""
+
+msgctxt "video_items.70ef0a9f-1a79-45cc-b06e-a8022d5e144b"
+msgid "How receptive they are to sponsors and advertising"
+msgstr ""
+
+msgctxt "video_items.70ef0a9f-1a79-45cc-b06e-a8022d5e144b"
+msgid "How much they influence their peer groups"
+msgstr ""
+
+msgctxt "video_items.70ef0a9f-1a79-45cc-b06e-a8022d5e144b"
+msgid "<a id=\"a1\"><b>Download the full Profile Peek now</b></a>"
+msgstr ""
+
+msgctxt "video_items.70ef0a9f-1a79-45cc-b06e-a8022d5e144b"
+msgid "About Profile Peeks"
+msgstr ""
+
+msgctxt "video_items.70ef0a9f-1a79-45cc-b06e-a8022d5e144b"
+msgid ""
+"Drawing on data from across YouGov’s vast connected ecosystem, Profile Peeks are infographics that deep dive into a niche audience group segmented based on trending sector topics. Showcasing a range"
+" of behavioral and attitudinal insights they are designed to help brands and agencies get that little bit closer to the consumers they need to understand most."
+msgstr ""

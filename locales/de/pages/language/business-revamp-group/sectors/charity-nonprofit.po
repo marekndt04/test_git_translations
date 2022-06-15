@@ -1,0 +1,89 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:32.641812+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: d0b2580a-5cca-4104-b059-3c171535177f\n"
+
+msgctxt "title"
+msgid "Charities &amp; Non-Profit"
+msgstr "Charities &amp; Non-Profit"
+
+msgctxt "slug"
+msgid "charity-nonprofit"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Charity Research and Social Attitudes Surveys"
+msgstr ""
+
+msgctxt "search_description"
+msgid ""
+"Understand the latest in public opinion and get definitive consumer insights within the Charity and Non-profit sectors. See current audience intelligence and brand tracking, and read industry-"
+"specific charity research, and social attitude surveys."
+msgstr ""
+
+msgctxt "data_presentation_title"
+msgid "Explore the YouGov platform"
+msgstr "Entdecken Sie die YouGov-Plattform"
+
+msgctxt "data_presentation_description"
+msgid "Unlock powerful insights about your customers’ needs at every stage of your marketing funnel."
+msgstr "Gewinnen Sie in jeder Phase Ihres Marketing-Funnels wichtige Erkenntnisse über die Bedürfnisse Ihrer Kunden."
+
+msgctxt "hero_title"
+msgid "Charities &amp; Non-Profit Intelligence"
+msgstr "Charities &amp; Non-Profit Intelligence"
+
+msgctxt "hero_description"
+msgid "Discover public perception of charities and not-for-profit organisations so you can make faster, more informed decisions."
+msgstr "Entdecken Sie die öffentliche Wahrnehmung von Wohltätigkeitsorganisationen und gemeinnützigen Einrichtungen, damit Sie schnellere und fundiertere Entscheidungen treffen können."
+
+msgctxt "hero_url"
+msgid "?data=audience"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Explore YouGov data"
+msgstr "YouGov-Daten erkunden"
+
+msgctxt "hero_url_2"
+msgid "https://business.yougov.com/product/realtime?marketo=contact"
+msgstr "https://business.yougov.com/de/produkt/realtime?marketo=contact"
+
+msgctxt "hero_url_text_2"
+msgid "Launch a survey"
+msgstr "Starten Sie eine Umfrage"
+
+msgctxt "products_label"
+msgid "Solutions &amp; Products"
+msgstr "Lösungen &amp; Produkte"
+
+msgctxt "products_title"
+msgid "How we can help you"
+msgstr "Wie wir Ihnen helfen können"
+
+msgctxt "all_content_list_title"
+msgid "Unrivalled data insights"
+msgstr "Einzigartige Dateneinblicke"
+
+msgctxt "all_content_list_description"
+msgid ""
+"YouGov has over 15 years of living data on Charities &amp; Non-Profit organizations. Take your growth strategy to the next level, understanding how your charity can evolve and succeed, by exploring "
+"the latest industry insights below."
+msgstr ""
+"YouGov verfügt über mehr als 15 Jahre fundierter Daten über Wohltätigkeitsorganisationen &amp; Non-Profit-Organisationen. Bringen Sie Ihre Wachstumsstrategie auf die nächste Stufe und verstehen Sie,"
+" wie sich Ihre Wohltätigkeitsorganisation weiterentwickeln und erfolgreich sein kann, indem Sie die neuesten Einblicke in die Branche erkunden."
+
+msgctxt "cta_label"
+msgid "NEWSLETTER"
+msgstr "NEWSLETTER"
+
+msgctxt "cta_text"
+msgid "Subscribe to our Charities &amp; Non-Profit Newsletter"
+msgstr "Abonnieren Sie unseren Charities &amp; Non-Profit Newsletter"
+
+msgctxt "cta_url"
+msgid "?marketo=newsletter"
+msgstr ""

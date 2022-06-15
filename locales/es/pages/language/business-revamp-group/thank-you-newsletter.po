@@ -1,0 +1,31 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:33.919770+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 0ca94ba6-d46c-4d83-8c7a-94f82ee927a9\n"
+
+msgctxt "title"
+msgid "Thank you - Newsletter"
+msgstr ""
+
+msgctxt "slug"
+msgid "thank-you-newsletter"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov | Newsletter Confirmation Thank You"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Thanks to YouGov newsletter you get the latest research about your target group directly on your email."
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Thank you"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Thanks for signing up to our newsletter. We'll be in touch with the latest insights soon."
+msgstr ""

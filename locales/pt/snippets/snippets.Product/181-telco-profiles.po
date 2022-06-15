@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:40.763485+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: c9386264-a678-4f93-9cfd-40ea8a8daedd\n"
+
+msgctxt "title"
+msgid "Telco Profiles"
+msgstr ""
+
+msgctxt "description"
+msgid "Optimize your  strategy with tailored telco intelligence."
+msgstr ""
+
+msgctxt "url"
+msgid "/product/telco-profiles/"
+msgstr ""

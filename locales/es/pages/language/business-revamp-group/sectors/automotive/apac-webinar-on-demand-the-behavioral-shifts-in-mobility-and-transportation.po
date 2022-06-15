@@ -1,0 +1,39 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:36.187932+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 82867ce2-adec-4940-bcd5-366cbb502364\n"
+
+msgctxt "title"
+msgid "APAC On-demand Webinar the behavioural shifts in mobility and transportation"
+msgstr ""
+
+msgctxt "slug"
+msgid "apac-webinar-on-demand-the-behavioral-shifts-in-mobility-and-transportation"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Webinar: Consumer-behavior shifts: What is driving decisions on mobility and transportation?"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "&lt;p data-block-key=\"xq2qo\"&gt;Consumer-behavior shifts: What is driving decisions on mobility and transportation?&lt;/p&gt;"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Webinar on-demand"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "How consumers have altered their behaviors"
+msgstr ""
+
+msgctxt "video_items.422dbbc1-27c2-488d-ab2b-afc35b8760f3"
+msgid "Watch the webinar recording now:"
+msgstr ""
+
+msgctxt "video_items.68b403d4-13e2-4640-bff8-75aa5e717d25.video_id"
+msgid "nmdhG4DnhHk"
+msgstr ""

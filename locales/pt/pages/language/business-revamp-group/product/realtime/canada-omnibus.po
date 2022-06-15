@@ -1,0 +1,135 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:41.208114+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: c56e9e4b-12a5-470c-ba95-1749dd0908f9\n"
+
+msgctxt "title"
+msgid "Canada Omnibus"
+msgstr ""
+
+msgctxt "slug"
+msgid "canada-omnibus"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Canada Omnibus"
+msgstr ""
+
+msgctxt "benefits_title"
+msgid "Why YouGov?"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Canada Omnibus"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Get accurate, fast, and insightful results from residents in Canada."
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Cost-effectively reach Canadian adults, quickly measure campaign effectiveness and accurately gauge time-sensitive public opinion on breaking news stories."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "rates_title"
+msgid "Canada Omnibus rates"
+msgstr ""
+
+msgctxt "rates_description"
+msgid "Including survey design, full-service support, and full results analysis."
+msgstr ""
+
+msgctxt "benefit_items.8aed71eb-e284-49c9-8371-d8b5ffb25a1a.title"
+msgid "Representative sample"
+msgstr ""
+
+msgctxt "benefit_items.8aed71eb-e284-49c9-8371-d8b5ffb25a1a.description"
+msgid "Target a representative sample of adults 18+ from Canada."
+msgstr ""
+
+msgctxt "benefit_items.cde11322-03f9-4feb-a336-376107cd4a19.title"
+msgid "Frequent surveys"
+msgstr ""
+
+msgctxt "benefit_items.cde11322-03f9-4feb-a336-376107cd4a19.description"
+msgid "Launch surveys on any business day."
+msgstr ""
+
+msgctxt "benefit_items.9754cd4d-5625-4dd3-a821-049dfd93c31d.title"
+msgid "Fast results"
+msgstr ""
+
+msgctxt "benefit_items.9754cd4d-5625-4dd3-a821-049dfd93c31d.description"
+msgid "Receive results within five to seven business days."
+msgstr ""
+
+msgctxt "rates_table_header.de7dace2-a8f1-415d-b369-8b3e8ba0cdbd.column_1"
+msgid "Respondents"
+msgstr ""
+
+msgctxt "rates_table_header.de7dace2-a8f1-415d-b369-8b3e8ba0cdbd.column_2"
+msgid "Entry"
+msgstr ""
+
+msgctxt "rates_table_header.de7dace2-a8f1-415d-b369-8b3e8ba0cdbd.column_3"
+msgid "Standard question"
+msgstr ""
+
+msgctxt "rates_table_header.de7dace2-a8f1-415d-b369-8b3e8ba0cdbd.column_4"
+msgid "Days in Field"
+msgstr ""
+
+msgctxt "rates_table_header.de7dace2-a8f1-415d-b369-8b3e8ba0cdbd.column_5"
+msgid "Results"
+msgstr ""
+
+msgctxt "rates_table_rows.7278c3a7-b806-45c2-a296-f545c4e73c13.column_1"
+msgid "2,000"
+msgstr ""
+
+msgctxt "rates_table_rows.7278c3a7-b806-45c2-a296-f545c4e73c13.column_2"
+msgid "$300"
+msgstr ""
+
+msgctxt "rates_table_rows.7278c3a7-b806-45c2-a296-f545c4e73c13.column_3"
+msgid "$875 per question unit"
+msgstr ""
+
+msgctxt "rates_table_rows.7278c3a7-b806-45c2-a296-f545c4e73c13.column_4"
+msgid "9"
+msgstr ""
+
+msgctxt "rates_table_rows.7278c3a7-b806-45c2-a296-f545c4e73c13.column_5"
+msgid "2 additional business days for translation into Canadian French (costs cover translation)"
+msgstr ""
+
+msgctxt "rates_table_rows.70f5fd4b-e10d-459a-a657-2a0f97adfd64.column_1"
+msgid "1,000"
+msgstr ""
+
+msgctxt "rates_table_rows.70f5fd4b-e10d-459a-a657-2a0f97adfd64.column_2"
+msgid "$300"
+msgstr ""
+
+msgctxt "rates_table_rows.70f5fd4b-e10d-459a-a657-2a0f97adfd64.column_3"
+msgid "$550 per question unit"
+msgstr ""
+
+msgctxt "rates_table_rows.70f5fd4b-e10d-459a-a657-2a0f97adfd64.column_4"
+msgid "6"
+msgstr ""
+
+msgctxt "rates_table_rows.70f5fd4b-e10d-459a-a657-2a0f97adfd64.column_5"
+msgid "2 additional business days for translation into Canadian French (costs cover translation)"
+msgstr ""

@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:32.394563+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: e905df52-0cc6-452e-9aa5-c65c18aa1a9d\n"
+
+msgctxt "title"
+msgid "France CityBus"
+msgstr ""
+
+msgctxt "slug"
+msgid "france-citybus"
+msgstr "frankreich-citybus"
+
+msgctxt "hero_title"
+msgid "France CityBus"
+msgstr ""

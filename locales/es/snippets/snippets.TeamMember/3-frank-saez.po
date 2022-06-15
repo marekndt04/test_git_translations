@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:37.086655+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: b2959b50-e1f3-42f9-8ce2-ae4a6f2beff1\n"
+
+msgctxt "name"
+msgid "Frank Saez"
+msgstr ""

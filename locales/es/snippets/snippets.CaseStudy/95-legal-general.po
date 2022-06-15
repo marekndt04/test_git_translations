@@ -1,0 +1,24 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:35.316359+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: dfac6bbe-e000-4d05-b351-8e5e76b6718b\n"
+
+msgctxt "title"
+msgid "Legal &amp; General"
+msgstr ""
+
+msgctxt "description"
+msgid ""
+"“We really value YouGov Direct’s international reach. The team helped us to fully utilise the online analytics platform and enrich survey responses with extensive respondent data held by the tool.”"
+msgstr ""
+
+msgctxt "url"
+msgid "https://business.yougov.com/content/40036-direct-legal-general-case-study"
+msgstr ""
+
+msgctxt "quote_author"
+msgid "<b>Edyta Borowy,</b> <b>Group Brand Insight Manager at Legal &amp; General  </b>"
+msgstr ""

@@ -1,0 +1,79 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:35.789139+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: de47f646-4c07-4e95-9f5a-e24e9199d408\n"
+
+msgctxt "title"
+msgid "Accenture Webinar Exclusive: YouGov Innovation"
+msgstr ""
+
+msgctxt "slug"
+msgid "yougov-webinar-accenture-innovation-market-research"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "YouGov Accenture Webinar"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Accenture Webinar Exclusive: YouGov Innovation"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "19 January 2022, 3pm"
+msgstr ""
+
+msgctxt "hero_description"
+msgid "Join our webinar to learn more about YouGov’s latest innovations in data, technology, and market research."
+msgstr ""
+
+msgctxt "hero_url"
+msgid "?marketo=request"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Watch webinar"
+msgstr ""
+
+msgctxt "video_items.133ec592-ad72-4954-96e1-7d1934e95f7c"
+msgid ""
+"As the pioneer of online market research, YouGov has been at the forefront of data innovation since its founding in 2000. In 2022, we’re excited to invite Accenture to an exclusive webinar to "
+"showcase four of YouGov’s most game-changing innovations."
+msgstr ""
+
+msgctxt "video_items.133ec592-ad72-4954-96e1-7d1934e95f7c"
+msgid ""
+"From trialling new, more accurate ways of collecting verified data, to applying new models to better understand audiences and micro-target campaigns, we’ll demonstrate the impact of our improved "
+"data accuracy, speed and depth."
+msgstr ""
+
+msgctxt "video_items.133ec592-ad72-4954-96e1-7d1934e95f7c"
+msgid "You’ll discover:"
+msgstr ""
+
+msgctxt "video_items.133ec592-ad72-4954-96e1-7d1934e95f7c"
+msgid "How YouGov collects 100% verified banking transaction data"
+msgstr ""
+
+msgctxt "video_items.133ec592-ad72-4954-96e1-7d1934e95f7c"
+msgid "How YouGov’s pioneering MRP model predicts elections and creates granular motivational consumer understanding for the world’s biggest brands"
+msgstr ""
+
+msgctxt "video_items.133ec592-ad72-4954-96e1-7d1934e95f7c"
+msgid "How Implicit Response Testing adds value to brand research"
+msgstr ""
+
+msgctxt "video_items.133ec592-ad72-4954-96e1-7d1934e95f7c"
+msgid "How YouGov’s panel and technology delivers always-on tracking, measuring continuous public sentiment with unrivalled granularity"
+msgstr ""
+
+msgctxt "video_items.0c03d5d6-0223-4b97-8d46-cffd4b125c05"
+msgid "Watch now:"
+msgstr ""
+
+msgctxt "video_items.4ab091ac-3ce7-4edd-89f3-fd05a2c29a89.video_id"
+msgid "GHauGGTS0FI"
+msgstr ""

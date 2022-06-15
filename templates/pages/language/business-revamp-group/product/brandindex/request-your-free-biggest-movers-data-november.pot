@@ -1,0 +1,60 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:40.962035+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Request your Free Biggest Movers Data - November"
+msgstr ""
+
+msgctxt "slug"
+msgid "request-your-free-biggest-movers-data-november"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Request your biggest movers data"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Consumers are reacting positively to your brand"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/product/brandindex/request-your-free-biggest-movers-data-november?marketo=contact"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Request your free biggest movers data"
+msgstr ""
+
+msgctxt "video_items.6607bc00-b990-45a3-b2db-3891ce3d1746"
+msgid ""
+"For over a decade YouGov BrandIndex has been tracking daily consumer perception of thousands of brands and their campaigns worldwide, with critical insight on a brand’s performance against its "
+"competitors."
+msgstr ""
+
+msgctxt "video_items.6607bc00-b990-45a3-b2db-3891ce3d1746"
+msgid ""
+"Between September and October 2021 there has been a <b>significant increase in positive consumer perception of your brand.</b> <a id=\"a1\">Tell us four of your closest competitors and we will get "
+"in touch to show you how you compare.</a>"
+msgstr ""
+
+msgctxt "video_items.6607bc00-b990-45a3-b2db-3891ce3d1746"
+msgid "<b>Check out the top 10 brands winning with UK consumers in our Biggest Movers Video</b> <a id=\"a1\"><b>here</b></a>."
+msgstr ""
+
+msgctxt "video_items.b5fcb591-f242-4d18-ad11-37c49f6e4fb2"
+msgid "What you'll discover"
+msgstr ""
+
+msgctxt "video_items.50dfc677-108f-4e4b-b40a-da8107252c47"
+msgid ""
+"You’ll find out across which media, brand health and purchase funnel metrics your brand has had a statistically significant positive movement in perception among UK consumers between September and "
+"October 2021, according to YouGov BrandIndex."
+msgstr ""
+
+msgctxt "video_items.50dfc677-108f-4e4b-b40a-da8107252c47"
+msgid "<b>We’ll also compare your movement to four of your closest competitors.</b> Simply reference the competitors you wish your brand to be compared against in the message box."
+msgstr ""

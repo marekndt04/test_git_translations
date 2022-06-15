@@ -1,0 +1,62 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-15 14:51:36.680352+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: fc374ea4-78d3-4007-a4a6-60ee230372b2\n"
+
+msgctxt "title"
+msgid "Profile Peeks: Sustainable Shoppers in Singapore"
+msgstr ""
+
+msgctxt "slug"
+msgid "profile-peeks-sustainable-shoppers-singapore"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Profile Peeks: Sustainable Shoppers in Singapore"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Sustainable Shoppers in Singapore"
+msgstr ""
+
+msgctxt "hero_label"
+msgid "Profile Peeks"
+msgstr ""
+
+msgctxt "hero_url"
+msgid "https://business.yougov.com/product/profiles/profile-peeks-sustainable-shoppers-singapore?marketo=download"
+msgstr ""
+
+msgctxt "hero_url_text"
+msgid "Download the full Profile Peeks"
+msgstr ""
+
+msgctxt "video_items.5f2702ba-61d5-4f1a-b8ae-da2a8dc5d63f"
+msgid ""
+"The December Holiday Season is around the corner! Many consumers are excited about it and have kicked off the holiday season by preparing their beloved one a holiday gift. But since global warming "
+"has been a hot topic internationally, more consumers start to think about sustainability when they do holiday spending. In Singapore, one in five (20%) prefer sustainable brands AND buy clothes only"
+" from these brands. How can Singaporean retailers react and target this group of consumers during the holiday season?"
+msgstr ""
+
+msgctxt "video_items.5f2702ba-61d5-4f1a-b8ae-da2a8dc5d63f"
+msgid ""
+"YouGov's latest Profile Peeks delves into the profile of sustainable shoppers in Singapore. Our data shows that 73% do not mind paying extra for good quality products. Check out our Profile Peeks to"
+" learn about their demographic, attitudes towards various topics, advertising channels that grab their attention and more."
+msgstr ""
+
+msgctxt "video_items.5f2702ba-61d5-4f1a-b8ae-da2a8dc5d63f"
+msgid "<a id=\"a1\">Download the full Profile Peeks now</a>"
+msgstr ""
+
+msgctxt "video_items.5f2702ba-61d5-4f1a-b8ae-da2a8dc5d63f"
+msgid "About Profile Peeks"
+msgstr ""
+
+msgctxt "video_items.5f2702ba-61d5-4f1a-b8ae-da2a8dc5d63f"
+msgid ""
+"Drawing on data from across YouGov’s vast connected ecosystem, Profile Peeks are infographics that deep dive into a niche audience group segmented based on trending sector topics. Showcasing a range"
+" of behavioural and attitudinal insights they are designed to help brands and agencies get that little bit closer to the consumers they need to understand most."
+msgstr ""
